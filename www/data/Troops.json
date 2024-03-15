@@ -48,7 +48,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "クルは剣技スキルにより、自身の攻撃力や防御力などを強化する事ができます。"
+                            "Kru can enhance his own attack and defense power with sword skill\ntechniques."
                         ]
                     },
                     {
@@ -65,7 +65,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ＴＰが貯まると強力な必殺技が使えます。"
+                            "When TP accumulates, you can use powerful special moves."
                         ]
                     },
                     {
@@ -82,7 +82,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "敵から拾ったり、宝箱から手に入れるアイテムには有用な物がたくさんあります。"
+                            "There are many useful items to be found from enemies or obtained from\ntreasure chests."
                         ]
                     },
                     {
@@ -99,7 +99,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "積極的に使用して、戦闘を有利にしましょう。"
+                            "Make active use of them to gain an advantage in battle."
                         ]
                     },
                     {
@@ -140,14 +140,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "クル"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「くっ…中々強いな…」"
+                            "Kru: \"Ugh... Quite strong, aren't they...\""
                         ]
                     },
                     {
@@ -164,14 +157,7 @@
                         "code": 401,
                         "indent": 0,
                         "parameters": [
-                            "ウミ"
-                        ]
-                    },
-                    {
-                        "code": 401,
-                        "indent": 0,
-                        "parameters": [
-                            "「ウミに任せる！」"
+                            "Umi: \"Leave it to Umi!\""
                         ]
                     },
                     {

@@ -2661,14 +2661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただいま」"
+                                "Kru: \"I'm home.\""
                             ]
                         },
                         {
@@ -2819,14 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかえりなさい」"
+                                "Maid: \"Welcome back.\""
                             ]
                         },
                         {
@@ -2843,14 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつもすまないね」"
+                                "Kru: \"I'm always causing you trouble, aren't I?\""
                             ]
                         },
                         {
@@ -2867,14 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいえ、いいえ。たくさんお給金頂いてますけぇ…」"
+                                "Maid: \"No, no. I receive a generous salary, so...\""
                             ]
                         },
                         {
@@ -2891,14 +2863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、身の回りの事は任せきりなので、当然です」"
+                                "Kru: \"No, it's only natural since I leave everything concerning my personal\naffairs to you.\""
                             ]
                         },
                         {
@@ -2915,21 +2880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさんはほっといたら、何日もボーっとして何も食べなかったりするけぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いかんよ、若いんだからちゃんと食べて」"
+                                "Maid: \"If left alone, Kru-san would spend days in a daze without eating\nanything. That's not good, you need to eat properly since you're young.\""
                             ]
                         },
                         {
@@ -2946,14 +2897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -2970,14 +2914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝い"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それからちゃんと嫁さん貰って」"
+                                "Maid: \"And you should also find yourself a wife.\""
                             ]
                         },
                         {
@@ -2994,14 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ…」"
+                                "Kru: \"Ugh...\""
                             ]
                         },
                         {
@@ -3018,14 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……相変わらず、その手の話は避けるんじゃのぅ」"
+                                "Maid: \"...As usual, you avoid that kind of talk, huh?\""
                             ]
                         },
                         {
@@ -3042,14 +2965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……すみません」"
+                                "Kru: \"...I'm sorry.\""
                             ]
                         },
                         {
@@ -3066,21 +2982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わしゃ、心配なだけじゃけぇ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クルさん。一人で生きるには、人生はちぃーと長いですぞ」"
+                                "Maid: \"I'm just worried about you... Kru-san. Life is a bit too long to\nlive it alone.\""
                             ]
                         },
                         {
@@ -3097,14 +2999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Kru: \"...Yes.\""
                             ]
                         },
                         {
@@ -3121,14 +3016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、二人で生きているとあっと言う間…。なんとも残酷なものじゃ」"
+                                "Maid: \"However, when living with someone else, time flies by in the blink\nof an eye... It's quite cruel, isn't it?\""
                             ]
                         },
                         {
@@ -3145,14 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………はい」"
+                                "Kru: \"...Yes.\""
                             ]
                         },
                         {
@@ -3169,14 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ良い見合い話があるのじゃが！」"
+                                "Maid: \"Well then, there's a good marriage proposal for you!\""
                             ]
                         },
                         {
@@ -3202,14 +3076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………勘弁してください」"
+                                "Kru: \"...Please spare me.\""
                             ]
                         },
                         {
@@ -3235,14 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！そう来ると思ぉて断っておいたわい」"
+                                "Maid: \"Hahaha! I thought you'd say that and turned it down already.\""
                             ]
                         },
                         {
@@ -3259,14 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは！さすがですね」"
+                                "Kru: \"Hahaha! As expected of you.\""
                             ]
                         },
                         {
@@ -3283,14 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁワシは帰ります。メシはできたてですけぇ。、早く食べて下さい」"
+                                "Maid: \"Well then, I'll be leaving. The meal is freshly made, so please eat\nit soon.\""
                             ]
                         },
                         {
@@ -3307,14 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございました。お疲れ様です」"
+                                "Kru: \"Thank you very much. Good work today.\""
                             ]
                         },
                         {
@@ -3369,7 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これが今の僕の生活…。"
+                                "This is my current life..."
                             ]
                         },
                         {
@@ -3386,14 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やりがいのある仕事があって、お手伝いさんを雇う余裕があって、家があって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毎日が穏やかに過ぎていく。"
+                                "I have a fulfilling job, the means to employ a maid, a home, and each day\npasses by peacefully."
                             ]
                         },
                         {
@@ -3410,14 +3242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供達の日々の成長が、昨日と今日が違う物である事を教えてくれるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以外は何も変化のない毎日だった。"
+                                "The daily growth of the children teaches me that yesterday and today are\ndifferent, but other than that, my days are unchanging."
                             ]
                         },
                         {
@@ -3434,7 +3259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな僕にも日課がある…。"
+                                "I have a daily routine as well..."
                             ]
                         },
                         {
@@ -3485,7 +3310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして寝る前の時間。静かに、ウミと過ごした日々を思い出す事だ…。"
+                                "In the time before bed. Quietly, I reminisce about the days spent with\nUmi..."
                             ]
                         },
                         {
@@ -3502,7 +3327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街の喧騒が薄れ、波の音がひょっこりと顔を出し、僕の意識を過去に誘う。"
+                                "As the hustle and bustle of the town fades, the sound of the waves gently\nemerges, luring my consciousness to the past."
                             ]
                         },
                         {
@@ -3519,7 +3344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思い出すのは大抵何てことないありふれた思い出。"
+                                "What I remember are mostly mundane, ordinary memories."
                             ]
                         },
                         {
@@ -3536,7 +3361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その思い出に触れて、眠気が来るまで外を見る。"
+                                "Touching upon those memories until sleepiness arrives, I gaze outside."
                             ]
                         },
                         {
@@ -3553,7 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが僕の唯一の楽しみだった。"
+                                "That was my only pleasure."
                             ]
                         },
                         {
@@ -3575,7 +3400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな風に日々は過ぎて行った…。"
+                                "Days passed by in such a manner..."
                             ]
                         },
                         {

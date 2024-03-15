@@ -1989,14 +1989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この度はご来店頂きまして…ありがとうございます、マスター」"
+                                "Umi: \"Thank you for visiting us this time... Thank you, Master.\""
                             ]
                         },
                         {
@@ -2013,21 +2006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ……こんな可愛いハーピー見たの初めてだよ！やっぱし王国の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　繁華街は違うなぁ！」"
+                                "Customer: \"Wow... I've never seen such a cute Harpy before! The\nentertainment district of the kingdom really is different!\""
                             ]
                         },
                         {
@@ -2060,14 +2039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます。ご満足頂けるように精一杯頑張ります…」"
+                                "Umi: \"Thank you very much. I'll do my best to satisfy you...\""
                             ]
                         },
                         {
@@ -2084,14 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁいいんだ…。オレがウミちゃんを満足させてあげたい」"
+                                "Customer: \"Ah, that's fine... I want to satisfy you, Umi-chan.\""
                             ]
                         },
                         {
@@ -2124,14 +2089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう……ですか…。お客様のお望みのようにして下さい」"
+                                "Umi: \"Is that so... Please do as you wish, customer.\""
                             ]
                         },
                         {
@@ -2148,14 +2106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう。じゃぁ始めよう」"
+                                "Customer: \"Thank you. Then let's get started.\""
                             ]
                         },
                         {
@@ -2233,7 +2184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -2250,7 +2201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -2267,7 +2218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -2305,14 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マスター……これから何を……？」"
+                                "Umi: \"Master... What are you going to do now...?\""
                             ]
                         },
                         {
@@ -2329,14 +2273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…そうだな…ハーピーになったのは初めて？」"
+                                "Customer: \"Ah... right... Is this your first time becoming a Harpy?\""
                             ]
                         },
                         {
@@ -2353,14 +2290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「初めて……です」"
+                                "Umi: \"It's my first time... yes.\""
                             ]
                         },
                         {
@@ -2377,21 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいね！じゃぁ説明してあげる。ハーピーはかなり感度のいい種族でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　気持ちいい部分がとても多いんだ」"
+                                "Customer: \"Nice! Then let me explain. Harpies are a very sensitive species.\nThey have many spots that feel good.\""
                             ]
                         },
                         {
@@ -2408,14 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…」"
+                                "Umi: \"I see...\""
                             ]
                         },
                         {
@@ -2432,21 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中でも背中の羽と皮膚の付け根の部分は極上の快楽を感じられるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この店はちゃんとしているっぽいからきっと再現されているはずだよ」"
+                                "Customer: \"Especially the feathers on their back and the base of their skin\nare parts where they can feel supreme pleasure. This place seems to be\ndoing things right, so I'm sure it's been recreated accurately.\""
                             ]
                         },
                         {
@@ -2463,14 +2358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…わかりました」"
+                                "Umi: \"I see... Understood.\""
                             ]
                         },
                         {
@@ -2487,21 +2375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁ…そんな背中のそんな部分が気持ちいいなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嫌だな、仕事だから気持ちいい演技しなきゃ…)"
+                                "Umi: (Sigh... I had no idea that such a spot on my back could feel good...\nI hate it, but it's my job to act like it feels good...)"
                             ]
                         },
                         {
@@ -2518,14 +2392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ触るよ。準備はいい」"
+                                "Customer: \"Then I'm going to touch you. Are you ready?\""
                             ]
                         },
                         {
@@ -2542,14 +2409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…どうぞ」"
+                                "Umi: \"Yes... please go ahead.\""
                             ]
                         },
                         {
@@ -2566,14 +2426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁ…もったいぶらないで早く始めれ…)"
+                                "Umi: (Sigh... Just get on with it without making such a fuss...)"
                             ]
                         },
                         {
@@ -2590,7 +2443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわっ"
+                                "*touch*"
                             ]
                         },
                         {
@@ -2623,7 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビリビリビリビリ‼‼"
+                                "*electric shock*"
                             ]
                         },
                         {
@@ -2678,14 +2531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーーーー‼‼‼‼」"
+                                "Umi: \"Chupi---------‼‼‼‼\""
                             ]
                         },
                         {
@@ -2702,14 +2548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ナニナニナニナニナニ‼‼何が起きた⁉)"
+                                "Umi: (WHATWHATWHATWHATWHATWHAT‼‼ What's happening⁉)"
                             ]
                         },
                         {
@@ -2726,21 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！いい声で鳴くね！最高だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕はこの瞬間の為に生きているんだと言っても過言ではないよ！」"
+                                "Customer: \"Hahaha! You cry out with such a nice voice! It's the best! It\nwouldn't be an exaggeration to say I live for this moment!\""
                             ]
                         },
                         {
@@ -2757,14 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……変な声で…」"
+                                "Umi: \"Umi... making strange noises...\""
                             ]
                         },
                         {
@@ -2781,14 +2599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ハーピーなんだから普通の鳴き声だよ。ほらもっと鳴いて」"
+                                "Customer: \"It's a normal cry for a Harpy. Come on, cry out more.\""
                             ]
                         },
                         {
@@ -2805,7 +2616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわっ…"
+                                "*touch...*"
                             ]
                         },
                         {
@@ -2838,14 +2649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーー！」"
+                                "Umi: \"Chupi-------!\""
                             ]
                         },
                         {
@@ -2862,14 +2666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いやぁ……変な声出る。それになんて刺激…。ハーピーって皆こんな風になる？)"
+                                "Umi: (No... I'm making strange noises. And what a sensation... Do all\nHarpies feel like this?)"
                             ]
                         },
                         {
@@ -2886,7 +2683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ…"
+                                "*touch touch touch touch...*"
                             ]
                         },
                         {
@@ -2903,14 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴっ……ひぃひぃ…ちゅっ……ぴぃ……」"
+                                "Umi: \"Chupi... hee hee... chu... pii...\""
                             ]
                         },
                         {
@@ -2927,14 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんて……気持ちいいの…あぁ……)"
+                                "Umi: (What is this... It feels so good... Ahh...)"
                             ]
                         },
                         {
@@ -2951,7 +2734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ……"
+                                "*touch touch touch touch...*"
                             ]
                         },
                         {
@@ -2984,14 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぴぃ………ちゅっぴぃ………ぴぃぴぃ……ひぃ……マッマスター」"
+                                "Umi: \"Pii... chuppii... pii pii... hee... Master-\""
                             ]
                         },
                         {
@@ -3008,14 +2784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだい？」"
+                                "Customer: \"What is it?\""
                             ]
                         },
                         {
@@ -3032,14 +2801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……変になりそう……変になりそうです…」"
+                                "Umi: \"Umi... feels weird... I think I'm going to feel weird...\""
                             ]
                         },
                         {
@@ -3056,28 +2818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変になんてなってないし、ならないよ。今日初めてハーピーになったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな風に感じるのはしょうがないよ。でも安心して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕がハーピーに生まれ変わりたいって気持ちにさせてあげる」"
+                                "Customer: \"You're not feeling weird, and you won't. It's your first day as\na Harpy. It's natural to feel that way. But don't worry. I'll make you want\nto be reborn as a Harpy.\""
                             ]
                         },
                         {
@@ -3094,7 +2835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ……"
+                                "*touch touch touch touch...*"
                             ]
                         },
                         {
@@ -3111,14 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぷちゅぷちゅぷ……ぴぃ～…ちゅぴぃ！……ウミ、生まれ変わりたくなんて…」"
+                                "Umi: \"Chup chup chup... pii~... chupii! ...Umi doesn't want to be\nreborn...\""
                             ]
                         },
                         {
@@ -3135,7 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コリッ"
+                                "Press"
                             ]
                         },
                         {
@@ -3168,14 +2902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーーー‼‼」"
+                                "Umi: \"Chupi--------!!\""
                             ]
                         },
                         {
@@ -3192,14 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ダメ‼‼強い刺激ダメ‼‼」)"
+                                "Umi: (No!! Strong stimulation is bad!!)"
                             ]
                         },
                         {
@@ -3216,21 +2936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっは！こんなに喜んでいるのに生まれ変わりたくないなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　嘘が下手だなぁ、ウミちゃんは」"
+                                "Customer: \"Hahaha! You're so happy, yet you say you don't want to be\nreborn... You're bad at lying, Umi-chan.\""
                             ]
                         },
                         {
@@ -3247,7 +2953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ…"
+                                "Touch touch touch touch..."
                             ]
                         },
                         {
@@ -3280,14 +2986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぅちゅぅちゅぅちゅぅ……ぴぃぴぃぴぃ…」"
+                                "Umi: \"Chuu chuu chuu chuu... pii pii pii...\""
                             ]
                         },
                         {
@@ -3304,7 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ…"
+                                "Touch touch touch touch..."
                             ]
                         },
                         {
@@ -3321,14 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴ……ぴぃ…ちゅぷちゅぷ……ちゅぴぃぃ…」"
+                                "Umi: \"Chupi... pii... chup chup... chupii!!\""
                             ]
                         },
                         {
@@ -3345,7 +3037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コリッ"
+                                "Press"
                             ]
                         },
                         {
@@ -3362,14 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーーー！」"
+                                "Umi: \"Chupi--------!\""
                             ]
                         },
                         {
@@ -3386,14 +3071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ダメ‼快感に抗えない…。大きな声出る…)"
+                                "Umi: (No! I can't resist the pleasure... I'm going to let out a loud\nvoice...)"
                             ]
                         },
                         {
@@ -3410,21 +3088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにしても初めてでこんなに感じるなんて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミちゃんはそもそもかなり感度がよかったんだね…」"
+                                "Customer: \"Even though it's your first time, you're feeling it so much...\nUmi-chan, you must have been quite sensitive from the start...\""
                             ]
                         },
                         {
@@ -3441,7 +3105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ…"
+                                "Touch touch touch touch..."
                             ]
                         },
                         {
@@ -3474,14 +3138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴ…ちゅぴちゅぴちゅぴ……ひぃひぃ…」"
+                                "Umi: \"Chupi... chupi chupi chupi... hii hii...\""
                             ]
                         },
                         {
@@ -3498,21 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……感度の問題じゃないな…。淫乱なのか…それとも変態なのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　快楽を貪欲に受け入れていく姿勢が天性のものだね」"
+                                "Customer: \"No... it's not just about sensitivity... Are you lewd or a\npervert? Your attitude of eagerly accepting pleasure is a natural talent.\""
                             ]
                         },
                         {
@@ -3529,7 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわさわ…"
+                                "Touch touch touch touch..."
                             ]
                         },
                         {
@@ -3546,14 +3189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴ…ちゅぴぃ……ちゅぷぅ……マッマスター…ウミは…そんな…」"
+                                "Umi: \"Chupi... chupii... chupu... Master... Umi is not like that...\""
                             ]
                         },
                         {
@@ -3570,7 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コリッ"
+                                "Press"
                             ]
                         },
                         {
@@ -3603,14 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーー‼‼」"
+                                "Umi: \"Chupi-------!!\""
                             ]
                         },
                         {
@@ -3627,21 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらこら小鳥さん。マスターの言う事を否定してはいけないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁ自分は変態さんだと白状しなさい」"
+                                "Customer: \"Now now, little bird. You mustn't deny what Master says. Come\non, confess that you're a pervert.\""
                             ]
                         },
                         {
@@ -3658,14 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいマスター…」"
+                                "Umi: \"Yes, Master...\""
                             ]
                         },
                         {
@@ -3682,14 +3290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うぅ……仕事だから仕方ない…)"
+                                "Umi: (Ugh... It's my job, so it can't be helped...)"
                             ]
                         },
                         {
@@ -3706,21 +3307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミは……変態で淫乱なあなたの小鳥です…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　空を自由に飛べるようになるまで、ウミの翼を可愛がってください‼」"
+                                "Umi: \"Umi is... your lewd and perverted little bird... Please cherish Umi's\nwings until I can fly freely in the sky!!\""
                             ]
                         },
                         {
@@ -3737,21 +3324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ‼素晴らしい台詞だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この店が尊いのか！それともウミちゃんが尊いのか！堪らん…堪らんぞ！」"
+                                "Customer: \"Ahh!! What a wonderful line... Is this establishment sacred, or\nis it Umi-chan who is sacred! I can't stand it... I can't stand it!\""
                             ]
                         },
                         {
@@ -3768,7 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コリコリコリコリッ‼‼"
+                                "Press press press press!!"
                             ]
                         },
                         {
@@ -3785,14 +3358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴちゅぴちゅぴーーーーーーーーーー‼‼」"
+                                "Umi: \"Chupi chupi chupi----------!!\""
                             ]
                         },
                         {
@@ -3809,14 +3375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ダメ……気持ち良過ぎる……このままじゃ…本当に鳥になっちゃう…)"
+                                "Umi: (No... It feels too good... At this rate... I'll really become a\nbird...)"
                             ]
                         },
                         {
@@ -3833,7 +3392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コリコリコリコリッ‼‼"
+                                "Press press press press!!"
                             ]
                         },
                         {
@@ -3850,14 +3409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーーーー‼‼」"
+                                "Umi: \"Chupi---------!!\""
                             ]
                         },
                         {
@@ -3923,7 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブッシャーーーーーーー‼‼"
+                                "Squirt-------!!"
                             ]
                         },
                         {
@@ -3940,14 +3492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁ！潮吹いた！ははははは！そんなに気持ち良かったのか…」"
+                                "Customer: \"Wow! She squirted! Hahahaha! Did it feel that good...?\""
                             ]
                         },
                         {
@@ -3964,14 +3509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ……ウミ………潮…噴いた…の？」"
+                                "Umi: \"Haa haa haa... Umi... squirted...?\""
                             ]
                         },
                         {
@@ -3988,14 +3526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…羽の付け根から潮を噴いたんだ……。そんなに気持ち良かったのか…」"
+                                "Customer: \"Yeah... You squirted from the base of your wings... Did it feel\nthat good...?\""
                             ]
                         },
                         {
@@ -4028,14 +3559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はっ…はい…マスター…」"
+                                "Umi: \"...Yes... Master...\""
                             ]
                         },
                         {
@@ -4052,14 +3576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また来るから…その時はもっと気持ちいい事しよう…」"
+                                "Customer: \"I'll come again... Next time, let's do something even more\npleasurable...\""
                             ]
                         },
                         {
@@ -4076,7 +3593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -4093,7 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -4110,7 +3627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -4308,7 +3825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power value has increased!"
                             ]
                         },
                         {
@@ -4325,7 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame value has increased!"
                             ]
                         },
                         {
@@ -4342,7 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]腋の下で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times felt under the armpit has increased!"
                             ]
                         },
                         {
@@ -4359,7 +3876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times felt from embarrassment has increased!"
                             ]
                         },
                         {
@@ -4376,7 +3893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times felt from squirting has increased!"
                             ]
                         },
                         {
@@ -4393,7 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times felt from sexual intercourse with someone other than\nKru has increased!"
                             ]
                         },
                         {
@@ -4486,7 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -4503,7 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -4520,7 +4037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -4537,7 +4054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミは客を満足させた…。"
+                                "Umi satisfied the customer..."
                             ]
                         },
                         {
@@ -4663,7 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -4680,7 +4197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -4697,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]腋の下で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times felt under the armpit has increased!"
                             ]
                         },
                         {
@@ -4714,7 +4231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times felt from embarrassment has increased!"
                             ]
                         },
                         {
@@ -4731,7 +4248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times felt from squirting has increased!"
                             ]
                         },
                         {
@@ -4748,7 +4265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times felt from sexual intercourse other than with Kru has\nincreased!"
                             ]
                         },
                         {
@@ -5008,14 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マスター…また来てくれた…」"
+                                "Umi: \"Master... you came to see me again...\""
                             ]
                         },
                         {
@@ -5032,14 +4542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。来るに決まっているじゃないか…」"
+                                "Guest: \"Ah... Of course I came...\""
                             ]
                         },
                         {
@@ -5072,14 +4575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう…」"
+                                "Umi: \"Thank you...\""
                             ]
                         },
                         {
@@ -5096,14 +4592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ…。今日もいっぱい可愛がるよ」"
+                                "Guest: \"Hehehe... I'll take good care of you today as well.\""
                             ]
                         },
                         {
@@ -5136,14 +4625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日も羽を弄るのか？」"
+                                "Umi: \"Are you going to play with my wings again today?\""
                             ]
                         },
                         {
@@ -5160,14 +4642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…今日はまた別の事をしよう」"
+                                "Guest: \"No... today we'll do something different.\""
                             ]
                         },
                         {
@@ -5245,7 +4720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -5262,7 +4737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -5279,7 +4754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -5317,14 +4792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マスター…これは？」"
+                                "Umi: \"Master... what is this?\""
                             ]
                         },
                         {
@@ -5341,14 +4809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。今日はウミちゃんに産卵をしてもらおうと思ってね」"
+                                "Guest: \"Ah... Today, I thought I'd have you lay some eggs.\""
                             ]
                         },
                         {
@@ -5365,14 +4826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さん…らん？」"
+                                "Umi: \"Lay... eggs?\""
                             ]
                         },
                         {
@@ -5389,14 +4843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ産卵。つまり卵を産んでもらうんだ」"
+                                "Guest: \"Yes, laying eggs. That means you'll be producing eggs.\""
                             ]
                         },
                         {
@@ -5413,14 +4860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉たっ卵を産む？なっなんだそれは⁉」"
+                                "Umi: \"Eh?! Lay eggs? What's that?!\""
                             ]
                         },
                         {
@@ -5437,21 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…ハーピーのコースにはそういうのがあるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お腹の方にもったりとした感覚がないかい？」"
+                                "Guest: \"Ah... It's part of the Happy Course. Don't you feel a heavy\nsensation in your stomach?\""
                             ]
                         },
                         {
@@ -5468,14 +4894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん。奥の方が少し重たい感じがする…」"
+                                "Umi: \"...Yes. It feels a bit heavy inside...\""
                             ]
                         },
                         {
@@ -5492,14 +4911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこに卵がもうあるんだ…。それを産むんだよ」"
+                                "Guest: \"That's where the eggs are... You're going to lay them.\""
                             ]
                         },
                         {
@@ -5516,14 +4928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも…でも…」"
+                                "Umi: \"But... but...\""
                             ]
                         },
                         {
@@ -5540,14 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫だ…。力んでごらん…」"
+                                "Guest: \"It's okay... try pushing...\""
                             ]
                         },
                         {
@@ -5580,14 +4978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……。ふぅふぅ……んぅ…」"
+                                "Umi: \"Ugh... huff huff... mmm...\""
                             ]
                         },
                         {
@@ -5604,14 +4995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうそう…その調子…」"
+                                "Guest: \"That's right... just like that...\""
                             ]
                         },
                         {
@@ -5628,14 +5012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……んぅ…」"
+                                "Umi: \"Haa haa... mmm...\""
                             ]
                         },
                         {
@@ -5652,14 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいよ……そうだ……」"
+                                "Guest: \"Good... that's it...\""
                             ]
                         },
                         {
@@ -5676,14 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…んぅ…はぁ…んんんぅ……」"
+                                "Umi: \"Haa haa... mmm... haa... mmmm...\""
                             ]
                         },
                         {
@@ -5700,14 +5063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ頭が見えてきた！いいぞ…その調子だ！」"
+                                "Guest: \"Oh, I can see the head! You're doing great!\""
                             ]
                         },
                         {
@@ -5724,14 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んんんんんぅ……んあぁ！」"
+                                "Umi: \"Mmmmmmm... n-ahh!\""
                             ]
                         },
                         {
@@ -5790,7 +5139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボコン！"
+                                "Plop!"
                             ]
                         },
                         {
@@ -5807,14 +5156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！産まれた‼‼」"
+                                "Guest: \"Oh! It's born!!\""
                             ]
                         },
                         {
@@ -5847,14 +5189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ………マッマスター……産まれた？」"
+                                "Umi: \"Haa haa haa... Master... did it come out?\""
                             ]
                         },
                         {
@@ -5871,14 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……いいよ…。最高に素敵な瞬間だ…。さあまだ産めるね」"
+                                "Guest: \"Ah... yes... it was a wonderful moment... Now, you can still lay\nmore.\""
                             ]
                         },
                         {
@@ -5911,14 +5239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…まだお腹の奥にありそう」"
+                                "Umi: \"Ugh... there seems to be more inside my stomach.\""
                             ]
                         },
                         {
@@ -5935,14 +5256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ早く！一度産んでしまえば、もっと産みやすくなっているはずだ！」"
+                                "Guest: \"Come on, quickly! Once you've laid one, it should be easier to lay\nthe rest!\""
                             ]
                         },
                         {
@@ -5959,14 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった…。んぅ……」"
+                                "Umi: \"Understood... mmm...\""
                             ]
                         },
                         {
@@ -6025,7 +5332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボコン！"
+                                "Plop!"
                             ]
                         },
                         {
@@ -6042,14 +5349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁ！」"
+                                "Umi: \"Ahhhhhh!\""
                             ]
                         },
                         {
@@ -6066,14 +5366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！立派な卵だ‼‼さぁ！まだ行けるはずだ！」"
+                                "Guest: \"Ahhh! Such a fine egg!! Come on! You can still go on!\""
                             ]
                         },
                         {
@@ -6090,14 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ううぅぅぅ………」"
+                                "Umi: \"Uuuuu...\""
                             ]
                         },
                         {
@@ -6156,7 +5442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボコン！"
+                                "Plop!"
                             ]
                         },
                         {
@@ -6173,14 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーー‼‼」"
+                                "Umi: \"Chupi---!!\""
                             ]
                         },
                         {
@@ -6197,14 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！出る出る！」"
+                                "Guest: \"Oh! Here it comes, here it comes!\""
                             ]
                         },
                         {
@@ -6237,14 +5509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……あぁ……熱い……」"
+                                "Umi: \"Haa haa... Ahh... It's so hot...\""
                             ]
                         },
                         {
@@ -6261,14 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃん……さては卵を産んで気持ち良くなっているな」"
+                                "Guest: \"Umi-chan... You're getting pleasure from laying eggs, aren't you?\""
                             ]
                         },
                         {
@@ -6285,14 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんな……はぁはぁ……そんなこと……な…」"
+                                "Umi: \"No, that's not... haa haa... that's not it... ngh...\""
                             ]
                         },
                         {
@@ -6309,14 +5560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいんだよ…。ハーピーはそういう生き物なんだ…。だからいっぱい気持ち良くなるんだ」"
+                                "Guest: \"It's okay... Harpies are creatures like that... That's why you feel\nso good.\""
                             ]
                         },
                         {
@@ -6333,14 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……わかった…。うぅぅぅ…んぅ」"
+                                "Umi: \"Uuu... I understand... uuuuu... mmm\""
                             ]
                         },
                         {
@@ -6399,7 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボコン！"
+                                "Plop!"
                             ]
                         },
                         {
@@ -6416,14 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁぁ‼‼」"
+                                "Umi: \"Ahhhhhh!!\""
                             ]
                         },
                         {
@@ -6440,14 +5670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！いっぱい出たね！いい卵だ…。きっと栄養満点だ！」"
+                                "Guest: \"Ahhh! So much came out! What a fine egg... It must be full of\nnutrients!\""
                             ]
                         },
                         {
@@ -6480,14 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……あぅぅ……ふぅふぅ…」"
+                                "Umi: \"Haa haa... Auuu... Fuu fuu...\""
                             ]
                         },
                         {
@@ -6520,14 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやおや…まだありそうだね…。なんてスケベなお母さんだ…」"
+                                "Guest: \"Oh my... There seems to be more... What a lewd mother...\""
                             ]
                         },
                         {
@@ -6544,14 +5753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……だって…なんでこんな……あぁぁぁ」"
+                                "Umi: \"Ahhh... Because... Why is this happening... Ahhhhh\""
                             ]
                         },
                         {
@@ -6610,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボコンッ！"
+                                "Plop!"
                             ]
                         },
                         {
@@ -6627,14 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっはぁぁぁぁぁ！あぁぁ……はぁはぁ……」"
+                                "Umi: \"Ahhaaaaaa! Ahhh... Haa haa...\""
                             ]
                         },
                         {
@@ -6667,14 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頑張ったウミちゃんにご褒美をあげないとね」"
+                                "Guest: \"We have to give a reward to Umi-chan for working so hard.\""
                             ]
                         },
                         {
@@ -6691,14 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？」"
+                                "Umi: \"Huh?\""
                             ]
                         },
                         {
@@ -6769,7 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぷんっ！"
+                                "Splurt!"
                             ]
                         },
                         {
@@ -6786,14 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーーーー！」"
+                                "Umi: \"Chupi---------!\""
                             ]
                         },
                         {
@@ -6810,14 +5984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは！産卵でお尻が敏感になっているからそうとう気持ちいいだろ？」"
+                                "Guest: \"Hahaha! Your ass must be sensitive after laying eggs, it must feel\nincredibly good, right?\""
                             ]
                         },
                         {
@@ -6834,14 +6001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーー！はぁはぁ……ダメ……感じ過ぎる…」"
+                                "Umi: \"Chupi------! Haa haa... No... It's too much...\""
                             ]
                         },
                         {
@@ -6858,7 +6018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Squish squish squish squish!"
                             ]
                         },
                         {
@@ -6891,14 +6051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！はぁはぁ……ちゅぴぃ……んぅ……あぁぁ！ちゅぴーーーーーーー！」"
+                                "Umi: \"Ahhh! Haa haa... Chupii... Mmm... Ahhh! Chupi-------!\""
                             ]
                         },
                         {
@@ -6915,7 +6068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっぷずっぷずっぷずっぷ！"
+                                "Thrust thrust thrust thrust!"
                             ]
                         },
                         {
@@ -6932,14 +6085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらほらお尻の穴が収縮してるよ…。ビクビクしてる！」"
+                                "Guest: \"Look, look, your asshole is contracting... It's twitching!\""
                             ]
                         },
                         {
@@ -6972,14 +6118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっはぁぁぁぁ！はぁはぁ！ダメ！もうダメ！あぁぁぁぁ」"
+                                "Umi: \"Ahhaaaaaa! Haa haa! No! I can't take it anymore! Ahhhhhh\""
                             ]
                         },
                         {
@@ -6996,7 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっぷずっぷずっぷずっぷ！"
+                                "Thrust thrust thrust thrust!"
                             ]
                         },
                         {
@@ -7013,14 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほらほらほら！いいよ！スケベな姿もっと見せて！」"
+                                "Guest: \"Come on, come on, come on! Show me more of your lewd self!\""
                             ]
                         },
                         {
@@ -7037,14 +6169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！出ちゃう！出ちゃうぅぅぅぅぅぅ！」"
+                                "Umi: \"Ahhhhh! It's coming out! It's coming ouuuuuut!\""
                             ]
                         },
                         {
@@ -7103,7 +6228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブッシャーーーーーーー‼‼"
+                                "Splash-------!!"
                             ]
                         },
                         {
@@ -7120,14 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴーーーーーーーーーー‼‼」"
+                                "Umi: \"Chupi----------!!\""
                             ]
                         },
                         {
@@ -7144,14 +6262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぉ……これはまた派手に噴いたな…」"
+                                "Guest: \"Wow... That was quite a showy squirt...\""
                             ]
                         },
                         {
@@ -7184,14 +6295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……んぁ…あぅぅ……ふぅあぁ……」"
+                                "Umi: \"Haa haa... Ngh... Auuu... Fuu ahh...\""
                             ]
                         },
                         {
@@ -7208,7 +6312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぷんっ！"
+                                "Splurt!"
                             ]
                         },
                         {
@@ -7225,14 +6329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁぁぁぁ‼‼」"
+                                "Umi: \"Ahhhhhhhhhh!!\""
                             ]
                         },
                         {
@@ -7249,14 +6346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだまだ！」"
+                                "Guest: \"There's still more to come!\""
                             ]
                         },
                         {
@@ -7289,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Squish squish squish squish!"
                             ]
                         },
                         {
@@ -7306,14 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴぃ……マスター……ダメ…感じ過ぎて……あぅ！これ以上は…」"
+                                "Umi: \"Chupii... Master... No... It's too much... Auu! I can't take any\nmore...\""
                             ]
                         },
                         {
@@ -7330,14 +6413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…まだまだ感じていいんだ！」"
+                                "Guest: \"No... You can still feel more!\""
                             ]
                         },
                         {
@@ -7354,7 +6430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Squish squish squish squish!"
                             ]
                         },
                         {
@@ -7371,14 +6447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴぃ！はぁはぁ……あぁ…うぅ……ちゅぴぃちゅぴぃちゅぴぃ！」"
+                                "Umi: \"Chupii! Haa haa... Ahh... Uuu... Chupii chupii chupii!\""
                             ]
                         },
                         {
@@ -7395,7 +6464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Squish squish squish squish!"
                             ]
                         },
                         {
@@ -7412,14 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……ちゅぴぃ……お尻…ウミのお尻……バカになっちゃう……はぁはぁ…」"
+                                "Umi: \"Ahhh... Chupii... My butt... My butt is going to go dumb... Haa\nhaa...\""
                             ]
                         },
                         {
@@ -7436,7 +6498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Squish squish squish squish!"
                             ]
                         },
                         {
@@ -7453,14 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……んぁあぁ！ちゅぴぃ……はぁはぁ……あぅぅ……」"
+                                "Umi: \"Ahhh... Ngh ahh! Chupii... Haa haa... Auu...\""
                             ]
                         },
                         {
@@ -7477,7 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Squish squish squish squish!"
                             ]
                         },
                         {
@@ -7494,14 +6549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！また……また出ちゃう……また出ちゃうぅぅぅ……」"
+                                "Umi: \"Ahhh! Again... It's coming out again... It's coming out againnn...\""
                             ]
                         },
                         {
@@ -7518,14 +6566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逝け逝け逝け！」"
+                                "Guest: \"Cum, cum, cum!\""
                             ]
                         },
                         {
@@ -7542,14 +6583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅっぴぃぃぃぃーーーーーーー‼‼」"
+                                "Umi: \"Chupiiiiii-------!!\""
                             ]
                         },
                         {
@@ -7615,7 +6649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブッシャーーーーーーー‼‼"
+                                "Splurt-------!!"
                             ]
                         },
                         {
@@ -7632,14 +6666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁぁぁ！」"
+                                "Umi: \"Ahhhhhhhhhh!!\""
                             ]
                         },
                         {
@@ -7656,14 +6683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……あぁ……はぁ…また凄い量の潮だ…」"
+                                "Guest: \"Haa haa... Ahh... Haa... Such an amazing amount of squirt again...\""
                             ]
                         },
                         {
@@ -7680,14 +6700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅふぅふぅ……あっ…あぅ……あぁぁ………」"
+                                "Umi: \"Fuu fuu fuu... Ahh... Auu... Ahhh...\""
                             ]
                         },
                         {
@@ -7704,14 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……なんて素敵なんだ……。また来るよ」"
+                                "Guest: \"Ahh... How wonderful... I'll come again.\""
                             ]
                         },
                         {
@@ -7728,14 +6734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……はぁ……あっあぅ………んぅ………」"
+                                "Umi: \"Ahhh... Haa... Ahh auu... Ngh...\""
                             ]
                         },
                         {
@@ -8014,7 +7013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power value has increased!"
                             ]
                         },
                         {
@@ -8031,7 +7030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame value has increased!"
                             ]
                         },
                         {
@@ -8048,7 +7047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times feeling embarrassed has increased!"
                             ]
                         },
                         {
@@ -8065,7 +7064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times feeling from squirting has increased!"
                             ]
                         },
                         {
@@ -8082,7 +7081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]ケツ穴を弄られて感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times feeling from having butt played with has increased!"
                             ]
                         },
                         {
@@ -8099,7 +7098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times feeling from sexual intercourse other than with Kru has\nincreased!"
                             ]
                         },
                         {
@@ -8183,7 +7182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -8200,7 +7199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -8217,7 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -8234,7 +7233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミは客を満足させた…。"
+                                "Umi satisfied the customer..."
                             ]
                         },
                         {
@@ -8378,7 +7377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -8395,7 +7394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -8412,7 +7411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times feeling embarrassed has increased!"
                             ]
                         },
                         {
@@ -8429,7 +7428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times feeling it from squirting has increased!"
                             ]
                         },
                         {
@@ -8446,7 +7445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]ケツ穴を弄られて感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times feeling it from having her ass played with has\nincreased!"
                             ]
                         },
                         {
@@ -8463,7 +7462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times feeling it from sexual intercourse with others besides\nKru has increased!"
                             ]
                         },
                         {
@@ -8707,14 +7706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マスター…この前は…」"
+                                "Umi \"Master... about last time...\""
                             ]
                         },
                         {
@@ -8731,14 +7723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…いいんだ…。僕が少々はめを外し過ぎた…」"
+                                "Customer \"Ah... it's okay... I went a bit too far...\""
                             ]
                         },
                         {
@@ -8771,14 +7756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………うぅ…恥ずかしい」"
+                                "Umi \"...uh... I'm embarrassed\""
                             ]
                         },
                         {
@@ -8795,14 +7773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、恥ずかしがる事はない…。本当に素晴らしい時間を過ごした」"
+                                "Customer \"No, there's no need to be embarrassed... I really had a wonderful\ntime\""
                             ]
                         },
                         {
@@ -8835,14 +7806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなの？」"
+                                "Umi \"Really?\""
                             ]
                         },
                         {
@@ -8859,14 +7823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。今日もよろしく頼むよ」"
+                                "Customer \"Yeah... I'm counting on you again today\""
                             ]
                         },
                         {
@@ -8944,7 +7901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -8961,7 +7918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -8978,7 +7935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -9033,7 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9071,14 +8028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ……マスター…気持ちいい？」"
+                                "Umi \"Hah hah hah... Master... does it feel good?\""
                             ]
                         },
                         {
@@ -9095,14 +8045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…素晴らしいよ…」"
+                                "Customer \"Ah... it's amazing...\""
                             ]
                         },
                         {
@@ -9119,7 +8062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9136,14 +8079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…うぅ…んぅ…あぁ……いつもマスターがウミを気持ち良くしてくれるから…」"
+                                "Umi \"Hah hah... uh... mmm... ah... because Master always makes Umi feel\ngood...\""
                             ]
                         },
                         {
@@ -9160,14 +8096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…」"
+                                "Customer \"Hah hah...\""
                             ]
                         },
                         {
@@ -9184,7 +8113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9217,14 +8146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日は…ウミが…マスターを気持ち良くする…」"
+                                "Umi \"Today... Umi will... make Master feel good...\""
                             ]
                         },
                         {
@@ -9241,14 +8163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁウミちゃん…嬉しいね……」"
+                                "Customer \"Ah, Umi-chan... that makes me happy...\""
                             ]
                         },
                         {
@@ -9265,7 +8180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9282,14 +8197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……はぁはぁ……ちゅぴぃ……ふぅふぅ……」"
+                                "Umi \"Ahh... hah hah... *sucking sounds*... fuu fuu...\""
                             ]
                         },
                         {
@@ -9306,14 +8214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……羽が…風に揺れる木々のようで…綺麗だ…」"
+                                "Customer \"Ah... your wings... they're like the trees swaying in the wind...\nbeautiful...\""
                             ]
                         },
                         {
@@ -9330,7 +8231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9363,14 +8264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…そういうものなのか？」"
+                                "Umi \"Hah hah... is that so?\""
                             ]
                         },
                         {
@@ -9387,14 +8281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……ふわふわと揺れて…夢見心地だ…。あぁ…んぅ…」"
+                                "Customer \"Yeah... they flutter and sway... it's like a dream... ah...\nmmm...\""
                             ]
                         },
                         {
@@ -9411,7 +8298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9444,14 +8331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴぃ…あぅ……はぁはぁ……んんぅ……」"
+                                "Umi \"*sucking sounds*... auh... hah hah... mmm...\""
                             ]
                         },
                         {
@@ -9468,14 +8348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……ウミちゃんの膣内、温かい…」"
+                                "Customer \"Hah hah... Umi-chan's inside, it's warm...\""
                             ]
                         },
                         {
@@ -9492,7 +8365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9525,14 +8398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……はぁはぁ……マスターの…も…、温かいよ……」"
+                                "Umi \"Ah... hah hah... Master's... is also warm...\""
                             ]
                         },
                         {
@@ -9549,14 +8415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……んぅ………いい腰使いだ……」"
+                                "Customer \"Ah... mmm... you're good with your hips...\""
                             ]
                         },
                         {
@@ -9573,7 +8432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9590,14 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……ぅぅ…あんあんあん！んんぅ……ちゅぴぃ…」"
+                                "Umi \"Ahhhh... uhh... ahn ahn ahn! Mmm... *sucking sounds*...\""
                             ]
                         },
                         {
@@ -9614,14 +8466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに…はぁはぁ…吸いつくような膣の粘度が……堪らなく気持ちいい…」"
+                                "Customer \"And... hah hah... the viscosity of your pussy clinging to me\nis... unbearably pleasurable...\""
                             ]
                         },
                         {
@@ -9654,14 +8499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴぃ…ちゅぴぃ……はぁはぁ……あぁ…」"
+                                "Umi \"*sucking sounds*... *sucking sounds*... hah hah... ah...\""
                             ]
                         },
                         {
@@ -9678,14 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……はぁはぁ…」"
+                                "Customer \"Ah... hah hah...\""
                             ]
                         },
                         {
@@ -9702,7 +8533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "*sloshing noises*"
                             ]
                         },
                         {
@@ -9719,14 +8550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅっぴ……あぁ……んぅぅ……はぁぁぁぁん…」"
+                                "Umi \"*kissing sounds*... ah... mmm... haaaannn...\""
                             ]
                         },
                         {
@@ -9743,14 +8567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……もう…耐えられないよ…」"
+                                "Customer \"Ah... I can't hold on any longer...\""
                             ]
                         },
                         {
@@ -9783,14 +8600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マスター……まだまだ…我慢……はぁ…はぁ……」"
+                                "Umi \"Master... keep holding on... hah... hah...\""
                             ]
                         },
                         {
@@ -9807,14 +8617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…ウミちゃん…そんな…はぁぁ」"
+                                "Customer \"Ah... Umi-chan... like that... haah\""
                             ]
                         },
                         {
@@ -9831,7 +8634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "sloshing sloshing sloshing sloshing..."
                             ]
                         },
                         {
@@ -9848,14 +8651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつもマスターが…ウミを…はぁはぁ…苛めてるから……」"
+                                "Umi \"It's always Master... tormenting Umi... hah hah...\""
                             ]
                         },
                         {
@@ -9872,14 +8668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……」"
+                                "Customer \"Hah hah...\""
                             ]
                         },
                         {
@@ -9912,14 +8701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのお返し……はぁはぁ………あぁぁぁ！あぅぅぅぅ…」"
+                                "Umi \"This is... payback... hah hah... ahhh ahhh! Ahhhhh...\""
                             ]
                         },
                         {
@@ -9936,14 +8718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お返しなんて……はぁはぁ……あぁぁ…ダメだ…もう……」"
+                                "Customer \"Payback... hah hah... ahhh... I can't... anymore...\""
                             ]
                         },
                         {
@@ -9960,7 +8735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "sloshing sloshing sloshing sloshing..."
                             ]
                         },
                         {
@@ -9977,14 +8752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……ウミ…も………もう……逝きそう…」"
+                                "Umi \"Ahhh... Umi is... also... about to come...\""
                             ]
                         },
                         {
@@ -10001,14 +8769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう……無理だ…出ちゃう……出ちゃうよ！」"
+                                "Customer \"I can't... hold it... it's coming out... it's coming out!\""
                             ]
                         },
                         {
@@ -10041,14 +8802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴぃ！マスターの硬い！…どんどん硬くなってる！…もう……」"
+                                "Umi \"Chupii! Master's hard!... It's getting harder and harder!... I'm...\""
                             ]
                         },
                         {
@@ -10065,14 +8819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！」"
+                                "Customer \"Ahhhhhh!\""
                             ]
                         },
                         {
@@ -10089,14 +8836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぴぃぃぃぃぃぃぃぃ‼‼」"
+                                "Umi \"Chupiiiiiiiiiiii‼‼\""
                             ]
                         },
                         {
@@ -10162,7 +8902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビュッビュッビュッビュッ‼‼"
+                                "Splurt splurt splurt splurt‼‼"
                             ]
                         },
                         {
@@ -10179,14 +8919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁぁぁぁぁぁぁぁん‼‼」"
+                                "Umi \"Haaaaaaannnn‼‼\""
                             ]
                         },
                         {
@@ -10203,14 +8936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ………あぁ……気を失い…そうだ…」"
+                                "Customer \"Hah hah... ahh... I'm about to pass out...\""
                             ]
                         },
                         {
@@ -10243,14 +8969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…マスターが……気持ち良さそうで…良かった…」"
+                                "Umi \"Hah hah... Master looks... so pleased... I'm glad...\""
                             ]
                         },
                         {
@@ -10267,14 +8986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ……はぁ………いい夜だ…」"
+                                "Customer \"Hehehe... hah... what a good night...\""
                             ]
                         },
                         {
@@ -10291,7 +9003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -10308,7 +9020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -10325,7 +9037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -10563,7 +9275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -10580,7 +9292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -10597,7 +9309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]乳首で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times felt with nipples has increased!"
                             ]
                         },
                         {
@@ -10614,7 +9326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]おっぱいで感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times felt with breasts has increased!"
                             ]
                         },
                         {
@@ -10631,7 +9343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]膣内で感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times felt inside the vagina has increased!"
                             ]
                         },
                         {
@@ -10648,7 +9360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]膣内射精で感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times felt from vaginal ejaculation has increased!"
                             ]
                         },
                         {
@@ -10665,7 +9377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[240,0,0,GrowUp]クリトリスで感じた回数が上がった！"
+                                "_pum[240,0,0,GrowUp]The number of times felt with the clitoris has increased!"
                             ]
                         },
                         {
@@ -10682,7 +9394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[270,0,0,GrowUp]自ら腰を振って感じた回数が上がった！"
+                                "_pum[270,0,0,GrowUp]The number of times felt from grinding hips on one's own has increased!"
                             ]
                         },
                         {
@@ -10699,7 +9411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[300,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[300,0,0,GrowUp]The number of times felt from sexual intercourse with someone other than\nKru has increased!"
                             ]
                         },
                         {
@@ -10783,7 +9495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -10800,7 +9512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -10817,7 +9529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -10834,7 +9546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミは客を満足させた…。"
+                                "Umi satisfied the customer..."
                             ]
                         },
                         {
@@ -10993,7 +9705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -11010,7 +9722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -11027,7 +9739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]乳首で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times felt through the nipples has increased!"
                             ]
                         },
                         {
@@ -11044,7 +9756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]おっぱいで感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times felt through the breasts has increased!"
                             ]
                         },
                         {
@@ -11061,7 +9773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]膣内で感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times felt inside the vagina has increased!"
                             ]
                         },
                         {
@@ -11078,7 +9790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]膣内射精で感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times felt from vaginal ejaculation has increased!"
                             ]
                         },
                         {
@@ -11095,7 +9807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[240,0,0,GrowUp]クリトリスで感じた回数が上がった！"
+                                "_pum[240,0,0,GrowUp]The number of times felt through the clitoris has increased!"
                             ]
                         },
                         {
@@ -11112,7 +9824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[270,0,0,GrowUp]自ら腰を振って感じた回数が上がった！"
+                                "_pum[270,0,0,GrowUp]The number of times felt from grinding hips voluntarily has increased!"
                             ]
                         },
                         {
@@ -11129,7 +9841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[300,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[300,0,0,GrowUp]The number of times felt from sexual intercourse with someone other than\nKru has increased!"
                             ]
                         },
                         {

@@ -5695,14 +5695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すみません……ご迷惑お掛けして…」"
+                                "Kru: \"I'm sorry... for causing trouble...\""
                             ]
                         },
                         {
@@ -5719,14 +5712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいんだよ…ウミちゃんには世話になってるから…」"
+                                "Shopkeeper: \"It's alright... Umi-chan has helped us out a lot...\""
                             ]
                         },
                         {
@@ -5743,14 +5729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…お兄ちゃんがクルなの？」"
+                                "Mia: \"...Is big brother Kru?\""
                             ]
                         },
                         {
@@ -5767,14 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ……」"
+                                "Kru: \"Yes, that's right...\""
                             ]
                         },
                         {
@@ -5791,21 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか……色々と事情があるんだろうね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クルさん…、その子はミーアちゃん。ウミちゃんの子供だよ…」"
+                                "Shopkeeper: \"I see... You must have your circumstances, Kru-san... This\nchild is Mia-chan. Umi-chan's child...\""
                             ]
                         },
                         {
@@ -5822,14 +5780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう…ですか……。いえ…昨日一目見て…そうじゃないかって思っていました」"
+                                "Kru: \"Is that so... No... I thought so when I saw her for the first time\nyesterday.\""
                             ]
                         },
                         {
@@ -5846,14 +5797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………トト…なの？」"
+                                "Mia: \"...Are you Toto?\""
                             ]
                         },
                         {
@@ -5870,14 +5814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…そうだよ、初めまして。君のトトだよ」"
+                                "Kru: \"...Yes, nice to meet you. I'm your Toto.\""
                             ]
                         },
                         {
@@ -5894,14 +5831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぅぅ…」"
+                                "Mia: \"...Uuu...\""
                             ]
                         },
                         {
@@ -5918,14 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……どうしたの？」"
+                                "Kru: \"...What's wrong?\""
                             ]
                         },
                         {
@@ -5942,14 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁぁぁぁぁぁん！」"
+                                "Mia: \"Waaaaaaaah!\""
                             ]
                         },
                         {
@@ -5966,14 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！どうしたの⁉」"
+                                "Kru: \"Whoa! What's wrong⁉\""
                             ]
                         },
                         {
@@ -5990,14 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トトのバカーー！カカとミーアずっと……ずっと寂しかったのに！」"
+                                "Mia: \"Stupid Toto--! Kaka and Mia have been... have been lonely all this\ntime!\""
                             ]
                         },
                         {
@@ -6014,14 +5916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか…。ごめん」"
+                                "Kru: \"I see... I'm sorry.\""
                             ]
                         },
                         {
@@ -6038,14 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと会いたかったのに……」"
+                                "Mia: \"I wanted to see you so much...\""
                             ]
                         },
                         {
@@ -6062,14 +5950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん…」"
+                                "Kru: \"I'm sorry...\""
                             ]
                         },
                         {
@@ -6086,14 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁぁぁぁ！」"
+                                "Mia: \"Waaaaaaaah!\""
                             ]
                         },
                         {
@@ -6110,14 +5984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ごめんよ」"
+                                "Kru: \"...I'm sorry.\""
                             ]
                         },
                         {
@@ -6134,14 +6001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん……ウミちゃんを探していたのかい？」"
+                                "Shopkeeper: \"Kru-san... Were you looking for Umi-chan?\""
                             ]
                         },
                         {
@@ -6158,14 +6018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。五年前に僕らの村から姿を消してしまって…。それからずっと…」"
+                                "Kru: \"Yes... She disappeared from our village five years ago... and I've\nbeen searching ever since...\""
                             ]
                         },
                         {
@@ -6182,14 +6035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかい…」"
+                                "Shopkeeper: \"Is that so...\""
                             ]
                         },
                         {
@@ -6206,21 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……ウミは会いたくなかったんでしょうね…。オレとの事は過去の事として、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今を生きていたかったんでしょう…」"
+                                "Kru: \"But... Umi probably didn't want to see me... She wanted to live in\nthe present, putting our past behind her...\""
                             ]
                         },
                         {
@@ -6237,14 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Shopkeeper: \"...\""
                             ]
                         },
                         {
@@ -6261,21 +6086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕方ありません…。色々とありましたし…ウミを酷く傷つけてしまった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その報いです…」"
+                                "Kru: \"It can't be helped... There were various things... and I hurt Umi\ndeeply... It's my retribution...\""
                             ]
                         },
                         {
@@ -6292,14 +6103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは……違う」"
+                                "Shopkeeper: \"That's not it.\""
                             ]
                         },
                         {
@@ -6316,14 +6120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -6340,14 +6137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これ…」"
+                                "Shopkeeper: \"This...\""
                             ]
                         },
                         {
@@ -6364,14 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この本は…」"
+                                "Kru: \"This book is...\""
                             ]
                         },
                         {
@@ -6388,14 +6171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはウミちゃんの日記だよ…。クルさんとの事が書き記されてる」"
+                                "Shopkeeper: \"This is Umi-chan's diary... It has entries about you, Kru-\nsan.\""
                             ]
                         },
                         {
@@ -6412,14 +6188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -6436,28 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪いとは思ったんだけど、読んでしまってね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここにあんた達二人の本当の事が書いてあると私は思うよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　読んでみな…」"
+                                "Shopkeeper: \"I felt bad, but I ended up reading it... I think the truth\nabout you two is written here... Take a look for yourself...\""
                             ]
                         },
                         {
@@ -6474,14 +6222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -6503,7 +6244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -6532,7 +6273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -6561,7 +6302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -6590,14 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -6614,14 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行っておやり…。ミーアちゃんは私が見とくから…」"
+                                "Shopkeeper: \"Go on... I'll take care of Mia-chan here...\""
                             ]
                         },
                         {
@@ -6638,14 +6365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！」"
+                                "Kru: \"Thank you very much!\""
                             ]
                         },
                         {
@@ -6662,14 +6382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「必ず…二人で帰ってくるんだよ！」"
+                                "Shopkeeper: \"Make sure... you both come back together!\""
                             ]
                         },
                         {
@@ -6686,14 +6399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！……ミーア…」"
+                                "Kru: \"Yes!... Mia...\""
                             ]
                         },
                         {
@@ -6710,14 +6416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グスン……トト？」"
+                                "Mia: \"Sob... Toto?\""
                             ]
                         },
                         {
@@ -6734,14 +6433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「必ず帰ってくるから！」"
+                                "Kru: \"I'll definitely come back!\""
                             ]
                         },
                         {

@@ -2380,14 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！剣士長！いい武器入荷してるよ！」"
+                                "Weapons Shop Owner: \"Oh! Commander of the Swordsmen! We've got some fine\nweapons in stock!\""
                             ]
                         },
                         {
@@ -2404,14 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うぉぉ………なんてイイ女なんだ……じゅる……)"
+                                "Weapons Shop Owner: (Whoa... what a beautiful woman... *drool*)"
                             ]
                         },
                         {
@@ -2459,14 +2445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「相変わらず高いな…」"
+                                "Kru: \"As usual, it's pricey...\""
                             ]
                         },
                         {
@@ -2483,14 +2462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うちは高いんですよ。まあ特別な割引ってやつもありますがね…」"
+                                "Weapons Shop Owner: \"Our shop is on the expensive side. But, well, we do\nhave a special discount available...\""
                             ]
                         },
                         {
@@ -2558,14 +2530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………いらっしゃい…」"
+                                "Clerk: \"...Welcome...\""
                             ]
                         },
                         {
@@ -2582,14 +2547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこの女は……クルさんが連れていたあの女……ゴクリ…)"
+                                "Weapon Shop Owner: (This girl... she's the one Kru-san was with...\n*gulp*...)"
                             ]
                         },
                         {
@@ -2640,14 +2598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの……武器が欲しくて………」"
+                                "Umi: \"Um... I'd like to buy a weapon...\""
                             ]
                         },
                         {
@@ -2664,14 +2615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそう……じゃあ見てってくれ…」"
+                                "Weapon Shop Owner: \"Ah, I see... then please have a look around...\""
                             ]
                         },
                         {
@@ -2688,14 +2632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ドキドキ……)"
+                                "Weapon Shop Owner: (Thump thump...)"
                             ]
                         },
                         {
@@ -2759,14 +2696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこんなに高いのか……」"
+                                "Umi: \"These are so expensive...\""
                             ]
                         },
                         {
@@ -2783,14 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うちは高いんだ…」"
+                                "Weapon Shop Owner: \"Our stuff is pricey...\""
                             ]
                         },
                         {
@@ -2823,14 +2746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……どうすれば…」"
+                                "Umi: \"Ugh... what should I do...\""
                             ]
                         },
                         {
@@ -2847,14 +2763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんた……うちでやってる特別な割引をしてやろうか？」"
+                                "Weapon Shop Owner: \"You... how about I give you a special discount we offer\nhere?\""
                             ]
                         },
                         {
@@ -2887,14 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「特別？」"
+                                "Umi: \"Special?\""
                             ]
                         },
                         {
@@ -2911,14 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…オレの肉棒をしゃぶってくれたら、安くしてやるよ」"
+                                "Weapon Shop Owner: \"Yeah... if you suck my cock, I'll give you a discount.\""
                             ]
                         },
                         {
@@ -2951,14 +2846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんてこと…」"
+                                "Umi: \"Wha-what are you saying...?\""
                             ]
                         },
                         {
@@ -2975,14 +2863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌ならいいんだぜ…」"
+                                "Weapon Shop Owner: \"If you don't like it, that's fine...\""
                             ]
                         },
                         {
@@ -3015,14 +2896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Umi: \"Ugh...\""
                             ]
                         },
                         {
@@ -3039,7 +2913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋の誘いに乗りますか？"
+                                "Will you take up the weapon shop owner's offer?"
                             ]
                         },
                         {
@@ -3047,8 +2921,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3094,14 +2968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(しょうがない…。これも村の皆の為…)"
+                                "Umi: (I have no choice... it's for the sake of the village...)"
                             ]
                         },
                         {
@@ -3134,14 +3001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わっわかった…」"
+                                "Umi: \"I-I understand...\""
                             ]
                         },
                         {
@@ -3158,14 +3018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「何がわかったんだ？」"
+                                "Weapon Shop Owner: \"What do you understand?\""
                             ]
                         },
                         {
@@ -3198,14 +3051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うぅ……それは…」"
+                                "Umi: \"Ugh... that is...\""
                             ]
                         },
                         {
@@ -3222,14 +3068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちゃんと言えなきゃこの話はなしだ」"
+                                "Weapon Shop Owner: \"If you can't say it properly, the deal is off.\""
                             ]
                         },
                         {
@@ -3262,14 +3101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まっ待って！言うから…ちゃんと言う…」"
+                                "Umi: \"W-wait! I'll say it... I'll say it properly...\""
                             ]
                         },
                         {
@@ -3286,14 +3118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……ゴクリ」"
+                                "Weapon Shop Owner: \"...*gulp*\""
                             ]
                         },
                         {
@@ -3326,14 +3151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「武器を割引してもらう代わりに、おっお前の…を…しゃぶる…」"
+                                "Umi: \"In exchange for a discount on the weapon, I'll s-suck your...\""
                             ]
                         },
                         {
@@ -3350,14 +3168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しゃぶらせて下さいだろ？」"
+                                "Weapon Shop Owner: \"You mean 'please let me suck it', right?\""
                             ]
                         },
                         {
@@ -3390,14 +3201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しゃっ…しゃぶらせて下さい…」"
+                                "Umi: \"S-suck it... please let me suck it...\""
                             ]
                         },
                         {
@@ -3414,21 +3218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ったく…。そんなにせがまれちゃぁしょうがない…。いっちょ人助けの為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　一肌脱ぐか！」"
+                                "Weapon Shop Owner: \"Tsk... if you beg that much, I can't help it... I guess\nI'll strip down for the sake of helping someone out!\""
                             ]
                         },
                         {
@@ -3541,7 +3331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -3558,7 +3348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -3575,7 +3365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -3604,14 +3394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うっうそだろねぇちゃん！」"
+                                "Weapon Shop Owner: \"Oh, you can't be serious, girl!\""
                             ]
                         },
                         {
@@ -3628,14 +3411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅっぼじゅっぼ…ぐっちゅぐっちゅぐっちゅぐっちゅ！」"
+                                "Umi: \"Slurp slurp... gush gush gush gush!\""
                             ]
                         },
                         {
@@ -3673,14 +3449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うぁ！ちょっとまって！うっうますぎだろ！」"
+                                "Weapon Shop Owner: \"Whoa! Wait a minute! That feels too good!\""
                             ]
                         },
                         {
@@ -3697,14 +3466,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅっぼじゅっぼじゅっぼじゅっぼ…ずるずるずるずる！」"
+                                "Umi: \"Slurp slurp slurp slurp... slurp slurp slurp slurp!\""
                             ]
                         },
                         {
@@ -3721,14 +3483,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まっまて！ちょっとまて！ちょっとやめて！」"
+                                "Weapon Shop Owner: \"Wait! Wait a minute! Stop for a second!\""
                             ]
                         },
                         {
@@ -3761,14 +3516,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「んぅ……どうした？」"
+                                "Umi: \"Mmm... what's wrong?\""
                             ]
                         },
                         {
@@ -3785,14 +3533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや……そっそんな……そんなに上手いと思わなくて…。危うく出ちまうとこだった…」"
+                                "Weapon Shop Owner: \"No... I just didn't expect you to be so good at this...\nI was about to cum...\""
                             ]
                         },
                         {
@@ -3809,14 +3550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そっそんなにか…。ウミの…そんなに上手かったのか？」"
+                                "Umi: \"Am I that good...? Was Umi's... that good?\""
                             ]
                         },
                         {
@@ -3833,21 +3567,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「上手いなんてもんじゃねぇ…。今まで色んな女にしゃぶらせて来たが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　こんなに感じたのは初めてだ…」"
+                                "Weapon Shop Owner: \"Good doesn't even begin to describe it... I've had\nplenty of women suck me off before, but this is the first time it's felt\nthis amazing...\""
                             ]
                         },
                         {
@@ -3880,14 +3600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そっそうなのか…」"
+                                "Umi: \"Is that so...\""
                             ]
                         },
                         {
@@ -3904,21 +3617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(ウミ……そんなに事になってたのか…。シフ様の言う通りにしていただけなのに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　これが普通じゃないのか…)"
+                                "Umi: (I didn't realize I was so skilled at this... I was just doing as\nChancellor Shif instructed... Is this not normal...?)"
                             ]
                         },
                         {
@@ -3935,14 +3634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おねえちゃん…。かなりスケベなんだな…。まあそんな恰好してりゃそうか…」"
+                                "Weapon Shop Owner: \"Sis... you're quite lewd, aren't you... Well, I guess\nthat's to be expected with that kind of outfit...\""
                             ]
                         },
                         {
@@ -3959,14 +3651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Umi: \"Ugh...\""
                             ]
                         },
                         {
@@ -3983,14 +3668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(そんなのじゃなかったのに…)"
+                                "Umi: (I wasn't like that before...)"
                             ]
                         },
                         {
@@ -4007,14 +3685,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃぁ…ゆっくり頼む…。まずは舌でちょっとずつ舐めてくれ」"
+                                "Weapon Shop Owner: \"So... please go slowly... Start by licking it gently\nwith your tongue.\""
                             ]
                         },
                         {
@@ -4031,14 +3702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「…わかった」"
+                                "Umi: \"...Understood.\""
                             ]
                         },
                         {
@@ -4071,7 +3735,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チロチロチロチロ…"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -4088,14 +3752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「どうだ……はぅ……気持ちいいか？」"
+                                "Umi: \"How is it... hau... does it feel good?\""
                             ]
                         },
                         {
@@ -4112,14 +3769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ！あぁぁ！はっ……なんて力加減……あぁ…」"
+                                "Weapon Shop Owner: \"Ah! Aah! Ha... such control... aah...\""
                             ]
                         },
                         {
@@ -4136,7 +3786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チロチロチロチロ…"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -4169,14 +3819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅる……ちぅ……はぁはぁ……じゅる…」"
+                                "Umi: \"Slurp... kiss... haa haa... slurp...\""
                             ]
                         },
                         {
@@ -4193,14 +3836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(なんだ…。こいつ…ピクピクして……)"
+                                "Umi: (What's this... he's twitching...)"
                             ]
                         },
                         {
@@ -4217,14 +3853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……なっ………そこは………なんでそんなに感じる場所ばっかり…」"
+                                "Weapon Shop Owner: \"Aah... that spot... why do you only find the most\nsensitive places...\""
                             ]
                         },
                         {
@@ -4241,7 +3870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チロチロチロチロ……"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -4258,14 +3887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちぅ……じゅるるるる……はむぅ……はぁはぁ…」"
+                                "Umi: \"Kiss... slurrrrp... munch... haa haa...\""
                             ]
                         },
                         {
@@ -4282,14 +3904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁ！なっなんでこんな切ない感じに……。あっそこは！」"
+                                "Weapon Shop Owner: \"Aaah! Why does it feel so agonizingly good... ah, that\nspot!\""
                             ]
                         },
                         {
@@ -4322,7 +3937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グッポグッポグッポグッポグッポ！"
+                                "Gulp gulp gulp gulp gulp!"
                             ]
                         },
                         {
@@ -4339,14 +3954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ぐっちゅぐっちゅぐっちゅぐっちゅ！ふっふっふっ！うぅぅ…」"
+                                "Umi: \"Guchu guchu guchu guchu! Huff huff huff! Uuu...\""
                             ]
                         },
                         {
@@ -4363,14 +3971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そっそんないきなり！あぁぁ！」"
+                                "Weapon Shop Owner: \"Not so suddenly! Aaah!\""
                             ]
                         },
                         {
@@ -4387,7 +3988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グッポグッポグッポグッポグッポ！"
+                                "Gulp gulp gulp gulp gulp!"
                             ]
                         },
                         {
@@ -4420,14 +4021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁはぁ…ぐっちゅぐっちゅぐっちゅぐっちゅ！うぅぅ……うぅぅ…」"
+                                "Umi: \"Haa haa... guchu guchu guchu guchu! Uuu... uuu...\""
                             ]
                         },
                         {
@@ -4444,14 +4038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁ！だっだめだ……こりゃ…だめだ…」"
+                                "Weapon Shop Owner: \"Aaah! No good... this is bad...\""
                             ]
                         },
                         {
@@ -4468,7 +4055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グッポグッポグッポグッポグッポ！"
+                                "Gulp gulp gulp gulp gulp!"
                             ]
                         },
                         {
@@ -4501,21 +4088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「んぅ！んぅ！ぐっちゅぐっちゅぐっちゅぐっちゅ！はぁはぁ…じゅるるる…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　んぅあぁ……じゅぶじゅぶじゅぶじゅぶ！」"
+                                "Umi: \"Nuu! Nuu! Guchu guchu guchu guchu! Haa haa... slurrrrp... nuu aah...\nslurp slurp slurp slurp!\""
                             ]
                         },
                         {
@@ -4532,14 +4105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ…はぁぁぁぁぁ！」"
+                                "Weapon Shop Owner: \"Aah... haaaah!\""
                             ]
                         },
                         {
@@ -4556,14 +4122,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ずるずるずるずる！グッポグッポグッポグッポ！んぅぅぅ！」"
+                                "Umi: \"Zuru zuru zuru zuru! Gulp gulp gulp gulp! Nuuuu!\""
                             ]
                         },
                         {
@@ -4629,7 +4188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ビュッビュッビュッビュッ‼‼"
+                                "Squirt squirt squirt squirt!!"
                             ]
                         },
                         {
@@ -4646,14 +4205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁぁぁぁ！」"
+                                "Weapon Shop Owner: \"Aaaaaah!\""
                             ]
                         },
                         {
@@ -4670,14 +4222,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁぁ！熱い！」"
+                                "Umi: \"Aaaah! It's hot!\""
                             ]
                         },
                         {
@@ -4694,14 +4239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁはぁはぁ……あぁ……あぁ腰が……」"
+                                "Weapon Shop Owner: \"Haa haa haa... aah... my hips...\""
                             ]
                         },
                         {
@@ -4734,14 +4272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁはぁ……こんな……いっぱい出た…」"
+                                "Umi: \"Haa haa... so much came out...\""
                             ]
                         },
                         {
@@ -4758,14 +4289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……オレも…こんなに出したの…初めてで…」"
+                                "Weapon Shop Owner: \"Aah... I've never... released so much before...\""
                             ]
                         },
                         {
@@ -4782,14 +4306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(そっか……。初めてなんだ…)"
+                                "Umi: (I see... it's his first time...)"
                             ]
                         },
                         {
@@ -4806,14 +4323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃぁ……武器を安くして？」"
+                                "Umi: \"Then... how about you make the weapons cheaper?\""
                             ]
                         },
                         {
@@ -4830,14 +4340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おぅ……じゃぁこれでどうだ」"
+                                "Weapon Shop Owner: \"Alright... how about this?\""
                             ]
                         },
                         {
@@ -4885,14 +4388,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これでもまだ高い…」"
+                                "Umi: \"This is still too expensive...\""
                             ]
                         },
                         {
@@ -4909,14 +4405,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そりゃぁ…お前…無理言うな…。まあ常連さんになったらまた考えてやるよ」"
+                                "Weapon Shop Owner: \"Come on... you're asking too much... Well, if you\nbecome a regular, I'll think about it.\""
                             ]
                         },
                         {
@@ -5094,7 +4583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power value has increased!"
                             ]
                         },
                         {
@@ -5111,7 +4600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame value has increased!"
                             ]
                         },
                         {
@@ -5128,7 +4617,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times felt pleasure from sexual intercourse other than with\nKru has increased!"
                             ]
                         },
                         {
@@ -5158,14 +4647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁそうかい…。必要になったらいつでも言ってくれ」"
+                                "Weapon Shop Owner: \"Ah, is that so... Whenever you need something, just let\nme know.\""
                             ]
                         },
                         {
@@ -5182,14 +4664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(トホホ…)"
+                                "Weapon Shop Owner: (Sigh...)"
                             ]
                         },
                         {
@@ -5327,14 +4802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ………いらっしゃい…」"
+                                "Clerk: \"Oh... welcome...\""
                             ]
                         },
                         {
@@ -5351,14 +4819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこの女は……あぁ……またしゃぶってもらいてぇ！)"
+                                "Weapon Shop Owner (Thinking): \"This girl... Ah... I want her to suck it\nagain!\""
                             ]
                         },
                         {
@@ -5409,14 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの……武器が欲しくて………」"
+                                "Umi: \"Excuse me... I'd like to buy a weapon...\""
                             ]
                         },
                         {
@@ -5433,14 +4887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそう……じゃあ見てってくれ…」"
+                                "Weapon Shop Owner: \"Ah, I see... Go ahead and take a look...\""
                             ]
                         },
                         {
@@ -5457,14 +4904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ドキドキ……)"
+                                "Weapon Shop Owner (Thinking): \"Thump-thump...\""
                             ]
                         },
                         {
@@ -5528,14 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでまた高い？」"
+                                "Umi: \"Why is it so expensive?\""
                             ]
                         },
                         {
@@ -5552,14 +4985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃ割引前だからだ…割り引いて欲しけりゃ…分かってるな？」"
+                                "Weapon Shop Owner: \"That's because it's before the discount... If you want\na discount... You know what to do, right?\""
                             ]
                         },
                         {
@@ -5592,14 +5018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……はぁ…」"
+                                "Umi: \"Ugh... Sigh...\""
                             ]
                         },
                         {
@@ -5616,7 +5035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋の割引を受けますか？"
+                                "Will you accept the weapon shop's discount?"
                             ]
                         },
                         {
@@ -5624,8 +5043,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5709,7 +5128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -5726,7 +5145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -5743,7 +5162,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -5760,7 +5179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミは武器屋を満足させた…。"
+                                "Umi satisfied the weapon shop owner..."
                             ]
                         },
                         {
@@ -5777,14 +5196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おぅ……じゃぁこれでどうだ」"
+                                "Weapon Shop Owner: \"Alright... How about this then?\""
                             ]
                         },
                         {
@@ -5832,14 +5244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「これでもまだ高い…」"
+                                "Umi: \"It's still too expensive...\""
                             ]
                         },
                         {
@@ -5856,14 +5261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そりゃぁ…お前…無理言うな…。まあ常連さんになったらまた考えてやるよ」"
+                                "Weapon Shop Owner: \"Come on... Don't be unreasonable... Well, if you become\na regular, I'll think about it again.\""
                             ]
                         },
                         {
@@ -5948,7 +5346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic Power increased!"
                             ]
                         },
                         {
@@ -5965,7 +5363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame increased!"
                             ]
                         },
                         {
@@ -5982,7 +5380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The count of sexual encounters felt by anyone other than Kru has increased!"
                             ]
                         },
                         {
@@ -6012,14 +5410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁそうかい…。必要になったらいつでも言ってくれ」"
+                                "Weapon Shop Owner: \"Ah, is that so... Whenever you need something, just let\nme know.\""
                             ]
                         },
                         {
@@ -6036,14 +5427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(トホホ…)"
+                                "Weapon Shop Owner (Thinking): \"Sigh...\""
                             ]
                         },
                         {
@@ -6160,14 +5544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ………いらっしゃい…」"
+                                "Clerk: \"Oh... welcome...\""
                             ]
                         },
                         {
@@ -6184,14 +5561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこの女は……あぁ……またしゃぶってもらいてぇ！)"
+                                "Weapon Shop Owner (Thinking): \"This girl... Ah... I want her to suck me off\nagain!\""
                             ]
                         },
                         {
@@ -6242,14 +5612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの……武器が欲しくて………」"
+                                "Umi: \"Um... I'd like to buy a weapon...\""
                             ]
                         },
                         {
@@ -6266,14 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそう……じゃあ見てってくれ…」"
+                                "Weapon Shop Owner: \"Ah, I see... Go ahead and take a look...\""
                             ]
                         },
                         {
@@ -6290,14 +5646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ドキドキ……)"
+                                "Weapon Shop Owner (Thinking): \"Thump thump...\""
                             ]
                         },
                         {
@@ -6361,14 +5710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい加減もっと安くして」"
+                                "Umi: \"Come on, give me a better deal already.\""
                             ]
                         },
                         {
@@ -6385,14 +5727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それじゃぁ…。頼みがある…」"
+                                "Weapon Shop Owner: \"Well then... I have a favor to ask...\""
                             ]
                         },
                         {
@@ -6425,14 +5760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼み…」"
+                                "Umi: \"A favor...?\""
                             ]
                         },
                         {
@@ -6449,14 +5777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。オレ…実は誰にも言ってないんだが…。乳首が性感帯なんだ…」"
+                                "Weapon Shop Owner: \"Yeah... I haven't told anyone this, but... my nipples\nare an erogenous zone...\""
                             ]
                         },
                         {
@@ -6489,14 +5810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………はぁ」"
+                                "Umi: \"...sigh\""
                             ]
                         },
                         {
@@ -6513,21 +5827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だけど…恥ずかしくって…。他の女には頼めなくて…。なぁ…頼む…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレを乳首で逝かせてくれたら前よりももっと安くしてやる！」"
+                                "Weapon Shop Owner: \"But... I'm too embarrassed... I can't ask other\nwomen... So please... If you make me come with my nipples, I'll give you an\neven better discount than before!\""
                             ]
                         },
                         {
@@ -6544,7 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋の頼みを聞きますか？"
+                                "Will you listen to the weapon shop owner's request?"
                             ]
                         },
                         {
@@ -6552,8 +5852,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6599,14 +5899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しょうがない…」"
+                                "Umi: \"Can't be helped...\""
                             ]
                         },
                         {
@@ -6623,14 +5916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ホントか！ヤッホーーーーー！"
+                                "Weapon Shop Owner: \"Really?! Yippee-----!\""
                             ]
                         },
                         {
@@ -6694,7 +5980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -6711,7 +5997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -6728,7 +6014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -6757,14 +6043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぅぅぅぅ！あぁぁ！あぁぁ！」"
+                                "Weapon Shop Owner: \"Hauuuu! Ahhh! Ahhh!\""
                             ]
                         },
                         {
@@ -6781,14 +6060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「変な声出すな…」"
+                                "Umi: \"Don't make weird noises...\""
                             ]
                         },
                         {
@@ -6826,14 +6098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「だって…。だってよー！気持ち良過ぎるだろ！」"
+                                "Weapon Shop Owner: \"But... but you know-! It feels too good!\""
                             ]
                         },
                         {
@@ -6850,7 +6115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ペロペロペロペロ…"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -6867,14 +6132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「んぅ…ちぷちぷちぷちぷ……じゅる……ふぅぅ……」"
+                                "Umi: \"Nnn... chup chup chup chup... slurp... fuuu...\""
                             ]
                         },
                         {
@@ -6891,14 +6149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……んぅぅ……はぁはぁ……ふぁぁ！」"
+                                "Weapon Shop Owner: \"Ahh... nnnn... haa haa... faaah!\""
                             ]
                         },
                         {
@@ -6915,7 +6166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ペロペロペロペロ…"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -6948,14 +6199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅるじゅる……はぅ……ちぷちぷちぷちぷ……ぷちゅり……そんなにいいのか？」"
+                                "Umi: \"Slurp slurp... hau... chup chup chup chup... puchuri... Does it feel\nthat good?\""
                             ]
                         },
                         {
@@ -6972,14 +6216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……はぁはぁ………全身が性感帯になったみたいになるんだ…はぅぅ…あぁ！」"
+                                "Weapon Shop Owner: \"Ahh... haa haa... It's like my whole body has become an\nerogenous zone... hauuu... ahh!\""
                             ]
                         },
                         {
@@ -6996,7 +6233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゅるるるるるるるるる！"
+                                "Slurrrrrrrrrrrrrrrrrp!"
                             ]
                         },
                         {
@@ -7013,14 +6250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ふぁぁぁぁ！そんないきなり！」"
+                                "Weapon Shop Owner: \"Faaaah! Not so suddenly!\""
                             ]
                         },
                         {
@@ -7053,21 +6283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅるるるるるるるるる！ちぅぅ……はぁはぁ……あぁ……はぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ははは…いい反応するな…」"
+                                "Umi: \"Slurrrrrrrrrrrrrrrrrp! Chuuu... haa haa... ahh... haa... haha... You\nreact so well...\""
                             ]
                         },
                         {
@@ -7084,14 +6300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おまえ……オレで遊んでやが」"
+                                "Weapon Shop Owner: \"You're... playing with me, aren't you?\""
                             ]
                         },
                         {
@@ -7108,7 +6317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゅるるるるるるるるる！"
+                                "Slurrrrrrrrrrrrrrrrrp!"
                             ]
                         },
                         {
@@ -7125,14 +6334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぅぅぅぅぅぅぅぅ！」"
+                                "Weapon Shop Owner: \"Hauuuuuuuuuu!\""
                             ]
                         },
                         {
@@ -7149,14 +6351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちゅるちゅるちゅるちゅるちゅる……じゅるじゅる……ちゅぷ…」"
+                                "Umi: \"Churu churu churu churu churu... slurp slurp... chup...\""
                             ]
                         },
                         {
@@ -7173,14 +6368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……あっあぁ……」"
+                                "Weapon Shop Owner: \"Ahh... ahh ahh...\""
                             ]
                         },
                         {
@@ -7213,14 +6401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅる…お前…すごい勃起してるぞ……はち切れそうだ…」"
+                                "Umi: \"Slurp... You're... getting really hard... It looks like it's about to\nburst...\""
                             ]
                         },
                         {
@@ -7237,14 +6418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ……だってよ…こんなの………感じ過ぎてよ…あぁぁ！」"
+                                "Weapon Shop Owner: \"Ahh... because, you know... it feels too much... ahhh!\""
                             ]
                         },
                         {
@@ -7277,7 +6451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゅぶじゅぶじゅぶじゅぶ！"
+                                "Jub jub jub jub!"
                             ]
                         },
                         {
@@ -7294,14 +6468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁ！そんなにしたら！もうダメだ！」"
+                                "Weapon Shop Owner: \"Ahhh! If you keep doing that! I can't take it anymore!\""
                             ]
                         },
                         {
@@ -7318,14 +6485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゅるじゅじゅるじゅる！ちるちるちるちる！じゅるるるるる！」"
+                                "Umi: \"Slurp slurp slurp slurp! Chiru chiru chiru chiru! Slurrrrrrrrrr!\""
                             ]
                         },
                         {
@@ -7342,14 +6502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁぁぁぁ！」"
+                                "Weapon Shop Owner: \"Ahhhhhhhhh!\""
                             ]
                         },
                         {
@@ -7415,7 +6568,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ビュッビュッビュッビュッ‼‼"
+                                "Splurt splurt splurt splurt!!"
                             ]
                         },
                         {
@@ -7432,14 +6585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わぁぁぁ！なんだ！」"
+                                "Umi: \"Waaaah! What's this!\""
                             ]
                         },
                         {
@@ -7456,14 +6602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁぁぁぁぁぁ！出ちまった！はぁはぁ……あぁぁ…」"
+                                "Weapon Shop Owner: \"Ahhhhhhhh! It came out! Haa haa... ahhh...\""
                             ]
                         },
                         {
@@ -7496,14 +6635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「オマエ…。乳首で感じてこんな事になるのか…」"
+                                "Umi: \"You... get off on your nipples and it turns into this...\""
                             ]
                         },
                         {
@@ -7520,14 +6652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はぁはぁ……。オレも…まさか射精する事になるとは……。あぁ……」"
+                                "Weapon Shop Owner: \"Haa haa... I also... never thought I'd ejaculate...\nahh...\""
                             ]
                         },
                         {
@@ -7544,14 +6669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃぁ…割引しろ」"
+                                "Umi: \"Then... give me a discount.\""
                             ]
                         },
                         {
@@ -7568,14 +6686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁ…任せろ…」"
+                                "Weapon Shop Owner: \"Ahh... leave it to me...\""
                             ]
                         },
                         {
@@ -7623,14 +6734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「なんだ…こんなに安くなるのか？」"
+                                "Umi: \"What... it's this cheap?\""
                             ]
                         },
                         {
@@ -7647,21 +6751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや…ねえちゃん…。これは感謝の気持ちだよ…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　オレを…逝かせてくれて…ありがとう…」"
+                                "Weapon Shop Owner: \"No... sister... this is a token of my gratitude...\nthank you... for making me come...\""
                             ]
                         },
                         {
@@ -7678,14 +6768,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おっおぅ…。じゃぁ…ウミはもう行くから…」"
+                                "Umi: \"Ohh... well then... Umi is going to leave now...\""
                             ]
                         },
                         {
@@ -7810,7 +6893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -7827,7 +6910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -7844,7 +6927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The count of sexual encounters felt by anyone other than Kru has increased!"
                             ]
                         },
                         {
@@ -7874,14 +6957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁそうかい…。必要になったらいつでも言ってくれ」"
+                                "Weapon Shop Owner: \"Ahh, is that so... whenever you need something, just\nlet me know.\""
                             ]
                         },
                         {
@@ -7898,14 +6974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(トホホ…)"
+                                "Weapon Shop Owner: \"(Alas...)\""
                             ]
                         },
                         {
@@ -8036,14 +7105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ………いらっしゃい…」"
+                                "Clerk: \"Oh... welcome...\""
                             ]
                         },
                         {
@@ -8060,14 +7122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あぁ！また来てくれた！)"
+                                "Weapon Shop (Ah! She came again!)"
                             ]
                         },
                         {
@@ -8118,14 +7173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「武器が欲しくて………」"
+                                "Umi: \"I'm looking for a weapon...\""
                             ]
                         },
                         {
@@ -8142,14 +7190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…じゃあ見てってくれ…」"
+                                "Weapon Shop: \"Ah... then please have a look...\""
                             ]
                         },
                         {
@@ -8166,14 +7207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ドキドキ……)"
+                                "Weapon Shop (Thump-thump...)"
                             ]
                         },
                         {
@@ -8237,14 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでまた高い？」"
+                                "Umi: \"Why is it so expensive again?\""
                             ]
                         },
                         {
@@ -8261,14 +7288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃ割引前だからだ…割り引いて欲しけりゃ…」"
+                                "Weapon Shop: \"Well, that's because it's before the discount... If you want\na discount...\""
                             ]
                         },
                         {
@@ -8301,14 +7321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…まったく……」"
+                                "Umi: \"...Really...\""
                             ]
                         },
                         {
@@ -8325,7 +7338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "武器屋の割引を受けますか？"
+                                "Will you accept the weapon shop's discount?"
                             ]
                         },
                         {
@@ -8333,8 +7346,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8418,7 +7431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -8435,7 +7448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -8452,7 +7465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -8469,7 +7482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミは武器屋を満足させた…。"
+                                "Umi satisfied the weapon shop owner..."
                             ]
                         },
                         {
@@ -8510,14 +7523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「おぅ……じゃぁこれでどうだ」"
+                                "Weapon Shop: \"Oh... then how about this?\""
                             ]
                         },
                         {
@@ -8599,14 +7605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「じゃぁ…ウミは行くから…」"
+                                "Umi: \"Then... Umi will be going...\""
                             ]
                         },
                         {
@@ -8623,14 +7622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「毎度！また来て下さい！」"
+                                "Weapon Shop: \"Thank you for your patronage! Please come again!\""
                             ]
                         },
                         {
@@ -8715,7 +7707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic Power has increased!"
                             ]
                         },
                         {
@@ -8732,7 +7724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -8749,7 +7741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The count of times felt pleasure from intercourse, other than with Kru, has\nincreased!"
                             ]
                         },
                         {
@@ -8779,14 +7771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「あぁそうかい…。必要になったらいつでも言ってくれ」"
+                                "Weapon Shop: \"Ah, I see... Whenever you need something, just let me know.\""
                             ]
                         },
                         {
@@ -8803,14 +7788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "武器屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(トホホ…)"
+                                "Weapon Shop (Sigh...)"
                             ]
                         },
                         {

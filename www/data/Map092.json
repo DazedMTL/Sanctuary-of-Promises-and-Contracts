@@ -21631,14 +21631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…飲み過ぎたぁ…」"
+                                "Villager: \"Ahh... I drank too much...\""
                             ]
                         },
                         {
@@ -21725,14 +21718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…飲み過ぎたぁ…」"
+                                "Villager: \"Ahh... I drank too much...\""
                             ]
                         },
                         {
@@ -21869,14 +21855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…もう食えない」"
+                                "Villager: \"Ahh... I can't eat anymore.\""
                             ]
                         },
                         {
@@ -21963,14 +21942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…もう食えない」"
+                                "Villager: \"Ahh... I can't eat anymore.\""
                             ]
                         },
                         {
@@ -23067,14 +23039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！すごいなぁ！これ全部作ったの？」"
+                                "Kru: \"Umi! This is amazing! Did you make all of this?\""
                             ]
                         },
                         {
@@ -23125,14 +23090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆に手伝ってもらった。でも味付けはウミ」"
+                                "Umi: \"Everyone helped out. But I did the seasoning.\""
                             ]
                         },
                         {
@@ -23149,14 +23107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すごいよ！どれも美味しそう！」"
+                                "Kru: \"It's incredible! Everything looks so delicious!\""
                             ]
                         },
                         {
@@ -23189,14 +23140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほれ、肉が焼けたぞ」"
+                                "Umi: \"Here, the meat is grilled.\""
                             ]
                         },
                         {
@@ -23213,21 +23157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おー。ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いただきます」"
+                                "Kru: \"Oh-. Thank you. Let's eat.\""
                             ]
                         },
                         {
@@ -23244,7 +23174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モグモグモグ…。"
+                                "Munch munch munch..."
                             ]
                         },
                         {
@@ -23277,14 +23207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうだ？うまいか？」"
+                                "Umi: \"How is it? Good?\""
                             ]
                         },
                         {
@@ -23301,14 +23224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うんまっ‼‼こんなうまいの初めて食べた‼‼」"
+                                "Kru: \"Yeah, delicious!! I've never had anything this good!!\""
                             ]
                         },
                         {
@@ -23341,14 +23257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんなにか？」"
+                                "Umi: \"Is it really that good?\""
                             ]
                         },
                         {
@@ -23365,14 +23274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなにだよ‼城の料理人だってこんなに旨い味付けできないよ！」"
+                                "Kru: \"It really is!! Even the castle's chefs can't season this well!\""
                             ]
                         },
                         {
@@ -23405,14 +23307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ…、照れる…」"
+                                "Umi: \"Mmm... I'm blushing...\""
                             ]
                         },
                         {
@@ -23429,14 +23324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…もう一個ちょうだい！」"
+                                "Kru: \"Umi... Can I have another one?\""
                             ]
                         },
                         {
@@ -23469,21 +23357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめだ！これはウミの食うやつだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他の料理食べてこい！」"
+                                "Umi: \"No way! This one's for me to eat! Go eat some of the other dishes!\""
                             ]
                         },
                         {
@@ -23500,14 +23374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はーい」"
+                                "Kru: \"Yes, ma'am.\""
                             ]
                         },
                         {
@@ -23706,14 +23573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかり食べてるか？」"
+                                "Umi: \"Are you eating properly?\""
                             ]
                         },
                         {
@@ -24117,21 +23977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おつかれさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さすがに疲れた？」"
+                                "Kru: \"Good work today. You must be tired, huh?\""
                             ]
                         },
                         {
@@ -24148,14 +23994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、疲れた…。でも…楽しかったな」"
+                                "Umi: \"Yeah, I'm tired... But... it was fun.\""
                             ]
                         },
                         {
@@ -24172,14 +24011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「楽しかった？……そうだな、楽しかったな」"
+                                "Kru: \"Fun? ...Yeah, it was fun.\""
                             ]
                         },
                         {
@@ -24196,14 +24028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。森探索して、洞窟探検して、狩りして、花束貰って…」"
+                                "Umi: \"Yeah. Exploring the forest, spelunking in caves, hunting, receiving a\nbouquet...\""
                             ]
                         },
                         {
@@ -24220,14 +24045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…」"
+                                "Kru: \"Yeah...\""
                             ]
                         },
                         {
@@ -24244,14 +24062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエが来てからなんか変わった…」"
+                                "Umi: \"Something changed when you came...\""
                             ]
                         },
                         {
@@ -24268,14 +24079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉」"
+                                "Kru: \"Eh⁉\""
                             ]
                         },
                         {
@@ -24292,14 +24096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーアがなんか明るくなった…」"
+                                "Umi: \"Mia became somewhat brighter...\""
                             ]
                         },
                         {
@@ -24316,14 +24113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、ミーアね。そうだよね…」"
+                                "Kru: \"Ah, Mia. Yeah, I guess so...\""
                             ]
                         },
                         {
@@ -24340,14 +24130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに…」"
+                                "Mia: \"And...\""
                             ]
                         },
                         {
@@ -24364,14 +24147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに？」"
+                                "Kru: \"And?\""
                             ]
                         },
                         {
@@ -24388,14 +24164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うぅん。なんでもない」"
+                                "Umi: \"...No, it's nothing.\""
                             ]
                         },
                         {
@@ -24412,14 +24181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよぉ」"
+                                "Kru: \"What is it?\""
                             ]
                         },
                         {
@@ -24436,21 +24198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミこの村好き…。皆温かい…」"
+                                "Umi: \"Hehe. I like this village... Everyone's so warm...\""
                             ]
                         },
                         {
@@ -24467,14 +24215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。いい場所だな、ここは」"
+                                "Kru: \"Ah. It's a nice place, this.\""
                             ]
                         },
                         {
@@ -24491,14 +24232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも…ウミ、外の世界見てみたい」"
+                                "Umi: \"But... I want to see the outside world.\""
                             ]
                         },
                         {
@@ -24515,14 +24249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -24539,21 +24266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミの名前カカ付けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミっていうのは海のこと。クル見た事ある？」"
+                                "Umi: \"My name was given to me by Kaka. Umi means 'sea.' Have you seen it,\nKru?\""
                             ]
                         },
                         {
@@ -24570,14 +24283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「海？あるよ。すごくデカくて飲まれそうになる」"
+                                "Kru: \"The sea? Yeah, I've seen it. It's huge and feels like it could\nswallow you whole.\""
                             ]
                         },
                         {
@@ -24594,14 +24300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミは海見てみたい。カカがその名前ウミにつけたわけがわかるかもって思う」"
+                                "Umi: \"I want to see the sea. Maybe then I'll understand why Kaka gave me\nthat name.\""
                             ]
                         },
                         {
@@ -24618,14 +24317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっとすごく良い意味でつけたと思う」"
+                                "Kru: \"I'm sure it was given with a very good meaning.\""
                             ]
                         },
                         {
@@ -24642,14 +24334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいとこ？」"
+                                "Umi: \"A good place?\""
                             ]
                         },
                         {
@@ -24666,14 +24351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…」"
+                                "Kru: \"Yeah...\""
                             ]
                         },
                         {
@@ -24690,14 +24368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつか…行けたらいいな…」"
+                                "Umi: \"I hope... we can go there someday...\""
                             ]
                         },
                         {
@@ -24714,14 +24385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあさ！オレ…オレが…連れてってやるよ！」"
+                                "Kru: \"Then let's do this! I... I'll take you there!\""
                             ]
                         },
                         {
@@ -24738,14 +24402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっでも……無理だよ…」"
+                                "Umi: \"Eh, but... that's impossible...\""
                             ]
                         },
                         {
@@ -24762,14 +24419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無理じゃない！いつか…約束な！」"
+                                "Kru: \"It's not impossible! Someday... it's a promise!\""
                             ]
                         },
                         {
@@ -24786,14 +24436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -24810,14 +24453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ？」"
+                                "Kru: \"...Umi?\""
                             ]
                         },
                         {
@@ -24834,14 +24470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん…。なんかオマエが言うと、行ける気がした…」"
+                                "Umi: \"Mmm... Somehow, when you say it, I feel like we can really go...\""
                             ]
                         },
                         {
@@ -24858,14 +24487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気がしたじゃない！行くんだ！」"
+                                "Kru: \"It's not just a feeling! We will go!\""
                             ]
                         },
                         {
@@ -24882,14 +24504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん……約束…」"
+                                "Umi: \"...Yeah... a promise...\""
                             ]
                         },
                         {
@@ -24906,14 +24521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…あぁ…。約束だ……」"
+                                "Kru: \"...Ah... a promise...\""
                             ]
                         },
                         {
@@ -24930,14 +24538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あれ…おかしいななんかドキドキしてきた）"
+                                "Kru (Something's strange... why am I feeling so excited?)"
                             ]
                         },
                         {
@@ -24954,14 +24555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やっぱ昼間に胸触ったからか…）"
+                                "Kru (Is it because I touched her chest during the day...?)"
                             ]
                         },
                         {
@@ -24978,14 +24572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いや、この気持ち…きっとそれだけじゃない気が…)"
+                                "Kru (No, this feeling... it's definitely not just that...)"
                             ]
                         },
                         {
@@ -25002,14 +24589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…うぅ…」"
+                                "Umi: \"Mmm... Mmm...\""
                             ]
                         },
                         {
@@ -25026,21 +24606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（‼‼‼‼‼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミもなんか潤んだ目をしている…。ひょっとして）"
+                                "Kru (‼‼‼‼‼ Umi's eyes are also moist... could it be)"
                             ]
                         },
                         {
@@ -25057,14 +24623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ひょっとして…オレのこと…）"
+                                "Kru (Could it be... she feels something for me...)"
                             ]
                         },
                         {
@@ -25081,14 +24640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ウミ‼‼‼‼）"
+                                "Kru (Umi‼‼‼‼)"
                             ]
                         },
                         {
@@ -25105,14 +24657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんか頭がふわふわする…」"
+                                "Umi: \"My head feels all fuzzy...\""
                             ]
                         },
                         {
@@ -25129,14 +24674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Kru: \"Hm?\""
                             ]
                         },
                         {
@@ -25181,14 +24719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…気持ち悪い」"
+                                "Umi: \"...I feel sick.\""
                             ]
                         },
                         {
@@ -25205,14 +24736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ウミさん！それお酒じゃない！飲めるの？」"
+                                "Kru: \"Hm? Umi-san! That's not a drink! Can you drink that?\""
                             ]
                         },
                         {
@@ -25229,14 +24753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…ウミお酒飲まない。飲んだら族長怒る」"
+                                "Umi: \"...Umi doesn't drink alcohol. If I did, the chieftain would get\nangry.\""
                             ]
                         },
                         {
@@ -25253,14 +24770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？でもそれお酒だよ。ひょっとしていっぱい飲んだ？」"
+                                "Kru: \"Eh? But that's alcohol. Did you drink a lot by any chance?\""
                             ]
                         },
                         {
@@ -25277,14 +24787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。旨かったからガブガブと」"
+                                "Umi: \"Yeah. It was tasty, so I gulped it down.\""
                             ]
                         },
                         {
@@ -25301,14 +24804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁまずいんじゃないかな…」"
+                                "Kru: \"No, that's not good...\""
                             ]
                         },
                         {
@@ -25325,14 +24821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにがまず…う”っ‼‼‼‼‼‼」"
+                                "Umi: \"What's not good... ugh‼‼‼‼‼‼\""
                             ]
                         },
                         {
@@ -25571,14 +25060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲロゲロゲロゲロ……」"
+                                "Umi: \"Blegh blegh blegh blegh...\""
                             ]
                         },
                         {
@@ -25595,14 +25077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん！ちょっと！」"
+                                "Kru: \"Umi-san! Wait a minute!\""
                             ]
                         },
                         {
@@ -25619,14 +25094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「き…もち…わ…」"
+                                "Umi: \"I... feel... so...\""
                             ]
                         },
                         {
@@ -25643,14 +25111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはわかっ」"
+                                "Kru: \"I get that but—\""
                             ]
                         },
                         {
@@ -25703,14 +25164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲロゲロゲロゲロ……」"
+                                "Umi: \"Blegh blegh blegh blegh...\""
                             ]
                         },
                         {
@@ -25727,14 +25181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁぁ！なぜオレに吐くぅぅぅ‼‼‼」"
+                                "Kru: \"Whoa! Why are you throwing up on me‼‼‼\""
                             ]
                         },
                         {
@@ -25785,14 +25232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…はぁ…」"
+                                "Umi: \"Haa... haa...\""
                             ]
                         },
                         {
@@ -25809,14 +25249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん、落ち着いた？」"
+                                "Kru: \"Umi-san, have you calmed down?\""
                             ]
                         },
                         {
@@ -25849,14 +25282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……すっきりした…おや…す…」"
+                                "Umi: \"Haa... I feel refreshed... oh... sleepy...\""
                             ]
                         },
                         {
@@ -25880,14 +25306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「寝るなーーーーーーー！」"
+                                "Kru: \"Don't sleep-------!\""
                             ]
                         },
                         {
@@ -26079,7 +25498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから僕達は穏やかで、温かな日々を過ごしていった…。"
+                                "And from then on, we spent our days in peace and warmth..."
                             ]
                         },
                         {
@@ -26180,14 +25599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ…気持ち悪い」"
+                                "Villager: \"Ugh... I feel sick.\""
                             ]
                         },
                         {
@@ -26340,14 +25752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ！思ってたよりすごいなぁ…」"
+                                "Kru: \"Wow! This is more amazing than I thought...\""
                             ]
                         },
                         {
@@ -26364,7 +25769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グゥ…"
+                                "Grr..."
                             ]
                         },
                         {
@@ -26381,14 +25786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは、腹減った」"
+                                "Kru: \"Hahaha, I'm hungry.\""
                             ]
                         },
                         {
@@ -26524,14 +25922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よう兄ちゃん！兄ちゃんがこの肉狩ったんだって！やるねぇ！」"
+                                "Villager: \"Hey there, big bro! I heard you're the one who hunted this meat!\nNice job!\""
                             ]
                         },
                         {
@@ -26548,14 +25939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁありがとうございます」"
+                                "Kru: \"Ah, thank you very much.\""
                             ]
                         },
                         {
@@ -26572,14 +25956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほれ！冷めない内にお食べ！」"
+                                "Villager: \"Here you go! Eat it while it's still warm!\""
                             ]
                         },
                         {
@@ -26666,14 +26043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うまかったか？」"
+                                "Villager: \"Was it good?\""
                             ]
                         },
                         {
@@ -26750,14 +26120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほれほれさっさと食べないとなくなるぞ！」"
+                                "Villager: \"Come on, eat up quick or it'll all be gone!\""
                             ]
                         },
                         {
@@ -26774,14 +26137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁありがとうございます」"
+                                "Kru: \"Ah, thank you very much.\""
                             ]
                         },
                         {
@@ -26798,14 +26154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんの料理は最高だぜ！」"
+                                "Villager: \"Umi-chan's cooking is the best!\""
                             ]
                         },
                         {
@@ -26892,14 +26241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うまかったか？」"
+                                "Villager: \"Was it good?\""
                             ]
                         },
                         {
@@ -26976,14 +26318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほれほれ若いの！早よう食わんとなくなるぞ！」"
+                                "Villager: \"Come on, young one! Eat up quickly or it'll all be gone!\""
                             ]
                         },
                         {
@@ -27000,14 +26335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁありがとうございます」"
+                                "Kru: \"Ah, thank you very much.\""
                             ]
                         },
                         {
@@ -27024,14 +26352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミの料理が食えるなぞ…長生きしてよかった！」"
+                                "Villager: \"To be able to eat Umi's cooking... I'm glad I've lived so long!\""
                             ]
                         },
                         {
@@ -27118,14 +26439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うまかったか？」"
+                                "Villager: \"Was it good?\""
                             ]
                         },
                         {
@@ -27202,14 +26516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁあぁ、肉が溢れてくる…」"
+                                "Villager: \"Aaahhh, the flesh is overflowing...\""
                             ]
                         },
                         {
@@ -27286,14 +26593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほ。たらふく食べてこい」"
+                                "Chieftain: \"Hohoho. Eat your fill.\""
                             ]
                         },
                         {
@@ -27380,14 +26680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほ。たらふく食べてこい」"
+                                "Chieftain: \"Hohoho. Eat your fill.\""
                             ]
                         },
                         {
@@ -27464,14 +26757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君は…」"
+                                "Kru \"You are...\""
                             ]
                         },
                         {
@@ -27522,14 +26808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Girl \"...\""
                             ]
                         },
                         {
@@ -27546,21 +26825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よかった、無事だったんだね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも一人であんな森の中に行ったらだめだよ」"
+                                "Kru \"I'm glad, you're safe... But you shouldn't go into such a forest\nalone.\""
                             ]
                         },
                         {
@@ -27593,14 +26858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…けて」"
+                                "Girl \"...careful\""
                             ]
                         },
                         {
@@ -27617,14 +26875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru \"Huh?\""
                             ]
                         },
                         {
@@ -27657,14 +26908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きをつけて…」"
+                                "Girl \"Be careful...\""
                             ]
                         },
                         {
@@ -27681,14 +26925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ…」"
+                                "Kru \"Eh...?\""
                             ]
                         },
                         {
@@ -27766,21 +27003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ…消えちゃった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　幻だったのか…」"
+                                "Kru \"Huh... she disappeared... Was it an illusion...?\""
                             ]
                         },
                         {
@@ -27797,21 +27020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「疲れてんのかなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それとも飲みすぎかぁ…」"
+                                "Kru \"Am I tired... or did I drink too much...?\""
                             ]
                         },
                         {
@@ -27950,14 +27159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia \"Meow~\""
                             ]
                         },
                         {
@@ -28105,14 +27307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わーい」"
+                                "Villager: \"Yay!\""
                             ]
                         },
                         {
@@ -28229,14 +27424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わーい」"
+                                "Villager: \"Yay!\""
                             ]
                         },
                         {
@@ -28387,14 +27575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この肉…お前が狩ったんだってな…」"
+                                "Poso: \"This meat... you're the one who hunted it, huh...\""
                             ]
                         },
                         {
@@ -28411,14 +27592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…」"
+                                "Kru: \"Yeah...\""
                             ]
                         },
                         {
@@ -28451,14 +27625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中々やるじゃねぇか！近頃は狩りもできねぇ野郎が増えたが、あんたはすげぇよ！」"
+                                "Poso: \"Not bad at all! There's been an increase in guys who can't hunt\nthese days, but you're amazing!\""
                             ]
                         },
                         {
@@ -28475,14 +27642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっおう。ありがとう。ポソは狩りするのか？」"
+                                "Kru: \"Oh, thanks. Do you hunt, Poso?\""
                             ]
                         },
                         {
@@ -28515,14 +27675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オッオレは！みっ店が忙しいからな！決して狩りが怖いとかそういうんじゃない！」"
+                                "Poso: \"Me?! I've got a busy shop to run! It's definitely not because I'm\nscared of hunting or anything like that!\""
                             ]
                         },
                         {
@@ -28539,14 +27692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ…そうだな」"
+                                "Kru: \"Right... of course.\""
                             ]
                         },
                         {
@@ -28706,14 +27852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この肉…お前が狩ったんだってな…」"
+                                "Poso: \"This meat... You're the one who hunted it, huh...\""
                             ]
                         },
                         {
@@ -28815,14 +27954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんた狩りもできるんだな！また頼むよ！」"
+                                "Villager: \"You can hunt too? I'll be counting on you again!\""
                             ]
                         },
                         {
@@ -28901,14 +28033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんた狩りもできるんだな！また頼むよ！」"
+                                "Villager: \"So you can hunt too! I'll be counting on you again!\""
                             ]
                         },
                         {
@@ -28985,14 +28110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぃいいぃ」"
+                                "Villager: \"Yeeesss\""
                             ]
                         },
                         {
@@ -29069,14 +28187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おじいさん！こんなところで寝ないでおくれよ！」"
+                                "Villager: \"Old man! Please don't sleep in a place like this!\""
                             ]
                         },
                         {

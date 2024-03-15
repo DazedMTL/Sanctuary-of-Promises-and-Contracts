@@ -3947,14 +3947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ？どうした？」"
+                                "Kru: \"Umi? What's wrong?\""
                             ]
                         },
                         {
@@ -4005,14 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん？ひょっとして体調が悪いんじゃないですか？」"
+                                "Banka: \"Miss Umi? Could it be that you're feeling unwell?\""
                             ]
                         },
                         {
@@ -4063,14 +4049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う…うん…。はぁはぁ…んっ…ちょっとだけ…休みたい」"
+                                "Umi: \"Uh... yeah... haa haa... ngh... I just want to... rest a bit.\""
                             ]
                         },
                         {
@@ -4087,14 +4066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変だ！すごい汗だ！休憩しよう！」"
+                                "Kru: \"This is serious! You're sweating profusely! Let's take a break!\""
                             ]
                         },
                         {
@@ -4127,21 +4099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…だっ大丈夫……クル…ぅぅ…あっ汗の臭い…するかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あまり……近寄らない…で……」"
+                                "Umi: \"Ah... I'm okay... Kru... ugh... you might... smell the sweat... don't\ncome... too close...\""
                             ]
                         },
                         {
@@ -4158,14 +4116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの気にしないのに」"
+                                "Kru: \"I don't mind that at all.\""
                             ]
                         },
                         {
@@ -4198,14 +4149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…はぁ……ウミが…気に…する…」"
+                                "Umi: \"Ah... haa... it's Umi who... cares...\""
                             ]
                         },
                         {
@@ -4238,14 +4182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁオレすぐに薬とかメシとかの準備します！」"
+                                "Banka: \"Then I'll go prepare some medicine and food right away!\""
                             ]
                         },
                         {
@@ -4262,14 +4199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！頼む！」"
+                                "Kru: \"Ah! Please do!\""
                             ]
                         },
                         {
@@ -4302,14 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「み…水…」"
+                                "Umi: \"Wa... water...\""
                             ]
                         },
                         {
@@ -4326,14 +4249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「水か？ウミ」"
+                                "Kru: \"Water, Umi?\""
                             ]
                         },
                         {
@@ -4366,14 +4282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う…ん…」"
+                                "Umi: \"Uh... yeah...\""
                             ]
                         },
                         {
@@ -4390,14 +4299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった！待ってろ！」"
+                                "Kru: \"Got it! Hang on!\""
                             ]
                         },
                         {
@@ -4414,14 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ！オレは水を汲みに行ってくる！ウミの事頼んだ！」"
+                                "Kru: \"Banka! I'm going to fetch some water! Take care of Umi!\""
                             ]
                         },
                         {
@@ -4454,14 +4349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかりました！」"
+                                "Banka: \"Understood!\""
                             ]
                         },
                         {
@@ -4769,14 +4657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人ともどこにいったんだ？」"
+                                "Kru \"Where did both of you go?\""
                             ]
                         },
                         {
@@ -4819,14 +4700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う～ん、遅いなぁ…。入れ違いになるのも嫌だが…。探しに行くか…」"
+                                "Kru \"Hmm, they're late... I don't want to miss them, but... should I go\nlook for them...?\""
                             ]
                         },
                         {
@@ -4843,7 +4717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -4860,14 +4734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Kru \"Hm?\""
                             ]
                         },
                         {
@@ -4884,7 +4751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -5011,14 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ！どこいってたんだ！ウミは⁉」"
+                                "Kru \"Banka! Where have you been! And Umi⁉\""
                             ]
                         },
                         {
@@ -5069,21 +4929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、ウミさんなら用を足しに行ってくるって行きましたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレはそれならと果物とか採りに行ってました。まだ帰ってきてないんですか？」"
+                                "Banka \"Ah, Umi-san said she was going to relieve herself. I thought I'd\ntake the chance to go pick some fruit. Hasn't she come back yet?\""
                             ]
                         },
                         {
@@ -5100,14 +4946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…、心配だな…。ちょっと探しに行ってくる！」"
+                                "Kru \"Ah... I'm worried... I'm going to look for her!\""
                             ]
                         },
                         {
@@ -5140,21 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ちょっと待ってください！ウミさん行く時に付いてきたら殺すって凄い剣幕で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　睨んでましたから、出くわしたらオレが怒られますよ」"
+                                "Banka \"Ah! Wait a second! Umi-san said if anyone followed her when she\nwent, she'd kill them with a fierce glare, so if you bump into her, I'll\nget scolded.\""
                             ]
                         },
                         {
@@ -5171,14 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ」"
+                                "Kru \"Sigh\""
                             ]
                         },
                         {
@@ -5211,21 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに行く時は顔色も良くなってましたし、声も良く出てましたから心配ないと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少し待ちましょう」"
+                                "Banka \"Besides, she looked better when she left, and her voice was strong,\nso I don't think there's anything to worry about. Let's wait a little\nlonger.\""
                             ]
                         },
                         {
@@ -5242,14 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか…。そうだな。たしかにウミが用足してる時に出くわしたらと想像すると…」"
+                                "Kru \"Is that so... Yeah, you're right. Just imagining running into Umi\nwhile she's...\""
                             ]
                         },
                         {
@@ -5338,7 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -5355,7 +5152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -5372,7 +5169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -5485,14 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru \"Umi!\""
                             ]
                         },
                         {
@@ -5543,14 +5333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに⁉どうしたのクル？」"
+                                "Umi \"What⁉ What's wrong, Kru?\""
                             ]
                         },
                         {
@@ -5567,14 +5350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたじゃないよ。体調悪いのにどこ行ってたんだ？」"
+                                "Kru \"What do you mean 'what'? Where have you been when you're not feeling\nwell?\""
                             ]
                         },
                         {
@@ -5607,14 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。用を足しに行ってたんだ」"
+                                "Umi \"Ah... I went to relieve myself.\""
                             ]
                         },
                         {
@@ -5631,14 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「にしても時間が掛かりすぎだよ。心配した」"
+                                "Kru \"Even so, you took too long. I was worried.\""
                             ]
                         },
                         {
@@ -5671,14 +5433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん。恥ずかしかったからだいぶ遠くに行ってたら行き過ぎて迷った」"
+                                "Umi \"Sorry. I was embarrassed so I went quite far away, and then I got\nlost.\""
                             ]
                         },
                         {
@@ -5695,14 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか。いや無事ならいいんだ」"
+                                "Kru \"I see. Well, as long as you're safe, that's what matters.\""
                             ]
                         },
                         {
@@ -5753,21 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ無事で何よりだ！ははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おや？ウミさんさっきよりも随分すっきりしたような顔をしてますね」"
+                                "Banka \"Well, it's a relief you're safe! Hahaha! Oh? Umi-san, you look much\nmore refreshed than before.\""
                             ]
                         },
                         {
@@ -5800,14 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？」"
+                                "Umi \"Eh?\""
                             ]
                         },
                         {
@@ -5840,14 +5567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに頬もほんのりピンク色になってて、そうとう我慢してたんですね」"
+                                "Banka \"And your cheeks are a faint pink color, you must have been holding\nit in quite a bit.\""
                             ]
                         },
                         {
@@ -5880,14 +5600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi \"...\""
                             ]
                         },
                         {
@@ -5904,14 +5617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらバンカ。あんましそういう事言うな」"
+                                "Kru \"Hey Banka, don't say things like that.\""
                             ]
                         },
                         {
@@ -5944,14 +5650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやいやこれは失礼しました。ささ！お腹減ったでしょう。食べましょう」"
+                                "Banka \"No, no, my apologies. Come on! You must be hungry. Let's eat.\""
                             ]
                         },
                         {
@@ -5984,14 +5683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi \"...\""
                             ]
                         },
                         {

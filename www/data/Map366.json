@@ -1693,14 +1693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？なんだこの猫は…」"
+                                "Iburu: \"Hm? What's with this cat...?\""
                             ]
                         },
                         {
@@ -1717,14 +1710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ミーア、解除できるか？)"
+                                "Kru: (Mia, can you unlock it?)"
                             ]
                         },
                         {
@@ -1741,14 +1727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(もちろん)"
+                                "Lutecia: \"Of course.\""
                             ]
                         },
                         {
@@ -1801,14 +1780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！」"
+                                "Kru: \"Wow!\""
                             ]
                         },
                         {
@@ -1859,14 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！なっなんだ！……お前はクル！それにウミも！」"
+                                "Iburu: \"Wow! Wh-what's this!... You're Kru! And Umi is here too!\""
                             ]
                         },
                         {
@@ -1883,14 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは…どうも…」"
+                                "Kru: \"Haha... well, yeah...\""
                             ]
                         },
                         {
@@ -1923,14 +1881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今、シフ達がお前達の事を血眼になって探しているぞ！」"
+                                "Iburu: \"Right now, Shif and his men are frantically searching for you\nguys!\""
                             ]
                         },
                         {
@@ -1947,14 +1898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んぅ…やはりその様子じゃぁ。イーブルさん、シフの催眠魔法に掛かってないですね？」"
+                                "Kru: \"Hmm... as I thought. Iburu-san, you're not under Shif's hypnotic\nmagic, are you?\""
                             ]
                         },
                         {
@@ -1987,14 +1931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ急に？」"
+                                "Iburu: \"Wh-what are you talking about all of a sudden?\""
                             ]
                         },
                         {
@@ -2011,21 +1948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレ……知ってます。イーブルさんが実は只者じゃない事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして村の事、ウミの事、大事に思っているのも知ってます…」"
+                                "Kru: \"I know... I know that you're no ordinary person, Iburu-san. And I\nalso know that you care deeply about the village and Umi...\""
                             ]
                         },
                         {
@@ -2058,14 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前……」"
+                                "Iburu: \"You...\""
                             ]
                         },
                         {
@@ -2116,21 +2032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私は神ルイテシア…。私は知ってる、あなたがウミの父親が死んだ事を誰よりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悔いている事、ウミの事大切に思っている事…」"
+                                "Lutecia: \"I am the divine Lutecia... I know that you regret Umi's father's\ndeath more than anyone else, and that you hold Umi dear...\""
                             ]
                         },
                         {
@@ -2163,14 +2065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなぜそれを……」"
+                                "Iburu: \"Wh-why do you know that...\""
                             ]
                         },
                         {
@@ -2203,21 +2098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたのせいじゃない…。あなたはあの時最善を尽くした…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからもう自分を許してあげて…」"
+                                "Lutecia: \"It's not your fault... You did the best you could at that time...\nSo please forgive yourself...\""
                             ]
                         },
                         {
@@ -2250,14 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな……そんな事…」"
+                                "Iburu: \"Such... such things...\""
                             ]
                         },
                         {
@@ -2290,21 +2164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしてこのクルとウミをを導いてあげてほしい…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あなたが大切に思っているものの為に……」"
+                                "Lutecia: \"And I want you to guide Kru and Umi... for the sake of what you\nhold dear...\""
                             ]
                         },
                         {
@@ -2321,14 +2181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イーブルさんお願いします…」"
+                                "Kru: \"Please, Iburu-san...\""
                             ]
                         },
                         {
@@ -2361,14 +2214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Iburu: \"...\""
                             ]
                         },
                         {
@@ -2385,14 +2231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Kru: \"...\""
                             ]
                         },
                         {
@@ -2425,14 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………わかったよ」"
+                                "Iburu: \"...Alright.\""
                             ]
                         },
                         {
@@ -2449,14 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当ですか⁉」"
+                                "Kru: \"Really⁉\""
                             ]
                         },
                         {
@@ -2489,21 +2314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……元々お前がこの件を解決するように動いていたら手伝うつもりだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてこれくらいで挫けるような屑だったら、オレがウミを貰い受けるつもりだった」"
+                                "Iburu: \"Yeah... I was originally planning to help if you started to resolve\nthis matter. And if you turned out to be a wretch who'd give up over this,\nI was going to take Umi for myself.\""
                             ]
                         },
                         {
@@ -2520,14 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そうだったんですか」"
+                                "Kru: \"...Is that so.\""
                             ]
                         },
                         {
@@ -2560,21 +2364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……。この世は残酷で、取ったり取られたりするもんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレの大事なものもそういう憂き目にあった」"
+                                "Iburu: \"Yeah... This world is cruel, full of taking and being taken... My\nprecious things have suffered such a fate too.\""
                             ]
                         },
                         {
@@ -2591,14 +2381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Kru: \"...\""
                             ]
                         },
                         {
@@ -2631,21 +2414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレはそこで一度、酒に溺れて逃げてしまった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけどお前は自力で這い出した。そうだろう？」"
+                                "Iburu: \"I once drowned myself in alcohol and ran away from it all... But\nyou, you've clawed your way out on your own. Right?\""
                             ]
                         },
                         {
@@ -2662,14 +2431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………はい」"
+                                "Kru: \"...Yes.\""
                             ]
                         },
                         {
@@ -2702,21 +2464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前なら、この村もウミも何もかも任せられるかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　何とかしようじゃねぇか…」"
+                                "Iburu: \"If it's you, maybe I can entrust the village and Umi and everything\nelse to you. Let's try to do something about it...\""
                             ]
                         },
                         {
@@ -2733,14 +2481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Kru: \"Yes!\""
                             ]
                         },
                         {
@@ -2791,14 +2532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イーブル…ありがとう…」"
+                                "Umi: \"Iburu... thank you...\""
                             ]
                         },
                         {
@@ -2831,14 +2565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！あの紫の服着たやつに一泡噴かせてやろうじゃねぇか」"
+                                "Iburu: \"Pfft! Let's give that guy in the purple outfit a surprise.\""
                             ]
                         },
                         {
@@ -2855,14 +2582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Kru: \"Yes!\""
                             ]
                         },
                         {
@@ -2895,14 +2615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう、イーブル」"
+                                "Lutecia: \"Thank you, Iburu.\""
                             ]
                         },
                         {
@@ -2935,14 +2648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「礼を言うのはこっちだ…。ウミの傍にいてくれてありがとう」"
+                                "Iburu: \"I should be the one thanking you... for being by Umi's side.\""
                             ]
                         },
                         {
@@ -2975,14 +2681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Lutecia: \"Eh?\""
                             ]
                         },
                         {
@@ -3015,14 +2714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでもねぇよ、猫さん」"
+                                "Iburu: \"It's nothing, kitty.\""
                             ]
                         },
                         {
@@ -3198,28 +2890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブルさんは以前からこの近辺に金鉱を何か所も見つけていた事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを材料に王国の兵と取引をしていた事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "トロス将軍がシフの陰謀を警戒し、秘密裏に催眠魔法を撃退する薬を開発させて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いた事などを説明してくれた…。"
+                                "Iburu had been finding several gold mines in the vicinity for some time. He\nhad been trading with the kingdom's soldiers using that as material.\nGeneral Tros was wary of Shif's conspiracy and had secretly developed a\nmedicine to counteract hypnotic magic..."
                             ]
                         },
                         {
@@ -3236,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして僕らは準備を済ませ、シフの部屋に踏み込んだ…"
+                                "And then we finished our preparations and stepped into Shif's room..."
                             ]
                         },
                         {

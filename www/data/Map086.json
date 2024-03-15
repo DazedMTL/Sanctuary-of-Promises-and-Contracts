@@ -1999,14 +1999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう！ミーアは元気か！」"
+                                "Villager: \"Hey! Is Mia doing well?\""
                             ]
                         },
                         {
@@ -2074,14 +2067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう！クルさん！アンタよく見りゃいい男だね！あたいが嫁に行ってあげようか？」"
+                                "Villager: \"Hey there! Kru-san! You're quite a handsome man upon a closer\nlook! Should I become your bride?\""
                             ]
                         },
                         {
@@ -2149,14 +2135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！クル様…どうなされたのですか？ひょっとして私にご用が？」"
+                                "Villager: \"Ah! Lord Kru... What has happened to you? Could it be that you\nhave some business with me?\""
                             ]
                         },
                         {

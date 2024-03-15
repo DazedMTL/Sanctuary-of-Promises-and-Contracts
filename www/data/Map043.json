@@ -6906,14 +6906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん…」"
+                                "Nobleman: \"Hmph...\""
                             ]
                         },
                         {
@@ -6990,14 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはこれはクル兵士長…」"
+                                "Soldier: \"Well, well, if it isn't Commander Kru...\""
                             ]
                         },
                         {
@@ -7300,14 +7286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにを見ておる？」"
+                                "Captain of the Guard \"What are you looking at?\""
                             ]
                         },
                         {
@@ -7674,14 +7653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…あまり用がないのに入りたくないな」"
+                                "Kru: \"Nah... I don't really want to go in if there's no need to.\""
                             ]
                         },
                         {
@@ -8208,14 +8180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これから出発するのは辛いから今日は宿に泊まろう」"
+                                "Kru: \"It's going to be tough to set out now, so let's stay at the inn\ntonight.\""
                             ]
                         },
                         {
@@ -8266,14 +8231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。クルに任す」"
+                                "Umi: \"Yeah. I'll leave it to you, Kru.\""
                             ]
                         },
                         {

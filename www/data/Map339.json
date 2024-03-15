@@ -7625,14 +7625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来たか……」"
+                                "Soldier: \"They've come...\""
                             ]
                         },
                         {
@@ -7683,14 +7676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……手筈は整っているか？」"
+                                "Iburu: \"Ah... Are all the arrangements in place?\""
                             ]
                         },
                         {
@@ -7707,14 +7693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…それは問題ない…しかし…」"
+                                "Soldier: \"Yes... there's no problem with that... However...\""
                             ]
                         },
                         {
@@ -7747,14 +7726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かっている…金の採掘権はそちらに譲る…。村が全滅するよりはましだ」"
+                                "Iburu: \"I understand... I'll cede the mining rights to you... It's better\nthan the village being wiped out.\""
                             ]
                         },
                         {
@@ -7771,14 +7743,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな…。だが今までどうやって隠していたんだ？」"
+                                "Soldier: \"That's true... But how have you been hiding it until now?\""
                             ]
                         },
                         {
@@ -7811,14 +7776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こういう時の為に色々と工作していたんだ…」"
+                                "Iburu: \"I've been making various preparations for a time like this...\""
                             ]
                         },
                         {
@@ -7835,14 +7793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たとえば呑んだくれの振りをするとか？」"
+                                "Soldier: \"Like pretending to be a drunkard?\""
                             ]
                         },
                         {
@@ -7875,21 +7826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやいや…酒は本当に好きなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それよりも大丈夫なのか？催眠魔法の対処は…」"
+                                "Iburu: \"No, no... I really do like alcohol. More importantly, are you sure\nyou're prepared for the hypnotic magic...?\""
                             ]
                         },
                         {
@@ -7906,21 +7843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ大丈夫だ。トロス将軍が警鐘を鳴らしていたからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　準備はずっとしていた」"
+                                "Soldier: \"Ah, it's fine. General Tros has been sounding the alarm. We've\nbeen preparing for a long time.\""
                             ]
                         },
                         {
@@ -7953,14 +7876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ…頼んだぞ」"
+                                "Iburu: \"Then... I'm counting on you.\""
                             ]
                         },
                         {
@@ -7977,14 +7893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「言われなくても…」"
+                                "Soldier: \"I would have done it even without being asked...\""
                             ]
                         },
                         {

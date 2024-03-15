@@ -21868,14 +21868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………あぁ…」"
+                                "Villager: \"...Ah...\""
                             ]
                         },
                         {
@@ -21943,14 +21936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ク……ル……様……。バンカ……様………村を救って…くれて…」"
+                                "Villager: \"Kru...sama... Banka...sama... thank you for... saving... our\nvillage...\""
                             ]
                         },
                         {
@@ -22018,14 +22004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まったく…。よくそんな普通な顔して村にいれるな…」"
+                                "Villager: \"Really... I can't believe you can keep such a normal face while\nstaying in the village...\""
                             ]
                         },
                         {
@@ -22102,14 +22081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…頭が…痛い…」"
+                                "Villager Child: \"Ugh... My head... hurts...\""
                             ]
                         },
                         {
@@ -22177,14 +22149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ僕も強くなりたいよ…。バンカ様のように…」"
+                                "Villager Child: \"Ahh, I want to become strong too... just like Lord\nBanka...\""
                             ]
                         },
                         {
@@ -22252,14 +22217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん‼‼村から出ていけ‼」"
+                                "Villager Child: \"Weirdo!! Get out of the village!!\""
                             ]
                         },
                         {
@@ -22336,14 +22294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……あぁ…動悸が…」"
+                                "Villager: \"Haa haa... Ahh... My heart is pounding...\""
                             ]
                         },
                         {
@@ -22411,14 +22362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた様の活躍はそれはすごかった…。後世に語り継がなければいけませんな、バンカ様」"
+                                "Villager: \"Your achievements were truly remarkable... They must be passed\ndown to future generations, Lord Banka.\""
                             ]
                         },
                         {
@@ -22486,21 +22430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恥を知れ、恥を」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　"
+                                "Villager: \"Have some shame, have some shame.\""
                             ]
                         },
                         {
@@ -22646,14 +22576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……頭が割れるようだ…」"
+                                "Villager: \"Ahh... It feels like my head is splitting...\""
                             ]
                         },
                         {
@@ -22721,14 +22644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？……あぁ……クル…様か…」"
+                                "Villager: \"Hm?... Ah... Kru-sama...\""
                             ]
                         },
                         {
@@ -22796,14 +22712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん！顔も見たくないね！」"
+                                "Villager: \"Hmph! I don't even want to see your face!\""
                             ]
                         },
                         {
@@ -22880,7 +22789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは回想部屋です。ただいま工事中です。"
+                                "This is the Recollection Room. It is currently under construction."
                             ]
                         },
                         {
@@ -22957,14 +22866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「げっ元気が…」"
+                                "Villager: \"Gah, my energy is...\""
                             ]
                         },
                         {
@@ -23032,14 +22934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ……昔からあいつはすごい男になると思っていた…」"
+                                "Villager: \"Hmm... I've always thought he would become an incredible man\nsince the old days...\""
                             ]
                         },
                         {
@@ -23107,14 +23002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ様、すごい男だ…。それに比べて…」"
+                                "Villager: \"Lord Banka, such an impressive man... and in comparison...\""
                             ]
                         },
                         {
@@ -23339,14 +23227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は用がないな」"
+                                "Kru: \"I have no need for this now.\""
                             ]
                         },
                         {
@@ -23423,14 +23304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は用がないな」"
+                                "Kru: \"I don't need it right now.\""
                             ]
                         },
                         {
@@ -23507,14 +23381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今は用がないな」"
+                                "Kru: \"I have no need for this now.\""
                             ]
                         },
                         {

@@ -21631,14 +21631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………おぅ…。悪いボーっとしてた…」"
+                                "Villager: \"...Oh... Sorry, I was spacing out...\""
                             ]
                         },
                         {
@@ -21775,14 +21768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「王国の兵隊さん怖いね…」"
+                                "Villager Child: \"The kingdom's soldiers are scary, aren't they...\""
                             ]
                         },
                         {
@@ -22012,14 +21998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"This isn't the right way.\""
                             ]
                         },
                         {
@@ -22096,14 +22075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(よし……、じゃぁイーブルさんの家に行こう…。たしか村の東の方だったな…)"
+                                "Kru (Alright... let's head to Mr. Iburu's house... It was to the east of\nthe village, if I remember correctly...)"
                             ]
                         },
                         {
@@ -22239,14 +22211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私達……どうなってしまうのかしら…」"
+                                "Villager: \"What's going to happen to us...\""
                             ]
                         },
                         {
@@ -22323,14 +22288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昔が懐かしい…」"
+                                "Villager: \"I miss the old days...\""
                             ]
                         },
                         {
@@ -22491,14 +22449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…。最近ろくに食べてないから元気出ないわ…」"
+                                "Villager: \"Phew... I haven't been eating well lately, so I'm not feeling\nvery energetic...\""
                             ]
                         },
                         {
@@ -22809,7 +22760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに向かいますか？"
+                                "Where are we heading?"
                             ]
                         },
                         {
@@ -22817,10 +22768,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "聖子の森",
-                                    "呼種の洞窟",
-                                    "玉河山",
-                                    "行かない"
+                                    "Saint's Forest",
+                                    "Summoner's Cave",
+                                    "Tamagawa Mountain",
+                                    "Don't go"
                                 ],
                                 1,
                                 0,
@@ -23154,14 +23105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…。先行きが不安じゃ…」"
+                                "Villager: \"Sigh... I'm worried about the future...\""
                             ]
                         },
                         {
@@ -23322,14 +23266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"This isn't the right way.\""
                             ]
                         },
                         {
@@ -23934,14 +23871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この任務いつまで続くんだ…」"
+                                "Soldier: \"How long is this mission going to last...\""
                             ]
                         },
                         {
@@ -24018,14 +23948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これ…ちゃんと帰れるのか…」"
+                                "Soldier: \"Can we really make it back safely...\""
                             ]
                         },
                         {
@@ -24102,14 +24025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く家に帰りたい…」"
+                                "Soldier: \"I want to go home quickly...\""
                             ]
                         },
                         {

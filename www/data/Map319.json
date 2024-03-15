@@ -2983,14 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……すまない…こんなことになってしまって…」"
+                                "Chieftain: \"Umi... I'm sorry... for everything that's happened...\""
                             ]
                         },
                         {
@@ -3041,14 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長は…正気？」"
+                                "Umi: \"Chieftain... are you in your right mind?\""
                             ]
                         },
                         {
@@ -3065,21 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ…ワシはシフの催眠の対象から外されたようじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃが……それが辛い…」"
+                                "Chieftain: \"Indeed... It seems I've been excluded from Shif's hypnosis.\nBut... it's painful...\""
                             ]
                         },
                         {
@@ -3112,14 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -3136,21 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前達二人にとんでもない事をしてしまった……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村の皆を人質に取られているとはいえ……本当に申し訳ない」"
+                                "Chieftain: \"I've done something terrible to you two... Even though the\nvillagers are being held hostage... I truly apologize.\""
                             ]
                         },
                         {
@@ -3183,14 +3134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………族長もういい」"
+                                "Umi: \"...It's okay, Chieftain.\""
                             ]
                         },
                         {
@@ -3207,14 +3151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…」"
+                                "Chieftain: \"Umi...\""
                             ]
                         },
                         {
@@ -3247,14 +3184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これがウミの運命……きっとそう」"
+                                "Umi: \"This must be my fate... surely.\""
                             ]
                         },
                         {
@@ -3271,14 +3201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……」"
+                                "Chieftain: \"Umi...\""
                             ]
                         },
                         {
@@ -3311,14 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村の皆、催眠にかかっているけど大丈夫そう？」"
+                                "Umi: \"Are the villagers okay under hypnosis?\""
                             ]
                         },
                         {
@@ -3335,21 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは大丈夫だと思うが、皆狩りに出る事もできんし、食糧庫の中が底を尽きそう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なのが心配じゃのぅ」"
+                                "Chieftain: \"I think they're fine, but they can't go hunting, and I'm\nworried that the food stores are running low.\""
                             ]
                         },
                         {
@@ -3382,14 +3284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それ……大丈夫なのか？」"
+                                "Umi: \"Is that... going to be okay?\""
                             ]
                         },
                         {
@@ -3406,21 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ…困っているのだが、シフは知らないの一点張りでのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうにかお金を稼がないといけないのだが……」"
+                                "Chieftain: \"Hmm... It's troubling, but Shif keeps denying any knowledge of\nit. We need to find a way to earn money...\""
                             ]
                         },
                         {
@@ -3453,14 +3334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変だな…。ウミもできる事があればやる」"
+                                "Umi: \"That's tough... I'll do whatever I can to help.\""
                             ]
                         },
                         {
@@ -3477,14 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう……。すまん。だがわし等に稼げるような技術はないからのぉ…」"
+                                "Chieftain: \"Thank you... I'm sorry. But we don't have the skills to earn\nmoney...\""
                             ]
                         },
                         {
@@ -3517,14 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お金を稼ぐのは難しい？」"
+                                "Umi: \"Is it difficult to make money?\""
                             ]
                         },
                         {
@@ -3541,14 +3401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃのぉ…。お金があれば、あるいはクルを解放できるかもしれん」"
+                                "Chieftain: \"Indeed... If we had money, perhaps we could free Kru.\""
                             ]
                         },
                         {
@@ -3581,14 +3434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……お金…。お金って凄い…」"
+                                "Umi: \"...Money... Money is amazing...\""
                             ]
                         },
                         {
@@ -3639,14 +3485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ…。金がないのか？」"
+                                "Banka: \"What's this... you're out of money?\""
                             ]
                         },
                         {
@@ -3663,14 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……お前が口を挟む事ではない」"
+                                "Chieftain: \"...This is not your concern.\""
                             ]
                         },
                         {
@@ -3703,14 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！えらそうに！金の稼ぎ方も知らないくせに！」"
+                                "Banka: \"Hahahaha! Acting all high and mighty! You don't even know how to\nmake money!\""
                             ]
                         },
                         {
@@ -3727,14 +3552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は知っておるような言い方じゃのぅ」"
+                                "Chieftain: \"You seem to speak as if you know how.\""
                             ]
                         },
                         {
@@ -3767,14 +3585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅよ！ウミ！お前王国の歓楽街に行ってみろよ！きっと稼がせてもらえるぜ」"
+                                "Banka: \"Oh yeah! Umi! Why don't you try going to the kingdom's pleasure\ndistrict! You'll surely be able to earn there.\""
                             ]
                         },
                         {
@@ -3807,14 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「歓楽街？」"
+                                "Umi: \"Pleasure district?\""
                             ]
                         },
                         {
@@ -3831,14 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ！お前！めったな事言うでない！」"
+                                "Chieftain: \"Banka! Don't say such reckless things!\""
                             ]
                         },
                         {
@@ -3871,14 +3668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいじゃねぇか。金も手に入るし、調教も進むし一石二鳥じゃねぇか」"
+                                "Banka: \"What's the harm? She'll get money, and her training will progress.\nTwo birds with one stone, right?\""
                             ]
                         },
                         {
@@ -3911,14 +3701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「歓楽街か…」"
+                                "Umi: \"The pleasure district, huh...\""
                             ]
                         },
                         {
@@ -3935,14 +3718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！馬鹿な事を考えるでない！そんな事してはならん！」"
+                                "Chieftain: \"Umi! Don't think of doing such foolish things! You mustn't!\""
                             ]
                         },
                         {
@@ -3975,14 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わっわかった族長…。だからそんなに怒らないで…」"
+                                "Umi: \"I-I understand, Chieftain... so please don't be so angry...\""
                             ]
                         },
                         {
@@ -3999,14 +3768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミや…。頼むから、そんな所で働くのはやめておくれ…」"
+                                "Chieftain: \"Umi... please, I beg you, don't work in such a place...\""
                             ]
                         },
                         {
@@ -4171,7 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -4188,7 +3950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -4205,7 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {

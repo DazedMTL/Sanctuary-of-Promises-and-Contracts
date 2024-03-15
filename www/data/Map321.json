@@ -13987,14 +13987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"Beyond here lies the kingdom's pleasure district. It's no place\nfor an innocent girl like you.\""
                             ]
                         },
                         {
@@ -14062,14 +14055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"Beyond here lies the kingdom's pleasure district. It's not a\nplace for an innocent girl like you to come.\""
                             ]
                         },
                         {
@@ -14086,14 +14072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもウミ……お金が必要で……」"
+                                "Umi: \"But Umi... needs money...\""
                             ]
                         },
                         {
@@ -14110,14 +14089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいアンタ、こっちに来な！」"
+                                "Receptionist: \"Hey you, come over here!\""
                             ]
                         },
                         {
@@ -14134,14 +14106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミの事？」"
+                                "Umi: \"Are you talking about Umi?\""
                             ]
                         },
                         {
@@ -14158,14 +14123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそうだよ！さっさと来な！」"
+                                "Receptionist: \"Yeah, that's right! Hurry up and come over!\""
                             ]
                         },
                         {
@@ -14303,14 +14261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"Beyond here lies the kingdom's pleasure district. It's no place\nfor an innocent girl like you.\""
                             ]
                         },
                         {
@@ -14378,14 +14329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"This area ahead is the kingdom's pleasure district. It's not a\nplace for an innocent girl like you to come.\""
                             ]
                         },
                         {
@@ -14402,14 +14346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもウミ……お金が必要で……」"
+                                "Umi: \"But Umi... needs money...\""
                             ]
                         },
                         {
@@ -14426,14 +14363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいアンタ、こっちに来な！」"
+                                "Receptionist: \"Hey you, come over here!\""
                             ]
                         },
                         {
@@ -14450,14 +14380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミの事？」"
+                                "Umi: \"Are you talking about Umi?\""
                             ]
                         },
                         {
@@ -14474,14 +14397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそうだよ！さっさと来な！」"
+                                "Receptionist: \"Yeah, that's right! Hurry up and come here!\""
                             ]
                         },
                         {
@@ -14619,14 +14535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうした？歓楽街に何か用か？」"
+                                "Receptionist: \"What's the matter? Do you need something in the pleasure\ndistrict?\""
                             ]
                         },
                         {
@@ -14643,14 +14552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこの女は………これ程の原石に会ったのは生まれて初めてだ……)"
+                                "Clerk: \"(This girl... I've never encountered such a raw gem in my life...)\""
                             ]
                         },
                         {
@@ -14667,14 +14569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なっなんだ？あんな可愛い子が歓楽街で働こうとしているのか？)"
+                                "Customer A: \"(What? Such a cute girl is trying to work in the pleasure\ndistrict?)\""
                             ]
                         },
                         {
@@ -14691,14 +14586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おい受付！必ず働かせるようにしろよ！)"
+                                "Customer B: \"Hey, receptionist! Make sure she gets to work here!\""
                             ]
                         },
                         {
@@ -14715,14 +14603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうしよう…オレあの子が働いていたら破産してしまうかもしれない…)"
+                                "Customer C: \"What should I do... If that girl starts working here, I might\ngo bankrupt...)\""
                             ]
                         },
                         {
@@ -14773,14 +14654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……お…お金が必要で……」"
+                                "Umi: \"Ugh... I... I need money...\""
                             ]
                         },
                         {
@@ -14797,14 +14671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅ…。それでこの街で働きたいというのか？」"
+                                "Receptionist: \"Oh... So you want to work in this town, is that it?\""
                             ]
                         },
                         {
@@ -14821,14 +14688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(絶対にものにしなければ……この女を必ずこの街にに引き入れなければ‼)"
+                                "Receptionist: \"(I must have her at all costs... I must bring this woman\ninto this town!)\""
                             ]
                         },
                         {
@@ -14845,14 +14705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おい受付！大丈夫なのか？そんな態度で大丈夫なのか？)"
+                                "Customer A: \"Hey, receptionist! Are you sure it's okay? Is it really okay\nto act like that?\""
                             ]
                         },
                         {
@@ -14885,14 +14738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ働きたくはないが………お金はいる…」"
+                                "Umi: \"I don't want to work, but... I need the money...\""
                             ]
                         },
                         {
@@ -14909,14 +14755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅ…。そんなわがままが通用すると思っているのか？そんなに世の中甘くないんだぞ！」"
+                                "Receptionist: \"Oh... You think such selfishness will get you anywhere? The\nworld isn't so sweet!\""
                             ]
                         },
                         {
@@ -14933,14 +14772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(よし！こうして最初に威圧しておけば、あとはこちらの思い通りに働かせられる！)"
+                                "Receptionist: \"(Good! If I intimidate her from the start, then I can make\nher work exactly as I want!)\""
                             ]
                         },
                         {
@@ -14957,14 +14789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おい受付！そんな勝負に出てあの子が委縮してしまったらどうするんだ！)"
+                                "Customer B: \"Hey, receptionist! What if she gets intimidated by your gamble\nand shrinks away?\""
                             ]
                         },
                         {
@@ -14997,14 +14822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそうだな……。ウミの考えが甘かった……。考え直す…」"
+                                "Umi: \"That's right... Umi was naive... I'll reconsider...\""
                             ]
                         },
                         {
@@ -15021,14 +14839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一同"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待った‼‼‼‼‼‼‼‼‼‼‼」"
+                                "Everyone: \"Wait!!!\""
                             ]
                         },
                         {
@@ -15061,14 +14872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ‼‼」"
+                                "Umi: \"What's going on?!\""
                             ]
                         },
                         {
@@ -15085,14 +14889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい受付！こんな年若い子にそんな物言いするなんてあんまりじゃないか⁉」"
+                                "Customer A: \"Hey, receptionist! It's too much to speak to such a young girl\nlike that!\""
                             ]
                         },
                         {
@@ -15109,21 +14906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうです！お金に困っているって言ってるじゃないですか⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　少しは親身に接してあげて下さい！」"
+                                "Customer B: \"That's right! She said she's in need of money, didn't she?\nPlease show some compassion!\""
                             ]
                         },
                         {
@@ -15140,28 +14923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですね、私が間違っていました。コホン…お嬢さん、気を取り直して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お金が必要という事でしたが、ご安心下さい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この街で働くことになれば必ずその願いは果たされる事になりましょう」"
+                                "Receptionist: \"Yes, I was mistaken. Ahem... Miss, let's start over. You\nsaid you needed money, but rest assured, if you work in this town, your\nwish will certainly be fulfilled.\""
                             ]
                         },
                         {
@@ -15194,14 +14956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほんと⁉」"
+                                "Umi: \"Really?!\""
                             ]
                         },
                         {
@@ -15218,14 +14973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろんあなたの頑張りも必要になりますが、どうでしょう。物は試しという事で」"
+                                "Clerk: \"Of course, your hard work will also be necessary, but how about it?\nGive it a try.\""
                             ]
                         },
                         {
@@ -15258,14 +15006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもウミ……うまくできるか心配」"
+                                "Umi: \"But Umi is worried... whether I can do well.\""
                             ]
                         },
                         {
@@ -15282,14 +15023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウミって名前なのか……可愛い)"
+                                "Customer A: \"(Her name is Umi... Cute.)\""
                             ]
                         },
                         {
@@ -15306,14 +15040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(天使……)"
+                                "Customer B: \"(An angel...)\""
                             ]
                         },
                         {
@@ -15330,14 +15057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(頑張って働いて、お金を稼ごう……)"
+                                "Customer C: \"(Work hard and earn money...)\""
                             ]
                         },
                         {
@@ -15354,14 +15074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(オレも客になりたい…)"
+                                "Receptionist: \"(I want to become a customer too...)\""
                             ]
                         },
                         {
@@ -15378,14 +15091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫。入ってしまえばすぐに慣れます。ぜひ働きましょう」"
+                                "Clerk: \"Don't worry. Once you're in, you'll get used to it quickly. Let's\nwork here by all means.\""
                             ]
                         },
                         {
@@ -15418,14 +15124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…。ウミ頑張る！」"
+                                "Umi: \"Yeah... Umi will do her best!\""
                             ]
                         },
                         {
@@ -15442,14 +15141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか。では頑張りましょう」"
+                                "Receptionist: \"Is that so? Then let's do our best.\""
                             ]
                         },
                         {
@@ -15466,14 +15158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁ……よかった)"
+                                "Receptionist: \"(Sigh... That's a relief.)\""
                             ]
                         },
                         {
@@ -15490,14 +15175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(よかった…)"
+                                "Customer A: \"(That's a relief...)\""
                             ]
                         },
                         {
@@ -15514,14 +15192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(でかした！)"
+                                "Customer B: \"(Well done!)\""
                             ]
                         },
                         {

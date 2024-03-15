@@ -2109,14 +2109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ……ご主人様……ウミと申します…」"
+                                "Umi \"Welcome... Master... My name is Umi...\""
                             ]
                         },
                         {
@@ -2133,14 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…よろしく頼むよ…」"
+                                "Customer \"Ah... I'm counting on you...\""
                             ]
                         },
                         {
@@ -2157,14 +2143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なっなに⁉こっこんな子が……これから僕の犬に……)"
+                                "Customer (Wha-what⁉ This girl... she's going to be my dog from now on...)"
                             ]
                         },
                         {
@@ -2197,14 +2176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっぱい……可愛がって下さい…」"
+                                "Umi \"Please... love me a lot...\""
                             ]
                         },
                         {
@@ -2221,14 +2193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……じゃっじゃぁ……行こう…」"
+                                "Customer \"Ah... then... let's go...\""
                             ]
                         },
                         {
@@ -2397,7 +2362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -2414,7 +2379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -2431,7 +2396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -2448,7 +2413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミは客を満足させた…。"
+                                "Umi satisfied the customer..."
                             ]
                         },
                         {
@@ -2574,7 +2539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -2591,7 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -2608,7 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times feeling embarrassed has increased!"
                             ]
                         },
                         {
@@ -2625,7 +2590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]お漏らしで感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times feeling pleasure from wetting oneself has increased!"
                             ]
                         },
                         {
@@ -2642,7 +2607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]ケツ穴を弄られて感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times feeling pleasure from having one's ass played with has\nincreased!"
                             ]
                         },
                         {
@@ -2659,7 +2624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[240,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[240,0,0,GrowUp]The number of times feeling pleasure from sexual intercourse with someone\nother than Kru has increased!"
                             ]
                         },
                         {
@@ -2919,14 +2884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ……ご主人様…」"
+                                "Umi \"Welcome... Master...\""
                             ]
                         },
                         {
@@ -2943,14 +2901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…」"
+                                "Guest \"Ah...\""
                             ]
                         },
                         {
@@ -2983,14 +2934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日も……お外…ですか？」"
+                                "Umi \"Are you going outside again today?\""
                             ]
                         },
                         {
@@ -3007,14 +2951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……そうだよ……早く出よう…」"
+                                "Guest \"Ah... Yes... Let's leave quickly...\""
                             ]
                         },
                         {
@@ -3178,7 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -3195,7 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -3212,7 +3149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -3229,7 +3166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミは客を満足させた…。"
+                                "Umi satisfied her client..."
                             ]
                         },
                         {
@@ -3388,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -3405,7 +3342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -3422,7 +3359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]膣内で感じた回数が上がった！"
+                                "_pum[120,0,0,GrowUp]The number of times felt pleasure internally has increased!"
                             ]
                         },
                         {
@@ -3439,7 +3376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[150,0,0,GrowUp]膣内射精で感じた回数が上がった！"
+                                "_pum[150,0,0,GrowUp]The number of times felt pleasure from internal ejaculation has increased!"
                             ]
                         },
                         {
@@ -3456,7 +3393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[180,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                                "_pum[180,0,0,GrowUp]The number of times felt embarrassed and aroused has increased!"
                             ]
                         },
                         {
@@ -3473,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[210,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                                "_pum[210,0,0,GrowUp]The number of times felt pleasure from squirting has increased!"
                             ]
                         },
                         {
@@ -3490,7 +3427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[240,0,0,GrowUp]お漏らしで感じた回数が上がった！"
+                                "_pum[240,0,0,GrowUp]The number of times felt pleasure from wetting herself has increased!"
                             ]
                         },
                         {
@@ -3507,7 +3444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[270,0,0,GrowUp]ケツ穴を弄られて感じた回数が上がった！"
+                                "_pum[270,0,0,GrowUp]The number of times felt pleasure from having her ass played with has\nincreased!"
                             ]
                         },
                         {
@@ -3524,7 +3461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[300,0,0,GrowUp]クル以外の性交で感じた回数が上がった！"
+                                "_pum[300,0,0,GrowUp]The number of times felt pleasure from sexual intercourse with someone\nother than Kru has increased!"
                             ]
                         },
                         {

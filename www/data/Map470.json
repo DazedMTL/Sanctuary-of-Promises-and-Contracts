@@ -46344,7 +46344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから…五年…"
+                                "It's been... five years..."
                             ]
                         },
                         {
@@ -46361,7 +46361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はある海辺の街で暮らしていた……。"
+                                "I've been living in a seaside town..."
                             ]
                         },
                         {
@@ -46383,7 +46383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "山を超えて、海を渡り、様々な街を歩き、色々な人の顔を見た…。"
+                                "Crossing mountains, sailing across seas, walking through various towns,\nI've seen the faces of many people..."
                             ]
                         },
                         {
@@ -46400,7 +46400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "争いがあったり、穏やかだったり、人の世は多様な色彩で彩られ、前に進んでいた…。"
+                                "There were conflicts and peace, the world of people was colored with\ndiverse hues, always moving forward..."
                             ]
                         },
                         {
@@ -46417,7 +46417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悲しみに暮れる暇もない程に魔物を切り、盗賊を追い払い、返り血を浴びて日々を過ごした…。"
+                                "So busy cutting down monsters and driving away thieves that I didn't even\nhave time to dwell on sorrow, spending my days drenched in their blood..."
                             ]
                         },
                         {
@@ -46434,7 +46434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夏が過ぎ、秋を通って、冬を越え、春が匂い、また夏が過ぎた…。"
+                                "Summer passed, autumn went by, winter was overcome, spring brought its\nscent, and then summer passed again..."
                             ]
                         },
                         {
@@ -46451,7 +46451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ……。"
+                                "Umi..."
                             ]
                         },
                         {
@@ -46468,7 +46468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気付けばその名前を思い出す…。"
+                                "Before I knew it, I found myself remembering that name..."
                             ]
                         },
                         {
@@ -46485,7 +46485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう帰らない…その人の名前を…。"
+                                "I'll never return... to the person with that name..."
                             ]
                         },
                         {
@@ -46502,14 +46502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生‼」"
+                                "Kid: \"Sensei‼\""
                             ]
                         },
                         {
@@ -46526,14 +46519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Kru: \"Hmm?\""
                             ]
                         },
                         {
@@ -47145,14 +47131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おや？どうした？」"
+                                "Kru: \"Oh? What's wrong?\""
                             ]
                         },
                         {
@@ -47169,14 +47148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたじゃないよ！もう稽古の時間だよ！」"
+                                "Kid A: \"What do you mean 'what's wrong'? It's time for practice already!\""
                             ]
                         },
                         {
@@ -47193,14 +47165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く！皆待ってるよ！」"
+                                "Kid B: \"Hurry up! Everyone's waiting!\""
                             ]
                         },
                         {
@@ -47217,14 +47182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！ごめんごめん！すぐ行くよ！」"
+                                "Kru: \"Whoa! Sorry, sorry! I'll be right there!\""
                             ]
                         },
                         {
@@ -47581,7 +47539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "街道で商人の一行を魔物から助けた事をきっかけに、街で剣術を教えてくれないかと頼まれた。"
+                                "After saving a merchant caravan from monsters on the highway, I was asked\nto teach swordsmanship in the town."
                             ]
                         },
                         {
@@ -47598,7 +47556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旅をする事に疲れていた僕は、その申し出を受けて剣術の先生になった…。"
+                                "Tired of traveling, I accepted the offer and became a swordsmanship\ninstructor..."
                             ]
                         },
                         {

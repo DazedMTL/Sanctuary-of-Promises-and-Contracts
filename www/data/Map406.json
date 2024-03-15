@@ -1567,14 +1567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんかこの壺だけ軽いな…」"
+                                "Kru: \"Somehow this pot feels light...\""
                             ]
                         },
                         {
@@ -1591,14 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに風が吹いている？」"
+                                "Kru: \"And there's a breeze coming from it?\""
                             ]
                         },
                         {
@@ -1709,14 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだウミ？オレ様と一緒に行きたいのか？」"
+                                "Banka: \"What's up, Umi? You want to go with me?\""
                             ]
                         },
                         {
@@ -1767,14 +1746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、いい」"
+                                "Umi: \"No, I'm good.\""
                             ]
                         },
                         {
@@ -1807,14 +1779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！すぐにオレが必要になるぜ！」"
+                                "Banka: \"Hmph! You'll need me soon enough!\""
                             ]
                         },
                         {

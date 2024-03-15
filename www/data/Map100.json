@@ -4688,14 +4688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いたたた。あっ！さっきの…」"
+                                "Kru: \"Ouch, ouch. Ah! That thing just now...\""
                             ]
                         },
                         {
@@ -4746,14 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「痛いぃぃ…」"
+                                "Umi: \"It hurts...\""
                             ]
                         },
                         {
@@ -4770,14 +4756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまない、こんな山の中で人が走ってるなんて思わなかったから」"
+                                "Kru: \"Sorry, I didn't expect someone to be running in the mountains like\nthis.\""
                             ]
                         },
                         {
@@ -4853,14 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ…。あぁ！さっきの！オマエ…嫌い！」"
+                                "Umi: \"Hmph... Ah! That thing just now! You... I hate you!\""
                             ]
                         },
                         {
@@ -4877,14 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉」"
+                                "Kru: \"Eh?!\""
                             ]
                         },
                         {
@@ -4901,14 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…痛いの嫌い…。オマエ、ウミに痛いことする。だから嫌い」"
+                                "Umi: \"Umi... hates pain... You caused Umi pain. That's why I hate you.\""
                             ]
                         },
                         {
@@ -4925,14 +4883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪かったとは思うけど、そんな言い方ないと思うぞ。そっちだってぶつかってきたんだ！」"
+                                "Kru: \"I know I did something bad, but I don't think you have to say it like\nthat. You ran into me too!\""
                             ]
                         },
                         {
@@ -5008,14 +4959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミは急いでいる。だからいい」"
+                                "Umi: \"Umi is in a hurry. So it's okay.\""
                             ]
                         },
                         {
@@ -5032,14 +4976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレだってネコを助けなきゃいけないんだ！オレのほうが急いでる！」"
+                                "Kru: \"I'm in a hurry too! I have to save a cat! I'm more rushed than you\nare!\""
                             ]
                         },
                         {
@@ -5072,14 +5009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ‼‼」"
+                                "Umi: \"You!!\""
                             ]
                         },
                         {
@@ -5096,14 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ‼‼ナニ‼‼そんなに怒る⁉」"
+                                "Kru: \"Eh?! What?! Why are you so angry?!\""
                             ]
                         },
                         {
@@ -5136,14 +5059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ、今ネコ言ったか⁉」"
+                                "Umi: \"Did you just say 'cat'?!\""
                             ]
                         },
                         {
@@ -5160,14 +5076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっうん…ネコがモンスターに襲われてて…。それを追いかけてたんだ」"
+                                "Kru: \"Ah, yeah... A cat was being attacked by a monster... I was chasing\nafter it.\""
                             ]
                         },
                         {
@@ -5200,14 +5109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どっちいった！ウミも連れてけ！」"
+                                "Umi: \"Which way did it go! Take me with you!\""
                             ]
                         },
                         {
@@ -5224,14 +5126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ君のネコなの？」"
+                                "Kru: \"Eh? Is it your cat?\""
                             ]
                         },
                         {
@@ -5264,14 +5159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く‼‼‼」"
+                                "Umi: \"Hurry up!!!\""
                             ]
                         },
                         {
@@ -5288,14 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁはいはい…」"
+                                "Kru: \"Ah, yes, yes...\""
                             ]
                         },
                         {
@@ -5336,14 +5217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？オマエ…ケガしているのか？」"
+                                "Umi: \"Hm? Are you... injured?\""
                             ]
                         },
                         {
@@ -5360,14 +5234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、こんなのかすり傷だよ」"
+                                "Kru: \"Ah, this is just a scratch.\""
                             ]
                         },
                         {
@@ -5400,14 +5267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待て」"
+                                "Umi: \"Wait.\""
                             ]
                         },
                         {
@@ -5449,14 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで良し」"
+                                "Umi: \"There, that should do it.\""
                             ]
                         },
                         {
@@ -5473,14 +5326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。ありがとう…」"
+                                "Kru: \"Ah. Thank you...\""
                             ]
                         },
                         {
@@ -5513,14 +5359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行く」"
+                                "Umi: \"Let's go.\""
                             ]
                         },
                         {
@@ -5537,14 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ」"
+                                "Kru: \"Ah.\""
                             ]
                         },
                         {
@@ -6361,14 +6193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな。急ごう！」"
+                                "Kru: \"Not this way. Let's hurry!\""
                             ]
                         },
                         {
@@ -6436,14 +6261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな…」"
+                                "Umi: \"Not this way...\""
                             ]
                         },
                         {
@@ -6520,14 +6338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな。急ごう！」"
+                                "Kru: \"Not this way. Let's hurry!\""
                             ]
                         },
                         {
@@ -6595,14 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな…」"
+                                "Umi: \"Not this way...\""
                             ]
                         },
                         {

@@ -2027,14 +2027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは…」"
+                                "Kru: \"This is...\""
                             ]
                         },
                         {
@@ -2085,14 +2078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この穴…」"
+                                "Umi: \"This hole...\""
                             ]
                         },
                         {
@@ -2109,14 +2095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先に族長達が…」"
+                                "Kru: \"The chieftains are beyond here...\""
                             ]
                         },
                         {
@@ -2149,14 +2128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急ごう」"
+                                "Umi: \"Let's hurry.\""
                             ]
                         },
                         {
@@ -2173,14 +2145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！」"
+                                "Kru: \"Ah!\""
                             ]
                         },
                         {
@@ -2339,14 +2304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長…」"
+                                "Kru \"Chieftain...\""
                             ]
                         },
                         {
@@ -2363,14 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長も……本望だったと思います…」"
+                                "Villager A \"I believe the chieftain would have wanted it this way...\""
                             ]
                         },
                         {
@@ -2387,14 +2338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長は…本当にお二人の事を思っておられました…」"
+                                "Villager B \"The chieftain truly cared about you both...\""
                             ]
                         },
                         {
@@ -2445,14 +2389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………うん」"
+                                "Umi \"...Yeah.\""
                             ]
                         },
                         {
@@ -2469,14 +2406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……早く埋葬してあげよう…」"
+                                "Kru \"...Let's bury him quickly...\""
                             ]
                         },
                         {
@@ -2493,14 +2423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変です！」"
+                                "Villager C \"It's terrible!\""
                             ]
                         },
                         {
@@ -2633,14 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうした⁉」"
+                                "Kru \"What happened⁉\""
                             ]
                         },
                         {
@@ -2657,14 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村が……占拠されました！」"
+                                "Villager C \"The village... it's been taken over!\""
                             ]
                         },
                         {
@@ -2681,14 +2590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何⁉」"
+                                "Kru \"What⁉\""
                             ]
                         },
                         {
@@ -2705,14 +2607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イーブルさん達が必死に抑えていたんですけど…」"
+                                "Villager C \"Iburu and the others were desperately holding them back,\nbut...\""
                             ]
                         },
                         {
@@ -2745,14 +2640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐに向かう…」"
+                                "Umi \"We'll head there immediately...\""
                             ]
                         },
                         {
@@ -2769,14 +2657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「けど…」"
+                                "Kru \"But...\""
                             ]
                         },
                         {
@@ -2809,14 +2690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆を放っておけない…」"
+                                "Umi \"We can't just leave everyone...\""
                             ]
                         },
                         {
@@ -2859,7 +2733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -2876,7 +2750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -2893,7 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -2989,14 +2863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな…」"
+                                "Kru: \"Not this way...\""
                             ]
                         },
                         {
@@ -3124,14 +2991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな…」"
+                                "Kru: \"Not this way...\""
                             ]
                         },
                         {

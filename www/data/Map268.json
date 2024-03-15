@@ -21823,14 +21823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いたいた。あんなところでなにをやってるんだ」"
+                                "Kru: \"Ouch, ouch. What are you doing in such a place?\""
                             ]
                         },
                         {
@@ -21847,14 +21840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれは…キャンディか…。なんだってウミあんなものを…」"
+                                "Kru: \"Is that... candy? Why would Umi have something like that...\""
                             ]
                         },
                         {
@@ -21871,14 +21857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いや…それにしても…)"
+                                "Kru: (No... but still...)"
                             ]
                         },
                         {
@@ -21895,14 +21874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチャピチャ」"
+                                "Umi: \"Squish, squish.\""
                             ]
                         },
                         {
@@ -21919,14 +21891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あんな一生懸命舐めて…。)"
+                                "Kru: (Licking so earnestly like that...)"
                             ]
                         },
                         {
@@ -21976,14 +21941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぇろん！……ピチャ……ピチャ」"
+                                "Umi: \"Weron!... Squish... Squish\""
                             ]
                         },
                         {
@@ -22000,7 +21958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -22017,14 +21975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅおぅ良いぞ…。よい舌使いだ……。たくさん仕込んだ甲斐があるのぅ)"
+                                "Chancellor Shif: (Oh, oh, that's good... such skillful use of the tongue...\nall the training was worth it.)"
                             ]
                         },
                         {
@@ -22041,21 +21992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(しかしテレパスの魔法も便利になった。こうして言葉だけでなく感覚も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遠距離に飛ばせるようになったのだ…)"
+                                "Chancellor Shif: (But the magic of telepathy has become so convenient. Now\nit's possible to send not just words but also sensations over long\ndistances...)"
                             ]
                         },
                         {
@@ -22088,14 +22025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゅる……ちゃぷちゃぷ……ちゅぱ……」"
+                                "Umi: \"Slurp... splash splash... suck...\""
                             ]
                         },
                         {
@@ -22112,21 +22042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お前もそのキャンディーが美味くて美味くてしょうがないのだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに一生懸命舐りおって…)"
+                                "Chancellor Shif: (You must find that candy so delicious, so irresistible,\nto be licking it with such dedication...)"
                             ]
                         },
                         {
@@ -22143,14 +22059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって……ちゃんと舐めないと…叱られるから……」"
+                                "Umi: \"Because... if I don't lick it properly... I'll be scolded...\""
                             ]
                         },
                         {
@@ -22167,21 +22076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁはぁ良いぞ……だんだん私のどこが感じるか分かってきたな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おぅそうだ……その裏筋を集中的に舐めろ…)"
+                                "Chancellor Shif: (Hah, hah, that's good... you're starting to understand\nwhere I feel it... Yes, that's right... focus on licking the underside...)"
                             ]
                         },
                         {
@@ -22214,7 +22109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -22231,14 +22126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゅるじゅる……えろん……ちゃぷちゃぷ……じゅぶじゅぶ……」"
+                                "Umi: \"Slurp slurp... eron... splash splash... gurgle gurgle...\""
                             ]
                         },
                         {
@@ -22255,7 +22143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぱ……ペロペロ…ピチャピチャ…"
+                                "Suck... Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -22272,14 +22160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっんっ…はぁ…ジュブッジュル…あぁ…」"
+                                "Umi: \"Mmm mmm... Hah... Gurgle gurgle... Ahh...\""
                             ]
                         },
                         {
@@ -22296,21 +22177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅ…お前の舌から伝わってくるわ…。いかに私のマラが好きか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのように情熱的に舐めおって……)"
+                                "Chancellor Shif: (Oh... I can feel it through your tongue... how much you\nlove my dick... licking it so passionately...)"
                             ]
                         },
                         {
@@ -22343,14 +22210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぱ……別に……れろん…好きじゃありません。えろん……じゅる……」"
+                                "Umi: \"Suck... It's not like... leron... I like it. Eron... slurp...\""
                             ]
                         },
                         {
@@ -22367,7 +22227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -22384,21 +22244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな場所で……キャンディー舐めまわして…誰かに見られたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変に思われる……)"
+                                "Umi: (In such a place... licking a candy like this... if someone saw me...\nthey'd think it's weird...)"
                             ]
                         },
                         {
@@ -22415,14 +22261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(それに……このシフ様のマラをかたどったキャンディーの舐め心地……はぁ…)"
+                                "Umi: (And then... the feel of this candy shaped like Chancellor Shif's\ndick... Hah...)"
                             ]
                         },
                         {
@@ -22455,7 +22294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぶ……じゅるじゅる………ちゅぱ…"
+                                "Schlop... slurp slurp... suck..."
                             ]
                         },
                         {
@@ -22472,14 +22311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゅる……ちゃぷちゃぷ……ちゅぱ……」"
+                                "Umi: \"Slurp... splash splash... suck...\""
                             ]
                         },
                         {
@@ -22496,14 +22328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うまいか？)"
+                                "Chancellor Shif: (Is it good?)"
                             ]
                         },
                         {
@@ -22520,14 +22345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……じゅる…はい……美味しい…です…ちゅぷん」"
+                                "Umi: \"...Slurp... Yes... It's delicious... suck\""
                             ]
                         },
                         {
@@ -22544,14 +22362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そうか……お前ひょっとして股を濡らしているんじゃないのか？)"
+                                "Chancellor Shif: (Is that so? Could it be that you're getting wet down\nthere?)"
                             ]
                         },
                         {
@@ -22584,14 +22395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか……ちゅぶちゅぶ……そんなこと……ない」"
+                                "Umi: \"No way... schlop schlop... that's not happening.\""
                             ]
                         },
                         {
@@ -22608,14 +22412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなこと……ないはずなのに………)"
+                                "Umi: (That shouldn't be happening but...)"
                             ]
                         },
                         {
@@ -22632,7 +22429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -22649,14 +22446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなことないはずなのに……またの辺りが濡れて冷たい)"
+                                "Umi: (That shouldn't be happening but... the area around my crotch is wet\nand cold.)"
                             ]
                         },
                         {
@@ -22673,14 +22463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっんっんっ…はぁ…ジュブッジュル…あぁ………」"
+                                "Umi: \"Mmm mmm mmm... Hah... Gurgle gurgle... Ahh...\""
                             ]
                         },
                         {
@@ -22713,7 +22496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぶ……じゅるじゅる………ちゅぱ…"
+                                "Schlop... slurp slurp... suck..."
                             ]
                         },
                         {
@@ -22730,21 +22513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(外でこんな事しているのが恥ずかしいから…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも……このキャンディーの形のせい…)"
+                                "Umi: (Is it because I'm embarrassed to be doing this outside? Or is it\nbecause of the shape of this candy...)"
                             ]
                         },
                         {
@@ -22761,7 +22530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -22778,14 +22547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いずれにしても……ウミ…こんな所で股を濡らしてる…)"
+                                "Umi: (Either way... Umi is getting wet down there in such a place...)"
                             ]
                         },
                         {
@@ -22802,7 +22564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ…"
+                                "Throb..."
                             ]
                         },
                         {
@@ -22819,14 +22581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……ジュルジュル…ちゅぽん……れろれろ……ちゅぷちゅぷん…」"
+                                "Umi: \"Hah hah... Slurp slurp... suck pop... lero lero... suck suck...\""
                             ]
                         },
                         {
@@ -22843,21 +22598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅ‼‼またどうしたそんなに舐めまわして‼‼お前……ひょっとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のマラが恋しくなってきたんじゃないのか？)"
+                                "Chancellor Shif: (Oh!! What's this now? Why are you licking it so\nfervently?! Could it be that you're starting to miss my dick?)"
                             ]
                         },
                         {
@@ -22874,14 +22615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ジュルジュル‼…そっそんな……ちゅぷちゅぷ…そんなわけ……」"
+                                "Umi: \"Slurp slurp!! That's not it at all... suck suck... there's no way...\""
                             ]
                         },
                         {
@@ -22898,7 +22632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサッ！"
+                                "Rustle!"
                             ]
                         },
                         {
@@ -22915,7 +22649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビクッ‼‼‼‼"
+                                "Startled!!"
                             ]
                         },
                         {
@@ -22955,14 +22689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰！」"
+                                "Umi: \"Who's there!\""
                             ]
                         },
                         {
@@ -22979,14 +22706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁオレだよ。ウミこんなところでなにしてるの？」"
+                                "Kru: \"Ah, it's me. Umi, what are you doing in a place like this?\""
                             ]
                         },
                         {
@@ -23003,14 +22723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…それは…」"
+                                "Umi: \"No, well... that is...\""
                             ]
                         },
                         {
@@ -23027,14 +22740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(大変‼‼キャンディーを舐めるのに夢中になって……気付かなかった)"
+                                "Umi: (Oh no!! I was so engrossed in licking the candy... I didn't notice.)"
                             ]
                         },
                         {
@@ -23131,14 +22837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャンディー舐めてたの？」"
+                                "Kru: \"Were you licking candy?\""
                             ]
                         },
                         {
@@ -23189,14 +22888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？そっそう！そうなんだ！村の子供に見られるといけないと思ってこっそりと」"
+                                "Umi: \"Eh? Y-Yes! That's right! I thought it wouldn't be good to be seen by\nthe village children, so I did it secretly.\""
                             ]
                         },
                         {
@@ -23213,14 +22905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あぁ……ウミ…とっさに嘘をついてる……)"
+                                "Umi: (Ah... Umi... I just told a lie on the spur of the moment...)"
                             ]
                         },
                         {
@@ -23237,14 +22922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかそうなんだ。あぁもうオレは帰るよ。ウミも帰るか？」"
+                                "Kru: \"I see, that's what it was. Ah, I'm going to head back. Are you coming\nback too, Umi?\""
                             ]
                         },
                         {
@@ -23277,14 +22955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。そうする」"
+                                "Umi: \"Ah... Yes, I'll do that.\""
                             ]
                         },
                         {
@@ -23301,14 +22972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっくっくっ…。お楽しみの邪魔が入ったな……。まあ楽しみは後に取っておくか)"
+                                "Chancellor Shif: (Heh heh heh... It seems your fun has been interrupted...\nWell, I'll save the enjoyment for later.)"
                             ]
                         },
                         {
@@ -23325,7 +22989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はクルが現れて心の奥で少し溜息をついてしまった。"
+                                "I sighed inwardly when Kru appeared."
                             ]
                         },
                         {
@@ -23342,7 +23006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その溜息の音がクルに聞こえてないだろうか……と私は不安に思った。"
+                                "I worried whether Kru could hear the sound of my sigh..."
                             ]
                         },
                         {
@@ -23442,7 +23106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]ウミの記憶5が手に入った。"
+                                "_pum[60,0,0,GrowUp]Umi's Memory 5 has been acquired."
                             ]
                         },
                         {
@@ -23609,14 +23273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いたいた。あんなところでなにをやってるんだ」"
+                                "Kru: \"Ouch, ouch. What are you doing in such a place?\""
                             ]
                         },
                         {
@@ -23633,14 +23290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれは…キャンディか…。なんだってウミあんなものを…」"
+                                "Kru: \"Is that... candy? Why would Umi have something like that...\""
                             ]
                         },
                         {
@@ -23657,14 +23307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いや…それにしても…)"
+                                "Kru: (No... but still...)"
                             ]
                         },
                         {
@@ -23681,14 +23324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチャピチャ」"
+                                "Umi: \"Squish, squish.\""
                             ]
                         },
                         {
@@ -23705,14 +23341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あんな一生懸命舐めて…。)"
+                                "Kru: (Licking so earnestly...)"
                             ]
                         },
                         {
@@ -23734,14 +23363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぇろん！……ピチャ……ピチャ」"
+                                "Umi: \"Welon!... Squish... Squish\""
                             ]
                         },
                         {
@@ -23758,7 +23380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -23775,14 +23397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅおぅ良いぞ…。よい舌使いだ……。たくさん仕込んだ甲斐があるのぅ)"
+                                "Chancellor Shif: (Oh, oh, that's good... such skillful use of the tongue...\nall the training was worth it.)"
                             ]
                         },
                         {
@@ -23799,21 +23414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(しかしテレパスの魔法も便利になった。こうして言葉だけでなく感覚も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　遠距離に飛ばせるようになったのだ…)"
+                                "Chancellor Shif: (But the magic of telepathy has become so convenient. Now\nit's possible to send not just words but also sensations over long\ndistances...)"
                             ]
                         },
                         {
@@ -23830,14 +23431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゅる……ちゃぷちゃぷ……ちゅぱ……」"
+                                "Umi: \"Slurp... splash splash... suck...\""
                             ]
                         },
                         {
@@ -23854,21 +23448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お前もそのキャンディーが美味くて美味くてしょうがないのだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに一生懸命舐りおって…)"
+                                "Chancellor Shif: (You must find that candy irresistibly delicious, licking\nit so desperately...)"
                             ]
                         },
                         {
@@ -23885,14 +23465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だって……ちゃんと舐めないと…叱られるから……」"
+                                "Umi: \"Because... if I don't lick it properly... I'll be scolded...\""
                             ]
                         },
                         {
@@ -23909,21 +23482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁはぁ良いぞ……だんだん私のどこが感じるか分かってきたな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おぅそうだ……その裏筋を集中的に舐めろ…)"
+                                "Chancellor Shif: (Hah, hah, that's good... you're starting to understand\nwhere I feel it... Yes, that's right... focus on licking the underside...)"
                             ]
                         },
                         {
@@ -23940,7 +23499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -23957,14 +23516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゅるじゅる……えろん……ちゃぷちゃぷ……じゅぶじゅぶ……」"
+                                "Umi: \"Slurp slurp... welon... splash splash... gurgle gurgle...\""
                             ]
                         },
                         {
@@ -23981,7 +23533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぱ……ペロペロ…ピチャピチャ…"
+                                "Suck... Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -23998,14 +23550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっんっ…はぁ…ジュブッジュル…あぁ…」"
+                                "Umi: \"Mmm mmm... Hah... Gurgle gurgle... Ahh...\""
                             ]
                         },
                         {
@@ -24022,21 +23567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅ…お前の舌から伝わってくるわ…。いかに私のマラが好きか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのように情熱的に舐めおって……)"
+                                "Chancellor Shif: (Oh... I can feel it through your tongue... how much you\nlove my dick... licking it with such passion...)"
                             ]
                         },
                         {
@@ -24053,14 +23584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちゅぱ……別に……れろん…好きじゃありません。えろん……じゅる……」"
+                                "Umi: \"Suck... Not really... welon... I don't like it. Welon... slurp...\""
                             ]
                         },
                         {
@@ -24077,7 +23601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -24094,21 +23618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな場所で……キャンディー舐めまわして…誰かに見られたら……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変に思われる……)"
+                                "Umi: (In a place like this... licking a candy all over... if someone saw\nme... they'd think it's weird...)"
                             ]
                         },
                         {
@@ -24125,14 +23635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(それに……このシフ様のマラをかたどったキャンディーの舐め心地……はぁ…)"
+                                "Umi: (Besides... the feel of licking this candy shaped like Chancellor\nShif's dick... Hah...)"
                             ]
                         },
                         {
@@ -24149,7 +23652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぶ……じゅるじゅる………ちゅぱ…"
+                                "Suck... Slurp slurp... Suck..."
                             ]
                         },
                         {
@@ -24166,14 +23669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゅる……ちゃぷちゃぷ……ちゅぱ……」"
+                                "Umi: \"Slurp... splash splash... suck...\""
                             ]
                         },
                         {
@@ -24190,14 +23686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うまいか？)"
+                                "Chancellor Shif: (Is it tasty?)"
                             ]
                         },
                         {
@@ -24214,14 +23703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……じゅる…はい……美味しい…です…ちゅぷん」"
+                                "Umi: \"...Slurp... Yes... It's delicious... Suck\""
                             ]
                         },
                         {
@@ -24238,14 +23720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そうか……お前ひょっとして股を濡らしているんじゃないのか？)"
+                                "Chancellor Shif: (Is that so? Could it be that you're getting wet down\nthere?)"
                             ]
                         },
                         {
@@ -24262,14 +23737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか……ちゅぶちゅぶ……そんなこと……ない」"
+                                "Umi: \"No way... suck suck... that's not happening.\""
                             ]
                         },
                         {
@@ -24286,14 +23754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなこと……ないはずなのに………)"
+                                "Umi: (That shouldn't be happening but...)"
                             ]
                         },
                         {
@@ -24310,7 +23771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -24327,14 +23788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなことないはずなのに……またの辺りが濡れて冷たい)"
+                                "Umi: (That shouldn't be happening but... the area around my crotch is wet\nand cold.)"
                             ]
                         },
                         {
@@ -24351,14 +23805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっんっんっ…はぁ…ジュブッジュル…あぁ………」"
+                                "Umi: \"Mmm mmm mmm... Hah... Gurgle gurgle... Ahh...\""
                             ]
                         },
                         {
@@ -24375,7 +23822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぶ……じゅるじゅる………ちゅぱ…"
+                                "Suck... Slurp slurp... Suck..."
                             ]
                         },
                         {
@@ -24392,21 +23839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(外でこんな事しているのが恥ずかしいから…？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも……このキャンディーの形のせい…)"
+                                "Umi: (Is it because I'm embarrassed to be doing this outside? Or is it\nbecause of the shape of this candy...)"
                             ]
                         },
                         {
@@ -24423,7 +23856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペロペロ…ピチャピチャ…"
+                                "Lick, lick... Squish, squish..."
                             ]
                         },
                         {
@@ -24440,14 +23873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いずれにしても……ウミ…こんな所で股を濡らしてる…)"
+                                "Umi: (Either way... Umi is getting wet down there in a place like this...)"
                             ]
                         },
                         {
@@ -24464,7 +23890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ…"
+                                "Throb..."
                             ]
                         },
                         {
@@ -24481,14 +23907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……ジュルジュル…ちゅぽん……れろれろ……ちゅぷちゅぷん…」"
+                                "Umi: \"Hah hah... Slurp slurp... Suck pop... Lick lick... Suck suck...\""
                             ]
                         },
                         {
@@ -24505,21 +23924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅ‼‼またどうしたそんなに舐めまわして‼‼お前……ひょっとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のマラが恋しくなってきたんじゃないのか？)"
+                                "Chancellor Shif: (Oh!! What's this all of a sudden? Licking so fervently!!\nAre you starting to miss my dick?)"
                             ]
                         },
                         {
@@ -24536,14 +23941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ジュルジュル‼…そっそんな……ちゅぷちゅぷ…そんなわけ……」"
+                                "Umi: \"Slurp slurp!! That's not it at all... suck suck... There's no way\nthat's the case...\""
                             ]
                         },
                         {
@@ -24560,7 +23958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサッ！"
+                                "Rustle!"
                             ]
                         },
                         {
@@ -24577,7 +23975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビクッ‼‼‼‼"
+                                "Startled!!!"
                             ]
                         },
                         {
@@ -24594,14 +23992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰！」"
+                                "Umi: \"Who's there!\""
                             ]
                         },
                         {
@@ -24618,14 +24009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁオレだよ。ウミこんなところでなにしてるの？」"
+                                "Kru: \"Ah, it's me. Umi, what are you doing in a place like this?\""
                             ]
                         },
                         {
@@ -24642,14 +24026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…それは…」"
+                                "Umi: \"No, well... that is...\""
                             ]
                         },
                         {
@@ -24666,14 +24043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(大変‼‼キャンディーを舐めるのに夢中になって……気付かなかった)"
+                                "Umi: (Oh no!! I was so engrossed in licking the candy... I didn't notice.)"
                             ]
                         },
                         {
@@ -24690,14 +24060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャンディー舐めてたの？」"
+                                "Kru: \"Were you licking candy?\""
                             ]
                         },
                         {
@@ -24714,14 +24077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？そっそう！そうなんだ！村の子供に見られるといけないと思ってこっそりと」"
+                                "Umi: \"Eh? Y-Yes! That's right! I thought it wouldn't be good to be seen by\nthe village children, so I did it secretly.\""
                             ]
                         },
                         {
@@ -24738,14 +24094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あぁ……ウミ…とっさに嘘をついてる……)"
+                                "Umi: (Ah... Umi... I just told a lie on the spur of the moment...)"
                             ]
                         },
                         {
@@ -24762,14 +24111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかそうなんだ。あぁもうオレは帰るよ。ウミも帰るか？」"
+                                "Kru: \"I see, that's what it was. Ah, I'm going back. Are you coming back\ntoo, Umi?\""
                             ]
                         },
                         {
@@ -24786,14 +24128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。そうする」"
+                                "Umi: \"Ah... Yes, I'll do that.\""
                             ]
                         },
                         {
@@ -24810,14 +24145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっくっくっ…。お楽しみの邪魔が入ったな……。まあ楽しみは後に取っておくか)"
+                                "Chancellor Shif: (Heh heh heh... An interruption to the fun... Well, I'll\nsave the enjoyment for later.)"
                             ]
                         },
                         {
@@ -24834,7 +24162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はクルが現れて心の奥で少し溜息をついてしまった。"
+                                "I sighed inwardly when Kru appeared."
                             ]
                         },
                         {
@@ -24851,7 +24179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その溜息の音がクルに聞こえてないだろうか……と私は不安に思った。"
+                                "I worried if Kru could hear the sound of my sigh..."
                             ]
                         },
                         {

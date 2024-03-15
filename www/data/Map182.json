@@ -1489,14 +1489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この地下には牢屋があります。悪いことしたら入れられますよ」"
+                                "Villager: \"There's a prison underground here. If you do something bad,\nyou'll be thrown in there.\""
                             ]
                         },
                         {

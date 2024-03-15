@@ -4018,7 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国に向かいますか？"
+                                "Shall we head to the kingdom?"
                             ]
                         },
                         {
@@ -4026,8 +4026,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4106,14 +4106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「まだやり残したことがあるな」"
+                                "Kru: \"There's still something left to do.\""
                             ]
                         },
                         {
@@ -4242,7 +4235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖子の森に向かいますか？"
+                                "Shall we head to the Forest of the Saint?"
                             ]
                         },
                         {
@@ -4250,8 +4243,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

@@ -2236,14 +2236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア！無事で良かった…」"
+                                "Umi \"Mia! I'm so glad you're safe...\""
                             ]
                         },
                         {
@@ -2260,14 +2253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ本当に良かった…」"
+                                "Kru \"Yeah, really glad...\""
                             ]
                         },
                         {
@@ -2284,14 +2270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～…」"
+                                "Mia \"Meow~...\""
                             ]
                         },
                         {
@@ -2324,14 +2303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫、ミーア。心配ない。きっとウミとクルがなんとかする」"
+                                "Umi \"It's okay, Mia. Don't worry. Umi and Kru will definitely take care of\nit.\""
                             ]
                         },
                         {
@@ -2348,14 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーアが不安がってるのか？」"
+                                "Kru \"Is Mia feeling anxious?\""
                             ]
                         },
                         {
@@ -2388,14 +2353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、そう」"
+                                "Umi \"Yes, that's right.\""
                             ]
                         },
                         {
@@ -2412,14 +2370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア、大丈夫だ！オレがなんとかする…。必ずこの村を救ってみせる」"
+                                "Kru \"Mia, it's alright! I'll take care of it... I'll definitely save this\nvillage.\""
                             ]
                         },
                         {
@@ -2436,14 +2387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャーニャー！」"
+                                "Mia \"Meow-meow!\""
                             ]
                         },
                         {
@@ -2460,14 +2404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「？…ミーア？」"
+                                "Kru \"?...Mia?\""
                             ]
                         },
                         {
@@ -2500,14 +2437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル。そろそろ会議行く」"
+                                "Umi \"Kru. It's about time to go to the meeting.\""
                             ]
                         },
                         {
@@ -2524,14 +2454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、じゃぁミーア。後でな」"
+                                "Kru \"Ah, then see you later, Mia.\""
                             ]
                         },
                         {
@@ -2688,14 +2611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…話がある…」"
+                                "Kru: \"Umi... I need to talk to you...\""
                             ]
                         },
                         {
@@ -2746,14 +2662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？どうした？」"
+                                "Umi: \"Hmm? What's up?\""
                             ]
                         },
                         {
@@ -2770,14 +2679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…ウミはこの戦いに参加しないで貰えるか？」"
+                                "Kru: \"Umi... Can you not take part in this battle?\""
                             ]
                         },
                         {
@@ -2810,14 +2712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！なんでだ！」"
+                                "Umi: \"What?! Why?!\""
                             ]
                         },
                         {
@@ -2834,21 +2729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恐らくかなりの苦戦が予想される…。たぶん多くの村人が死んでしまうだろう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな危険な場所に…ウミに来てほしくない…」"
+                                "Kru: \"I expect it's going to be a very tough fight... Probably many\nvillagers will die... I don't want you to come to such a dangerous\nplace...\""
                             ]
                         },
                         {
@@ -2881,14 +2762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな！ウミが…ウミが邪魔だってことか！」"
+                                "Umi: \"That's absurd! Are you saying... I'm in the way?!\""
                             ]
                         },
                         {
@@ -2905,14 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違う！そんなんじゃない！オレはウミが！ウミが…」"
+                                "Kru: \"No! That's not it! I just want Umi to be safe... I want...\""
                             ]
                         },
                         {
@@ -2945,21 +2812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと冒険してきた！一緒に！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　洞窟や森や山や王国や…それに海にだって…」"
+                                "Umi: \"We've been adventuring together all this time! Through caves,\nforests, mountains, kingdoms... and even the sea...\""
                             ]
                         },
                         {
@@ -2992,14 +2845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと…一緒だった…」"
+                                "Umi: \"We've always been together...\""
                             ]
                         },
                         {
@@ -3016,21 +2862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…聞いてくれ…。オレはこの戦い…必ず生きて戻ってくる。村も救ってみせる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もし…生きて帰ってこれたら…その時は…」"
+                                "Kru: \"Umi... please listen... I will survive this battle... I promise to\ncome back alive and save our village... If I... if I can make it back\nalive... then...\""
                             ]
                         },
                         {
@@ -3063,14 +2895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その時は？」"
+                                "Umi: \"Then what?\""
                             ]
                         },
                         {
@@ -3087,14 +2912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その時は…オレと…本当の家族になってくれないか？」"
+                                "Kru: \"Then... would you become a real family with me?\""
                             ]
                         },
                         {
@@ -3127,14 +2945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Umi: \"What?\""
                             ]
                         },
                         {
@@ -3151,14 +2962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレと結婚してほしい…」"
+                                "Kru: \"I want you to marry me...\""
                             ]
                         },
                         {
@@ -3191,14 +2995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…」"
+                                "Umi: \"Kru...\""
                             ]
                         },
                         {
@@ -3215,14 +3012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「君が…好きだ！」"
+                                "Kru: \"I love you!\""
                             ]
                         },
                         {
@@ -3255,14 +3045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -3279,14 +3062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…？」"
+                                "Kru: \"Umi...?\""
                             ]
                         },
                         {
@@ -3319,14 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………嬉しい」"
+                                "Umi: \"...I'm happy.\""
                             ]
                         },
                         {
@@ -3343,14 +3112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Really?\""
                             ]
                         },
                         {
@@ -3383,14 +3145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミも……クルと家族になりたい」"
+                                "Umi: \"...I also want to become a family with Kru.\""
                             ]
                         },
                         {
@@ -3407,14 +3162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -3447,14 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルが…好き！大好き！」"
+                                "Umi: \"I love Kru! I really love you!\""
                             ]
                         },
                         {
@@ -3471,14 +3212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレも…ウミが大好きだ…」"
+                                "Kru: \"I love you too, Umi... so much...\""
                             ]
                         },
                         {
@@ -3511,14 +3245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大好き！肉よりも好き！」"
+                                "Umi: \"I love you more than meat!\""
                             ]
                         },
                         {
@@ -3535,14 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっおう…それは喜んでいいのかな？」"
+                                "Kru: \"Uh, oh... Should I be happy about that?\""
                             ]
                         },
                         {
@@ -3575,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「喜ぶ！」"
+                                "Umi: \"Be happy!\""
                             ]
                         },
                         {
@@ -3599,14 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか…。ありがとう…。だからオレは必ず帰ってくる…」"
+                                "Kru: \"Alright... thank you... That's why I will definitely come back...\""
                             ]
                         },
                         {
@@ -3639,14 +3345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…」"
+                                "Umi: \"Yeah...\""
                             ]
                         },
                         {
@@ -3663,14 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから…必ず待っていてくれ」"
+                                "Kru: \"So... please wait for me no matter what.\""
                             ]
                         },
                         {
@@ -3703,14 +3395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった…。必ず帰ってきて」"
+                                "Umi: \"I understand... You must come back.\""
                             ]
                         },
                         {
@@ -3727,14 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！」"
+                                "Kru: \"Yes!\""
                             ]
                         },
                         {
@@ -3751,14 +3429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～！」"
+                                "Mi-A: \"Meow~!\""
                             ]
                         },
                         {
@@ -3775,14 +3446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、ミーア！必ず帰ってくる」"
+                                "Kru: \"Ah, Mi-A! I will definitely come back.\""
                             ]
                         },
                         {
@@ -3799,14 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャー！」"
+                                "Mi-A: \"Meow-!\""
                             ]
                         },
                         {
@@ -3823,14 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ…そろそろ行くわ」"
+                                "Kru: \"Well then... it's about time I go.\""
                             ]
                         },
                         {
@@ -3863,14 +3513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…」"
+                                "Umi: \"Kru...\""
                             ]
                         },
                         {
@@ -3887,14 +3530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな悲しそうな顔をするな！大丈夫！」"
+                                "Kru: \"Don't look so sad! It'll be okay!\""
                             ]
                         },
                         {
@@ -3927,14 +3563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！待ってる！」"
+                                "Umi: \"Yeah! I'll be waiting!\""
                             ]
                         },
                         {
@@ -4100,7 +3729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Save?"
                             ]
                         },
                         {
@@ -4108,8 +3737,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4297,14 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア…クルは無事に帰ってくるかな…」"
+                                "Umi \"Mia... I wonder if Kru will return safely...\""
                             ]
                         },
                         {
@@ -4321,14 +3943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia \"Meow~\""
                             ]
                         },
                         {
@@ -4361,14 +3976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん……不安で胸が潰れそう…」"
+                                "Umi \"Yeah... I'm so anxious, it feels like my chest is being crushed...\""
                             ]
                         },
                         {
@@ -4385,14 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャーニャー…」"
+                                "Mia \"Meow-meow...\""
                             ]
                         },
                         {
@@ -4425,14 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？このままじゃクルは死ぬ？」"
+                                "Umi \"Eh? Kru will die if it stays like this?\""
                             ]
                         },
                         {
@@ -4449,14 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャー！」"
+                                "Mia \"Meow!\""
                             ]
                         },
                         {
@@ -4489,14 +4076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア…？」"
+                                "Umi \"Mia...?\""
                             ]
                         },
                         {
@@ -4538,14 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？何…力が…」"
+                                "Umi \"Eh? What... power is...\""
                             ]
                         },
                         {
@@ -4562,14 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～！」"
+                                "Mia \"Meow~!\""
                             ]
                         },
                         {
@@ -4602,14 +4168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…これなら…この力なら…」"
+                                "Umi \"Yeah... with this... with this power...\""
                             ]
                         },
                         {

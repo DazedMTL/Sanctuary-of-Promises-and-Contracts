@@ -3570,14 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaaawwwrrrr!\""
                             ]
                         },
                         {
@@ -3603,14 +3596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぅぅ……」"
+                                "Umi: \"Ahh...\""
                             ]
                         },
                         {
@@ -3627,14 +3613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だっダメ……このままじゃ……でも…力が…)"
+                                "Lutecia: \"(No good... At this rate... But... I'm losing strength...)\""
                             ]
                         },
                         {
@@ -3663,14 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaaawwwrrrr!\""
                             ]
                         },
                         {
@@ -3718,14 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………たっ…」"
+                                "Umi: \"...Hah...\""
                             ]
                         },
                         {
@@ -3752,14 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「助けてぇぇぇぇ！」"
+                                "Girl: \"Somebody help meeee!\""
                             ]
                         },
                         {
@@ -3788,14 +3746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaaawwwrrrr!\""
                             ]
                         },
                         {
@@ -3812,7 +3763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサガサ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -3888,14 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ！」"
+                                "Boy: \"Whoa!\""
                             ]
                         },
                         {
@@ -4387,14 +4331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いてててて…。ん？なんだお前？なんで泣いてるんだ？」"
+                                "Boy: \"Ouch, ouch, ouch... Huh? Who are you? Why are you crying?\""
                             ]
                         },
                         {
@@ -4411,14 +4348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぅぅ…」"
+                                "Umi: \"Ahh...\""
                             ]
                         },
                         {
@@ -4435,14 +4365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Boy: \"Hm?\""
                             ]
                         },
                         {
@@ -4471,14 +4394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaawwwrrr!\""
                             ]
                         },
                         {
@@ -4536,14 +4452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁぁ！」"
+                                "Boy: \"Aaaahhh!\""
                             ]
                         },
                         {
@@ -4560,14 +4469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……うぅ…」"
+                                "Umi: \"Ahh... uh...\""
                             ]
                         },
                         {
@@ -4584,14 +4486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……どっどうしよう…」"
+                                "Boy: \"Ah... what should I do...\""
                             ]
                         },
                         {
@@ -4620,14 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaawwwrrr!\""
                             ]
                         },
                         {
@@ -4675,14 +4563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ……」"
+                                "Umi: \"Uh-huh...\""
                             ]
                         },
                         {
@@ -4812,14 +4693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ大丈夫だ……。そんなに怖がるな…。オレが守るよ」"
+                                "Boy: \"It's okay... don't be so scared... I'll protect you.\""
                             ]
                         },
                         {
@@ -4848,14 +4722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaawwwrrr!\""
                             ]
                         },
                         {
@@ -4872,14 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁぁ！」"
+                                "Boy: \"Aaaaahhhh!\""
                             ]
                         },
                         {
@@ -4961,14 +4821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！」"
+                                "Girl: \"Aaaaahhhh!\""
                             ]
                         },
                         {
@@ -5020,7 +4873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブシュッ！"
+                                "Splash!"
                             ]
                         },
                         {
@@ -5037,14 +4890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐふぅ！」"
+                                "Boy: \"Guh!\""
                             ]
                         },
                         {
@@ -5061,14 +4907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぅぅ‼‼」"
+                                "Girl: \"Ahh...!\""
                             ]
                         },
                         {
@@ -5085,14 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(たっ大変………うぅ…)"
+                                "Lutecia: \"(This is terrible... uh...)\""
                             ]
                         },
                         {
@@ -5109,14 +4941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Boy: \"Uh...\""
                             ]
                         },
                         {
@@ -5184,14 +5009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…」"
+                                "Boy: \"Haa, haa...\""
                             ]
                         },
                         {
@@ -5259,14 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっ…この子には……指一本……触れさせないぞ…」"
+                                "Boy: \"I won't let you... lay a finger... on this girl...\""
                             ]
                         },
                         {
@@ -5283,14 +5094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嘘……。この少年…動けるはずないのに…)"
+                                "Lutecia: \"(No way... this boy... he shouldn't be able to move...)\""
                             ]
                         },
                         {
@@ -5319,14 +5123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガウゥゥゥゥゥゥゥ！」"
+                                "Monster: \"Grrraaawwwrrr!\""
                             ]
                         },
                         {
@@ -5343,14 +5140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ……あぁ…」"
+                                "Boy: \"Uh-huh... ah...\""
                             ]
                         },
                         {
@@ -5367,14 +5157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぅ……うぅ…」"
+                                "Girl: \"Ah... uh...\""
                             ]
                         },
                         {
@@ -5391,7 +5174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギュッ…"
+                                "Squeeze..."
                             ]
                         },
                         {
@@ -5408,14 +5191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫……オレが…守るよ…」"
+                                "Boy: \"It's okay... I will... protect you...\""
                             ]
                         },
                         {
@@ -5432,14 +5208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お願い！……どうか……力よ！力よ戻って！)"
+                                "Lutecia: \"(Please!... Somehow... return to me, strength!)\""
                             ]
                         },
                         {
@@ -5482,14 +5251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ！」"
+                                "Boy: \"What the!?\""
                             ]
                         },
                         {
@@ -5532,14 +5294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お願い……)"
+                                "Lutecia: \"(Please...)\""
                             ]
                         },
                         {
@@ -5582,14 +5337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少年"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうわぁぁぁぁぁぁ！」"
+                                "Boy: \"Ugh, aaaaaahhhhh!\""
                             ]
                         },
                         {
@@ -5618,7 +5366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか……そうだったんだ………"
+                                "So that's it... that's what happened..."
                             ]
                         },
                         {
@@ -5635,7 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この時のこの子達が……"
+                                "These children at that time..."
                             ]
                         },
                         {

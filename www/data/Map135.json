@@ -3274,14 +3274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい、いらっっしゃいいませ…」"
+                                "Clerk: \"Welcome, welcome...\""
                             ]
                         },
                         {
@@ -3298,14 +3291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(びっびじんだ……)"
+                                "Clerk: (She's a beauty...)"
                             ]
                         },
                         {
@@ -3382,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにやらいかがわしい本がズラリ…"
+                                "A whole array of suspicious-looking books..."
                             ]
                         },
                         {

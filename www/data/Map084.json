@@ -2185,14 +2185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっクセシレイ様の目覚めが近いようじゃのぉ」"
+                                "Villager: \"Hohhohho, it seems that Lord Kuseshirei's awakening is near.\""
                             ]
                         },
                         {
@@ -2260,14 +2253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっお主、さすがクセシレイ様が導いただけの事はあるのぉ」"
+                                "Villager: \"Hohoho, my lord, it's no wonder you were guided by the esteemed\nKuseshirei-sama.\""
                             ]
                         },
                         {
@@ -2335,14 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっクル様、さすがクセシレイ様が導いただけの事はあるのぉ」"
+                                "Villager: \"Hohoho, Lord Kru, it's clear that Lady Kuseshirei has led you\nwell.\""
                             ]
                         },
                         {

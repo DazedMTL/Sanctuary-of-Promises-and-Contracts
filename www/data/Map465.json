@@ -2207,14 +2207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは⁉」"
+                                "Kru \"What is this⁉\""
                             ]
                         },
                         {
@@ -2330,14 +2323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだ⁉」"
+                                "Kru \"What happened⁉\""
                             ]
                         },
                         {
@@ -2354,14 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……魔物に襲われて…」"
+                                "Villager A \"Ugh... attacked by monsters...\""
                             ]
                         },
                         {
@@ -2378,14 +2357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺達は大丈夫……奥で……族長が………早く…」"
+                                "Villager B \"We're okay... but in the back... the chieftain... hurry...\""
                             ]
                         },
                         {
@@ -2436,14 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長！」"
+                                "Umi \"The chieftain!\""
                             ]
                         },
                         {
@@ -2460,14 +2425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行こう！」"
+                                "Kru \"Let's go!\""
                             ]
                         },
                         {

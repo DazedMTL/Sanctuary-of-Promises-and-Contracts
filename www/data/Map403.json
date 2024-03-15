@@ -2000,14 +2000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう元気ないなぁ…」"
+                                "Villager: \"I just don't have the energy anymore...\""
                             ]
                         },
                         {

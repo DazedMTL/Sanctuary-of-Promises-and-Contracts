@@ -5339,14 +5339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…やっと着きましたね」"
+                                "Banka: \"Phew... We've finally arrived.\""
                             ]
                         },
                         {
@@ -5363,14 +5356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…今回の旅が一番長かったな」"
+                                "Kru: \"Yeah... This journey was the longest one yet.\""
                             ]
                         },
                         {
@@ -5403,14 +5389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういえばウミさん。今回はあまり疲れてないようですね」"
+                                "Banka: \"By the way, Umi-san. You don't seem very tired this time.\""
                             ]
                         },
                         {
@@ -5461,14 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？あぁ…。うん」"
+                                "Umi: \"Eh? Oh... yeah.\""
                             ]
                         },
                         {
@@ -5485,14 +5457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何回か旅をしたから身体が慣れたのかもしれないな」"
+                                "Kru: \"Maybe our bodies have gotten used to traveling after doing it so many\ntimes.\""
                             ]
                         },
                         {
@@ -5525,14 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう……かも…」"
+                                "Umi: \"That might be... true...\""
                             ]
                         },
                         {
@@ -5565,14 +5523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁサクッと終わらせて帰りましょう！」"
+                                "Banka: \"Then let's wrap this up quickly and head back!\""
                             ]
                         },
                         {

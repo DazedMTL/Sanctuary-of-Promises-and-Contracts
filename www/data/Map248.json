@@ -5185,7 +5185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドンドンドン！"
+                                "Boom! Boom! Boom!"
                             ]
                         },
                         {
@@ -5236,14 +5236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！大丈夫か！」"
+                                "Kru: \"Umi! Are you okay?\""
                             ]
                         },
                         {
@@ -5260,14 +5253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クックル！だっダメ…こっ…来ないで…あぁぁ！」"
+                                "Umi: \"Kru! No... don't... come closer... Ahhh!\""
                             ]
                         },
                         {
@@ -5284,14 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どっどうしたんだウミ！」"
+                                "Kru: \"What's wrong, Umi!\""
                             ]
                         },
                         {
@@ -5308,14 +5287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あっ…あん！あぁ！はぁはぁ…」"
+                                "Umi: \"Ah! Ahh... Ahn! Ahh! Haa haa...\""
                             ]
                         },
                         {
@@ -5332,14 +5304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ？」"
+                                "Kru: \"...Umi?\""
                             ]
                         },
                         {
@@ -5356,14 +5321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！オレ達スライムに捕まってしまって！」"
+                                "Banka: \"Kru-san! We've been captured by slimes!\""
                             ]
                         },
                         {
@@ -5380,14 +5338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ！ウミは…ウミは無事なのか⁉」"
+                                "Kru: \"Banka! Is Umi... Is Umi safe?!\""
                             ]
                         },
                         {
@@ -5404,14 +5355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさんはスライムに犯されています！」"
+                                "Banka: \"Umi-san is being violated by the slimes!\""
                             ]
                         },
                         {
@@ -5428,14 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな！ウミ！すぐ助ける！」"
+                                "Kru: \"No way! Umi! I'll save you right away!\""
                             ]
                         },
                         {
@@ -5452,14 +5389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ！お願い…はぁはぁ…あぁ！あん！あん！あぁ！」"
+                                "Umi: \"No! Please... Haa haa... Ahh! Ahn! Ahn! Ahh!\""
                             ]
                         },
                         {
@@ -5476,14 +5406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！しっかりするんだ！」"
+                                "Kru: \"Umi! Hang in there!\""
                             ]
                         },
                         {
@@ -5500,14 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっダメ…クル……き…ちゃ…あぁ！あん！ダメ！」"
+                                "Umi: \"It's no use... Kru... I'm... coming... Ahh! Ahn! No good!\""
                             ]
                         },
                         {
@@ -5524,14 +5440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちくしょう！」"
+                                "Kru: \"Damn it!\""
                             ]
                         },
                         {
@@ -5548,7 +5457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドンドンドンドン！"
+                                "Boom! Boom! Boom! Boom!"
                             ]
                         },
                         {
@@ -5565,14 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメだ…全然開かない！」"
+                                "Kru: \"No good... It won't open at all!\""
                             ]
                         },
                         {
@@ -5589,14 +5491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああぁ！ダメ！そっそこは！ああぁ！あぁ！あぁぁん！はぁはぁ…」"
+                                "Umi: \"Aahh! No! Not there! Aahh! Ahh! Ahhhn! Haa haa...\""
                             ]
                         },
                         {
@@ -5613,14 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…なっなんて辛そうなんだ…」"
+                                "Kru: \"Umi... you look so in pain...\""
                             ]
                         },
                         {
@@ -5649,7 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボトッボトッボトッボトッ…"
+                                "Drip drip drip drip..."
                             ]
                         },
                         {
@@ -5680,14 +5568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんて数のスライムだ…」"
+                                "Kru: \"What a number of slimes...\""
                             ]
                         },
                         {
@@ -5704,14 +5585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかもこいつらはエクスタシースライム…」"
+                                "Kru: \"And these guys are Ecstasy Slimes...\""
                             ]
                         },
                         {
@@ -5728,14 +5602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まさかウミが生み出したって事はないよな…)"
+                                "Kru: (Surely Umi didn't produce them...)"
                             ]
                         },
                         {
@@ -5752,14 +5619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ともかく倒さないと！」"
+                                "Kru: \"Anyway, I have to defeat them!\""
                             ]
                         },
                         {
@@ -5868,14 +5728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…なんとか片付いた…」"
+                                "Kru: \"Haa haa haa... Somehow, we managed to finish it...\""
                             ]
                         },
                         {
@@ -5926,7 +5779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドンドンドン！"
+                                "Thud thud thud!"
                             ]
                         },
                         {
@@ -5943,14 +5796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！無事か！」"
+                                "Kru: \"Umi! Are you alright?\""
                             ]
                         },
                         {
@@ -5991,7 +5837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギーーッ…"
+                                "Squeak..."
                             ]
                         },
                         {
@@ -6008,14 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッ……ウミ……？」"
+                                "Kru: \"Uh... Umi...?\""
                             ]
                         },
                         {

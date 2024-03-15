@@ -117,7 +117,7 @@
                 "skillId": 82
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "",
         "params": [
             [
@@ -1035,7 +1035,7 @@
                 "skillId": 77
             }
         ],
-        "name": "巫女",
+        "name": "Shrine Maiden",
         "note": "",
         "params": [
             [
@@ -1968,7 +1968,7 @@
                 "skillId": 31
             }
         ],
-        "name": "マジシャン",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -2931,7 +2931,7 @@
                 "skillId": 118
             }
         ],
-        "name": "一般人",
+        "name": "Commoner",
         "note": "",
         "params": [
             [
@@ -3814,7 +3814,7 @@
                 "skillId": 142
             }
         ],
-        "name": "神",
+        "name": "God",
         "note": "",
         "params": [
             [
@@ -4707,7 +4707,7 @@
                 "skillId": 95
             }
         ],
-        "name": "剣士",
+        "name": "Swordsman",
         "note": "",
         "params": [
             [
@@ -5625,7 +5625,7 @@
                 "skillId": 94
             }
         ],
-        "name": "巫女",
+        "name": "Shrine Maiden",
         "note": "",
         "params": [
             [

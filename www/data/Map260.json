@@ -2851,14 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いたぞ！クルだ‼‼」"
+                                "Soldier: \"There he is! It's Kru!!\""
                             ]
                         },
                         {
@@ -2875,14 +2868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だいぶ弱ってるが油断するな‼‼」"
+                                "Soldier: \"He's quite weakened, but don't let your guard down!!\""
                             ]
                         },
                         {
@@ -2899,14 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし全員でかかれ‼‼」"
+                                "Soldier: \"Alright, everyone attack at once!!\""
                             ]
                         },
                         {
@@ -3018,14 +2997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし！ひっ捕らえて、シフ様の所へお連れするぞ‼‼」"
+                                "Soldier: \"Good! Capture him and bring him to Lord Shif!!\""
                             ]
                         },
                         {
@@ -3049,14 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うぅううぅぅ…)"
+                                "Kru: (Ughhh...)"
                             ]
                         },
                         {
@@ -3073,14 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっここは……)"
+                                "Kru: (Where is this...)"
                             ]
                         },
                         {
@@ -3148,14 +3106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅ……お目覚めのようだのぅ…」"
+                                "Chancellor Shif: \"Ho... It seems you've awakened...\""
                             ]
                         },
                         {
@@ -3172,14 +3123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ………お前は！」"
+                                "Kru: \"You... You are!\""
                             ]
                         },
                         {
@@ -3212,14 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっはっ！お前は……なんだ？」"
+                                "Chancellor Shif: \"Hahahaha! You are... what?\""
                             ]
                         },
                         {
@@ -3236,14 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前は………シフ…」"
+                                "Kru: \"You are... Shif...\""
                             ]
                         },
                         {
@@ -3276,28 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははははは‼‼‼正解！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　劣悪なお前の脳みそでも、きちんと正解を導き出せるとは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　平民の教育機関も捨てたものではないのぅ…」　"
+                                "Chancellor Shif: \"Hahahahaha!!! Correct! Even with your inferior brain, you\nmanaged to come to the right conclusion! The education system for commoners\nisn't a total waste after all...\""
                             ]
                         },
                         {
@@ -3314,14 +3223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ……なぜ生きている……」"
+                                "Kru: \"Why... Why are you alive...\""
                             ]
                         },
                         {
@@ -3354,28 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ死んだと思ったのだ……。ふふふ詰めの甘い男よ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの時液体化して地中に逃げたのだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前が殺したと思ったのはただの偽物だ！」"
+                                "Chancellor Shif: \"Why did you think I was dead... Hahaha, such a naive\nman... I liquefied and escaped underground... What you thought you killed\nwas just a decoy!\""
                             ]
                         },
                         {
@@ -3392,14 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「漏らしたのでは…なかったのか？」"
+                                "Kru: \"So it wasn't... a leak?\""
                             ]
                         },
                         {
@@ -3432,21 +3306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「漏らしたのではないのだ。まぁお前のような者の発想ではそのような下品な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　考えに及ぶのも無理はないか」"
+                                "Chancellor Shif: \"It was not a leak. Well, I suppose someone like you would\nnaturally come to such a vulgar conclusion.\""
                             ]
                         },
                         {
@@ -3463,14 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっなんてことだ……。自分の甘さがこのような事態を招いてしまうとは…)"
+                                "Kru: (Damn it... My own naivety has led to this situation...)"
                             ]
                         },
                         {
@@ -3503,21 +3356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて…、じっくりなぶり殺しにしてしまいたい所ではあるが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前にはやって貰わなければならない重要な役目がある…。」"
+                                "Chancellor Shif: \"Now then... I'd love to torture you slowly, but...\nthere's an important role you must play for me...\""
                             ]
                         },
                         {
@@ -3534,14 +3373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「役目？」"
+                                "Kru: \"A role?\""
                             ]
                         },
                         {
@@ -3574,14 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ…。その為に生かしておいてやる。せいぜい私の為に働いておくれ」"
+                                "Chancellor Shif: \"Yes... That's why I've kept you alive. Work well for my\nsake.\""
                             ]
                         },
                         {
@@ -3598,14 +3423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まっ待て！役目とはなんだ‼‼」"
+                                "Kru: \"Wait! What role are you talking about!!\""
                             ]
                         },
                         {
@@ -3638,14 +3456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ慌てるでない。時が来れば分かる」"
+                                "Chancellor Shif: \"Now, now, don't be hasty. You'll understand when the time\ncomes.\""
                             ]
                         },
                         {
@@ -3662,14 +3473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まっ待ってくれ…。ウミは…ウミの事は…」"
+                                "Kru: \"Wait... Umi... What about Umi...\""
                             ]
                         },
                         {
@@ -3686,7 +3490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな事聞いてどうなる…。"
+                                "What will you do by asking about that..."
                             ]
                         },
                         {
@@ -3719,14 +3523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅ…。あの精子袋の女について知りたいのか？」"
+                                "Chancellor Shif: \"Ho... You want to know about that sperm bag of a woman?\""
                             ]
                         },
                         {
@@ -3743,14 +3540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「精子袋？」"
+                                "Kru: \"Sperm bag?\""
                             ]
                         },
                         {
@@ -3767,7 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめろ……それ以上聞いたって……もう……"
+                                "Stop... No matter what you hear now... it's already..."
                             ]
                         },
                         {
@@ -3800,14 +3590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ…。あの女は私の大切な精子袋なのだ…。この世で一番丁重に扱っておるぞ」"
+                                "Chancellor Shif: \"Indeed... That woman is my precious sperm bag... I treat\nher with the utmost care in this world.\""
                             ]
                         },
                         {
@@ -3824,14 +3607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぅう」"
+                                "Kru: \"...Ugh\""
                             ]
                         },
                         {
@@ -3864,14 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ丁重とは言っても、調教するのに多少の手荒な些事はあったかもしれんがのぅ」"
+                                "Chancellor Shif: \"Well, when I say 'care', there might have been some rough\ntreatment during her training, but oh well.\""
                             ]
                         },
                         {
@@ -3888,14 +3657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…ぅ…」"
+                                "Kru: \"Ah... Ugh...\""
                             ]
                         },
                         {
@@ -3928,28 +3690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、あの精子袋も大層悦んでおったぞ…。まるで初めて快楽を知ったかのように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　初心な肉壺であった…。お前がもう少し楽園を覗かしてやっていれば、多少違ったか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしれんがな…」"
+                                "Chancellor Shif: \"However, that sperm bag seemed to greatly enjoy it... as\nif she had discovered pleasure for the first time, such an innocent pussy\nshe had... If only you had allowed her a glimpse of paradise a bit longer,\nthings might have been different...\""
                             ]
                         },
                         {
@@ -3966,7 +3707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめろ……やめてくれ……"
+                                "Stop it... Please stop..."
                             ]
                         },
                         {
@@ -3999,14 +3740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出来上がりは……。まあお前の目で見たのだから言うまでもないかのぅ」"
+                                "Chancellor Shif: \"The result is... well, you've seen it with your own eyes,\nso there's no need for words, is there?\""
                             ]
                         },
                         {
@@ -4023,14 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Kru: \"Ugh...\""
                             ]
                         },
                         {
@@ -4063,14 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ…聞きたそうな顔をしているのぅ…。仕方ない少し聞かせてやろう」"
+                                "Chancellor Shif: \"What's that? You seem eager to hear more... Can't be\nhelped, I'll indulge you a bit.\""
                             ]
                         },
                         {
@@ -4087,14 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やめろ…」"
+                                "Kru: \"Stop it...\""
                             ]
                         },
                         {
@@ -4127,21 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだのぅ…。あの女は天性のマゾでのぅ。こうケツを叩いたり、乳首を噛んだりすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　愛液がドバッと溢れて…」"
+                                "Chancellor Shif: \"Indeed... That woman is a natural masochist. When her ass\nis spanked or her nipples bitten, her love juices overflow like a flood...\""
                             ]
                         },
                         {
@@ -4158,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめて……"
+                                "Stop it..."
                             ]
                         },
                         {
@@ -4191,21 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あと恥ずかしいのがどうやら好きらしく、外で人に見つかりそうになると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頬を上気させて悦んでおったの」"
+                                "Chancellor Shif: \"And she seems to like being embarrassed; when she's about\nto be seen by others outside, she blushes and revels in it.\""
                             ]
                         },
                         {
@@ -4222,7 +3907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頼むから……"
+                                "Please, I'm begging you..."
                             ]
                         },
                         {
@@ -4255,21 +3940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前が近くにいる時が一番興奮しておったのぅ…。こう足をガクガク奮わせてのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　派手に逝きよって…。バレるかと思って冷や冷やしたぞ…」"
+                                "Shif: \"She was most excited when you were nearby... trembling legs and all.\nShe climaxed so flamboyantly... I was sweating bullets thinking we'd get\ncaught...\""
                             ]
                         },
                         {
@@ -4286,7 +3957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕の………ウミを……汚さないでくれ………"
+                                "Don't... defile my Umi..."
                             ]
                         },
                         {
@@ -4319,14 +3990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ？おやおや……お前…ひょっとして…」"
+                                "Shif: \"Oh? My, my... you... could it be...\""
                             ]
                         },
                         {
@@ -4343,14 +4007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Huh?\""
                             ]
                         },
                         {
@@ -4383,21 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前勃起しておるではないか⁉はははははは！お前妻の不貞の始終を聞かされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　悦んでおるではないか！夫婦揃って変態だのぅ…」"
+                                "Shif: \"You're getting an erection, aren't you⁉ Hahahaha! You're actually\nenjoying hearing all about your wife's infidelity! What a perverted\ncouple...\""
                             ]
                         },
                         {
@@ -4414,14 +4057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ…くそ！」"
+                                "Kru: \"Damn it... damn!\""
                             ]
                         },
                         {
@@ -4438,14 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うそ……だろ……。どうしてこんなに熱く…張り裂けそうに勃起しているんだ…)"
+                                "Kru: (No... it can't be... why is it getting so hot... and swelling up like\nit's going to burst...)"
                             ]
                         },
                         {
@@ -4478,21 +4107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……久方ぶりにこんなに笑ったのぅ…。お前には感謝しなくてはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁよいよい！一年前の事は水に流そう。どうせ、兵士が大量に死んだだけだ」"
+                                "Shif: \"Ha... It's been a long time since I've laughed this much... I must\nthank you. Ah, very well! Let's let bygones be bygones about the incident a\nyear ago. After all, it was just a bunch of soldiers who died.\""
                             ]
                         },
                         {
@@ -4509,14 +4124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっこの外道め！」"
+                                "Kru: \"You fiend!\""
                             ]
                         },
                         {
@@ -4549,21 +4157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「外道……。ふっその外道に妻が盗られて、股間を熱くしているというのに…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前のマラは大層立派だのぅ。ではその硬くなった肉棒で正道を行くがよい」"
+                                "Shif: \"Fiend... Hmph, your wife gets stolen by a fiend, and yet your loins\nare burning with passion... Your cock is quite impressive. Now, go forth\nwith that hardened dick and walk the path of righteousness.\""
                             ]
                         },
                         {
@@ -4580,14 +4174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっくそっくそっくそっ‼‼」"
+                                "Kru: \"Damn it, damn it, damn it, damn it‼‼\""
                             ]
                         },
                         {
@@ -4620,21 +4207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそうだのぅ。そりゃ苦しいわのぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おい…手枷を外してやれ」"
+                                "Shif: \"Ah, yes, that's right. It must be painful. Hey... take off his\nhandcuffs.\""
                             ]
                         },
                         {
@@ -4651,14 +4224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、シフ様。それでは暴れるのでは？」"
+                                "Soldier: \"But, Lord Shif. Won't he go on a rampage?\""
                             ]
                         },
                         {
@@ -4698,28 +4264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よいよい。この牢の中には結界を張り巡らせておる。こやつは何もできん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それよりもこやつは自分の手で、精子を正道に導いてやらねばならんのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このまま勃起させておいた方がよっぽど外道だろうに…」"
+                                "Shif: \"It's fine. I've placed a barrier around this cell. He can't do\nanything. Besides, he needs to guide his sperm to righteousness with his\nown hands. It would be far more fiendish to leave him erect like this...\""
                             ]
                         },
                         {
@@ -4736,14 +4281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっかしこまりました！」"
+                                "Soldier: \"Understood!\""
                             ]
                         },
                         {
@@ -4776,14 +4314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では平民…。またの」"
+                                "Shif: \"Then, commoner... until next time.\""
                             ]
                         },
                         {
@@ -4973,14 +4504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそっくそぉぉぉぉぉぉ‼‼」"
+                                "Kru: \"Damn it, damn it aaaaahhh‼‼\""
                             ]
                         },
                         {
@@ -4997,7 +4521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……こうして僕は囚われの身になった。"
+                                "...And so I became a prisoner."
                             ]
                         },
                         {
@@ -5014,7 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……だがなんでもいい。僕の生きる道も、意味も、役目も、何もかも失った…。"
+                                "...But it doesn't matter anymore. I've lost my way of life, my meaning, my\npurpose, everything..."
                             ]
                         },
                         {
@@ -5031,7 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……なんでもいい…。なんでもいいのに……。"
+                                "I don't care anymore... It doesn't matter..."
                             ]
                         },
                         {
@@ -5048,7 +4572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "心に残っているこの気持ちはなんだ…？"
+                                "What is this feeling that remains in my heart...?"
                             ]
                         },
                         {
@@ -5065,7 +4589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かが僕の心の隅の方に残っていた…。"
+                                "Something was left in the corner of my heart..."
                             ]
                         },
                         {
@@ -5283,7 +4807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………クル…"
+                                "...Kru..."
                             ]
                         },
                         {
@@ -5307,7 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしてこんなことになってしまったのだろう………"
+                                "How did things end up like this..."
                             ]
                         },
                         {
@@ -5331,7 +4855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の……世界で一番大好きなクル……"
+                                "My Kru... the one I love most in the world..."
                             ]
                         },
                         {
@@ -5355,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのクルを……大好きなクルを……傷つけてしまった……"
+                                "I've hurt that Kru... the Kru I love so much..."
                             ]
                         },
                         {
@@ -5379,7 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -5396,7 +4920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -5413,7 +4937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………もう……あの頃には…"
+                                "...I can never go back..."
                             ]
                         },
                         {
@@ -5437,7 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………戻れない…。"
+                                "...to those days..."
                             ]
                         },
                         {

@@ -11479,14 +11479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みんな準備ありがとう」"
+                                "Kru: \"Thanks everyone for getting ready.\""
                             ]
                         },
                         {
@@ -11503,14 +11496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなのなんでもないですよ！」"
+                                "Villager A: \"This is nothing at all!\""
                             ]
                         },
                         {
@@ -11527,14 +11513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ！やってやりましょう」"
+                                "Villager B: \"Alright! Let's do this.\""
                             ]
                         },
                         {
@@ -11551,14 +11530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それなんだけど、皆にお願いがあるんだ…」"
+                                "Kru: \"About that, I have a favor to ask of everyone...\""
                             ]
                         },
                         {
@@ -11575,14 +11547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんですか？」"
+                                "Villager C: \"What is it?\""
                             ]
                         },
                         {
@@ -11599,14 +11564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆にはできるだけ戦いに参加してほしくないんだ」"
+                                "Kru: \"I want everyone to avoid joining the fight as much as possible.\""
                             ]
                         },
                         {
@@ -11623,14 +11581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！どういう事ですか！」"
+                                "Villager A: \"Eh! What do you mean by that!\""
                             ]
                         },
                         {
@@ -11647,21 +11598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この戦いかなり厳しいものになると思う…。正直戦力差は明らかだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　皆には死んでほしくない…。だからできるだけ後方支援に務めてほしい」"
+                                "Kru: \"I think this battle is going to be quite tough... Honestly, the\ndifference in strength is clear. I don't want any of you to die... That's\nwhy I want you to focus on support from the rear as much as possible.\""
                             ]
                         },
                         {
@@ -11678,14 +11615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…」"
+                                "Villager D: \"Kru...\""
                             ]
                         },
                         {
@@ -11702,21 +11632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレが前線に立って戦う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして絶対防衛ラインを敵が超えたら大人しく降参してほしい」"
+                                "Kru: \"I'll stand on the front lines and fight. And if the enemy crosses the\nabsolute defense line, I want you to surrender peacefully.\""
                             ]
                         },
                         {
@@ -11733,14 +11649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな！」"
+                                "Villager B: \"But that's...!\""
                             ]
                         },
                         {
@@ -11757,21 +11666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「無理なことを言ってるのはわかるが、今の現状を見て欲しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　女性や子供やご老人の方まで戦場に来ている。」"
+                                "Kru: \"I know I'm asking for something difficult, but I want you to look at\nthe current situation. Women, children, and the elderly are coming to the\nbattlefield.\""
                             ]
                         },
                         {
@@ -11788,28 +11683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村中の人を集めても戦える人はわずかなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんな中、無理して無駄死にするよりも大人しく降伏して命がある方が何倍もいいと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　わかってくれるかな？」"
+                                "Kru: \"Even if we gather everyone in the village, only a few can actually\nfight. In such a situation, it's much better to surrender and live than to\ndie in vain. Do you understand?\""
                             ]
                         },
                         {
@@ -11826,14 +11700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもそれじゃぁそもそも戦う意味がないんじゃ…」"
+                                "Villager C: \"But then, what's the point of fighting in the first place...\""
                             ]
                         },
                         {
@@ -11850,14 +11717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、それは大丈夫。自慢じゃないけど、オレは王国剣士長を務めていたんだ」"
+                                "Kru: \"No, that's not a problem. Not to boast, but I served as the kingdom's\nswordmaster.\""
                             ]
                         },
                         {
@@ -11874,14 +11734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは知っています」"
+                                "Villager A: \"We know that.\""
                             ]
                         },
                         {
@@ -11898,14 +11751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そして王国兵は実戦経験がほとんどないんだ」"
+                                "Kru: \"And the kingdom's soldiers have almost no real combat experience.\""
                             ]
                         },
                         {
@@ -11922,14 +11768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？それはどういうことですか？」"
+                                "Villager B: \"Eh? What do you mean by that?\""
                             ]
                         },
                         {
@@ -11946,21 +11785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「つまりほとんどの荒事はオレが表になって解決してるから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　他の兵達は戦う事がなかったんだ」"
+                                "Kru: \"It means that most of the rough stuff was settled by me stepping\nforward, so the other soldiers didn't have to fight.\""
                             ]
                         },
                         {
@@ -11977,14 +11802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっそんなことあるんですか」"
+                                "Villager D: \"Eh, can such a thing really happen?\""
                             ]
                         },
                         {
@@ -12001,14 +11819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いやぁ我ながらヘタな嘘だなぁ…。だが、王国軍が弱いのは事実）"
+                                "Kru: \"(No, what a terrible lie I've told... But it's true that the\nkingdom's army is weak.)\""
                             ]
                         },
                         {
@@ -12025,21 +11836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁね。王国の軍は貴族が大半を占めていて、中々戦いたがらなかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちなみにオレ一人で隣国の軍と戦ったこともある」"
+                                "Kru: \"Well, yeah. The kingdom's army is mostly made up of nobles who are\nreluctant to fight. By the way, I've fought against the army of a\nneighboring country by myself before.\""
                             ]
                         },
                         {
@@ -12056,14 +11853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウソだろ…」"
+                                "Villager A: \"You're kidding...\""
                             ]
                         },
                         {
@@ -12080,14 +11870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがにその時は死にかけたけどね。でも一日くらいなら耐えられるんじゃないかと思っている」"
+                                "Kru: \"I almost died at that time, but I think I can hold out for a day or\nso.\""
                             ]
                         },
                         {
@@ -12104,14 +11887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもクルさん一人にそんな負担を強いてしまっては…」"
+                                "Villager B: \"But to impose such a burden on Kru alone...\""
                             ]
                         },
                         {
@@ -12128,21 +11904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレはこの村が好きだ…。この村を救う為に命を懸けるのは惜しくない…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だけどこの戦いに勝利して、オレが生きていたら皆にお願いがあるんだ」"
+                                "Kru: \"I love this village... I don't mind risking my life to save it... But\nif we win this fight and I'm still alive, there's something I want to ask\nof everyone.\""
                             ]
                         },
                         {
@@ -12159,14 +11921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんですか？」"
+                                "Villager A: \"What is it?\""
                             ]
                         },
                         {
@@ -12183,14 +11938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレとウミの結婚を認めてほしい！」"
+                                "Kru: \"I want you to accept my marriage to Umi!\""
                             ]
                         },
                         {
@@ -12207,14 +11955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！」"
+                                "Villager A: \"Eh!\""
                             ]
                         },
                         {
@@ -12231,14 +11972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは…」"
+                                "Villager D: \"That is...\""
                             ]
                         },
                         {
@@ -12255,14 +11989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼む！オレをこの村に迎えて欲しい！」"
+                                "Kru: \"Please! I want you to welcome me into this village!\""
                             ]
                         },
                         {
@@ -12279,14 +12006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…」"
+                                "Villager B: \"Kru...\""
                             ]
                         },
                         {
@@ -12303,14 +12023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「水臭いですよ」"
+                                "Villager C: \"Don't be so formal.\""
                             ]
                         },
                         {
@@ -12327,14 +12040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -12351,14 +12057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｅ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうクルさんはワシらの村の一員じゃ」"
+                                "Villager E: \"Kru is already one of our village members.\""
                             ]
                         },
                         {
@@ -12375,14 +12074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにウミちゃんとの事ももう秒読みだと思ってたよ」"
+                                "Villager D: \"And we've been thinking it's just a matter of time before you\nand Umi-chan get together.\""
                             ]
                         },
                         {
@@ -12399,14 +12091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆…」"
+                                "Kru: \"Everyone...\""
                             ]
                         },
                         {
@@ -12423,14 +12108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ戦いが終わったら盛大に祝わないとな！」"
+                                "Villager A: \"Then after the battle is over, we'll have to celebrate in a\nbig way!\""
                             ]
                         },
                         {
@@ -12447,14 +12125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！クルさんが酔いつぶれるまで飲み明かそう！」"
+                                "Villager B: \"Yeah! Let's drink until Kru passes out!\""
                             ]
                         },
                         {
@@ -12471,14 +12142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは！お手柔らかに頼むよ」"
+                                "Kru: \"Hahaha! Please go easy on me.\""
                             ]
                         },
                         {
@@ -12495,14 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｅ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあこの戦い必ず勝とう！」"
+                                "Villager E: \"Then let's definitely win this battle!\""
                             ]
                         },
                         {
@@ -12519,14 +12176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！必ず！」"
+                                "Kru: \"Yeah! Definitely!\""
                             ]
                         },
                         {

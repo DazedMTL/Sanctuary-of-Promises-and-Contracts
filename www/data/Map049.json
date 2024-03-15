@@ -7070,7 +7070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]エクスタシースライムを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ecstasy Slime!"
                             ]
                         },
                         {
@@ -7087,7 +7087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]スライムの肝を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Gained the Slime's Liver!"
                             ]
                         },
                         {
@@ -7104,7 +7104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]魔力の薬を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained a Potion of Magical Power!"
                             ]
                         },
                         {
@@ -8599,7 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オークを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Orc!"
                             ]
                         },
                         {
@@ -8616,7 +8616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オークのバラ肉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained Orc's Wild Meat!"
                             ]
                         },
                         {
@@ -8633,7 +8633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]回帰丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Return Sphere!"
                             ]
                         },
                         {
@@ -8715,14 +8715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう！本当に転移した！」"
+                                "Kru: \"Yeah! We really teleported!\""
                             ]
                         },
                         {
@@ -8739,14 +8732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがクセシレイ様の力…」"
+                                "Umi: \"As expected of Lord Xecil's power...\""
                             ]
                         },
                         {
@@ -8763,21 +8749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よしじゃぁ行こう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここから東に行けば王国だ！」"
+                                "Kru: \"Alright, let's go! If we head east from here, we'll reach the\nkingdom!\""
                             ]
                         },
                         {

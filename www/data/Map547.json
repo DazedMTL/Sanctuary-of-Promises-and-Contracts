@@ -3406,14 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらー！いらっしゃい！」"
+                                "Bunny-chan \"Oh my! Welcome!\""
                             ]
                         },
                         {
@@ -3490,14 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オス！」"
+                                "Customer: \"Male!\""
                             ]
                         },
                         {
@@ -3574,14 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！クルよ！」"
+                                "Shopkeeper: \"Oh! It's Kru!\""
                             ]
                         },
                         {
@@ -3598,14 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだ、じいさん」"
+                                "Kru: \"What's up, old man?\""
                             ]
                         },
                         {
@@ -3622,14 +3594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「城下町の南東にある盗賊のアジト。怖いから潰しておいてくれぇ」"
+                                "Shopkeeper: \"The thieves' hideout to the southeast of the castle town. It's\nscary, so please take it down for me.\""
                             ]
                         },
                         {
@@ -3646,14 +3611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「王から命令があればやっておくよ」"
+                                "Kru: \"If I get an order from the king, I'll do it.\""
                             ]
                         },
                         {
@@ -3721,14 +3679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！うちで働くかい⁉」"
+                                "Shopkeeper: \"Oh! Would you like to work here?!\""
                             ]
                         },
                         {
@@ -3805,14 +3756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4009,14 +3953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オス！」"
+                                "Customer: \"Male!\""
                             ]
                         },
                         {
@@ -4093,14 +4030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4177,14 +4107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4261,14 +4184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsman: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4345,14 +4261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4429,14 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4513,14 +4415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4597,14 +4492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4681,14 +4569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4765,14 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4849,14 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -4933,14 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsman: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -5017,14 +4877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -5101,14 +4954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オス！」"
+                                "Customer: \"Male!\""
                             ]
                         },
                         {
@@ -5185,14 +5031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -5269,14 +5108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsman: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -5676,14 +5508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ！」"
+                                "Umi \"Welcome!\""
                             ]
                         },
                         {
@@ -5700,14 +5525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん！オレの注文聞いてくれ！」"
+                                "Customer \"Umi-san! Listen to my order!\""
                             ]
                         },
                         {
@@ -5724,14 +5542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！今行きます！」"
+                                "Umi \"Yes! I'll be right there!\""
                             ]
                         },
                         {
@@ -5748,14 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん！オレ追加注文！」"
+                                "Customer \"Umi-san! I want to add something to my order!\""
                             ]
                         },
                         {
@@ -5772,14 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はーい！」"
+                                "Umi \"Okay!\""
                             ]
                         },
                         {
@@ -5796,7 +5593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷにゅぷにゅ…"
+                                "Squish squish..."
                             ]
                         },
                         {
@@ -5829,14 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃっ！」"
+                                "Umi \"Eek!\""
                             ]
                         },
                         {
@@ -5853,14 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまねぇ！つい手が出てしまった！」"
+                                "Customer \"Sorry! My hand just slipped out!\""
                             ]
                         },
                         {
@@ -5877,14 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客さん！ダメですよ…。触りたかったら…ね？」"
+                                "Umi \"Customer! That's not okay... If you wanted to touch... you know?\""
                             ]
                         },
                         {
@@ -5901,14 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！また夜のお店の方に行くよ！」"
+                                "Customer \"Yeah! I'll go to the night shop again!\""
                             ]
                         },
                         {
@@ -5925,14 +5694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…こんなに繁盛するなんて…。なんてすごい子なんだ…」"
+                                "Manager \"Ah... to think it would be this prosperous... what an amazing\ngirl...\""
                             ]
                         },
                         {
@@ -5968,7 +5730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -5985,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -6002,7 +5764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -6019,14 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…疲れた…」"
+                                "Umi \"Phew... I'm tired...\""
                             ]
                         },
                         {
@@ -6043,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、お疲れ様。ウミちゃん！すごい人気だね」"
+                                "Manager \"Good work, Umi-chan! You're really popular, aren't you?\""
                             ]
                         },
                         {
@@ -6067,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別に…そんなこと…」"
+                                "Umi \"It's not... like that...\""
                             ]
                         },
                         {
@@ -6091,14 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁ…。働くって大変だ…)"
+                                "Umi (Sigh... Working is so hard...)"
                             ]
                         },
                         {
@@ -6177,7 +5911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                                "_pum[60,0,0,GrowUp]Magic power has increased!"
                             ]
                         },
                         {
@@ -6194,7 +5928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]名声値が上がった！"
+                                "_pum[90,0,0,GrowUp]Fame has increased!"
                             ]
                         },
                         {
@@ -6280,14 +6014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6364,14 +6091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsman: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6448,14 +6168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6532,14 +6245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6616,14 +6322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6700,14 +6399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6784,14 +6476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6868,14 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -6952,14 +6630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7036,14 +6707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7120,14 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7204,14 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7288,14 +6938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7372,14 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7456,14 +7092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsman: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7540,14 +7169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7624,14 +7246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7708,14 +7323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7792,14 +7400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7876,14 +7477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -7960,14 +7554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -8044,14 +7631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -8128,14 +7708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -8212,14 +7785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -8296,14 +7862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {
@@ -8380,14 +7939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsman: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {

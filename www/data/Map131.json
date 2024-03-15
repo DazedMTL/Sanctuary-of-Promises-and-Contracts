@@ -3406,14 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バニーちゃん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらー！いらっしゃい！」"
+                                "Bunny-chan \"Oh! Welcome!\""
                             ]
                         },
                         {
@@ -3490,14 +3483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オス！」"
+                                "Customer: \"Male!\""
                             ]
                         },
                         {
@@ -3574,14 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！クルよ！」"
+                                "Shopkeeper: \"Hey! Kru!\""
                             ]
                         },
                         {
@@ -3598,14 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだ、じいさん」"
+                                "Kru: \"What's up, old man?\""
                             ]
                         },
                         {
@@ -3622,14 +3594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「城下町の南東にある盗賊のアジト。怖いから潰しておいてくれぇ」"
+                                "Shopkeeper: \"The thieves' hideout to the southeast of the castle town. It's\nscary, so please take it down for me.\""
                             ]
                         },
                         {
@@ -3646,14 +3611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「王から命令があればやっておくよ」"
+                                "Kru: \"If I get an order from the king, I'll do it.\""
                             ]
                         },
                         {
@@ -3721,14 +3679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ……いらっしゃい…。これはこれは…」"
+                                "Shopkeeper: \"Oh... welcome... well, well...\""
                             ]
                         },
                         {
@@ -3779,14 +3730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……なに？」"
+                                "Umi: \"...What?\""
                             ]
                         },
                         {
@@ -3803,14 +3747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お嬢さん、うちで働いてみないかい⁉」"
+                                "Shopkeeper: \"Miss, how about working here, huh⁉\""
                             ]
                         },
                         {
@@ -3843,14 +3780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？働く？」"
+                                "Umi: \"Eh? Work?\""
                             ]
                         },
                         {
@@ -3867,14 +3797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見たところお金も必要そうだし。どうだね？」"
+                                "Shopkeeper: \"You seem like you could use the money. What do you say?\""
                             ]
                         },
                         {
@@ -3891,7 +3814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "働きますか？"
+                                "Will you work here?"
                             ]
                         },
                         {
@@ -3899,8 +3822,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3930,14 +3853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "Shopkeeper: \"That's the spirit!\""
                             ]
                         },
                         {
@@ -4017,14 +3933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうかい…。また気が向いたらおいで」"
+                                "Shopkeeper: \"I see... Well, come back if you ever feel like it.\""
                             ]
                         },
                         {
@@ -4134,14 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ……いらっしゃい…。これはこれは…」"
+                                "Manager: \"Oh... welcome... well, well...\""
                             ]
                         },
                         {
@@ -4192,14 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……なに？」"
+                                "Umi: \"...What?\""
                             ]
                         },
                         {
@@ -4216,14 +4111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お嬢さん、またうちで働かないかい⁉」"
+                                "Manager: \"Miss, won't you work for us again?!\""
                             ]
                         },
                         {
@@ -4256,14 +4144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？働く？」"
+                                "Umi: \"Eh? Work?\""
                             ]
                         },
                         {
@@ -4280,7 +4161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "働きますか？"
+                                "Will you work?"
                             ]
                         },
                         {
@@ -4288,8 +4169,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4319,14 +4200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "Manager: \"That's the spirit!\""
                             ]
                         },
                         {
@@ -4406,14 +4280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうかい…。また気が向いたらおいで」"
+                                "Manager: \"I see... Well, if you feel like it, come back again.\""
                             ]
                         },
                         {
@@ -4523,14 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ……いらっしゃい…。これはこれは…」"
+                                "Manager: \"Oh... welcome... well, well...\""
                             ]
                         },
                         {
@@ -4581,14 +4441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……なに？」"
+                                "Umi: \"...What?\""
                             ]
                         },
                         {
@@ -4605,14 +4458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お嬢さん、またうちで働かないかい⁉」"
+                                "Manager: \"Miss, won't you consider working here again!?\""
                             ]
                         },
                         {
@@ -4645,14 +4491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？働く？」"
+                                "Umi: \"Eh? Work?\""
                             ]
                         },
                         {
@@ -4669,7 +4508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "働きますか？"
+                                "Will you work?"
                             ]
                         },
                         {
@@ -4677,8 +4516,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4708,14 +4547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうこなくっちゃ！」"
+                                "Manager: \"That's the spirit!\""
                             ]
                         },
                         {
@@ -4795,14 +4627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうかい…。また気が向いたらおいで」"
+                                "Manager: \"I see... Well, if you ever feel like it, come on back.\""
                             ]
                         },
                         {
@@ -4921,14 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…帰りたくないよぉ」"
+                                "Townsfolk: \"Ahh... I don't want to go home.\""
                             ]
                         },
                         {

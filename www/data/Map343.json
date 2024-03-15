@@ -1857,7 +1857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村がシフによって支配から解き放たれてから一年程経った…。"
+                                "It's been about a year since the village was liberated from Chancellor\nShif's control..."
                             ]
                         },
                         {
@@ -1874,7 +1874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村はイーブルのお陰で最小限の被害で済んだ…。"
+                                "The village suffered minimal damage thanks to Iburu..."
                             ]
                         },
                         {
@@ -1891,7 +1891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その功績がありイーブルは族長になった。夫としてこれ以上ない誉れだ。"
+                                "Because of his achievements, Iburu became the chief. There's no greater\nhonor for a husband."
                             ]
                         },
                         {
@@ -1949,14 +1949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おめでとう…」"
+                                "Umi: \"Congratulations...\""
                             ]
                         },
                         {
@@ -2007,14 +2000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう」"
+                                "Iburu: \"Thank you.\""
                             ]
                         },
                         {
@@ -2047,14 +2033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもオマエが病気から村を救った時からそれは決まっていたと思う」"
+                                "Umi: \"But I think it was decided when you saved the village from the\ndisease.\""
                             ]
                         },
                         {
@@ -2087,14 +2066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……大したことじゃない」"
+                                "Iburu: \"No... it was nothing.\""
                             ]
                         },
                         {
@@ -2127,21 +2099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも今でもあの景色を思い出す…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの空。あんな高い所に登ったのは初めてだった」"
+                                "Umi: \"But I still remember that view... that sky. It was my first time\nclimbing so high.\""
                             ]
                         },
                         {
@@ -2184,7 +2142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ"
+                                "Thump"
                             ]
                         },
                         {
@@ -2217,14 +2175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……あっ頭……痛い………」"
+                                "Umi: \"Ugh... ah, my head... it hurts...\""
                             ]
                         },
                         {
@@ -2257,14 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！大丈夫か……」"
+                                "Iburu: \"Umi! Are you okay...?\""
                             ]
                         },
                         {
@@ -2297,14 +2241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頭……痛い…なっなんで……」"
+                                "Umi: \"My head... it hurts... why...?\""
                             ]
                         },
                         {
@@ -2337,14 +2274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっとまだ村が占拠されていた時の事が癒えてないんだ…」"
+                                "Iburu: \"It must be because the wounds from when the village was occupied\nhaven't healed yet...\""
                             ]
                         },
                         {
@@ -2377,14 +2307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう………か」"
+                                "Umi: \"Is that so...\""
                             ]
                         },
                         {
@@ -2417,14 +2340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少し横になって休んでいれば大丈夫だ…」"
+                                "Iburu: \"You'll be fine if you lie down and rest for a bit...\""
                             ]
                         },
                         {
@@ -2457,14 +2373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん……」"
+                                "Umi: \"Okay...\""
                             ]
                         },
                         {
@@ -2481,7 +2390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その頃の記憶を辿ろうとすると、いつも頭が痛くなった…。"
+                                "Whenever I try to trace back to those times, my head always starts to\nhurt..."
                             ]
                         },
                         {
@@ -2498,14 +2407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもそれよりも…それを思い出そうとするといつも胸の辺りにポッカリと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "穴が空いたような気持ちにさせられた。"
+                                "But more than that... whenever I try to remember, I always feel like\nthere's a gaping hole in my chest."
                             ]
                         },
                         {
@@ -2522,7 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か大事な事を忘れているような……"
+                                "Like I'm forgetting something important..."
                             ]
                         },
                         {
@@ -2691,7 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -2708,7 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -2725,7 +2627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -2796,7 +2698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squish squish squish squish..."
                             ]
                         },
                         {
@@ -2818,14 +2720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！すごい！あっはぁぁぁ！んぅ！」"
+                                "Umi: \"Aaah! Amazing! Ahhhaaa! Nnh!\""
                             ]
                         },
                         {
@@ -2842,21 +2737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…見事なお腹だ…。このお腹にオレの子が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それにその黒くなった乳首……、最高だ‼‼」"
+                                "Iburu: \"Umi... your belly is splendid... To think my child is inside... And\nthose darkened nipples... perfect!!\""
                             ]
                         },
                         {
@@ -2873,7 +2754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squish squish squish squish..."
                             ]
                         },
                         {
@@ -2890,14 +2771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……そっ……そう…。イーブルの子が…あぁぁ！いる……あぁぁ！」"
+                                "Umi: \"Hah hah... that's right... Iburu's child is... aah! inside... aah!\""
                             ]
                         },
                         {
@@ -2914,14 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……もうすぐ産まれるんだな……あぁ……」"
+                                "Iburu: \"Hah hah... It's going to be born soon, huh... aah...\""
                             ]
                         },
                         {
@@ -2954,14 +2821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう……もう…すぐ…赤ちゃん……あぁぁ！産まれる！あっはぁぁぁぁ！」"
+                                "Umi: \"Yes... soon... the baby... aah! will be born! Ahhhaaa!\""
                             ]
                         },
                         {
@@ -2978,14 +2838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…ウミ…久しぶりの性交だからって…そんなに激しくしたら…」"
+                                "Iburu: \"Hah hah... Umi... it's been a while since we've made love, but if\nyou're too intense...\""
                             ]
                         },
                         {
@@ -3002,7 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squish squish squish squish..."
                             ]
                         },
                         {
@@ -3019,14 +2872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！だって……だってぇ……あぁぁ！ウミ……ずっと我慢してたから……あぁぁ！」"
+                                "Umi: \"Aaah! Because... because... aah! Umi has been holding back for so\nlong... aah!\""
                             ]
                         },
                         {
@@ -3043,14 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな…。オレもずっとお預けしてたから……オラ！」"
+                                "Iburu: \"That's right... I've also been putting it off for a while... Take\nthis!\""
                             ]
                         },
                         {
@@ -3083,14 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！ダメぇ！そっそんなに強くしたら！あぁぁぁ！」"
+                                "Umi: \"Aaah! No! If you do it that strongly! Aaah!\""
                             ]
                         },
                         {
@@ -3107,14 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何がダメなんだ⁉」"
+                                "Iburu: \"What's wrong with that?!\""
                             ]
                         },
                         {
@@ -3131,7 +2956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squish squish squish squish..."
                             ]
                         },
                         {
@@ -3148,14 +2973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「赤ちゃんが！はぁはぁ……あぁぁ…赤ちゃんがびっくりする！あぁぁ！」"
+                                "Umi: \"The baby! Hah hah... aah... The baby will be startled! Aaah!\""
                             ]
                         },
                         {
@@ -3172,14 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違うんだろ？ウミが感じ過ぎるからだろ？」"
+                                "Iburu: \"Isn't it different? It's because Umi is feeling it too much,\nright?\""
                             ]
                         },
                         {
@@ -3212,14 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！んぅ…そっそう…。ウミ……久しぶりで……感じ過ぎる！」"
+                                "Umi: \"Aaah! Nnh... that's right... Umi hasn't felt this in a while...\nfeeling it too much!\""
                             ]
                         },
                         {
@@ -3236,14 +3040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……身体熱くなってきてるんじゃないか？」"
+                                "Iburu: \"Hah hah... Isn't your body getting hot?\""
                             ]
                         },
                         {
@@ -3260,7 +3057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squish squish squish squish..."
                             ]
                         },
                         {
@@ -3277,14 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……あぁぁ！そう…。熱い……熱い…あぁぁ！感じ過ぎて熱い！」"
+                                "Umi: \"Hah hah... Ahhh! Yes... it's hot... it's so hot... ahhh! It's too\nintense, it's hot!\""
                             ]
                         },
                         {
@@ -3317,14 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……ウミ…。火照ってきたね…」"
+                                "Iburu: \"Ahh... Umi... you're getting flushed...\""
                             ]
                         },
                         {
@@ -3341,7 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squish squish squish squish..."
                             ]
                         },
                         {
@@ -3358,21 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！イーブルの肉棒がウミの奥の気持ちいい場所突くから……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あぁぁぁん！あんあんあんあんあん！あぁぁぁぁ！」"
+                                "Umi: \"Ahhh! Iburu's cock is hitting that good spot deep inside me...\nahhhhn! Ahn ahn ahn ahn ahn! Ahhhhh!\""
                             ]
                         },
                         {
@@ -3389,14 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいよ…好きなだけ気持ち良くなってくれ！オラ！」"
+                                "Iburu: \"That's good... feel as good as you want! Take this!\""
                             ]
                         },
                         {
@@ -3429,14 +3191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁ！そっそんなにしたら……出ちゃう！」"
+                                "Umi: \"Ahhhhh! If you do it like that... I'm going to let it out!\""
                             ]
                         },
                         {
@@ -3453,14 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなにが出るんだ？」"
+                                "Iburu: \"What's going to come out?\""
                             ]
                         },
                         {
@@ -3477,14 +3225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…ぼっ母乳が……あぁぁ！母乳が……出ちゃう…出ちゃうぅぅぅぅ！」"
+                                "Umi: \"Hah hah... my breast milk... ahhh! The breast milk is... coming\nout... coming ouuuut!\""
                             ]
                         },
                         {
@@ -3543,7 +3284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブッシャーーーーーーーー‼‼"
+                                "Splash--------‼‼"
                             ]
                         },
                         {
@@ -3560,14 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ……これは……こんなに噴き出して…」"
+                                "Iburu: \"Whoa... this is... spraying out so much...\""
                             ]
                         },
                         {
@@ -3600,14 +3334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……だって……イーブルが激しく突くから……あぁぁぁ！」"
+                                "Umi: \"Ahhh... because... you're thrusting so fiercely... ahhhh!\""
                             ]
                         },
                         {
@@ -3624,14 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！そうだな！好きなだけ感じて！好きなだけ噴いてくれ！」"
+                                "Iburu: \"Ahhh! That's right! Feel as much as you want! Spray as much as you\nwant!\""
                             ]
                         },
                         {
@@ -3648,7 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズパンズパンズパンズパン‼‼"
+                                "Thrust thrust thrust thrust‼‼"
                             ]
                         },
                         {
@@ -3665,14 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！そんなにしたらまた出ちゃう！あぁぁぁ！んぅぅぅ」"
+                                "Umi: \"Ahhhh! If you do it like that, it's going to come out again! Ahhhh!\nNnnnn\""
                             ]
                         },
                         {
@@ -3689,14 +3402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！何度でも噴いてくれ！」"
+                                "Iburu: \"Ahhh! Spray it out as many times as you want!\""
                             ]
                         },
                         {
@@ -3729,14 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！赤ちゃんの母乳なのに！あぁぁぁ！あんあんあんあん！」"
+                                "Umi: \"Ahhh! It's the baby's breast milk, but! Ahhhh! Ahn ahn ahn ahn!\""
                             ]
                         },
                         {
@@ -3753,21 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また産まれるまで時間があるから大丈夫だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それまでにたくさん噴き出している姿を見せてくれ！」"
+                                "Iburu: \"There's still time before the baby is born, it's okay! Show me how\nmuch you can spray out until then!\""
                             ]
                         },
                         {
@@ -3784,7 +3469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズパンズパンズパンズパン‼‼"
+                                "Thrust thrust thrust thrust‼‼"
                             ]
                         },
                         {
@@ -3801,14 +3486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！そっそんな姿……嫌………あぁぁ！また出ちゃう！イーブル！出ちゃう！」"
+                                "Umi: \"Ahhh! Such a sight... I don't want... ahhh! It's coming out again!\nIburu! It's coming out!\""
                             ]
                         },
                         {
@@ -3825,14 +3503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！オレも……もう出そうだ！ウミ！一緒に出すぞ！」"
+                                "Iburu: \"Ahhh! I'm also... about to come out too! Umi! Let's release it\ntogether!\""
                             ]
                         },
                         {
@@ -3865,14 +3536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！ウミも出す！一緒に出す！あぁぁぁ！あぁぁぁぁ！」"
+                                "Umi: \"Ahhh! Umi will release it too! Together! Ahhhhh! Ahhhhhhh!\""
                             ]
                         },
                         {
@@ -3889,7 +3553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズパンズパンズパンズパン‼‼"
+                                "Thrust thrust thrust thrust‼‼"
                             ]
                         },
                         {
@@ -3906,14 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！あぁ！出る！」"
+                                "Iburu: \"Ahhh! Ahh! It's coming out!\""
                             ]
                         },
                         {
@@ -3930,14 +3587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっはぁぁぁぁぁぁ！逝っくぅぅぅぅぅぅぅ！」"
+                                "Umi: \"Ah haaaahhhhhhh! I'm cummingggggggg!\""
                             ]
                         },
                         {
@@ -4003,7 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブッシャーーーーーーーー‼‼"
+                                "Splash--------‼‼"
                             ]
                         },
                         {
@@ -4020,14 +3670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁぁ！んぁあああああ！」"
+                                "Umi: \"Ahhhhhhhhh! Nhaaaaahhhhh!\""
                             ]
                         },
                         {
@@ -4044,14 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ……んぅ……はぁはぁ…」"
+                                "Iburu: \"Ahhhh... Nnn... Hah hah...\""
                             ]
                         },
                         {
@@ -4084,14 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…また出ちゃった……あぅぅ……」"
+                                "Umi: \"Hah hah... It came out again... Auuu...\""
                             ]
                         },
                         {
@@ -4108,14 +3737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいじゃないか…。これからオレが何度でも噴かせてやる」"
+                                "Iburu: \"It's alright... From now on, I'll make you spray out as many times\nas I want\""
                             ]
                         },
                         {
@@ -4132,14 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……ダメ。赤ちゃんのだから…。ほどほどにして」"
+                                "Umi: \"Hah hah... No. It's for the baby, so... please be moderate\""
                             ]
                         },
                         {
@@ -4295,7 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -4312,7 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -4329,7 +3944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -4346,7 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから数日経って陣痛が始まった。"
+                                "A few days later, labor pains began."
                             ]
                         },
                         {
@@ -4363,14 +3978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相当な難産になり、王国の医者も来て色々と手を尽くしたが、私の子供は生きてこの世に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "産まれる事ができなかった。"
+                                "It turned out to be a very difficult birth, and even the kingdom's doctors\ncame and tried various things, but my child could not be born alive into\nthis world."
                             ]
                         },
                         {
@@ -4387,7 +3995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして私も出産の負担に耐えられずに、程なくして…"
+                                "And I too could not endure the strain of childbirth, and soon after..."
                             ]
                         },
                         {
@@ -4404,7 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死んでしまった…。"
+                                "I died..."
                             ]
                         },
                         {
@@ -4421,7 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -4438,7 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -4455,7 +4063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -4728,7 +4336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "トゥルールートへ進みますか？"
+                                "Shall we proceed to Turu-Lu-To?"
                             ]
                         },
                         {
@@ -4736,8 +4344,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

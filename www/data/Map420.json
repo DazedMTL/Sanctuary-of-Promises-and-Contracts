@@ -3564,14 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -3588,14 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……いい子いる？」"
+                                "Customer: \"...Got any good girls?\""
                             ]
                         },
                         {
@@ -3612,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ…それはもう…。さっき史上最高の新人が入りました…」"
+                                "Clerk: \"Yes... well... we just got the best newcomer in history...\""
                             ]
                         },
                         {
@@ -3636,14 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「史上最高…。嘘ではあるまいな…」"
+                                "Customer: \"The best in history... You're not lying, are you?\""
                             ]
                         },
                         {
@@ -3660,14 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ…間違いないです」"
+                                "Clerk: \"Yes... there's no mistake.\""
                             ]
                         },
                         {
@@ -3684,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ではその子で頼もう」"
+                                "Customer: \"Then I'll go with her.\""
                             ]
                         },
                         {
@@ -3708,14 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かしこまりました」"
+                                "Clerk: \"Understood.\""
                             ]
                         },
                         {

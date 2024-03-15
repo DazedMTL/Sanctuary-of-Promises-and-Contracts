@@ -2320,14 +2320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて…クルンよ。例の森の調査は進んでおるのか？」"
+                                "Zanado: \"Well then... Kru, how is the investigation of that forest\nprogressing?\""
                             ]
                         },
                         {
@@ -2344,28 +2337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ございません、領主様。各地から冒険者をかき集め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　て調査しておりますが、呪いの力により森の奥に進めず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　難航しております」"
+                                "Kru: \"I apologize, my lord. We've been gathering adventurers from all over\nto investigate, but due to the curse's power, we can't advance deep into\nthe forest, and it's proving to be quite difficult.\""
                             ]
                         },
                         {
@@ -2382,21 +2354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！致し方ない！過去何百年もあの森の奥ににたどり着"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いた者はいない。気長に待つとしよう…」"
+                                "Zanado: \"Hahaha! It can't be helped! For the past several hundred years, no\none has reached the depths of that forest. Let's wait patiently...\""
                             ]
                         },
                         {
@@ -2413,21 +2371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます。しかし領主様、あの森の奥には何"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　があるのですか？」"
+                                "Kru: \"Thank you. However, my lord, what lies deep within that forest?\""
                             ]
                         },
                         {
@@ -2444,28 +2388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おや、話しておらなんだか。あの森の奥には古い神が祀ら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　れており、その神を信仰する民族の集落があるそうだ。お"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　前にはその神の祭壇を見つけてもらいたい」"
+                                "Zanado: \"Oh, I haven't told you? Deep in that forest, there is an old god\nenshrined, and it's said that there's a village of people who worship that\ngod. I want you to find that god's altar.\""
                             ]
                         },
                         {
@@ -2482,28 +2405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのようなものが…。しかしどのような神が祀られている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　のでしょうか。荒ぶる神であればそれ相応の準備が必要に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なってくるのですが…」"
+                                "Kru: \"Such a thing exists... But what kind of god is enshrined there? If\nit's a raging god, we'll need to prepare accordingly...\""
                             ]
                         },
                         {
@@ -2520,28 +2422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっどのような神かはわしも知らんのだ！だがそ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　の神の怒りに触れるような事があれば、この土地も無事で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　は済まない事になるそうだ」"
+                                "Zanado: \"Hahaha! What kind of god it is, I do not know either! But if we\nwere to incur the wrath of that god, it seems this land would not escape\nunscathed.\""
                             ]
                         },
                         {
@@ -2558,28 +2439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だが我々が無事に暮らしておるのは、その神を奉り、土地"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　と共に生きている民がおるかららしい。その者達に聞けば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　神の鎮め方も教わる事ができるだろうて」"
+                                "Zanado: \"However, the reason we live in peace is apparently because there\nare people who worship that god and live together with the land. If you ask\nthem, they might teach you how to appease the god.\""
                             ]
                         },
                         {
@@ -2596,14 +2456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど…。ではその民と接触する事が先決ですね」"
+                                "Kru: \"I see... Then making contact with those people is our first\npriority.\""
                             ]
                         },
                         {
@@ -2620,21 +2473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだのぉ。だが中々姿を見せないという言い伝えだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　のぉ。幸運のお守りでも買って、神頼みでもせい」"
+                                "Zanado: \"That's right. But they say those people seldom show themselves.\nMaybe buy a charm for good luck and pray to the gods for help.\""
                             ]
                         },
                         {
@@ -2651,21 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ私は神には頼りませんので。自力で見つけ出してみせ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ます」"
+                                "Kru: \"No, I do not rely on gods. I will find them on my own strength.\""
                             ]
                         },
                         {
@@ -2682,28 +2507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザナド"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっは頼もしいのぉ。まあお主の力が確かな物だとい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うのはワシも分かっておる。では良い報告を期待しておる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぞ」"
+                                "Zanado: \"Hahaha! How reliable. Well, I am aware of your true capabilities.\nI look forward to a good report.\""
                             ]
                         },
                         {
@@ -2720,14 +2524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！」"
+                                "Kru: \"Yes, sir!\""
                             ]
                         },
                         {

@@ -3967,14 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだ帰れないな…」"
+                                "Kru: \"I still can't go home...\""
                             ]
                         },
                         {
@@ -4042,14 +4035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめだ……今帰ってもしょうがない…」"
+                                "Kru: \"No use... There's no point in going back now...\""
                             ]
                         },
                         {
@@ -4126,14 +4112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな…」"
+                                "Kru: \"Not this way...\""
                             ]
                         },
                         {
@@ -4201,14 +4180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げてどうする……」"
+                                "Kru: \"What's the point of running away...\""
                             ]
                         },
                         {
@@ -4285,14 +4257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだこの岩…」"
+                                "Kru: \"What's with this rock...\""
                             ]
                         },
                         {
@@ -4360,14 +4325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだこの岩…」"
+                                "Kru: \"What's with this rock...\""
                             ]
                         },
                         {
@@ -4384,14 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この岩の下から音が聞こえる…。どかしてみるか」"
+                                "Kru: \"I can hear a sound coming from under this rock... Should I try moving\nit?\""
                             ]
                         },
                         {
@@ -4408,14 +4359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よっ！」"
+                                "Kru: \"Heave-ho!\""
                             ]
                         },
                         {
@@ -4451,14 +4395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かっ階段か……」"
+                                "Kru: \"Huh, stairs...?\""
                             ]
                         },
                         {
@@ -4494,7 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！ドクンッ！"
+                                "Thump! Thump!"
                             ]
                         },
                         {
@@ -4511,14 +4448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嫌な予感がする……)"
+                                "Kru: (I have a bad feeling about this...)"
                             ]
                         },
                         {
@@ -4535,7 +4465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！ドクンッ！"
+                                "Thump! Thump!"
                             ]
                         },
                         {
@@ -4552,14 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(胸が苦しい……でも…行かなきゃ…)"
+                                "Kru: (My chest feels tight... But... I have to go...)"
                             ]
                         },
                         {
@@ -4576,7 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段を降りますか？"
+                                "Will you go down the stairs?"
                             ]
                         },
                         {
@@ -4584,8 +4507,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4650,14 +4573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「少し落ち着こう……」"
+                                "Kru: \"Let's calm down a bit...\""
                             ]
                         },
                         {
@@ -4735,7 +4651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "階段を降りますか？"
+                                "Would you like to go down the stairs?"
                             ]
                         },
                         {
@@ -4743,8 +4659,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4809,14 +4725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「少し落ち着こう……」"
+                                "Kru: \"Let's calm down a bit...\""
                             ]
                         },
                         {

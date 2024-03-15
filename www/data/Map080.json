@@ -5899,14 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちは危険だな…」"
+                                "Kru: \"This place is dangerous...\""
                             ]
                         },
                         {
@@ -6133,14 +6126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちは危険だな…」"
+                                "Kru: \"This place is dangerous...\""
                             ]
                         },
                         {
@@ -6367,14 +6353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちは危険だな…」"
+                                "Kru: \"This place is dangerous...\""
                             ]
                         },
                         {
@@ -7555,7 +7534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]レアマッシュを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Rare Mash!"
                             ]
                         },
                         {
@@ -7572,7 +7551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]レアマッシュの胞子を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the spores of the Rare Mash!"
                             ]
                         },
                         {
@@ -7589,7 +7568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]回帰丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Return Pill!"
                             ]
                         },
                         {

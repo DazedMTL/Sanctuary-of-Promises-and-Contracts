@@ -11614,14 +11614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やめろよ～」"
+                                "Kru: \"Cut it out already~\""
                             ]
                         },
                         {
@@ -11638,14 +11631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！親なし！汚ねぇ恰好で俺達の周りをうろつくな！」"
+                                "Bully: \"Pfft! Orphan! Don't loiter around us with your filthy clothes!\""
                             ]
                         },
                         {
@@ -11662,14 +11648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ子分１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！そうだ！」"
+                                "Bully's Lackey 1: \"Yeah! That's right!\""
                             ]
                         },
                         {
@@ -11686,14 +11665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ子分２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっちいけ！」"
+                                "Bully's Lackey 2: \"Get lost!\""
                             ]
                         },
                         {
@@ -11710,14 +11682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「別に近寄ってないだろ。かまうなよ」"
+                                "Kru: \"I'm not even getting close. Leave me alone.\""
                             ]
                         },
                         {
@@ -11734,14 +11699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるせぃ！口答えするな！」"
+                                "Bully: \"Shut up! Don't talk back!\""
                             ]
                         },
                         {
@@ -11869,14 +11827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ！」"
+                                "Kru: \"Whoa!\""
                             ]
                         },
                         {
@@ -11893,28 +11844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！弱ぇなぁ！これだから貧乏人は！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いいか！今後俺達に会ったらへりくだりながら挨拶してこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　い！」"
+                                "Bully: \"Pfft! What a weakling! This is why poor people are the worst!\nListen up! From now on, when you see us, greet us with respect!\""
                             ]
                         },
                         {
@@ -11931,14 +11861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ子分１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだ！そうだ！挨拶してこい！はははははは！」"
+                                "Bully's Lackey 1: \"Yeah! That's right! Greet us! Hahahahaha!\""
                             ]
                         },
                         {
@@ -11955,14 +11878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ子分２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この貧乏人がぁ！はっはっはっ！」"
+                                "Bully's Lackey 2: \"You poor scum! Hah hah hah!\""
                             ]
                         },
                         {
@@ -12554,14 +12470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Kru: \"...\""
                             ]
                         },
                         {
@@ -12583,7 +12492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　あいつらが悪いわけじゃない…"
+                                "It's not their fault..."
                             ]
                         },
                         {
@@ -12600,7 +12509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　弱いことは悪いことだ…"
+                                "Being weak is a bad thing..."
                             ]
                         },
                         {
@@ -12634,14 +12543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい…」"
+                                "Kru: \"Hey...\""
                             ]
                         },
                         {
@@ -12658,14 +12560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ？」"
+                                "Bully: \"What?\""
                             ]
                         },
                         {
@@ -12935,14 +12830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…おい…お前ら…」"
+                                "Kru: \"...Hey... you guys...\""
                             ]
                         },
                         {
@@ -12959,14 +12847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ子分１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Bully's Lackey 1: \"Yes!\""
                             ]
                         },
                         {
@@ -12983,14 +12864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ子分２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんでしょう⁉」"
+                                "Bully's Lackey 2: \"Wh-what is it?!\""
                             ]
                         },
                         {
@@ -13007,14 +12881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「挨拶…まだいるか？」"
+                                "Kru: \"The greeting... are you still there?\""
                             ]
                         },
                         {
@@ -13031,14 +12898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁぁん！痛いよー」"
+                                "Bully: \"Waaaah! It hurts-\""
                             ]
                         },
                         {
@@ -13055,14 +12915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いじめっこ１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げろー‼‼‼」"
+                                "Bully 1: \"Run away-!!!\""
                             ]
                         },
                         {
@@ -13652,14 +13505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…やれやれ…」"
+                                "Kru: \"Sigh... what a pain...\""
                             ]
                         },
                         {
@@ -13676,14 +13522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……手が痛い」"
+                                "Kru: \"...My hand hurts.\""
                             ]
                         },
                         {
@@ -13705,7 +13544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　強いって痛い…"
+                                "Being strong hurts..."
                             ]
                         },
                         {
@@ -13722,7 +13561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　強いって…"
+                                "Being strong..."
                             ]
                         },
                         {
@@ -13739,7 +13578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　…これが僕の欲しかったものなの？…"
+                                "...Is this really what I wanted?..."
                             ]
                         },
                         {

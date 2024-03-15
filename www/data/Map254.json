@@ -1483,7 +1483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "入りますか？"
+                                "Shall we go in?"
                             ]
                         },
                         {
@@ -1491,8 +1491,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1559,14 +1559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「心の準備が…」"
+                                "Kru: \"I need to prepare myself mentally...\""
                             ]
                         },
                         {
@@ -1644,14 +1637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがに次入ったら怒られるな…」"
+                                "Kru: \"If I go in again, I'll definitely get scolded...\""
                             ]
                         },
                         {

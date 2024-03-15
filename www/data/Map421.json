@@ -3564,14 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -3588,14 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴホン…」"
+                                "Customer: \"*cough*...\""
                             ]
                         },
                         {
@@ -3612,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客さん、今いい新人の子が入りました…」"
+                                "Clerk: \"Sir, we have a wonderful new girl who just started...\""
                             ]
                         },
                         {
@@ -3636,14 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなに？」"
+                                "Customer: \"Wh-what?\""
                             ]
                         },
                         {
@@ -3660,14 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「正直お客さんが羨ましいです…。あんな可愛い子見た事ない…」"
+                                "Clerk: \"Honestly, I'm envious of you... I've never seen such a cute\ngirl...\""
                             ]
                         },
                         {
@@ -3684,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ！その子で！」"
+                                "Customer: \"Then! I'll take her!\""
                             ]
                         },
                         {
@@ -3708,14 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かしこまりました」"
+                                "Clerk: \"Understood.\""
                             ]
                         },
                         {

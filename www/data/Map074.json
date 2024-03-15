@@ -2719,14 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイ様のご加護がありますように」"
+                                "Villager: \"May the blessings of Lord Xecilray be with you.\""
                             ]
                         },
                         {
@@ -2794,14 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイ様…どうか我らをお守りください」"
+                                "Villager: \"Lord Kuseshirei... please protect us.\""
                             ]
                         },
                         {
@@ -2869,14 +2855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁあなたこそクセシレイ様が使わせてくれた救世主じゃ…」"
+                                "Villager: \"Ah, you must be the savior that Lord Kusechirei has allowed to\nhelp us...\""
                             ]
                         },
                         {

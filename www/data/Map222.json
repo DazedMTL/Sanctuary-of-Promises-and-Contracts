@@ -2479,14 +2479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！ピチピチピチ！」"
+                                "Plant Bites \"Shashashashasha! Pichipichipichi!\""
                             ]
                         },
                         {
@@ -2503,14 +2496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁなんだ！急に暴れだしたぞ！」"
+                                "Kru \"Whoa, what's this! It suddenly started thrashing about!\""
                             ]
                         },
                         {
@@ -2561,14 +2547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちに来る…。怖い…」"
+                                "Umi \"It's coming this way... scary...\""
                             ]
                         },
                         {
@@ -2585,14 +2564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！戦うぞ！」"
+                                "Kru \"Umi! We have to fight!\""
                             ]
                         },
                         {
@@ -2738,14 +2710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ！なんて強い植物なんだ！」"
+                                "Kru: \"Damn! What a strong plant!\""
                             ]
                         },
                         {
@@ -2796,14 +2761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今の内に早く逃げよう！」"
+                                "Umi: \"Let's escape while we can!\""
                             ]
                         },
                         {
@@ -3197,14 +3155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…異様に強いなこの植物…」"
+                                "Kru: \"Haa haa... This plant is abnormally strong...\""
                             ]
                         },
                         {
@@ -3255,14 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんなに狂暴になっているのは初めてみた…」"
+                                "Umi: \"I've never seen one become so violent before...\""
                             ]
                         },
                         {
@@ -3279,14 +3223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ‼‼」"
+                                "Plant Bites: \"Shashashasha!!\""
                             ]
                         },
                         {
@@ -3303,14 +3240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わっ！なんだ！」"
+                                "Kru: \"Whoa! What's that!\""
                             ]
                         },
                         {
@@ -3482,14 +3412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ！捕まった！」"
+                                "Kru: \"Damn! I'm caught!\""
                             ]
                         },
                         {
@@ -3540,14 +3463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐ助ける！」"
+                                "Umi: \"I'll save you right away!\""
                             ]
                         },
                         {
@@ -3564,14 +3480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashasha!\""
                             ]
                         },
                         {
@@ -3710,14 +3619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャーー！」"
+                                "Umi: \"Kyaa--!\""
                             ]
                         },
                         {
@@ -3734,14 +3636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru: \"Umi!\""
                             ]
                         },
                         {
@@ -3758,14 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashasha!\""
                             ]
                         },
                         {
@@ -3798,14 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やめろ…離せ！」"
+                                "Umi: \"Stop it... let me go!\""
                             ]
                         },
                         {
@@ -3822,14 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！くっそ！離せ！離せぇ！」"
+                                "Kru: \"Umi! Damn it! Let go! Let gooo!\""
                             ]
                         },
                         {
@@ -3846,14 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -3886,14 +3753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こいつ…ひょっとして笑っているの？」"
+                                "Umi: \"This thing... is it possibly laughing?\""
                             ]
                         },
                         {
@@ -3910,14 +3770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -3934,7 +3787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バリバリ！」"
+                                "Rustle Rustle!"
                             ]
                         },
                         {
@@ -3967,14 +3820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャー！」"
+                                "Umi: \"Kyaa!\""
                             ]
                         },
                         {
@@ -3991,14 +3837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！大丈夫か！」"
+                                "Kru: \"Umi! Are you okay?\""
                             ]
                         },
                         {
@@ -4031,14 +3870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「服…破られた！」"
+                                "Umi: \"My clothes... they're torn!\""
                             ]
                         },
                         {
@@ -4055,14 +3887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに！なんだコイツら！何が目的なんだ！」"
+                                "Kru: \"What! What are these things! What do they want!\""
                             ]
                         },
                         {
@@ -4095,14 +3920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっやめろ…。恥ずかしい…」"
+                                "Umi: \"Stop... it's embarrassing...\""
                             ]
                         },
                         {
@@ -4119,14 +3937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashasha!\""
                             ]
                         },
                         {
@@ -4174,7 +3985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チュクチュクチュクチュク…"
+                                "Squelch Squelch Squelch Squelch..."
                             ]
                         },
                         {
@@ -4207,14 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっ嫌…。やめて…」"
+                                "Umi: \"No... stop it...\""
                             ]
                         },
                         {
@@ -4247,14 +4051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なっなにコイツら…なんでこんな触り方…)"
+                                "Umi: (What are these things... why are they touching me like this...)"
                             ]
                         },
                         {
@@ -4271,14 +4068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！大丈夫か！ひどい事されてないか！」"
+                                "Kru: \"Umi! Are you okay? They haven't done anything terrible to you, have\nthey?\""
                             ]
                         },
                         {
@@ -4311,14 +4101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ大丈夫…、心配な…あっ！」"
+                                "Umi: \"I'm okay... don't worry... Ah!\""
                             ]
                         },
                         {
@@ -4335,14 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ⁉」"
+                                "Kru: \"Umi⁉\""
                             ]
                         },
                         {
@@ -4375,14 +4151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫！なんでもない！なんでもない！」"
+                                "Umi: \"It's okay! It's nothing! Nothing at all!\""
                             ]
                         },
                         {
@@ -4415,14 +4184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんでこんな触り方…それに…ウミおかしくなった？）"
+                                "Umi: (Why are they touching me like this... and... is Umi going strange?)"
                             ]
                         },
                         {
@@ -4439,14 +4201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそぉ！うおぉぉぉぉぉ！」"
+                                "Kru: \"Damn it! Uoooohhhhh!\""
                             ]
                         },
                         {
@@ -4529,14 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru: \"Umi!\""
                             ]
                         },
                         {
@@ -4648,14 +4396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁよかった」"
+                                "Kru: \"Haa haa I'm glad...\""
                             ]
                         },
                         {
@@ -4706,14 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう…助けてくれて」"
+                                "Umi: \"Thank you... for saving me.\""
                             ]
                         },
                         {
@@ -4730,14 +4464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミも頑張ったな…いっ！」"
+                                "Kru: \"You did well too, Umi... Ow!\""
                             ]
                         },
                         {
@@ -4770,14 +4497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Umi: \"Hm?\""
                             ]
                         },
                         {
@@ -4794,14 +4514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっいや…ふっ服が…」"
+                                "Kru: \"No, it's just... my clothes...\""
                             ]
                         },
                         {
@@ -4834,21 +4547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　きゃぁ！あっち向いて！」"
+                                "Umi: \"Hm? Kyaa! Look away!\""
                             ]
                         },
                         {
@@ -4865,14 +4564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「向いてる向いてる！」"
+                                "Kru: \"I'm looking away! I'm looking away!\""
                             ]
                         },
                         {
@@ -4905,14 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ…最低」"
+                                "Umi: \"Ugh... the worst.\""
                             ]
                         },
                         {
@@ -4929,7 +4614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツにマーキングされた。"
+                                "Marked by the Plant Bites."
                             ]
                         },
                         {
@@ -5233,14 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またこいつか…」"
+                                "Kru \"Not this guy again...\""
                             ]
                         },
                         {
@@ -5257,14 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！シャシャシャシャ！」"
+                                "Plant Bites \"Shashashashasha! Shashashashasha!\""
                             ]
                         },
                         {
@@ -5315,14 +4986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前のやつより興奮してない？」"
+                                "Umi \"Isn't it less excited than the last one?\""
                             ]
                         },
                         {
@@ -5339,14 +5003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…。まずいねこれは…」"
+                                "Kru \"Yeah... this is bad...\""
                             ]
                         },
                         {
@@ -5363,14 +5020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！シャシャシャシャ！」"
+                                "Plant Bites \"Shashashashasha! Shashashashasha!\""
                             ]
                         },
                         {
@@ -5403,14 +5053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来る！」"
+                                "Umi \"Here it comes!\""
                             ]
                         },
                         {
@@ -5563,14 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ！なんて強い植物なんだ！」"
+                                "Kru: \"Damn! What a strong plant!\""
                             ]
                         },
                         {
@@ -5621,14 +5257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今の内に早く逃げよう！」"
+                                "Umi: \"Let's escape while we can!\""
                             ]
                         },
                         {
@@ -6004,14 +5633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…やっと勝てた…」"
+                                "Kru: \"Hah, hah... We finally won...\""
                             ]
                         },
                         {
@@ -6062,14 +5684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く止めを刺そう！」"
+                                "Umi: \"Quick, let's deliver the finishing blow!\""
                             ]
                         },
                         {
@@ -6086,14 +5701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、またひどい目に合わされるもんな」"
+                                "Kru: \"Yeah, I don't want to go through that ordeal again.\""
                             ]
                         },
                         {
@@ -6126,14 +5734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ…」"
+                                "Umi: \"Mmm...\""
                             ]
                         },
                         {
@@ -6150,14 +5751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashashasha! Shashashashasha!\""
                             ]
                         },
                         {
@@ -6174,14 +5768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わっなんだ！なんだ！」"
+                                "Kru: \"Whoa, what's that! What is it!\""
                             ]
                         },
                         {
@@ -6360,14 +5947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ！またしても…」"
+                                "Kru: \"Damn! Not again...\""
                             ]
                         },
                         {
@@ -6384,14 +5964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashashasha! Shashashashasha!\""
                             ]
                         },
                         {
@@ -6442,14 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃぁ！」"
+                                "Umi: \"Kyaa!\""
                             ]
                         },
                         {
@@ -6542,14 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru: \"Umi!\""
                             ]
                         },
                         {
@@ -6612,14 +6171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌ぁ…嫌ぁやめて！」"
+                                "Umi: \"No... No, stop it!\""
                             ]
                         },
                         {
@@ -6636,14 +6188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashashasha!\""
                             ]
                         },
                         {
@@ -6660,7 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バリバリバリ！"
+                                "Rip rip rip!"
                             ]
                         },
                         {
@@ -6693,14 +6238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃぁぁぁ！」"
+                                "Umi: \"Kyaaaah!\""
                             ]
                         },
                         {
@@ -6717,14 +6255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ…」"
+                                "Plant Bites: \"Pichipichipichipichi...\""
                             ]
                         },
                         {
@@ -6757,14 +6288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やだ…お願い…やめて…」"
+                                "Umi: \"No... please... stop it...\""
                             ]
                         },
                         {
@@ -6781,14 +6305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ダメ…また触られてしまう…)"
+                                "Umi (No... I'm being touched again...)"
                             ]
                         },
                         {
@@ -6805,14 +6322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…すぐ…すぐ助ける！」"
+                                "Kru: \"Umi... I'll save you... right away!\""
                             ]
                         },
                         {
@@ -6848,7 +6358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さわさわさわ…"
+                                "Rustle rustle rustle..."
                             ]
                         },
                         {
@@ -6893,14 +6403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっ…そんな…ふうに触ら…ないで…」"
+                                "Umi: \"Don't... touch me like that...\""
                             ]
                         },
                         {
@@ -6933,14 +6436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(前みたいに、優しく撫でてくる…。なんでこんな触り方してくるの…)"
+                                "Umi (Just like before, it's caressing me gently... Why is it touching me\nthis way...)"
                             ]
                         },
                         {
@@ -6957,14 +6453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。ちくしょう！全然離れない！離せ！離せ！」"
+                                "Kru: \"Umi... damn it! It won't let go! Let go! Let go!\""
                             ]
                         },
                         {
@@ -6981,14 +6470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ…」"
+                                "Plant Bites: \"Pichipichipichipichi...\""
                             ]
                         },
                         {
@@ -7005,7 +6487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリクリクリクリ…"
+                                "Fondle fondle fondle fondle..."
                             ]
                         },
                         {
@@ -7038,14 +6520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ…やっ…やだ…そっそこは…」"
+                                "Umi: \"Ah... no... not there...\""
                             ]
                         },
                         {
@@ -7078,14 +6553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いっいや…乳首は…感じちゃいけないのに…）"
+                                "Umi (No... my nipples... I shouldn't be feeling this...)"
                             ]
                         },
                         {
@@ -7102,7 +6570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チロチロチロチロ…"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -7135,14 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁっ…やっ…舐めないで…」"
+                                "Umi: \"Ahh... no... don't lick...\""
                             ]
                         },
                         {
@@ -7175,14 +6636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あぁ…舐められるとこんなに感触が違うの…）"
+                                "Umi (Ah... being licked feels so different...)"
                             ]
                         },
                         {
@@ -7199,7 +6653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チロチロチロチロ…"
+                                "Lick lick lick lick..."
                             ]
                         },
                         {
@@ -7232,14 +6686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ…んん…ふぅふぅ…」"
+                                "Umi: \"Nn... nn... fuu fuu...\""
                             ]
                         },
                         {
@@ -7256,14 +6703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ？どうした⁉」"
+                                "Kru: \"Umi? What's wrong⁉\""
                             ]
                         },
                         {
@@ -7296,14 +6736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんでもないの…。この魔物が変な攻撃してきて…」"
+                                "Umi: \"It's nothing... This monster is just using a strange attack...\""
                             ]
                         },
                         {
@@ -7320,7 +6753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カリッ"
+                                "Crunch"
                             ]
                         },
                         {
@@ -7353,14 +6786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぅ！」"
+                                "Umi: \"Hau!\""
                             ]
                         },
                         {
@@ -7377,14 +6803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -7401,14 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫か！ウミ！痛いのか⁉」"
+                                "Kru: \"Are you okay? Umi! Does it hurt⁉\""
                             ]
                         },
                         {
@@ -7441,14 +6853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ大丈夫だから…。心配しないで…」"
+                                "Umi: \"I'm fine... Don't worry about me...\""
                             ]
                         },
                         {
@@ -7481,14 +6886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこいつ…。ウミの事おもちゃのようにして…。)"
+                                "Umi (This thing... is treating me like a toy...)"
                             ]
                         },
                         {
@@ -7505,7 +6903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピチャピチャピチャ…"
+                                "Squish squish squish..."
                             ]
                         },
                         {
@@ -7538,14 +6936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！はぁはぁ…。ぁ…んっ…」"
+                                "Umi: \"Aah! Haa haa... ah... mmm...\""
                             ]
                         },
                         {
@@ -7562,14 +6953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -7710,14 +7094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…いやぁぁぁぁあ！」"
+                                "Umi: \"No... noooo!\""
                             ]
                         },
                         {
@@ -7734,14 +7111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミぃぃぃぃぃ‼‼」"
+                                "Kru: \"Umi!!!\""
                             ]
                         },
                         {
@@ -7758,7 +7128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バリバリバリバリ！ビリビリ！"
+                                "Crunch crunch crunch crunch! Zzzap!"
                             ]
                         },
                         {
@@ -7812,14 +7182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…見ないで…お願い…見ないで」"
+                                "Umi: \"No... don't look... please... don't look\""
                             ]
                         },
                         {
@@ -7836,14 +7199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。なんて格好に…」"
+                                "Kru: \"Umi... what a state you're in...\""
                             ]
                         },
                         {
@@ -7860,14 +7216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ…」"
+                                "Plant Bites: \"Pichipichipichipichi...\""
                             ]
                         },
                         {
@@ -7884,7 +7233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レロレロレロ…"
+                                "Lick lick lick..."
                             ]
                         },
                         {
@@ -7924,14 +7273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぃ！やだ！やめて！」"
+                                "Umi: \"Eek! No! Stop it!\""
                             ]
                         },
                         {
@@ -7948,14 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru: \"Umi!\""
                             ]
                         },
                         {
@@ -7988,14 +7323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんな…。ウミのアソコ舐められてる…)"
+                                "Umi (To think... it's licking my pussy...)"
                             ]
                         },
                         {
@@ -8028,14 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(気持ち悪い、気持ち悪い、気持ち悪い…)"
+                                "Umi (It's disgusting, disgusting, disgusting...)"
                             ]
                         },
                         {
@@ -8052,7 +7373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュル…"
+                                "Slurp..."
                             ]
                         },
                         {
@@ -8085,14 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！はぁはぁはぁ…あっ…」"
+                                "Umi: \"Aah! Haa haa haa... ah...\""
                             ]
                         },
                         {
@@ -8125,14 +7439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なのに…なのに…。身体が疼いちゃう…)"
+                                "Umi (And yet... and yet... my body is throbbing...)"
                             ]
                         },
                         {
@@ -8149,14 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites: \"Shashashasha...\""
                             ]
                         },
                         {
@@ -8173,7 +7473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピチョピチョ…ジュルルルル…"
+                                "Splish splash... slurrrrr..."
                             ]
                         },
                         {
@@ -8206,14 +7506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んっ……はぁはぁ…んっ…あぁ…あぁ」"
+                                "Umi: \"Mmm... haa haa... mmm... aah... aah\""
                             ]
                         },
                         {
@@ -8230,14 +7523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なに？…アソコを舐められると…こんなに…こんな身体が火照ってくるの…)"
+                                "Umi (What?... Being licked there makes me feel... so hot...)"
                             ]
                         },
                         {
@@ -8254,14 +7540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は平常心と快楽の波打ち際で、幼子のように震えていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その砂浜に打ち付ける波の強さがだんだんと強くなる度に、私はクルの方をみた。"
+                                "I was trembling like a child on the shore between calm and waves of\npleasure. As the waves crashing on that beach grew stronger, I looked\ntowards Kru."
                             ]
                         },
                         {
@@ -8278,21 +7557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼が何とかしてくれる…。そんなささやかな救いの希望にしがみついていないと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の身体はあっという間に波に攫われて、帰る場所もわからぬまま漂流してしま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うと、私の中の誰かが警戒を促していた。"
+                                "He would do something about it... Clinging to that faint hope of salvation,\nsomeone inside me warned that without it, my body would be swept away by\nthe waves in an instant, drifting without knowing the way back."
                             ]
                         },
                         {
@@ -8325,14 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…んっ…お願い…これ以上は…舐めないで…」"
+                                "Umi: \"Haa haa... mmm... please... no more... don't lick...\""
                             ]
                         },
                         {
@@ -8349,14 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ…」"
+                                "Plant Bites: \"Pichipichipichipichi...\""
                             ]
                         },
                         {
@@ -8373,7 +7624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュブジュブジュブジュブ…"
+                                "Gloop gloop gloop gloop..."
                             ]
                         },
                         {
@@ -8406,14 +7657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ！あぁ！激しくしないで…」"
+                                "Umi: \"No! Aah! Don't be so rough...\""
                             ]
                         },
                         {
@@ -8446,14 +7690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あぁ…やめて…これ以上は…耐えられない…)"
+                                "Umi (Ah... stop it... I can't take any more of this...)"
                             ]
                         },
                         {
@@ -8470,14 +7707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashasha!\""
                             ]
                         },
                         {
@@ -8506,7 +7736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドロドロドロドロ…"
+                                "Drip drip drip drip..."
                             ]
                         },
                         {
@@ -8539,14 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何！何をしているの！」"
+                                "Umi: \"What! What are you doing!\""
                             ]
                         },
                         {
@@ -8563,14 +7786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたウミ！なっなんだあの紫の液体は！」"
+                                "Kru: \"What's wrong Umi! What's that purple liquid!\""
                             ]
                         },
                         {
@@ -8603,14 +7819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「紫の液体？なにそれ！」"
+                                "Umi: \"Purple liquid? What's that!\""
                             ]
                         },
                         {
@@ -8643,14 +7852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なに！なんなの！この植物！ウミになにしてるの！)"
+                                "Umi (What! What is this! What is this plant doing to Umi!)"
                             ]
                         },
                         {
@@ -8667,14 +7869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ…」"
+                                "Plant Bites: \"Pichipichipichipichi...\""
                             ]
                         },
                         {
@@ -8719,14 +7914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…おかしい…身体が熱い…汗が…汗が…」"
+                                "Umi: \"Haa haa haa... it's strange... my body is hot... sweat is... sweat\nis...\""
                             ]
                         },
                         {
@@ -8829,14 +8017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なに…急に身体が熱い…。この植物、ウミの身体になにか入れたの？)"
+                                "Umi (What... suddenly my body is so hot... did this plant put something in\nme?)"
                             ]
                         },
                         {
@@ -8853,14 +8034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！無事か！」"
+                                "Kru: \"Umi! Are you alright?\""
                             ]
                         },
                         {
@@ -8893,14 +8067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ大丈夫…、ウミ…負けない…」"
+                                "Umi: \"I'm okay... Umi won't lose...\""
                             ]
                         },
                         {
@@ -8917,14 +8084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashasha!\""
                             ]
                         },
                         {
@@ -8941,7 +8101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュルジュルジュル…"
+                                "Slur slur slur..."
                             ]
                         },
                         {
@@ -8974,14 +8134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…やめて…今はやめて…。頭ポーッとしてるから…お願い…あぁ…」"
+                                "Umi: \"Ahh... stop... stop it now... my head is getting fuzzy... please...\nahh...\""
                             ]
                         },
                         {
@@ -9014,14 +8167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(なんで…さっきよりも、お腹の奥に響くみたいになる…)"
+                                "Umi: (Why... it feels like it's resonating deeper in my stomach than\nbefore...)"
                             ]
                         },
                         {
@@ -9054,14 +8200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…熱い…熱いよ…身体が…」"
+                                "Umi: \"Haa haa... it's hot... so hot... my body is...\""
                             ]
                         },
                         {
@@ -9078,14 +8217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -9102,14 +8234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -9138,7 +8263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドロドロドロドロ…"
+                                "Slur slur slur..."
                             ]
                         },
                         {
@@ -9171,14 +8296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに…今度はなに！痺れるような…」"
+                                "Umi: \"What... what is this now! It feels numbing...\""
                             ]
                         },
                         {
@@ -9195,14 +8313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだあの黄色いのは！」"
+                                "Kru: \"What's that yellow stuff!\""
                             ]
                         },
                         {
@@ -9235,14 +8346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あれ…なんだか…頭がポーっとして…)"
+                                "Umi: (That... somehow... my head is getting fuzzy...)"
                             ]
                         },
                         {
@@ -9275,14 +8379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ…クルが…何か言っている…ような…」"
+                                "Umi: \"That... Kru is... saying something... I think...\""
                             ]
                         },
                         {
@@ -9299,14 +8396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -9323,7 +8413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュルジュルジュル…"
+                                "Slur slur slur..."
                             ]
                         },
                         {
@@ -9368,14 +8458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁあぁ！あぁ！はぁはぁ…あぁ！」"
+                                "Umi: \"Aaaaah! Ahh! Haa haa... ahh!\""
                             ]
                         },
                         {
@@ -9392,21 +8475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！明らかにおかしい！あの黄色液体のせいか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　身体が火照ってあんなに赤くなってる！」"
+                                "Kru: \"Umi! Something's clearly wrong! It must be because of that yellow\nliquid! Your body is flushing and turning so red!\""
                             ]
                         },
                         {
@@ -9423,14 +8492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その黄色い液体を身体に流されてくらいから、私は正常な判断ができなくなっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おそらく思考を奪う成分が含まれているのだろう。"
+                                "Ever since that yellow liquid was poured over me, I've been unable to make\nsound judgments. It probably contains components that steal away one's\nthoughts."
                             ]
                         },
                         {
@@ -9447,7 +8509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は薄れゆく思考の端をかろうじて握り、なんとか自我を保っていた。"
+                                "I barely grasp the fringes of my fading thoughts, struggling to maintain my\nego."
                             ]
                         },
                         {
@@ -9480,14 +8542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…お…お願い…、助…けて…」"
+                                "Umi: \"Ahh... please... help... me...\""
                             ]
                         },
                         {
@@ -9504,14 +8559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…早く助けなきゃ！この！この！このぉ！」"
+                                "Kru: \"Umi... I have to save her quickly! This! This! This!\""
                             ]
                         },
                         {
@@ -9528,14 +8576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -9552,7 +8593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レロレロレロ…"
+                                "Lick lick lick..."
                             ]
                         },
                         {
@@ -9655,14 +8696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あっあっ！ぁぁぁぁ！」"
+                                "Umi: \"Ahh! Ahh! Ahhhh!\""
                             ]
                         },
                         {
@@ -9695,14 +8729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いや…気持ちいい…ウミ、気持ちいい…)"
+                                "Umi: (No... it feels good... Umi, it feels good...)"
                             ]
                         },
                         {
@@ -9735,14 +8762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やだ…熱い！熱い！……気持ちいいのやだよ！」"
+                                "Umi: \"No... it's hot! So hot! ...I don't want it to feel good!\""
                             ]
                         },
                         {
@@ -9759,7 +8779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュルジュルジュル！"
+                                "Slur slur slur!"
                             ]
                         },
                         {
@@ -9792,14 +8812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああぁ！激しい！あぁぁ！あぁ！やっやめ…」"
+                                "Umi: \"Aaah! It's intense! Ahh! Ahh! Stop...\""
                             ]
                         },
                         {
@@ -9832,14 +8845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ぁぁ…だめ…耐えられない…気持ちいいの耐えられない…)"
+                                "Umi: (Ahh... no good... I can't endure it... I can't endure how good it\nfeels...)"
                             ]
                         },
                         {
@@ -9856,14 +8862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…なんだ…なんであんなに…」"
+                                "Kru: \"Umi... what's going on... why is she looking so...\""
                             ]
                         },
                         {
@@ -9880,21 +8879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウミ…なんであんなに気持ち良さそうな顔してるんだ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いや！そんなわけない！きっとあの毒にやられて変になってるだけなんだ！)"
+                                "Kru: (Umi... why does she look like she's feeling so good... No! That can't\nbe right! She must be acting strange because of the poison!)"
                             ]
                         },
                         {
@@ -9911,14 +8896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -9947,7 +8925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドロドロドロドロ…"
+                                "Slur slur slur..."
                             ]
                         },
                         {
@@ -9980,14 +8958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…また…また何か入れてるの…？」"
+                                "Umi: \"No... not again... what are you putting in me now...?\""
                             ]
                         },
                         {
@@ -10020,14 +8991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(これ以上されたらおかしくなっちゃうよ…)"
+                                "Umi: (If this keeps up, I'm going to lose my mind...)"
                             ]
                         },
                         {
@@ -10044,21 +9008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ…あのピンク色の液体は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いったいどれだけの毒をウミに入れるんだ！」"
+                                "Kru: \"What's that... pink liquid now... how much poison are they going to\nput into Umi!\""
                             ]
                         },
                         {
@@ -10091,14 +9041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！身体の奥が…なんか変…」"
+                                "Umi: \"Ahh! Deep inside my body feels... weird...\""
                             ]
                         },
                         {
@@ -10131,14 +9074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おかしい…身体からなんだか甘い香りがしてきた…)"
+                                "Umi: (This is strange... I'm starting to smell something sweet coming from\nmy body...)"
                             ]
                         },
                         {
@@ -10171,14 +9107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…いや…これ以上…ウミの事おかしくしないで…」"
+                                "Umi: \"No... no more... don't make Umi any weirder...\""
                             ]
                         },
                         {
@@ -10195,14 +9124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi! Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -10219,7 +9141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュルジュルジュル！"
+                                "Slur slur slur!"
                             ]
                         },
                         {
@@ -10264,14 +9186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぃあぁぁぁぁ！やだ！あぁ！」"
+                                "Umi: \"Hiiiiii! No! Ahh!\""
                             ]
                         },
                         {
@@ -10374,14 +9289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(さっきよりも…感じちゃう…感度が上がってるの…)"
+                                "Umi: (It's more intense than before... I'm feeling it more... my\nsensitivity has increased...)"
                             ]
                         },
                         {
@@ -10414,14 +9322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…あぁ…んっんん…あぁぁあぁ…」"
+                                "Umi: \"Haa haa haa... Ahh... Nnnnn... Ahhhhhh...\""
                             ]
                         },
                         {
@@ -10454,14 +9355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やっぱり変だ…なに…この花のような…甘い香り…)"
+                                "Umi: (It's definitely strange... What's this... floral-like... sweet\nscent...)"
                             ]
                         },
                         {
@@ -10478,7 +9372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トロトロトロ…"
+                                "Thick and gooey..."
                             ]
                         },
                         {
@@ -10495,14 +9389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ…ウミ…どうしたんだ…」"
+                                "Kru: \"What's... what's happening... Umi... what's wrong...?\""
                             ]
                         },
                         {
@@ -10535,14 +9422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ…なんで…ウミの身体どうなってるの…」"
+                                "Umi: \"Eh... why... What's happening to Umi's body...?\""
                             ]
                         },
                         {
@@ -10559,21 +9439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピッピンク色の汗…なのか…。それにしては粘度があってトロトロしてるような…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そっそれにこの匂い…。ウミの体臭なのか…。甘い…誘うような匂い…」"
+                                "Kru: \"Pink sweat... or is it? It's too viscous and thick... And this\nsmell... Is it Umi's body odor? It's sweet... an enticing scent...\""
                             ]
                         },
                         {
@@ -10606,14 +9472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…もう…だめ…頭が…もう働かない…」"
+                                "Umi: \"Ahh... no more... I can't think straight anymore...\""
                             ]
                         },
                         {
@@ -10630,14 +9489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ピチピチピチピチ！」"
+                                "Plant Bites: \"Pichipichipichipichi!\""
                             ]
                         },
                         {
@@ -10654,7 +9506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュルジュルジュル！ジュルジュルジュル！"
+                                "Slurp slurp slurp! Slurp slurp slurp!"
                             ]
                         },
                         {
@@ -10687,14 +9539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！あぁ！激しい！あぁ！んっんっ！あぁ！」"
+                                "Umi: \"Ahhhh! Ahh! It's so intense! Ahh! Nnnngh! Ahh!\""
                             ]
                         },
                         {
@@ -10727,14 +9572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（気持ちいい！気持ちいい！だめ！きっと毒のせいだ！そうなんだ！)"
+                                "Umi: (It feels good! It feels so good! No! It must be the poison's fault!\nThat's it!)"
                             ]
                         },
                         {
@@ -10767,14 +9605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あっあっあっあっ！」"
+                                "Umi: \"Ahh! Ahh! Ahh! Ahh!\""
                             ]
                         },
                         {
@@ -10807,14 +9638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウミは悪くない…毒のせいだから、気持ち良くなってもウミのせいじゃない)"
+                                "Umi: (It's not Umi's fault... It's because of the poison, so it's not my\nfault that it feels good...)"
                             ]
                         },
                         {
@@ -10831,14 +9655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ！」"
+                                "Plant Bites: \"Shashashasha!\""
                             ]
                         },
                         {
@@ -10855,7 +9672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュブジュブジュブ！"
+                                "Gush gush gush!"
                             ]
                         },
                         {
@@ -10888,14 +9705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！はぁはぁはぁ…あぁ！あっあっ！」"
+                                "Umi: \"Ahh! Haa haa haa... Ahh! Ahh!\""
                             ]
                         },
                         {
@@ -10928,14 +9738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いっそこのまま…イキた…)"
+                                "Umi: (I might as well just... want to climax...)"
                             ]
                         },
                         {
@@ -10952,14 +9755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぉぉぉぉぉぉぉ！」"
+                                "Kru: \"Uoooooooh!\""
                             ]
                         },
                         {
@@ -10992,7 +9788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブチブチブチブチ！"
+                                "Snap snap snap snap!"
                             ]
                         },
                         {
@@ -11009,14 +9805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！今助ける！」"
+                                "Kru: \"Umi! I'm coming to save you now!\""
                             ]
                         },
                         {
@@ -11211,14 +10000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁぁぁぁ！」"
+                                "Kru: \"Haaaaaah!\""
                             ]
                         },
                         {
@@ -11330,14 +10112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…よかった…ウミ…」"
+                                "Kru: \"Haa haa haa... Thank goodness... Umi...\""
                             ]
                         },
                         {
@@ -11388,14 +10163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうん…助けてくれてありがとう…」"
+                                "Umi: \"Mmm-hmm... Thank you for saving me...\""
                             ]
                         },
                         {
@@ -11428,14 +10196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(言えない…もう少しだったなんて…)"
+                                "Umi: (I can't say it... that I was almost there...)"
                             ]
                         },
                         {
@@ -11457,14 +10218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はもう少しでイケたのになんて恥知らずな事を思ってしまい、慌ててその考えを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭から消し去ろうとした…。"
+                                "I was ashamed to think that I was about to climax, and I hurriedly tried to\nerase that thought from my mind..."
                             ]
                         },
                         {
@@ -11481,14 +10235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "けれど…火照った私の身体はもう耐えられない程に欲しており、アソコから流れるピンクの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愛液は私の本心を語るように、たらたらと太ももの内側を流れていた。"
+                                "However, my body was still flushed with heat and craving so much that I\ncouldn't bear it, and the pink love juices flowing from down there were\ntelling of my true feelings, trickling down the insides of my thighs."
                             ]
                         },
                         {
@@ -11600,14 +10347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だいぶ休んだからもう大丈夫か？」"
+                                "Kru: \"You've rested quite a bit, are you okay now?\""
                             ]
                         },
                         {
@@ -11658,14 +10398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうん。大丈夫…。ありがとう…」"
+                                "Umi: \"Mmm-hmm. I'm fine... Thank you...\""
                             ]
                         },
                         {
@@ -11682,14 +10415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにしてもひどい目にあったな…。身体どこも以上ないか？」"
+                                "Kru: \"Even so, you went through a lot... Is there anything wrong with your\nbody?\""
                             ]
                         },
                         {
@@ -11722,14 +10448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうん。どこも痛くない…。もう普通…」"
+                                "Umi: \"Mmm-hmm. Nothing hurts... I'm back to normal...\""
                             ]
                         },
                         {
@@ -11762,14 +10481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(痛くない…。けど、異常があるなんて言えない…)"
+                                "Umi: (Nothing hurts... but I can't say there's something wrong...)"
                             ]
                         },
                         {
@@ -11786,14 +10498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ行くか！」"
+                                "Kru: \"Then let's go!\""
                             ]
                         },
                         {
@@ -12051,14 +10756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites \"Shashashasha...\""
                             ]
                         },
                         {
@@ -12177,14 +10875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites \"Shashashasha...\""
                             ]
                         },
                         {
@@ -12312,14 +11003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites \"Shashashasha...\""
                             ]
                         },
                         {
@@ -12438,14 +11122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites \"Shashashasha...\""
                             ]
                         },
                         {
@@ -13593,14 +12270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites \"Shashashasha...\""
                             ]
                         },
                         {
@@ -13719,14 +12389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プラントバイツ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シャシャシャシャ…」"
+                                "Plant Bites \"Shashashasha...\""
                             ]
                         },
                         {

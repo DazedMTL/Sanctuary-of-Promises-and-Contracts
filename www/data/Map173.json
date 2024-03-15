@@ -7831,14 +7831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの泉の石板の所へ行って！」"
+                                "Umi: \"Please go to the stone tablet by that spring!\""
                             ]
                         },
                         {
@@ -7975,14 +7968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村に転移する！」"
+                                "Umi: \"We're teleporting to the village!\""
                             ]
                         },
                         {
@@ -8069,14 +8055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう…」"
+                                "Kru: \"Yeah...\""
                             ]
                         },
                         {

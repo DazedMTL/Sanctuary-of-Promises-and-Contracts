@@ -2129,7 +2129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所は…"
+                                "This place is..."
                             ]
                         },
                         {
@@ -2146,7 +2146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルと初めて冒険した場所…"
+                                "The first place where Kru and I went on an adventure..."
                             ]
                         },
                         {
@@ -2163,7 +2163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで焚火を囲んで話をした…"
+                                "We sat around a campfire here and talked..."
                             ]
                         },
                         {
@@ -2180,7 +2180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この頃のクルはなんだか寂しそうで、私と同じような匂いがした…"
+                                "Back then, Kru seemed so lonely, he had a scent similar to mine..."
                             ]
                         },
                         {
@@ -2197,7 +2197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにか諦めたような、思い詰めたような、そんな目をしていた…。"
+                                "His eyes looked as if he had given up on something, as if he was burdened\nwith deep thoughts..."
                             ]
                         },
                         {
@@ -2230,14 +2230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「懐かしいな…」"
+                                "Umi: \"It feels nostalgic...\""
                             ]
                         },
                         {
@@ -2254,7 +2247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの頃はまさかクルとあんなに冒険して、あんなに笑い合って…"
+                                "Back then, I never imagined that I would go on such adventures with Kru,\nthat we would share so many laughs..."
                             ]
                         },
                         {
@@ -2271,7 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして結ばれるなんて思ってなかった…。"
+                                "And that we would end up together..."
                             ]
                         },
                         {
@@ -2304,14 +2297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………会いたいな…」"
+                                "Umi: \"...I miss him...\""
                             ]
                         },
                         {
@@ -2328,7 +2314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会いたいな…クル…"
+                                "I miss him... Kru..."
                             ]
                         },
                         {
@@ -2345,7 +2331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも………そんな事…思う資格……"
+                                "But... I don't have the right... to feel this way..."
                             ]
                         },
                         {
@@ -2362,7 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私にはない…"
+                                "I don't have that right..."
                             ]
                         },
                         {
@@ -2379,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの時の、あの雨の日のクル…"
+                                "Kru on that rainy day..."
                             ]
                         },
                         {
@@ -2396,14 +2382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後に見たクル。その姿はここで二人で話をしていた時の姿よりも、小さく弱く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寂しく見えた…。"
+                                "The last time I saw Kru, he looked even smaller, weaker, and lonelier than\nwhen we were talking here together..."
                             ]
                         },
                         {
@@ -2420,7 +2399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな姿に…私がした…。"
+                                "In front of such a figure... what I did..."
                             ]
                         },
                         {
@@ -2437,7 +2416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私がクルを追いつめた…。"
+                                "I was the one who cornered Kru..."
                             ]
                         },
                         {
@@ -2454,7 +2433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "許されるわけ……ない…。"
+                                "There's no way I can be forgiven..."
                             ]
                         },
                         {
@@ -2471,14 +2450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなことない…」"
+                                "???: \"That's not true...\""
                             ]
                         },
                         {
@@ -2597,14 +2569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰⁉」"
+                                "Umi \"Who?!\""
                             ]
                         },
                         {
@@ -2621,14 +2586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「許されない罪なんてない…」"
+                                "??? \"There's no such thing as an unforgivable sin...\""
                             ]
                         },
                         {
@@ -2661,14 +2619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア……なの？」"
+                                "Umi \"Is that... Mii-ah?\""
                             ]
                         },
                         {
@@ -2701,14 +2652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「罪には罰がある…。罰を受けて、許されないなんて事ない…」"
+                                "??? \"Every sin has a punishment... Once you've been punished, there's\nnothing unforgivable...\""
                             ]
                         },
                         {
@@ -2741,14 +2685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな…そんなの…わからないよ」"
+                                "Umi \"But... I don't understand...\""
                             ]
                         },
                         {
@@ -2781,14 +2718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大事なのは、罪を償おうとする気持ち」"
+                                "??? \"What's important is the willingness to atone for your sins.\""
                             ]
                         },
                         {
@@ -2821,14 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「え？」"
+                                "Umi \"Huh?\""
                             ]
                         },
                         {
@@ -2984,14 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……の影？」"
+                                "Umi \"Umi... my shadow?\""
                             ]
                         },
                         {
@@ -3020,14 +2936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガキコグムフジフェガラジミジレミコ‼‼‼‼」"
+                                "??? \"Gakikogumufujifegarajimijiremiko!!!!\""
                             ]
                         },
                         {
@@ -3060,14 +2969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……嫌…………」"
+                                "Umi \"No... I don't want this...\""
                             ]
                         },
                         {
@@ -3084,14 +2986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げないで！目を逸らさないで！」"
+                                "??? \"Don't run away! Don't look away!\""
                             ]
                         },
                         {
@@ -3124,14 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ………ミーア…？」"
+                                "Umi \"Ugh... M-Mia...?\""
                             ]
                         },
                         {
@@ -3160,14 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガキコグムフジフェガラジミジレミコ‼‼‼‼」"
+                                "??? \"Gakikogumufujifegarajimijiremiko!!!!\""
                             ]
                         },
                         {
@@ -3388,14 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……あなたはたくさん苦しんだ…」"
+                                "??? \"Umi... you've suffered so much...\""
                             ]
                         },
                         {
@@ -3446,14 +3320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Umi \"Ugh...\""
                             ]
                         },
                         {
@@ -3486,21 +3353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「他の誰にもわからなくても…私にはわかる。ウミがずっと苦しんでいた事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミがずっと戦っていたこと…」"
+                                "??? \"Even if no one else understands... I do. I know that Umi has been\nsuffering all this time. That Umi has been fighting all along...\""
                             ]
                         },
                         {
@@ -3533,14 +3386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなの……なんの役にも立たないよ…」"
+                                "Umi \"That doesn't... help with anything...\""
                             ]
                         },
                         {
@@ -3573,14 +3419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫……。だから…逃げないで…」"
+                                "??? \"It's okay... so... don't run away...\""
                             ]
                         },
                         {
@@ -3613,14 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア……」"
+                                "Umi \"Mia...\""
                             ]
                         },
                         {
@@ -3742,14 +3574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行っちゃった……」"
+                                "Umi \"He's gone...\""
                             ]
                         },
                         {
@@ -3766,7 +3591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の罪……"
+                                "My sin..."
                             ]
                         },
                         {
@@ -3783,7 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の罰……"
+                                "My punishment..."
                             ]
                         },
                         {
@@ -3800,7 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうすれば償う事ができるだろう…。"
+                                "How can I ever atone for it..."
                             ]
                         },
                         {
@@ -3817,7 +3642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はどうなったっていい…。"
+                                "I don't care what becomes of me..."
                             ]
                         },
                         {
@@ -3834,7 +3659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも…"
+                                "But..."
                             ]
                         },
                         {
@@ -3851,7 +3676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傷つけたクルを…村の皆を助けたい…"
+                                "I want to save Kru... and everyone in the village..."
                             ]
                         },
                         {
@@ -3868,7 +3693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが償いになるなら…"
+                                "If that can be my atonement..."
                             ]
                         },
                         {
@@ -3885,7 +3710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "許されなくたって構わない…"
+                                "I don't mind if I'm never forgiven..."
                             ]
                         },
                         {
@@ -3909,7 +3734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は……"
+                                "I..."
                             ]
                         },
                         {
@@ -3926,7 +3751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -3943,7 +3768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -3960,7 +3785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {

@@ -3115,14 +3115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……今日も最高だったなぁ…。明日も行こうかなぁ…」"
+                                "Townsman: \"Ahh... today was the best... Maybe I'll go again tomorrow...\""
                             ]
                         },
                         {
@@ -3199,14 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行きたい！……けど金がない…」"
+                                "Townsman: \"I want to go!... but I don't have the money...\""
                             ]
                         },
                         {

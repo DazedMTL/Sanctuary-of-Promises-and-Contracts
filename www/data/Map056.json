@@ -16069,14 +16069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはクルさん…」"
+                                "Sister: \"This is for you, Kru-san...\""
                             ]
                         },
                         {
@@ -16153,14 +16146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、なんか起きねぇかなぁ」"
+                                "Townsman: \"Ahh, I wish something would happen.\""
                             ]
                         },
                         {
@@ -16237,14 +16223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日も平和ですね」"
+                                "Townsfolk: \"It's peaceful today as well.\""
                             ]
                         },
                         {
@@ -16321,14 +16300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ。飲み過ぎたぁ」"
+                                "Townsman: \"Ugh... I drank too much.\""
                             ]
                         },
                         {
@@ -16405,14 +16377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひょっとして、剣士長のクル様ですか？」"
+                                "Townsfolk: \"Could it be, are you the esteemed Swordsman Leader Kru?\""
                             ]
                         },
                         {
@@ -16429,14 +16394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？そうだけど」"
+                                "Kru: \"Hm? Yeah, that's me.\""
                             ]
                         },
                         {
@@ -16453,14 +16411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぜひ！握手してください！」"
+                                "Townsfolk: \"Please! I would love to shake your hand!\""
                             ]
                         },
                         {
@@ -16477,14 +16428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…いいけど」"
+                                "Kru: \"Ah... sure, I don't mind.\""
                             ]
                         },
                         {
@@ -16501,14 +16445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます！」"
+                                "Townsfolk: \"Thank you so much!\""
                             ]
                         },
                         {
@@ -16525,14 +16462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「？」"
+                                "Kru: \"?\""
                             ]
                         },
                         {
@@ -16609,14 +16539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにやら城のお偉いさんは、きな臭い動きをしておるようじゃのぉ」"
+                                "Townsfolk: \"It seems like the big shots at the castle are making some\nrather suspicious moves.\""
                             ]
                         },
                         {
@@ -16693,14 +16616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「健康の為に歩いておるのじゃ」"
+                                "Townsfolk: \"I'm walking for the sake of my health.\""
                             ]
                         },
                         {
@@ -16777,14 +16693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この先に教会があります」"
+                                "Townsfolk: \"There's a church up ahead.\""
                             ]
                         },
                         {
@@ -16861,14 +16770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お腹すいたー」"
+                                "Town Child: \"I'm hungry...\""
                             ]
                         },
                         {
@@ -17356,14 +17258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがに休んでから帰ろう」"
+                                "Kru: \"Let's rest before we head back.\""
                             ]
                         },
                         {
@@ -17431,14 +17326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お使い頼まれてた！」"
+                                "Kru: \"I've been asked to run an errand!\""
                             ]
                         },
                         {
@@ -17665,14 +17553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがに休んでから帰ろう」"
+                                "Kru: \"Let's take a break before we head back.\""
                             ]
                         },
                         {
@@ -17740,14 +17621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お使い頼まれてた！」"
+                                "Kru: \"I've been asked to run an errand!\""
                             ]
                         },
                         {
@@ -17974,14 +17848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすがに休んでから帰ろう」"
+                                "Kru: \"Let's take a break before heading back.\""
                             ]
                         },
                         {
@@ -18049,14 +17916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お使い頼まれてた！」"
+                                "Kru: \"I've been asked to run an errand!\""
                             ]
                         },
                         {
@@ -18329,14 +18189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ…。すごい…」"
+                                "Umi: \"Wow... amazing...\""
                             ]
                         },
                         {
@@ -18353,14 +18206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここが城下町だよ。この先に城がある」"
+                                "Kru: \"This is the town below the castle. The castle is just ahead.\""
                             ]
                         },
                         {
@@ -18393,14 +18239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「人が多い…。………こわい…」"
+                                "Umi: \"There are so many people... it's scary...\""
                             ]
                         },
                         {
@@ -18417,21 +18256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ大丈夫…。急に襲われたりしないから…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あとで美味しいごはん食べよう」"
+                                "Kru: \"It's okay... we won't be suddenly attacked or anything... let's eat\nsome delicious food later.\""
                             ]
                         },
                         {
@@ -18464,14 +18289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「美味しいお肉ある？」"
+                                "Umi: \"Is there delicious meat?\""
                             ]
                         },
                         {
@@ -18488,14 +18306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あるよ」"
+                                "Kru: \"Yes, there is.\""
                             ]
                         },
                         {
@@ -18528,14 +18339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ…頑張る」"
+                                "Umi: \"Then... I'll do my best.\""
                             ]
                         },
                         {
@@ -18552,14 +18356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁまずは城に行こう」"
+                                "Kru: \"Now, first let's go to the castle.\""
                             ]
                         },
                         {
@@ -18836,14 +18633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく。労働も楽じゃないよ」"
+                                "Townsman: \"Geez, work is never easy.\""
                             ]
                         },
                         {
@@ -18911,14 +18701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらぁ珍しい。果物なんて食べないでしょ？」"
+                                "Clerk: \"Oh my, that's unusual. You don't eat fruit, do you?\""
                             ]
                         },
                         {
@@ -18935,21 +18718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレだって果物くらい食べるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも今日はお使い」"
+                                "Kru: \"I do eat fruit sometimes. But today I'm running an errand.\""
                             ]
                         },
                         {
@@ -18966,14 +18735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなことだろうと思った。はいよ」"
+                                "Clerk: \"I thought it might be something like that. Here you go.\""
                             ]
                         },
                         {
@@ -19024,14 +18786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇクル！クル！あれなに⁉」"
+                                "Umi: \"Hey Kru! Kru! What's that⁉\""
                             ]
                         },
                         {
@@ -19048,21 +18803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁあれはアイスクリームって言うんだ。冷たくて甘いお菓子だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミ、食べたい？」"
+                                "Kru: \"Ah, that's called ice cream. It's a cold and sweet treat. Umi, want\nto try some?\""
                             ]
                         },
                         {
@@ -19095,14 +18836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！うん！ウミ、あれ食べたい！」"
+                                "Umi: \"Yes! Yes! Umi wants to eat that!\""
                             ]
                         },
                         {
@@ -19119,14 +18853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁアイス二つちょうだい」"
+                                "Kru: \"Then, two ice creams, please.\""
                             ]
                         },
                         {
@@ -19143,14 +18870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まいど！」"
+                                "Clerk: \"Thanks as always!\""
                             ]
                         },
                         {
@@ -19290,14 +19010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったく。労働も楽じゃないよ」"
+                                "Townsman: \"Sheesh, work is never easy.\""
                             ]
                         },
                         {
@@ -20332,21 +20045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "商人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったくこのクズ馬が！全然進まねぇじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これじゃぁ仕事に間に合わねぇ！」"
+                                "Merchant: \"Damn this worthless horse! It's not moving at all! At this rate,\nI won't make it to work on time!\""
                             ]
                         },
                         {

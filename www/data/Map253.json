@@ -1543,14 +1543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんかこの壺だけ軽いな…」"
+                                "Kru: \"Somehow this pot feels light...\""
                             ]
                         },
                         {
@@ -1567,14 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに風が吹いている？」"
+                                "Kru: \"And there's a breeze coming from it?\""
                             ]
                         },
                         {
@@ -1799,14 +1785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰もいない…」"
+                                "Kru \"There's no one here...\""
                             ]
                         },
                         {
@@ -1823,14 +1802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ここなんじゃないかと思ってしまった…ごめんウミ…)"
+                                "Kru (I thought this might be the place... I'm sorry, Umi...)"
                             ]
                         },
                         {
@@ -1847,14 +1819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(…ん？)"
+                                "Kru (...Hm?)"
                             ]
                         },
                         {
@@ -1883,7 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…あん…あぁん……"
+                                "Ah... ahn... ahhn..."
                             ]
                         },
                         {
@@ -1900,14 +1865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ドクンッ‼‼‼)"
+                                "Kru (Thump!!!)"
                             ]
                         },
                         {
@@ -1924,14 +1882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこの喘ぎ声は……まさか……)"
+                                "Kru (These moans... could it be...)"
                             ]
                         },
                         {
@@ -1948,14 +1899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まさかまさか……そんなわけない…。あのウミが…)"
+                                "Kru (No way, no way... It can't be... Umi doing...)"
                             ]
                         },
                         {
@@ -1972,14 +1916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(とりあえずどこから声がするか探してみよう…)"
+                                "Kru (For now, let's try to find out where the voice is coming from...)"
                             ]
                         },
                         {

@@ -3392,14 +3392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここが呼種の洞窟…」"
+                                "Kru \"So this is the Summoning Cave...\""
                             ]
                         },
                         {
@@ -3450,14 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう」"
+                                "Umi \"Yes.\""
                             ]
                         },
                         {
@@ -3474,14 +3460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「入ったことは？」"
+                                "Kru \"Have you ever been inside?\""
                             ]
                         },
                         {
@@ -3514,14 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ない。族長の言いつけ」"
+                                "Umi \"No. The chief forbade it.\""
                             ]
                         },
                         {
@@ -3538,21 +3510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど。普段は入っちゃダメなわけか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まあなんとかなるだろ」"
+                                "Kru \"I see. So it's usually off-limits... Well, we'll manage somehow.\""
                             ]
                         },
                         {

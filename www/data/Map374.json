@@ -4820,14 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでミーア。どうしたらいいと思う？」"
+                                "Kru: \"So, Mear, what do you think we should do?\""
                             ]
                         },
                         {
@@ -4878,21 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あのクセシレイのお腹のオレンジ色の辺り…あそこにウミはいる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　見える？」"
+                                "Lutecia: \"That orange spot on the belly of the Xecilray... Umi is there...\nCan you see it?\""
                             ]
                         },
                         {
@@ -4909,14 +4888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁなんとなく…」"
+                                "Kru: \"Ah, vaguely...\""
                             ]
                         },
                         {
@@ -4949,21 +4921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイはウミから活動の力を得ていると思うから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミを助け出せれば、クセシレイは身体を保てなくなると思う」"
+                                "Lutecia: \"I believe the Xecilray is drawing its energy from Umi, so if we\ncan rescue her, the Xecilray won't be able to maintain its form.\""
                             ]
                         },
                         {
@@ -4980,14 +4938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど…」"
+                                "Kru: \"I see...\""
                             ]
                         },
                         {
@@ -5020,14 +4971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そしてクルがウミを助けている間に、私がクセシレイをなんとかする」"
+                                "Lutecia: \"And while Kru is rescuing Umi, I'll take care of the Xecilray.\""
                             ]
                         },
                         {
@@ -5044,14 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった…。だがあの巨体にどうやって近づこう」"
+                                "Kru: \"Understood... But how do we get close to that massive body?\""
                             ]
                         },
                         {
@@ -5084,14 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは任せて…」"
+                                "Lutecia: \"Leave that to me...\""
                             ]
                         },
                         {
@@ -5113,7 +5043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴゴゴゴゴゴゴ……"
+                                "Gogogogogogo..."
                             ]
                         },
                         {

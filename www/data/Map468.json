@@ -22138,14 +22138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここからの眺めは最高だろう？」"
+                                "Villager: \"The view from here is the best, isn't it?\""
                             ]
                         },
                         {
@@ -22162,14 +22155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -22186,14 +22172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレはこの村大好きなんだ…」"
+                                "Villager: \"I really love this village...\""
                             ]
                         },
                         {
@@ -22281,14 +22260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら…あなた元気になったの？」"
+                                "Villager: \"Oh... are you feeling better now?\""
                             ]
                         },
                         {
@@ -22305,14 +22277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -22329,14 +22294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんよかったね！すごく取り乱してたもんね」"
+                                "Villager: \"Umi-chan, that's great! You were really upset.\""
                             ]
                         },
                         {
@@ -22387,14 +22345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんなことない！」"
+                                "Umi: \"That's not true!\""
                             ]
                         },
                         {
@@ -22507,14 +22458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ずぶ濡れおじさんだ！」"
+                                "Villager Child: \"Ah! It's the soaking wet uncle!\""
                             ]
                         },
                         {
@@ -22531,14 +22475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ずぶ濡れ？」"
+                                "Kru: \"Hm? Soaking wet?\""
                             ]
                         },
                         {
@@ -22555,14 +22492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに運ばれた時ビチョビチョだった」"
+                                "Umi: \"You were drenched when you were brought here.\""
                             ]
                         },
                         {
@@ -22579,14 +22509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ、それはまたご迷惑を…」"
+                                "Kru: \"Ugh, I'm sorry for the trouble...\""
                             ]
                         },
                         {
@@ -22674,14 +22597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -22698,14 +22614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -22756,14 +22665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -22780,14 +22682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -22804,14 +22699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're energetic again!\""
                             ]
                         },
                         {
@@ -22924,14 +22812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう、お主！元気になったか！」"
+                                "Villager: \"Oh, you! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -22948,14 +22829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -22972,14 +22846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんに付きっきりで看病してもらえるなんて…。羨ましい！」"
+                                "Villager: \"To have Umi-chan taking care of you all the time... I'm\nenvious!\""
                             ]
                         },
                         {
@@ -22996,14 +22863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -23091,14 +22951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは族長の家じゃ」"
+                                "Villager: \"This is the chieftain's house.\""
                             ]
                         },
                         {
@@ -23246,14 +23099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらぁウミちゃん。彼元気になったみたいね」"
+                                "Villager: \"Oh my, Umi-chan. It seems he's feeling better now.\""
                             ]
                         },
                         {
@@ -23304,14 +23150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん」"
+                                "Umi: \"Yeah.\""
                             ]
                         },
                         {
@@ -23328,14 +23167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご心配おかけしました」"
+                                "Kru: \"I apologize for the concern.\""
                             ]
                         },
                         {
@@ -23352,14 +23184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、礼儀正しいのね。まだ病み上がりなんだから無理しちゃだめよ」"
+                                "Villager: \"Oh, you're so polite. You shouldn't overdo it since you're still\nrecovering.\""
                             ]
                         },
                         {
@@ -25022,7 +24847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王国の兵隊たちはイーブルさんの適格かつ迅速な指示によって、捕らえられた。"
+                                "The kingdom's soldiers were captured due to the competent and swift\ninstructions of Mr. Iburu."
                             ]
                         },
                         {
@@ -25039,7 +24864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "捕虜として、村の復興の為に強制労働させた後に、王国に送還された。"
+                                "As prisoners, they were forced into labor for the village's reconstruction\nbefore being repatriated to the kingdom."
                             ]
                         },
                         {
@@ -25056,14 +24881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その際にイーブルさんは王国と取引をして、王国と村との交流が解禁され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村は急速に栄えていった。"
+                                "During this time, Mr. Iburu negotiated with the kingdom, lifting the ban on\ninteractions between the kingdom and the village, leading to the village's\nrapid prosperity."
                             ]
                         },
                         {
@@ -25109,14 +24927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長の亡骸は埋葬され、村人皆で盛大な葬式を挙げた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆を今日まで導いてきただけあり、多くの人達が涙し、別れを惜しんだ…。"
+                                "The chieftain's remains were buried, and the villagers held a grand\nfuneral. As someone who had led them until now, many people shed tears and\nmourned his departure..."
                             ]
                         },
                         {
@@ -25133,14 +24944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長…。僕はあなたに出会えなければ、ずっと根無し草のまま死んだように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きていたと思います…。"
+                                "Chieftain... I believe I would have lived like a rootless weed, dead while\nalive, if I had never met you..."
                             ]
                         },
                         {
@@ -25157,7 +24961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "感謝してもしきれません。どうか…安らかにお眠りください…。"
+                                "I can't thank you enough. Please... rest in peace..."
                             ]
                         },
                         {
@@ -25203,14 +25007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカの事はオレに任せておけと、イーブルさんが言うので僕にはその後どうなったの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かは分からない。"
+                                "Mr. Iburu said to leave Banka's matter to him, so I don't know what\nhappened to him afterward."
                             ]
                         },
                         {
@@ -25227,14 +25024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、クセシの村では裏切りはもっとも罪が重く、村人達の怒りは業火のように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "燃えていた為、きっと無事では済まなかっただろう…。"
+                                "However, in the village of Kuseshi, betrayal is the gravest sin, and the\nvillagers' anger burned like hellfire, so he surely didn't get off\nunscathed..."
                             ]
                         },
                         {
@@ -25251,7 +25041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "同情する余地はない…。"
+                                "There is no room for sympathy..."
                             ]
                         },
                         {
@@ -25357,14 +25147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう、お主！元気になったか！」"
+                                "Villager: \"Hey, you! Feeling better now?\""
                             ]
                         },
                         {
@@ -25381,14 +25164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -25405,14 +25181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんに付きっきりで看病してもらえるなんて…。羨ましい！」"
+                                "Villager: \"To have Umi-chan taking care of you all the time... I'm\njealous!\""
                             ]
                         },
                         {
@@ -25429,14 +25198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -25524,14 +25286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -25548,14 +25303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -25606,14 +25354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -25630,14 +25371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -25654,14 +25388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you've recovered!\""
                             ]
                         },
                         {
@@ -25774,14 +25501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -25798,14 +25518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -25856,14 +25569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -25880,14 +25586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -25904,14 +25603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -26024,14 +25716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -26048,14 +25733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -26106,14 +25784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -26130,14 +25801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -26154,14 +25818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you've recovered!\""
                             ]
                         },
                         {
@@ -26274,14 +25931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -26298,14 +25948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -26356,14 +25999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -26380,14 +26016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -26404,14 +26033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're energetic again!\""
                             ]
                         },
                         {
@@ -26524,14 +26146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -26548,14 +26163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -26606,14 +26214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -26630,14 +26231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -26654,14 +26248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -26774,14 +26361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -26798,14 +26378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -26856,14 +26429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -26880,14 +26446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -26904,14 +26463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -27024,14 +26576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -27048,14 +26593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -27106,14 +26644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -27130,14 +26661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -27154,14 +26678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you've recovered!\""
                             ]
                         },
                         {
@@ -27274,14 +26791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -27298,14 +26808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -27356,14 +26859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -27380,14 +26876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -27404,14 +26893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're energetic again!\""
                             ]
                         },
                         {
@@ -27704,14 +27186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう、お主！元気になったか！」"
+                                "Villager: \"Oh, you! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -27728,14 +27203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -27752,14 +27220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんに付きっきりで看病してもらえるなんて…。羨ましい！」"
+                                "Villager: \"To have Umi-chan taking care of you all the time... I'm\njealous!\""
                             ]
                         },
                         {
@@ -27776,14 +27237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -27871,14 +27325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -27895,14 +27342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -27953,14 +27393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -27977,14 +27410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -28001,14 +27427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -28121,14 +27540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -28145,14 +27557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -28203,14 +27608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -28227,14 +27625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -28251,14 +27642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -28371,14 +27755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -28395,14 +27772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -28453,14 +27823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -28477,14 +27840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -28501,14 +27857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -28621,14 +27970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -28645,14 +27987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -28703,14 +28038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -28727,14 +28055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -28751,14 +28072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -28871,14 +28185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -28895,14 +28202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -28953,14 +28253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -28977,14 +28270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -29001,14 +28287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -29121,14 +28400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -29145,14 +28417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -29203,14 +28468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -29227,14 +28485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -29251,14 +28502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -29371,14 +28615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -29395,14 +28632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -29453,14 +28683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -29477,14 +28700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -29501,14 +28717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -29621,14 +28830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -29645,14 +28847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -29703,14 +28898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -29727,14 +28915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -29751,14 +28932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you've recovered!\""
                             ]
                         },
                         {
@@ -29871,14 +29045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう、お主！元気になったか！」"
+                                "Villager: \"Oh, you! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -29895,14 +29062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -29919,14 +29079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんに付きっきりで看病してもらえるなんて…。羨ましい！」"
+                                "Villager: \"To have Umi-chan taking care of you all the time... I'm\njealous!\""
                             ]
                         },
                         {
@@ -29943,14 +29096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -30038,14 +29184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -30062,14 +29201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -30120,14 +29252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -30144,14 +29269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -30168,14 +29286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you've recovered!\""
                             ]
                         },
                         {
@@ -30288,14 +29399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Big brother! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -30312,14 +29416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -30370,14 +29467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -30394,14 +29484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -30418,14 +29501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {

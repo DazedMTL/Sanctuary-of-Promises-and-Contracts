@@ -2626,14 +2626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ただいま…」"
+                                "Kru: \"I'm home...\""
                             ]
                         },
                         {
@@ -2751,14 +2744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おかえりなさい…」"
+                                "Maid: \"Welcome back...\""
                             ]
                         },
                         {
@@ -2775,14 +2761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いつもすまないね…」"
+                                "Kru: \"I'm always causing you trouble, aren't I...\""
                             ]
                         },
                         {
@@ -2799,14 +2778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ。良いお給金頂いてますから…」"
+                                "Maid: \"No, not at all. I'm well compensated...\""
                             ]
                         },
                         {
@@ -2823,7 +2795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ…そうだった…。こんな風に生活していたな…。"
+                                "Ah... that's right... this is how I've been living..."
                             ]
                         },
                         {
@@ -2845,7 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさんがこうして食事を作ってくれて…。"
+                                "The maid prepares meals like this for me..."
                             ]
                         },
                         {
@@ -2862,7 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを一人で食べて…。"
+                                "And I eat alone..."
                             ]
                         },
                         {
@@ -2879,7 +2851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして寝る前に昔を懐かしんでいた…。"
+                                "Then before sleeping, I reminisce about the past..."
                             ]
                         },
                         {
@@ -2896,7 +2868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミを思い出して…眠りについていた…。"
+                                "Thinking of Umi... and falling asleep..."
                             ]
                         },
                         {
@@ -2913,7 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな生活をずっとしていたのか…。"
+                                "Have I been living like this all along...?"
                             ]
                         },
                         {
@@ -2930,7 +2902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不満があったわけではない…。"
+                                "I wasn't dissatisfied..."
                             ]
                         },
                         {
@@ -2947,7 +2919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いい人達に出会って…"
+                                "I've met good people..."
                             ]
                         },
                         {
@@ -2964,7 +2936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グイッ"
+                                "Gulp"
                             ]
                         },
                         {
@@ -2981,7 +2953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いい街で暮らして…"
+                                "Living in a nice town..."
                             ]
                         },
                         {
@@ -2998,7 +2970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グイグイッ…"
+                                "Gulp gulp..."
                             ]
                         },
                         {
@@ -3015,7 +2987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いい仕事をして……やはり…僕には贅沢な環境だったな…"
+                                "Having a good job... indeed... it was a luxurious environment for me..."
                             ]
                         },
                         {
@@ -3032,7 +3004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グイグイッ！"
+                                "Gulp gulp!"
                             ]
                         },
                         {
@@ -3049,7 +3021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ……さっきからなんだ…"
+                                "Sigh... what's been going on since a while ago..."
                             ]
                         },
                         {
@@ -3066,14 +3038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こらぁ！むししちゃダメ！」"
+                                "???: \"Hey! You can't ignore me!\""
                             ]
                         },
                         {
@@ -3090,7 +3055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？…誰だ…"
+                                "Huh?... Who's there..."
                             ]
                         },
                         {
@@ -3128,14 +3093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ………」"
+                                "???: \"Mmm...\""
                             ]
                         },
                         {
@@ -3161,7 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっなんだ……この子は……"
+                                "What the... who is this child..."
                             ]
                         },
                         {
@@ -3178,14 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「パパ！どうしてミーアを無視するの⁉」"
+                                "???: \"Daddy! Why are you ignoring Mia⁉\""
                             ]
                         },
                         {
@@ -3202,14 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？……あぁ……」"
+                                "Kru: \"Eh?... Ah...\""
                             ]
                         },
                         {
@@ -3226,7 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ？……パパ…？"
+                                "Eh?... Daddy...?"
                             ]
                         },
                         {
@@ -3243,14 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう！パパ！はなしきいてるの？」"
+                                "Mia: \"Geez! Daddy! Are you even listening?\""
                             ]
                         },
                         {
@@ -3267,14 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？………こっこれは……」"
+                                "Kru: \"Eh?... What's this...\""
                             ]
                         },
                         {
@@ -3291,7 +3221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっなんだ……何がどうなっているんだ…"
+                                "What the... what's happening here..."
                             ]
                         },
                         {
@@ -3308,14 +3238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？パパ！…どうして泣いてるの？」"
+                                "Mia: \"Huh? Daddy!... Why are you crying?\""
                             ]
                         },
                         {
@@ -3332,14 +3255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？なっ泣いてる？」"
+                                "Kru: \"Eh? Crying? I am?\""
                             ]
                         },
                         {
@@ -3356,7 +3272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ……頭がついていかない…"
+                                "What's going on... I can't keep up..."
                             ]
                         },
                         {
@@ -3373,14 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だれかにいじめられたの？よし！ミーアがこらしめてやる！」"
+                                "Mia: \"Did someone bully you? Alright! Mia will teach them a lesson!\""
                             ]
                         },
                         {
@@ -3397,14 +3306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは……いじめられてないよ…」"
+                                "Kru: \"Hahaha... No one's bullying me...\""
                             ]
                         },
                         {
@@ -3421,7 +3323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この赤い髪は…"
+                                "This red hair is..."
                             ]
                         },
                         {
@@ -3438,14 +3340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃママになぐさめてもらわなきゃ…」"
+                                "Mia: \"Then we need to get Mommy to comfort you...\""
                             ]
                         },
                         {
@@ -3462,7 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ママ？"
+                                "...Mommy?"
                             ]
                         },
                         {
@@ -3479,14 +3374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ママって……？えっ？」"
+                                "Kru: \"Mommy as in...? Eh?\""
                             ]
                         },
                         {
@@ -3503,14 +3391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう！ママによしよししてもらったらすぐにげんきになる！」"
+                                "Mia: \"Yes! If Mommy pats you, you'll cheer up right away!\""
                             ]
                         },
                         {
@@ -3527,14 +3408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ママって……ひょっとして……」"
+                                "Kru: \"Mommy as in... could it be...\""
                             ]
                         },
                         {
@@ -3551,14 +3425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやクルさん…。ウミさんの事忘れちまったのかい？怒られるぞ～」"
+                                "Maid: \"Oh, Kru dear... Have you forgotten about Miss Umi? You're going to\nget scolded～\""
                             ]
                         },
                         {
@@ -3575,7 +3442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ……"
+                                "Umi..."
                             ]
                         },
                         {
@@ -3592,14 +3459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……ウミが生きているんですか⁉」"
+                                "Kru: \"Umi... Is Umi alive?!\""
                             ]
                         },
                         {
@@ -3616,14 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉そっそれはまあ……」"
+                                "Maid: \"Eh?! Well, that's...\""
                             ]
                         },
                         {
@@ -3640,14 +3493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶぅ……やっぱりパパおかしい…」"
+                                "Mia: \"Hmph... Daddy's definitely acting strange...\""
                             ]
                         },
                         {
@@ -3664,14 +3510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミは……ウミはいまどこに⁉」"
+                                "Kru: \"Where is Umi now?!\""
                             ]
                         },
                         {
@@ -3688,14 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさんならさっき買い物に行きましたよ」"
+                                "Maid: \"Miss Umi went shopping just a moment ago.\""
                             ]
                         },
                         {
@@ -3712,14 +3544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……あの…この子…ミーアの事お願いします！」"
+                                "Kru: \"Ah... um... please take care of this child... Mia!\""
                             ]
                         },
                         {
@@ -3736,14 +3561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！ちょっとクルさん！」"
+                                "Maid: \"Yes! Wait a moment, Kru-san!\""
                             ]
                         },
                         {
@@ -3884,14 +3702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ミーア？」"
+                                "Kru: \"...Mia?\""
                             ]
                         },
                         {
@@ -3908,14 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに？」"
+                                "Mia: \"What?\""
                             ]
                         },
                         {
@@ -3932,14 +3736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すぐ……帰ってくるから、ちょっと待ってて！」"
+                                "Kru: \"I'll be back soon, so just wait a little!\""
                             ]
                         },
                         {
@@ -3956,14 +3753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん、わかった！」"
+                                "Mia: \"...Okay, got it!\""
                             ]
                         },
                         {
@@ -3980,14 +3770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……行ってきます！」"
+                                "Kru: \"...I'm off!\""
                             ]
                         },
                         {
@@ -4091,14 +3874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっちゃった…」"
+                                "Mia: \"He's gone...\""
                             ]
                         },
                         {
@@ -4115,14 +3891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お手伝いさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…うん」"
+                                "Maid: \"...Yeah.\""
                             ]
                         },
                         {
@@ -4151,14 +3920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっとママのことだいすきなんだね…」"
+                                "Mia: \"He must really love Mommy...\""
                             ]
                         },
                         {

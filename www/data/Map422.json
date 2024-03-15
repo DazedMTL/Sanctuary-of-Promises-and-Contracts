@@ -3564,14 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -3588,14 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日グレースちゃん出勤してる？」"
+                                "Customer: \"Is Grace-chan working today?\""
                             ]
                         },
                         {
@@ -3612,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ありません。グレースは急に辞めてしまって…」"
+                                "Clerk: \"I'm sorry. Grace suddenly quit...\""
                             ]
                         },
                         {
@@ -3636,14 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！そりゃないよー」"
+                                "Customer: \"What?! That's disappointing.\""
                             ]
                         },
                         {
@@ -3660,14 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかしいい子が入店しまして…」"
+                                "Clerk: \"However, we have a new girl who just started...\""
                             ]
                         },
                         {
@@ -3684,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ホントに？」"
+                                "Customer: \"Really?\""
                             ]
                         },
                         {
@@ -3708,14 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…えぇ…極上の…」"
+                                "Clerk: \"...Yes... She's top-notch...\""
                             ]
                         },
                         {
@@ -3732,14 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴクリ……じゃぁその子で頼むよ」"
+                                "Customer: \"*gulp*... Then I'll go with her.\""
                             ]
                         },
                         {
@@ -3756,14 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かしこまりました…」"
+                                "Clerk: \"Understood...\""
                             ]
                         },
                         {

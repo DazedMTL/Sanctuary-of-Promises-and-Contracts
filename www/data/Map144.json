@@ -1456,14 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来たか…」"
+                                "Chancellor Shif \"You've arrived...\""
                             ]
                         },
                         {
@@ -1480,14 +1473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ様。ご無沙汰しております」"
+                                "Bandit Leader \"Chancellor Shif, it's been a while.\""
                             ]
                         },
                         {
@@ -1520,14 +1506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ。この度クセシレイの巫女が見つかったわけだが」"
+                                "Chancellor Shif \"Hmm. It seems we've found the priestess of Kusechirei this\ntime.\""
                             ]
                         },
                         {
@@ -1544,14 +1523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ…」"
+                                "Bandit Leader \"Oh...?\""
                             ]
                         },
                         {
@@ -1584,14 +1556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回の仕事は今までとは違う…。ただの平民を始末する事とは重大さが違う…」"
+                                "Chancellor Shif \"This job is different from the rest... It's more serious\nthan just disposing of a commoner...\""
                             ]
                         },
                         {
@@ -1608,21 +1573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へぇ、抜かりなく…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちょいと相談ですが、少し味見してもよろしかったですか？」"
+                                "Bandit Leader \"Oh, I'll make sure to handle it without fail... But may I\nconsult you on something? Would it be alright if I had a little taste\nfirst?\""
                             ]
                         },
                         {
@@ -1655,21 +1606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かまわん。しかしあの女中々にじゃじゃ馬と見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前に飼いならせるならやってみよ」"
+                                "Chancellor Shif \"I don't mind. However, that woman seems to be quite the\nwild mare. If you think you can tame her, then go ahead and try.\""
                             ]
                         },
                         {
@@ -1686,14 +1623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっへっへっ。ありがとうございます」"
+                                "Bandit Leader \"Heh heh heh. Thank you very much.\""
                             ]
                         },
                         {

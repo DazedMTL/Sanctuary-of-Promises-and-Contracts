@@ -21631,14 +21631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらぁウミちゃん。彼元気になったみたいね」"
+                                "Villager: \"Oh my, Umi-chan. It seems he's feeling better now.\""
                             ]
                         },
                         {
@@ -21689,14 +21682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん」"
+                                "Umi: \"Yes.\""
                             ]
                         },
                         {
@@ -21713,14 +21699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ご心配おかけしました」"
+                                "Kru: \"I apologize for the concern.\""
                             ]
                         },
                         {
@@ -21737,14 +21716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、礼儀正しいのね。まだ病み上がりなんだから無理しちゃだめよ」"
+                                "Villager: \"Oh, you're so polite. You shouldn't overdo it since you're still\nrecovering.\""
                             ]
                         },
                         {
@@ -21848,14 +21820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あらぁ…。ふふふ、お強いんですね」"
+                                "Villager: \"Oh my... hehehe, you're quite strong, aren't you?\""
                             ]
                         },
                         {
@@ -21923,14 +21888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃん…は無事？」"
+                                "Villager: \"Is Umi-chan... safe?\""
                             ]
                         },
                         {
@@ -21947,14 +21905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -21971,14 +21922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守ってあげて…」"
+                                "Villager: \"Please protect her...\""
                             ]
                         },
                         {
@@ -22046,14 +21990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっあらクルさん…この度は…あのありがとうございました」"
+                                "Villager: \"Ah, Mr. Kru... this time... thank you very much.\""
                             ]
                         },
                         {
@@ -22132,14 +22069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ！生きてるって素晴らしいわ！」"
+                                "Villager: \"Ahh! It's wonderful to be alive!\""
                             ]
                         },
                         {
@@ -22207,21 +22137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ！クル様！生きてるって素晴らしいわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　戦って頂いて、本当にありがとうございました！」"
+                                "Villager: \"Ah! Lord Kru! It's wonderful to be alive! Thank you so much for\nfighting for us!\""
                             ]
                         },
                         {
@@ -22358,14 +22274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら…あなた元気になったの？」"
+                                "Villager: \"Oh... are you feeling better now?\""
                             ]
                         },
                         {
@@ -22382,14 +22291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -22406,14 +22308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんよかったね！すごく取り乱してたもんね」"
+                                "Villager: \"Umi-chan, that's great! You were really upset.\""
                             ]
                         },
                         {
@@ -22464,14 +22359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんなことない！」"
+                                "Umi: \"That's not true!\""
                             ]
                         },
                         {
@@ -22575,14 +22463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら…すごい量の獲物獲ってきてたわね」"
+                                "Villager: \"Oh my... You've brought back such a large amount of game.\""
                             ]
                         },
                         {
@@ -22650,14 +22531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら…あんた無事なの…？」"
+                                "Villager: \"Oh... are you safe...?\""
                             ]
                         },
                         {
@@ -22674,14 +22548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -22698,14 +22565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ…ウミちゃんの事…よろしくね…」"
+                                "Villager: \"Then... please take care of Umi-chan...\""
                             ]
                         },
                         {
@@ -22773,14 +22633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…村を救ってくれて本当にありがとう…」"
+                                "Villager: \"Mr. Kru... Thank you so much for saving our village...\""
                             ]
                         },
                         {
@@ -22859,14 +22712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら…ごようかしら？」"
+                                "Villager: \"Oh... do you need something?\""
                             ]
                         },
                         {
@@ -22934,14 +22780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル様…無事に帰って来られて本当によかった」"
+                                "Villager: \"Lord Kru... I'm truly glad you've returned safely.\""
                             ]
                         },
                         {
@@ -23018,7 +22857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由"
+                                "Freedom"
                             ]
                         },
                         {
@@ -23184,14 +23023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここからの眺めは最高だろう？」"
+                                "Villager: \"The view from here is the best, isn't it?\""
                             ]
                         },
                         {
@@ -23208,14 +23040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -23232,14 +23057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレはこの村大好きなんだ…」"
+                                "Villager: \"I really love this village...\""
                             ]
                         },
                         {
@@ -23318,14 +23136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル様…ここからの眺めは最高だろう？」"
+                                "Villager: \"Lord Kru... The view from here is the best, isn't it?\""
                             ]
                         },
                         {
@@ -23342,14 +23153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい」"
+                                "Kru: \"Yes.\""
                             ]
                         },
                         {
@@ -23366,14 +23170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル様、村を救ってありがとうございました」"
+                                "Villager: \"Lord Kru, thank you for saving our village.\""
                             ]
                         },
                         {
@@ -23450,14 +23247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(よし……、じゃぁイーブルさんの家に行こう…。たしか村の東の方だったな…)"
+                                "Kru (Alright... let's head to Mr. Iburu's house... It was to the east of\nthe village, if I remember correctly...)"
                             ]
                         },
                         {
@@ -23593,14 +23383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ずぶ濡れおじさんだ！」"
+                                "Villager Child: \"Ah! It's the soaking wet uncle!\""
                             ]
                         },
                         {
@@ -23617,14 +23400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ずぶ濡れ？」"
+                                "Kru: \"Hm? Soaking wet?\""
                             ]
                         },
                         {
@@ -23641,14 +23417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに運ばれた時ビチョビチョだった」"
+                                "Umi: \"You were drenched when you were brought here.\""
                             ]
                         },
                         {
@@ -23665,14 +23434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ、それはまたご迷惑を…」"
+                                "Kru: \"Ugh, I'm sorry for the trouble...\""
                             ]
                         },
                         {
@@ -23751,14 +23513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すげぇよ兄ちゃん！大量！大量！」"
+                                "Villager Kid: \"Wow, big bro! That's a lot! A whole lot!\""
                             ]
                         },
                         {
@@ -23826,14 +23581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ！苦しいよぉ」"
+                                "Villager Child: \"Ughh! It hurts!\""
                             ]
                         },
                         {
@@ -23850,14 +23598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそぅ…なんなんだいったい！」"
+                                "Kru: \"Damn it... What the hell is this?!\""
                             ]
                         },
                         {
@@ -23925,14 +23666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルにいちゃん！僕元気になったよ！ありがとう！」"
+                                "Villager Child: \"Big brother Kru! I'm all better now! Thank you!\""
                             ]
                         },
                         {
@@ -24011,14 +23745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルにいちゃん！遊んでよぉ！」"
+                                "Villager Child: \"Big brother Kru! Play with me!\""
                             ]
                         },
                         {
@@ -24086,14 +23813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル様！オレもいつかクル様のように強い男になる！」"
+                                "Villager Child: \"Lord Kru! Someday, I'll become a strong man just like\nyou!\""
                             ]
                         },
                         {
@@ -24170,14 +23890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん！元気になったか！」"
+                                "Villager: \"Hey, big bro! Are you feeling better now?\""
                             ]
                         },
                         {
@@ -24194,14 +23907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -24252,14 +23958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ運ぶの手伝ってくれた」"
+                                "Umi: \"You helped carry him.\""
                             ]
                         },
                         {
@@ -24276,14 +23975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！あぁ、お陰様で元気になりました」"
+                                "Kru: \"Yes! Ah, thanks to you, I'm feeling much better.\""
                             ]
                         },
                         {
@@ -24300,14 +23992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！元気になってよかったなぁ！」"
+                                "Villager: \"Oh! It's good to see you're feeling better!\""
                             ]
                         },
                         {
@@ -24411,14 +24096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今夜は兄ちゃんのお陰でごちそうだな！」"
+                                "Villager: \"Thanks to you, bro, we're having a feast tonight!\""
                             ]
                         },
                         {
@@ -24486,14 +24164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっにいちゃん…元気か…」"
+                                "Villager: \"Big brother... are you well...?\""
                             ]
                         },
                         {
@@ -24510,14 +24181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Kru: \"Yes...\""
                             ]
                         },
                         {
@@ -24534,14 +24198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この村の事…よろしく頼む……」"
+                                "Villager: \"Please take care of this village...\""
                             ]
                         },
                         {
@@ -24558,14 +24215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…はい」"
+                                "Kru: \"...Yes\""
                             ]
                         },
                         {
@@ -24633,14 +24283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！オレまだ生きてるよ！ありがとうな！」"
+                                "Villager: \"Mr. Kru! I'm still alive, thanks to you!\""
                             ]
                         },
                         {
@@ -24719,14 +24362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっクルさん！お疲れ！」"
+                                "Villager: \"Oh, Kru-san! You look tired!\""
                             ]
                         },
                         {
@@ -24794,14 +24430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル様！ありがとう…ありがとうございました！」"
+                                "Villager: \"Lord Kru! Thank you... Thank you so much!\""
                             ]
                         },
                         {
@@ -24938,14 +24567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは族長の家じゃ」"
+                                "Villager: \"This is the chieftain's house.\""
                             ]
                         },
                         {
@@ -25024,14 +24646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……しっ死ぬぅ…」"
+                                "Villager: \"...I'm... dying...\""
                             ]
                         },
                         {
@@ -25099,14 +24714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わしゃもう駄目じゃと思っておったよ。クル様…ありがとうございます」"
+                                "Villager: \"I thought I was done for. Lord Kru... thank you very much.\""
                             ]
                         },
                         {
@@ -25185,14 +24793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは族長の家じゃ」"
+                                "Villager: \"This is the chieftain's house.\""
                             ]
                         },
                         {
@@ -25260,14 +24861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おうクル様…ここは族長の家じゃ」"
+                                "Villager: \"Oh, Lord Kru... this is the chieftain's house.\""
                             ]
                         },
                         {

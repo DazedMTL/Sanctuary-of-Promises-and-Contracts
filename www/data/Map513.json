@@ -2887,14 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急いで探したほうがいい…。そう遠くへは行っていないはずだ…」"
+                                "Iburu: \"We better hurry and search... She can't have gone too far...\""
                             ]
                         },
                         {
@@ -2962,14 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急いで探したほうがいい…。そう遠くへは行っていないはずだ…」"
+                                "Iburu: \"We better hurry up and search... She can't have gone too far...\""
                             ]
                         },
                         {
@@ -3080,14 +3066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…どこにもいない……」"
+                                "Iburu: \"...Nowhere to be found...\""
                             ]
                         },
                         {
@@ -3138,14 +3117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いったいどこに…」"
+                                "Umi: \"Where on earth could it be...\""
                             ]
                         },
                         {
@@ -3221,14 +3193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……なにか見落としをしているような気がする…」"
+                                "Lutecia: \"But... I feel like we're missing something...\""
                             ]
                         },
                         {
@@ -3245,14 +3210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私をお探しかな？」"
+                                "???: \"Are you looking for me?\""
                             ]
                         },
                         {
@@ -3285,14 +3243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その声は⁉」"
+                                "Umi: \"That voice!?\""
                             ]
                         },
                         {
@@ -3487,14 +3438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さっきからずっとここにおったというのに…」"
+                                "Shif \"Even though I've been here all this time...\""
                             ]
                         },
                         {
@@ -3511,14 +3455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ！」"
+                                "Iburu \"Shif!\""
                             ]
                         },
                         {
@@ -3569,14 +3506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここにいたか⁉」"
+                                "Umi \"You were here⁉\""
                             ]
                         },
                         {
@@ -3609,14 +3539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……。まったく…詰めの甘い連中よ……」"
+                                "Shif \"Haa... Really... Such a careless bunch...\""
                             ]
                         },
                         {
@@ -3717,14 +3640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しまっ……」"
+                                "Iburu \"Damn it...\""
                             ]
                         },
                         {
@@ -3741,14 +3657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……意識が……」"
+                                "Umi \"Ugh... My consciousness is...\""
                             ]
                         },
                         {
@@ -3765,14 +3674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わ……私も………何故…」"
+                                "Lutecia \"Wha... I too... Why...\""
                             ]
                         },
                         {
@@ -3851,14 +3753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……まあ不本意な形だがしょうがない……」"
+                                "Shif \"Haa... Well, it's not ideal, but it can't be helped...\""
                             ]
                         },
                         {
@@ -3996,14 +3891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ……嫌な予感がする…」"
+                                "Luitesia: \"Shif... I have a bad feeling about this...\""
                             ]
                         },
                         {
@@ -4131,14 +4019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ…。どこに行ったの…」"
+                                "Umi: \"Shif... where did you go...\""
                             ]
                         },
                         {
@@ -4206,14 +4087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ…。どこに行ったの…」"
+                                "Umi: \"Shif... where did you go...\""
                             ]
                         },
                         {

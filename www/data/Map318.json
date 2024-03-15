@@ -1567,14 +1567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんかこの壺だけ軽いな…」"
+                                "Kru: \"Somehow this pot is light...\""
                             ]
                         },
                         {
@@ -1591,14 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに風が吹いている？」"
+                                "Kru: \"And there's a breeze coming from it?\""
                             ]
                         },
                         {
@@ -1709,14 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ……俺様の力が必要なのか？」"
+                                "Banka: \"What... You need my power?\""
                             ]
                         },
                         {
@@ -1733,7 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカを連れて行きますか？"
+                                "Will you take Banka with you?"
                             ]
                         },
                         {
@@ -1741,8 +1720,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1788,14 +1767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうこなくっちゃな…」"
+                                "Banka: \"That's more like it...\""
                             ]
                         },
                         {
@@ -1898,14 +1870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「すぐに連れて行きたくなるぜ…」"
+                                "Banka: \"You'll want to take me along right away...\""
                             ]
                         },
                         {
@@ -2126,7 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカをパーティーから外しますか？"
+                                "Do you want to remove Banka from the party?"
                             ]
                         },
                         {
@@ -2134,8 +2099,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2377,14 +2342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっくっく…ようやくオレの番が回ってきた…)"
+                                "Banka (Heh heh heh... Finally, it's my turn...)"
                             ]
                         },
                         {
@@ -2417,14 +2375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ずっとお預けを食らっていたから、油断したらもう出ちまいそうだ…)"
+                                "Banka (I've been put on hold for so long, I might just release it if I'm\nnot careful...)"
                             ]
                         },
                         {
@@ -2457,14 +2408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(さてシフ様に教わった催眠魔法は…)"
+                                "Banka (Now, the hypnotic magic taught to me by Chancellor Shif is...)"
                             ]
                         },
                         {
@@ -2497,14 +2441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(接触する回数が多ければ多いほど、効果が強くなるんだったな…)"
+                                "Banka (The more times it makes contact, the stronger the effect becomes...)"
                             ]
                         },
                         {
@@ -2537,14 +2474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(オレの貧弱な魔力でどこまで掛かるか、ちと不安だが…)"
+                                "Banka (I'm a bit worried about how far my meager magical power will take\nit...)"
                             ]
                         },
                         {
@@ -2577,14 +2507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(その辺はオレの持ち前の演技力でカバーできるか…)"
+                                "Banka (But maybe I can cover that with my natural acting skills...)"
                             ]
                         },
                         {
@@ -2661,7 +2584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -2678,7 +2601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -2695,7 +2618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {

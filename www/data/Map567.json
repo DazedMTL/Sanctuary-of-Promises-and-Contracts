@@ -2938,14 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急いで探したほうがいい…。そう遠くへは行っていないはずだ…」"
+                                "Iburu: \"We better hurry and search... She can't have gone too far...\""
                             ]
                         },
                         {
@@ -3063,14 +3056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだバンカ…」"
+                                "Shif: \"What is it, Banka...\""
                             ]
                         },
                         {
@@ -3121,14 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ様！オレも儀式に参加させて下さい！」"
+                                "Banka: \"Chancellor Shif! Please allow me to participate in the ritual as\nwell!\""
                             ]
                         },
                         {
@@ -3161,14 +3140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ふん…まあ良かろう…。お前にはウミを堕落させた功績もあるからのぅ…」"
+                                "Shif: \"...Hmph... Very well... You do have the merit of having corrupted\nUmi...\""
                             ]
                         },
                         {
@@ -3201,14 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとうございます」"
+                                "Banka: \"Thank you very much.\""
                             ]
                         },
                         {
@@ -3241,14 +3206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん。ではウミ…。いよいよ最後の儀式の時が来た…」"
+                                "Shif: \"Hmph. Then, Umi... the time has finally come for the last ritual...\""
                             ]
                         },
                         {

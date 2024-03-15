@@ -4823,14 +4823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……よかった無事で………」"
+                                "Kru: \"Umi... I'm so glad you're safe...\""
                             ]
                         },
                         {
@@ -4881,14 +4874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル……ミーアが………」"
+                                "Umi: \"Kru... Mia has...\""
                             ]
                         },
                         {
@@ -4905,14 +4891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……」"
+                                "Kru: \"Ah...\""
                             ]
                         },
                         {
@@ -4945,14 +4924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…そんなの……」"
+                                "Umi: \"...such a thing...\""
                             ]
                         },
                         {
@@ -4969,21 +4941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだね……でも…こうしてウミを助け出せたから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それはミーアがずっと望んでいた事だから…」"
+                                "Kru: \"That's right... But... because we were able to rescue you, Umi.\nThat's what Mia always wanted...\""
                             ]
                         },
                         {
@@ -5000,7 +4958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう……ミーアは役目を果たしたんだ…。"
+                                "Yes... Mia fulfilled her role..."
                             ]
                         },
                         {
@@ -5017,7 +4975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして僕も…役目を終えた…。"
+                                "And I have... completed my role as well..."
                             ]
                         },
                         {
@@ -5034,7 +4992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "終えたんだ…。"
+                                "I've completed it..."
                             ]
                         },
                         {
@@ -5067,14 +5025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………うぅ…」"
+                                "Umi: \"...uhh...\""
                             ]
                         },
                         {
@@ -5126,7 +5077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポワァ……"
+                                "Poof..."
                             ]
                         },
                         {
@@ -5315,14 +5266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……クル？」"
+                                "Umi: \"Eh... Kru?\""
                             ]
                         },
                         {
@@ -5339,14 +5283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……どうやらお別れのようだ…」"
+                                "Kru: \"Ah... it seems it's time to say goodbye...\""
                             ]
                         },
                         {
@@ -5363,7 +5300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで最後なんだ…。"
+                                "This is the last time..."
                             ]
                         },
                         {
@@ -5380,7 +5317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目に焼き付けよう…ウミの姿を…。"
+                                "I'll burn it into my memory... Umi's image..."
                             ]
                         },
                         {
@@ -5397,14 +5334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉」"
+                                "Umi: \"Eh⁉\""
                             ]
                         },
                         {
@@ -5421,14 +5351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレは未来から来たから…。元の時間に戻される…」"
+                                "Kru: \"I came from the future... I'm being sent back to my original time...\""
                             ]
                         },
                         {
@@ -5463,14 +5386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんな……」"
+                                "Umi: \"That's... that's impossible...\""
                             ]
                         },
                         {
@@ -5487,14 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫……。ウミならきっと幸せになれる…。オレがいなくても…」"
+                                "Kru: \"It's okay... Umi will surely find happiness... even without me...\""
                             ]
                         },
                         {
@@ -5511,7 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっと……幸せになれる…。"
+                                "You'll surely... find happiness..."
                             ]
                         },
                         {
@@ -5528,7 +5437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも…。"
+                                "But..."
                             ]
                         },
                         {
@@ -5545,14 +5454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんなの……そんなの無理！」"
+                                "Umi: \"That's... that's impossible!\""
                             ]
                         },
                         {
@@ -5569,7 +5471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当は傍にいたい…。"
+                                "I really want to be by your side..."
                             ]
                         },
                         {
@@ -5586,14 +5488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫……。もう大丈夫だ………。きっとうまくいく…」"
+                                "Kru: \"It's okay... everything will be alright... it will all work out...\""
                             ]
                         },
                         {
@@ -5628,14 +5523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Umi: \"Uhh...\""
                             ]
                         },
                         {
@@ -5652,7 +5540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも……それができないのなら…せめて……。"
+                                "But... if that can't happen... at least..."
                             ]
                         },
                         {
@@ -5669,14 +5557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ………幸せになってくれ…」"
+                                "Kru: \"Umi... please be happy...\""
                             ]
                         },
                         {
@@ -5693,7 +5574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう……幸せを…。ウミの幸せを……祈らせてくれ…。"
+                                "Yes... let me pray for your happiness... Umi's happiness..."
                             ]
                         },
                         {
@@ -5710,14 +5591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル……」"
+                                "Umi: \"Kru...\""
                             ]
                         },
                         {
@@ -5752,14 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいし……」"
+                                "Kru: \"I love...\""
                             ]
                         },
                         {
@@ -5776,14 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルーーーーーーーーーー！」"
+                                "Umi: \"Kru----------!\""
                             ]
                         },
                         {
@@ -5830,7 +5690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう…愛してる…。"
+                                "Yes... I love you..."
                             ]
                         },
                         {
@@ -5847,7 +5707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……届かない最後の言葉…。"
+                                "The last words that will never reach you..."
                             ]
                         },
                         {
@@ -5864,7 +5724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "伝えたかった……最後の言葉…。"
+                                "The last words I wanted to convey..."
                             ]
                         },
                         {

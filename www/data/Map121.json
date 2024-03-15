@@ -14127,7 +14127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -14144,7 +14144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -14161,7 +14161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]鬼人香を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Demon's Fragrance!"
                             ]
                         },
                         {
@@ -15029,7 +15029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -15046,7 +15046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -15063,7 +15063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]岩防丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Stone Defense Pill!"
                             ]
                         },
                         {
@@ -15931,7 +15931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -15948,7 +15948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -15965,7 +15965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]鬼人香を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Demon's Fragrance!"
                             ]
                         },
                         {
@@ -16833,7 +16833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -16850,7 +16850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -16867,7 +16867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]眼暗丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Dark Eye Pill!"
                             ]
                         },
                         {
@@ -17824,7 +17824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]エビルオークを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Evil Orc!"
                             ]
                         },
                         {
@@ -17841,7 +17841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]エビルオークの肉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained Evil Orc Meat!"
                             ]
                         },
                         {
@@ -17858,7 +17858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]守命香を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained Lifeguard Fragrance!"
                             ]
                         },
                         {
@@ -17999,14 +17999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「疲れてるのか……。何か見えたような気が…」"
+                                "Kru: \"Are you tired?... I thought I saw something...\""
                             ]
                         },
                         {

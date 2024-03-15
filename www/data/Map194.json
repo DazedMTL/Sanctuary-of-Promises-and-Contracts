@@ -10210,14 +10210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…」"
+                                "Kru: \"Haa haa...\""
                             ]
                         },
                         {
@@ -10234,14 +10227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…」"
+                                "Villager A: \"Mr. Kru...\""
                             ]
                         },
                         {
@@ -10258,14 +10244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、本当にすげぇ！」"
+                                "Villager B: \"Ah, really amazing!\""
                             ]
                         },
                         {
@@ -10282,14 +10261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これなら勝てるかも」"
+                                "Villager C: \"With this, we might be able to win\""
                             ]
                         },
                         {
@@ -10306,14 +10278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！頑張れ！」"
+                                "Villager D: \"Mr. Kru! Hang in there!\""
                             ]
                         },
                         {
@@ -10330,14 +10295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！任せろ！」"
+                                "Kru: \"Yeah! Leave it to me!\""
                             ]
                         },
                         {
@@ -10478,14 +10436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…ちときつくなってきたな…」"
+                                "Kru: \"Haa haa haa... It's getting pretty tough...\""
                             ]
                         },
                         {
@@ -10502,14 +10453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…大丈夫ですか⁉」"
+                                "Villager A: \"Kru-san... Are you okay⁉\""
                             ]
                         },
                         {
@@ -10526,14 +10470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…そうとう辛いんじゃ…」"
+                                "Villager B: \"Kru-san... You must be in a lot of pain...\""
                             ]
                         },
                         {
@@ -10550,14 +10487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ大丈夫！まだやれる！」"
+                                "Kru: \"I-I'm fine! I can still go on!\""
                             ]
                         },
                         {
@@ -10583,14 +10513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐわぁぁぁぁ！」"
+                                "Kru: \"Gwaaaah!\""
                             ]
                         },
                         {
@@ -10607,14 +10530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！」"
+                                "Villager A: \"Kru-san!\""
                             ]
                         },
                         {
@@ -10631,14 +10547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くそ…ダメージが思ったより大きいな…それに剣技スキルが切れた…。だがあともう少し…）"
+                                "Kru: (Damn... The damage is bigger than I thought... And my sword skill has\nexpired... But just a little more...)"
                             ]
                         },
                         {
@@ -10728,14 +10637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…」"
+                                "Kru: \"Haa, haa...\""
                             ]
                         },
                         {
@@ -10752,14 +10654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…相当辛そうだな…」"
+                                "Villager A: \"Kru-san... You seem to be in a lot of pain...\""
                             ]
                         },
                         {
@@ -10776,14 +10671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…やはり一人であの大人数を相手にするのは無理だったんだ…」"
+                                "Villager B: \"Ah... It was indeed impossible to take on that many people\nalone...\""
                             ]
                         },
                         {
@@ -10848,14 +10736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁ！」"
+                                "Kru: \"Uwaaah!\""
                             ]
                         },
                         {
@@ -10872,14 +10753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁ！」"
+                                "Villager C: \"Uwaaah!\""
                             ]
                         },
                         {
@@ -10896,14 +10770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんなんだ！」"
+                                "Villager D: \"What, what's happening!\""
                             ]
                         },
                         {
@@ -10920,14 +10787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは…まさか！」"
+                                "Kru: \"This is... no way!\""
                             ]
                         },
                         {
@@ -10975,14 +10835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか…ゴーレム部隊か…。もう完成していたとはな…」"
+                                "Kru: \"Could it be... the Golem unit... to think they were already\ncomplete...\""
                             ]
                         },
                         {
@@ -10999,14 +10852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんなんだよあれ…」"
+                                "Villager A: \"What the hell is that thing...\""
                             ]
                         },
                         {
@@ -11023,14 +10869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんなの…敵うわけないよ…」"
+                                "Villager B: \"Something like that... we can't possibly be its enemy...\""
                             ]
                         },
                         {
@@ -11047,14 +10886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度こそ終わりだ！」"
+                                "Villager C: \"This is the end for sure!\""
                             ]
                         },
                         {
@@ -11956,14 +11788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちくしょう！村の皆には手出しさせない！」"
+                                "Kru: \"Damn it! I won't let them lay a hand on everyone in the village!\""
                             ]
                         },
                         {
@@ -11980,14 +11805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁ！」"
+                                "Kru: \"Uwaaah!\""
                             ]
                         },
                         {
@@ -12078,14 +11896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くぅぅぅうううぅ！」"
+                                "Kru: \"Guhhhhhhh!\""
                             ]
                         },
                         {
@@ -12164,14 +11975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁぁぁぁ！」"
+                                "Kru: \"Uwaaaaah!\""
                             ]
                         },
                         {
@@ -12188,14 +11992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！」"
+                                "Villager A: \"Kru-san!\""
                             ]
                         },
                         {
@@ -12212,14 +12009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちくしょう！」"
+                                "Kru: \"Damn it!\""
                             ]
                         },
                         {
@@ -12621,14 +12411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁぁ…こっちにくる…」"
+                                "Villager B: \"Waaah... it's coming this way...\""
                             ]
                         },
                         {
@@ -12645,14 +12428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここまでか…」"
+                                "Villager C: \"Is this the end...\""
                             ]
                         },
                         {
@@ -12669,14 +12445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…や…やらせない…」"
+                                "Kru: \"...I won't... let it happen...\""
                             ]
                         },
                         {
@@ -12693,14 +12462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！あんたそんな身体でまだ立ち上がって…」"
+                                "Villager A: \"Kru-san! You're still standing with that body of yours...\""
                             ]
                         },
                         {
@@ -12717,14 +12479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…もういい…もういいよ…そんなボロボロの身体で…」"
+                                "Villager B: \"Kru-san... it's enough... it's okay now... with your body all\nbattered like that...\""
                             ]
                         },
                         {
@@ -12741,14 +12496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰も……死なせは…しない」"
+                                "Kru: \"I won't... let anyone... die\""
                             ]
                         },
                         {
@@ -12846,14 +12594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！危ない！」"
+                                "Villager A: \"Kru-san! Watch out!\""
                             ]
                         },
                         {
@@ -12870,14 +12611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……ここまでか…）"
+                                "Kru: \"(...Is this the end...)\""
                             ]
                         },
                         {
@@ -12928,14 +12662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル！」"
+                                "Umi: \"Kru!\""
                             ]
                         },
                         {
@@ -13133,14 +12860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっあれは！」"
+                                "Villager A: \"Ah! That is!\""
                             ]
                         },
                         {
@@ -13157,14 +12877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃん！」"
+                                "Villager B: \"Umi-chan!\""
                             ]
                         },
                         {
@@ -13181,14 +12894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まっまさか…」"
+                                "Villager C: \"Could it be...\""
                             ]
                         },
                         {
@@ -13205,14 +12911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｄ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっ奇跡だ…」"
+                                "Villager D: \"It's a miracle...\""
                             ]
                         },
                         {
@@ -13229,14 +12928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｅ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんと…なんと神々しい…」"
+                                "Villager E: \"How divine...\""
                             ]
                         },
                         {
@@ -13253,14 +12945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｆ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…クセシレイ様…」"
+                                "Villager F: \"Ah... Lady Kusechirei...\""
                             ]
                         },
                         {
@@ -13277,14 +12962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｇ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…ウミちゃんはやはり…クセシレイ様が遣わせて下さった神の子なんじゃ…」"
+                                "Villager G: \"Ah... Umi-chan must truly be a child of God sent by Lady\nKusechirei...\""
                             ]
                         },
                         {
@@ -13301,14 +12979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -13325,14 +12996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…そんなにボロボロになるまで…よく頑張った」"
+                                "Umi: \"Kru... You've done well to fight until you're so battered.\""
                             ]
                         },
                         {
@@ -13349,14 +13013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう限界だけどな…」"
+                                "Kru: \"But I'm at my limit...\""
                             ]
                         },
                         {
@@ -13373,14 +13030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待って…」"
+                                "Umi: \"Wait...\""
                             ]
                         },
                         {
@@ -13431,14 +13081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。傷が…。ウミ…ありがとう」"
+                                "Kru: \"Ah... my wounds... Umi... thank you.\""
                             ]
                         },
                         {
@@ -13489,14 +13132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それだけじゃない…」"
+                                "Umi: \"It's not just that...\""
                             ]
                         },
                         {
@@ -13513,14 +13149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -13553,14 +13182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁぁぁぁぁ…」"
+                                "Umi: \"Haaaah...\""
                             ]
                         },
                         {
@@ -13703,14 +13325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この力は…」"
+                                "Kru: \"This power is...\""
                             ]
                         },
                         {
@@ -13761,14 +13376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミにもわからない…」"
+                                "Umi: \"Even Umi doesn't understand it...\""
                             ]
                         },
                         {
@@ -13801,14 +13409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「けど…クル！これなら！」"
+                                "Umi: \"But... Kru! With this, we can!\""
                             ]
                         },
                         {
@@ -13825,14 +13426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！」"
+                                "Kru: \"Ah!\""
                             ]
                         },
                         {
@@ -14060,14 +13654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すっすげぇ…」"
+                                "Villager A: \"Incredible...\""
                             ]
                         },
                         {
@@ -14084,14 +13671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんて力だ…」"
+                                "Villager B: \"What a power...\""
                             ]
                         },
                         {
@@ -14108,14 +13688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…いける…いけるぞ！」"
+                                "Kru: \"Umi... I can do it... I can go on!\""
                             ]
                         },
                         {
@@ -14166,14 +13739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル！勝って！その力で勝って…皆のところへ帰ってきて！」"
+                                "Umi: \"Kru! Win! Win with that power... and come back to everyone!\""
                             ]
                         },
                         {
@@ -14190,14 +13756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！この力があれば！」"
+                                "Kru: \"Ah! With this power, I can!\""
                             ]
                         },
                         {
@@ -14354,14 +13913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁはぁ…」"
+                                "Kru: \"Haa haa haa haa...\""
                             ]
                         },
                         {
@@ -14396,14 +13948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すっすげぇ…あの強そうなゴーレムが…」"
+                                "Villager A: \"Incredible... That strong-looking golem has been...\""
                             ]
                         },
                         {
@@ -14420,14 +13965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全滅…」"
+                                "Villager B: \"Annihilated...\""
                             ]
                         },
                         {
@@ -14444,14 +13982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレ達…これで…」"
+                                "Villager C: \"We're... now...\""
                             ]
                         },
                         {
@@ -14502,14 +14033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル！」"
+                                "Umi: \"Kru!\""
                             ]
                         },
                         {
@@ -14526,14 +14050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！ありがとう！すごい力だよ！」"
+                                "Kru: \"Umi! Thank you! You're so powerful!\""
                             ]
                         },
                         {
@@ -14566,14 +14083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん…。クルの力だよ…。ありがとう…」"
+                                "Umi: \"Mmm... It's your strength, Kru... Thank you...\""
                             ]
                         },
                         {
@@ -14590,14 +14100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、礼を言われるにはまだ早い…」"
+                                "Kru: \"No, it's too early to be thanking me...\""
                             ]
                         },
                         {
@@ -14630,14 +14133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Umi: \"Eh?\""
                             ]
                         },
                         {
@@ -14654,14 +14150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「諸悪の根源を倒さないと！」"
+                                "Kru: \"We must defeat the root of all evil!\""
                             ]
                         },
                         {
@@ -14694,14 +14183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "Umi: \"Yeah!\""
                             ]
                         },
                         {

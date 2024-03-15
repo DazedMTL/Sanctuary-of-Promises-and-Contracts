@@ -2221,14 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まいど！」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -2464,14 +2457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだお嬢さん…。モンスターの素材を探しているのか？」"
+                                "Suspicious Man: \"What's the matter, miss... Are you looking for monster\nmaterials?\""
                             ]
                         },
                         {
@@ -2522,14 +2508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだけど…どうしてわかった？」"
+                                "Umi: \"Yes, but... how did you know?\""
                             ]
                         },
                         {
@@ -2546,14 +2525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…素材が足りなくて、欲しいものが手に入らないという顔をしていたからな…」"
+                                "Suspicious Man: \"Well... you had the look of someone who can't get what\nthey want because they're short on materials...\""
                             ]
                         },
                         {
@@ -2586,14 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ…魔物の素材持っているのか？」"
+                                "Umi: \"You... do you have monster materials?\""
                             ]
                         },
                         {
@@ -2610,14 +2575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。それを売る事を生業にしている」"
+                                "Suspicious Man: \"Ah... I make my living by selling them.\""
                             ]
                         },
                         {
@@ -2650,14 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ…ウミに売ってほしい」"
+                                "Umi: \"Then... I want you to sell some to me.\""
                             ]
                         },
                         {
@@ -2674,14 +2625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな…。売ってほしければ条件がある。お嬢さんいい尻をしているな…」"
+                                "Suspicious Man: \"Well... if you want to buy, there's a condition. You've\ngot a nice ass, miss...\""
                             ]
                         },
                         {
@@ -2714,14 +2658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…尻？」"
+                                "Umi: \"...Ass?\""
                             ]
                         },
                         {
@@ -2738,14 +2675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。オレの要求に応えてくれたら売ってやる…。その尻で応えてくれたらな…」"
+                                "Suspicious Man: \"Ah... If you meet my demands, I'll sell to you... if you\nrespond with that ass of yours...\""
                             ]
                         },
                         {
@@ -2778,14 +2708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……そんな…」"
+                                "Umi: \"Ugh... that's so...\""
                             ]
                         },
                         {
@@ -2802,7 +2725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男の提案に乗りますか？"
+                                "Will you accept the suspicious man's proposal?"
                             ]
                         },
                         {
@@ -2810,8 +2733,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2841,14 +2764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "(しょうがない…。提案に乗ろう)"
+                                "Umi: (I have no choice... I'll take his offer.)"
                             ]
                         },
                         {
@@ -2881,14 +2797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わかった…。なにをすればいい？」"
+                                "Umi: \"Alright... what do I need to do?\""
                             ]
                         },
                         {
@@ -2905,14 +2814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうだな…。じゃぁついてきて下さい…」"
+                                "Suspicious Man: \"Well then... please follow me...\""
                             ]
                         },
                         {
@@ -3020,14 +2922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか…。オレはたまにここにいる。必要になったら声を掛けな」"
+                                "Suspicious Man: \"I see... I'm around here occasionally. Call out to me if\nyou need something.\""
                             ]
                         },
                         {
@@ -3165,14 +3060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやお嬢さん…。また会ったね…」"
+                                "Suspicious Man: \"Oh, young lady... we meet again...\""
                             ]
                         },
                         {
@@ -3223,14 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！……素材の…」"
+                                "Umi: \"Ah!... The materials...\""
                             ]
                         },
                         {
@@ -3247,14 +3128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ…。素材が必要かい？」"
+                                "Suspicious Man: \"Hah hah hah... Do you need materials?\""
                             ]
                         },
                         {
@@ -3348,14 +3222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「他のはないの？」"
+                                "Umi: \"Don't you have anything else?\""
                             ]
                         },
                         {
@@ -3372,14 +3239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですねぇ…。では次回お会いした時には色々と仕入れておきましょう…」"
+                                "Suspicious Man: \"Well then... I shall stock up on a variety of things for\nthe next time we meet...\""
                             ]
                         },
                         {
@@ -3488,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやお嬢さん…。これは運命かもしれませんね…」"
+                                "Suspicious Man: \"Oh, young lady... this might be fate...\""
                             ]
                         },
                         {
@@ -3546,14 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いい素材ある？」"
+                                "Umi: \"Do you have any good materials?\""
                             ]
                         },
                         {
@@ -3570,21 +3416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ…。まあそんなに焦らないで…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　良い物が揃ってます…。しかし…私の頼みを聞いてくれたらという事でいかがですか？」"
+                                "Suspicious Man: \"Hahaha... don't be in such a hurry... I have some fine\nitems... However... I might consider it if you listen to a request of mine,\nwhat do you say?\""
                             ]
                         },
                         {
@@ -3601,7 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男の頼みを聞きますか？"
+                                "Will you listen to the suspicious man's request?"
                             ]
                         },
                         {
@@ -3609,8 +3441,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3640,14 +3472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「くっくっくっ…それでは参りましょう」"
+                                "Suspicious Man: \"Heh heh heh... Then let us begin.\""
                             ]
                         },
                         {
@@ -3720,14 +3545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「それは残念…。またの機会にでも…」"
+                                "Suspicious Man: \"That's unfortunate... perhaps another time...\""
                             ]
                         },
                         {
@@ -3835,14 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おやお嬢さん…。また会ったね…」"
+                                "Suspicious Man: \"Oh, young lady... we meet again...\""
                             ]
                         },
                         {
@@ -3893,14 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！……素材の…」"
+                                "Umi: \"Ah!... The materials...\""
                             ]
                         },
                         {
@@ -3917,14 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ…。素材が必要かい？」"
+                                "Suspicious Man: \"Hah hah hah... Do you need materials?\""
                             ]
                         },
                         {
@@ -4062,14 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あやしい男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ではまた…」"
+                                "Suspicious Man: \"Then, until next time...\""
                             ]
                         },
                         {

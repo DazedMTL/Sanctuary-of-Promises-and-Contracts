@@ -3859,21 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこいつは…伝説のモンスター…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ジャイアントフロッグ‼‼」"
+                                "Kru \"This one is... the legendary monster... the Giant Frog!!\""
                             ]
                         },
                         {
@@ -3924,14 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？このデカいカエルを知っているのか？」"
+                                "Umi \"Hm? You know this huge frog?\""
                             ]
                         },
                         {
@@ -3948,21 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミは知らないのか⁉こいつは数々の冒険者を食い物にしてきたとんでもない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　化け物なんだ！」"
+                                "Kru \"You don't know, Umi?! This creature is a monstrous beast that has\ndevoured countless adventurers!\""
                             ]
                         },
                         {
@@ -3995,14 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそうなのか…？」"
+                                "Umi \"Is that so...?\""
                             ]
                         },
                         {
@@ -4019,21 +3977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。伝説によると、ある時は魔法使いを…ある時は聖騎士を…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さらには女神さえも食い物にしてきたという伝説上の魔物なんだ…。こんな所で出くわすとは…」"
+                                "Kru \"Yeah... According to legend, at times it has devoured wizards... at\ntimes holy knights... and it's even said to have preyed upon goddesses...\nTo encounter it here...\""
                             ]
                         },
                         {
@@ -4066,14 +4010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな伝説なら美味しいお肉が取れるかも」"
+                                "Umi \"If that's the legend, maybe we can get some tasty meat from it.\""
                             ]
                         },
                         {
@@ -4090,7 +4027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲコゲコゲコ…"
+                                "Ribbit Ribbit Ribbit..."
                             ]
                         },
                         {
@@ -4107,14 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何を言ってるんだ！すぐに逃げよう！」"
+                                "Kru \"What are you saying! Let's escape right now!\""
                             ]
                         },
                         {
@@ -4147,21 +4077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何言ってる。クル強い。ウミ強い。肉美味しい。なにも恐くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く狩ろう！」"
+                                "Umi \"What are you talking about. Kru is strong. Umi is strong. Meat is\ndelicious. There's nothing to fear. Let's hunt it quickly!\""
                             ]
                         },
                         {
@@ -4178,14 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まったく…」"
+                                "Kru \"Honestly...\""
                             ]
                         },
                         {
@@ -4202,7 +4111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャイアントフロッグと戦いますか？"
+                                "Will you battle the Giant Frog?"
                             ]
                         },
                         {
@@ -4210,8 +4119,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4241,14 +4150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「油断するなよ！」"
+                                "Kru \"Don't let your guard down!\""
                             ]
                         },
                         {
@@ -4281,14 +4183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「肉の為！頑張る！」"
+                                "Umi \"For the meat! I'll do my best!\""
                             ]
                         },
                         {
@@ -4424,14 +4319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ダメだ！襲われる前に早く逃げよう！」"
+                                "Kru \"No good! We need to escape quickly before it attacks!\""
                             ]
                         },
                         {
@@ -4464,14 +4352,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ブゥ…。せっかく美味しい肉が取れると思ったのに」"
+                                "Umi \"Hmph... and here I thought we could get some delicious meat.\""
                             ]
                         },
                         {
@@ -4638,14 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…なんて強さだ…」"
+                                "Kru: \"Haa haa... What strength...\""
                             ]
                         },
                         {
@@ -4696,14 +4570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…これが伝説のモンスター…」"
+                                "Umi: \"Haa haa... So this is the legendary monster...\""
                             ]
                         },
                         {
@@ -4720,21 +4587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。だがかなり弱らせた…。でも倒すのは無理そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　今の内に逃げよう…」"
+                                "Kru: \"Ahh, but we've weakened it considerably... Still, it seems impossible\nto defeat. Let's escape while we can...\""
                             ]
                         },
                         {
@@ -4767,14 +4620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや！このまま倒してその肉を食う！」"
+                                "Umi: \"No! We're going to defeat it and eat its flesh!\""
                             ]
                         },
                         {
@@ -4791,14 +4637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！ダメだ！やめろ！」"
+                                "Kru: \"Umi! No! Stop it!\""
                             ]
                         },
                         {
@@ -4974,14 +4813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！ちくしょう！」"
+                                "Kru: \"Umi! Damn it!\""
                             ]
                         },
                         {
@@ -5086,14 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐは！」"
+                                "Kru: \"Guh!\""
                             ]
                         },
                         {
@@ -5141,14 +4966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ち…ちくしょう…。ウミに…手を……出…すな…」"
+                                "Kru: \"Damn it... Don't you... lay a hand... on Umi...\""
                             ]
                         },
                         {
@@ -5215,14 +5033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやだ…いやだよ…食べないで…」"
+                                "Umi: \"No... I don't want this... Don't eat me...\""
                             ]
                         },
                         {
@@ -5239,7 +5050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチャビチャ…ぬぷぬぷ……"
+                                "Squish squish... slurp slurp..."
                             ]
                         },
                         {
@@ -5272,14 +5083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ…なにこの臭い…」"
+                                "Umi: \"Ugh... What's this smell...\""
                             ]
                         },
                         {
@@ -5296,14 +5100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の身体はジャイアントフロッグの唾液で覆われ、ひどい悪臭がしていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けれどその悪臭が気にならないほど、私は死を前に取り乱していた。"
+                                "My body was covered in the Giant Frog's saliva, and the terrible stench was\noverwhelming. But the fear of death was so great that I hardly noticed the\nfoul smell."
                             ]
                         },
                         {
@@ -5336,14 +5133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…いやっ！ネバネバして気持ち悪いよ…」"
+                                "Umi: \"...No! It's slimy and feels disgusting...\""
                             ]
                         },
                         {
@@ -5376,14 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル！起きてよ…助けて…」"
+                                "Umi: \"Kru! Wake up... Help me...\""
                             ]
                         },
                         {
@@ -5416,14 +5199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はクルの制止を振り切って、ジャイアントフロッグに止めを刺そうとやっきに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なった事を心の底から後悔した。あの時欲をかかなければ…。"
+                                "I deeply regretted ignoring Kru's warning and desperately trying to deliver\nthe final blow to the Giant Frog. If only I hadn't been so greedy then..."
                             ]
                         },
                         {
@@ -5440,7 +5216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チュプチュプチュプチュプ"
+                                "Suck suck suck suck"
                             ]
                         },
                         {
@@ -5473,14 +5249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにこの舌の感触…それに触り方が食べる為の舌の動きじゃない」"
+                                "Umi: \"What's with this tongue sensation... And the way it's moving isn't\nlike it's trying to eat...\""
                             ]
                         },
                         {
@@ -5513,14 +5282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なにこのカエル…何がしたいの…）"
+                                "Umi: (What's with this frog... What does it want...)"
                             ]
                         },
                         {
@@ -5553,14 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…、なんだか熱くなってきた…。ひょっとして服が溶けてるの…」"
+                                "Umi: \"Ahh... I'm starting to feel hot... Could it be that my clothes are\ndissolving...?\""
                             ]
                         },
                         {
@@ -5593,14 +5348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや！やめて…。溶かさないで…」"
+                                "Umi: \"No! Stop it... Don't dissolve them...\""
                             ]
                         },
                         {
@@ -5617,7 +5365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチャビチャ…チュプチュプ…"
+                                "Squish squish... suck suck..."
                             ]
                         },
                         {
@@ -5730,14 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうどれだけ舐められているのだろうか…。もう服はすっかり溶け切ってしまい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は生まれたままの姿で、ジャイアントフロッグの咥内で溺れていた。"
+                                "How long have I been licked? My clothes have completely dissolved, and now\nI'm drowning in the Giant Frog's maw, naked as the day I was born."
                             ]
                         },
                         {
@@ -5770,14 +5511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…、お願い…もうやめて…」"
+                                "Umi: \"Haa haa... Please... stop already...\""
                             ]
                         },
                         {
@@ -5794,7 +5528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レロレロレロ…じゅぷ…じゅぷ…"
+                                "Lick lick lick... slurp... slurp..."
                             ]
                         },
                         {
@@ -5827,14 +5561,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれだけお願いしても、ジャイアントフロッグは執拗に私の身体をねぶっていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初はただただ不快だった粘膜の感触も温度も、今では心地よさすら感じる程になっていた。"
+                                "No matter how much I pleaded, the Giant Frog kept persistently licking my\nbody. The initially unpleasant sensation of its mucous membrane and its\nwarmth had become almost comforting."
                             ]
                         },
                         {
@@ -5851,7 +5578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチャビチャ…チュプチュプ…"
+                                "Squish squish... suck suck..."
                             ]
                         },
                         {
@@ -5903,14 +5630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…はぁはぁ…なんだか…ウミ…変な気持ちに…」"
+                                "Umi: \"Ahh... haa haa... Somehow... Umi is feeling strange...\""
                             ]
                         },
                         {
@@ -5927,7 +5647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチャビチャ…チュプチュプ…"
+                                "Squish squish... suck suck..."
                             ]
                         },
                         {
@@ -5960,21 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は目覚めないクルの姿を何度見ただろうか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっくと起き上がってこの大きくて醜悪な化け物を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "退治してくれる事を何度想像しただろう。"
+                                "How many times have I looked at Kru, who won't wake up? How many times have\nI imagined him suddenly rising to defeat this large, hideous monster?"
                             ]
                         },
                         {
@@ -6007,28 +5713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、もうそんなかなうわけもない夢はとっくに諦めていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この化け物はいつだって私も彼も一思いに飲み込むことができる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それをあえてしないのは、もうこの化け物の中ではこの戦いはとうの昔に終わっている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということなんだろう。"
+                                "However, I had long since given up on such an impossible dream. This\nmonster could easily swallow both of us in one gulp. The fact that it\ndoesn't simply means that, in the eyes of this creature, the battle had\nended long ago."
                             ]
                         },
                         {
@@ -6061,7 +5746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あとはもう私たちを弄んで食す。ただただそれだけのことなんだろう。"
+                                "All that's left is for it to toy with us before consuming us. That's all\nthere is to it."
                             ]
                         },
                         {
@@ -6078,7 +5763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチャビチャ…チュプチュプ…"
+                                "Squish squish... suck suck..."
                             ]
                         },
                         {
@@ -6111,14 +5796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…あっそこは！」"
+                                "Umi: \"Haa... Ahh, not there!\""
                             ]
                         },
                         {
@@ -6151,21 +5829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やだ…股を舐められるとゾクゾクしちゃう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　このカエル…ひょっとしてあえてその場所は避けて舐めていたの？)"
+                                "Umi: (No... When it licks my crotch, I shiver... Is this frog deliberately\navoiding that spot while licking?)"
                             ]
                         },
                         {
@@ -6182,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レロレロレロ…じゅぷ…じゅぷ…"
+                                "Lick lick lick... slurp... slurp..."
                             ]
                         },
                         {
@@ -6215,14 +5879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だめ…やっやめて…」"
+                                "Umi: \"Stop... please stop...\""
                             ]
                         },
                         {
@@ -6239,7 +5896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レロレロレロ…じゅぷ…じゅぷ…"
+                                "Lick lick lick... slurp... slurp..."
                             ]
                         },
                         {
@@ -6272,14 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いっいや…こんな、こっ…こんなカエルに感じさせられたくない…）"
+                                "Umi: (No... I don't want to feel this way from a frog like this...)"
                             ]
                         },
                         {
@@ -6296,7 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるじゅるるるる…"
+                                "Slurp slurp slurp..."
                             ]
                         },
                         {
@@ -6329,14 +5979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁぁぁ！」"
+                                "Umi: \"Aaahhh!\""
                             ]
                         },
                         {
@@ -6369,21 +6012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まっ間違いない…。このカエル…、そこが感じるって事がわかってる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なっなんてカエルなの…）"
+                                "Umi (There's no mistake... this frog... it knows that spot is sensitive...\nWhat kind of frog is this...)"
                             ]
                         },
                         {
@@ -6400,14 +6029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さすが何人もの冒険者を闇に葬ってきた伝説のモンスターだと、私はこの化け物の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舌使いを前に納得した。いったいどれだけの人間を舌で転がしてきたんだろう。"
+                                "As expected of the legendary monster that has buried many adventurers in\ndarkness, I was convinced by this creature's use of its tongue. How many\nhumans has it toyed with using its tongue?"
                             ]
                         },
                         {
@@ -6424,28 +6046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はこのデカい図体からはおよそ考えられない繊細な舌の動きに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感嘆を含んだ吐息を吐いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "圧倒的強者とは強くも優しくもなれると族長が言っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この化け物の下の強弱と緩急のギャップにただただ諦観の念を抱いた。"
+                                "I let out a sigh of admiration for the delicate movements of the tongue\nthat one would hardly expect from such a large body. The chief used to say\nthat a true powerhouse could be both strong and gentle, but I could only\nfeel resignation at the gap between the strength and rhythm of this\ncreature's ministrations below."
                             ]
                         },
                         {
@@ -6478,7 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっそ一思いに飲み込んでくれればいいのにと。"
+                                "If only it would swallow me whole in one go."
                             ]
                         },
                         {
@@ -6495,7 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅるるるる！"
+                                "Slurp slurp slurp!"
                             ]
                         },
                         {
@@ -6540,14 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁっぁ！いやぁ！やめて！」"
+                                "Umi \"Aaahhh! No! Stop!\""
                             ]
                         },
                         {
@@ -6580,14 +6174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いっいやなのに…。ウミ、なんて声を出してしまったの…)"
+                                "Umi (No... Why did I let out such a voice...)"
                             ]
                         },
                         {
@@ -6604,7 +6191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぷじゅぷじゅぷじゅぷ…"
+                                "Slurp slurp slurp slurp..."
                             ]
                         },
                         {
@@ -6637,14 +6224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっあぁぁぁ！あぁ！あぁ！あっ！」"
+                                "Umi \"Ah! Aaahhh! Ah! Ah! Ahh!\""
                             ]
                         },
                         {
@@ -6661,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レロレロレロ…"
+                                "Lick lick lick..."
                             ]
                         },
                         {
@@ -6694,14 +6274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…あぁ！あぁぁ！」"
+                                "Umi \"Haa haa... Ahh! Aaahhh!\""
                             ]
                         },
                         {
@@ -6718,7 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぶちゅぶちゅぶ…"
+                                "Suck suck suck..."
                             ]
                         },
                         {
@@ -6751,14 +6324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！激しい！やっ…いや…」"
+                                "Umi \"Aaahhh! It's intense! No... I don't want this...\""
                             ]
                         },
                         {
@@ -6775,7 +6341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピタッ…"
+                                "Stop..."
                             ]
                         },
                         {
@@ -6808,14 +6374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？」"
+                                "Umi \"Huh?\""
                             ]
                         },
                         {
@@ -6848,14 +6407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いよいよか…と私は思った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとこの化け物は私を舐めまわすことに飽きてしまったのだろう。"
+                                "It's finally happening... I thought. Surely this monster must have grown\ntired of licking me all over."
                             ]
                         },
                         {
@@ -6888,14 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…飲み込まないで…」"
+                                "Umi \"No... Don't swallow me...\""
                             ]
                         },
                         {
@@ -7069,7 +6614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドプンッ…"
+                                "Splat..."
                             ]
                         },
                         {
@@ -7175,14 +6720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっそ…なんて強さだ…」"
+                                "Kru: \"Damn... What strength...\""
                             ]
                         },
                         {
@@ -7233,14 +6771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さすが伝説のカエル…」"
+                                "Umi: \"As expected of the legendary frog...\""
                             ]
                         },
                         {
@@ -7257,14 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今のうちに逃げよう！」"
+                                "Kru: \"Let's escape while we can!\""
                             ]
                         },
                         {
@@ -7394,14 +6918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい！ウミ！どうしたんだ！」"
+                                "Kru: \"Hey! Umi! What's wrong?\""
                             ]
                         },
                         {
@@ -7452,14 +6969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！こっここは…」"
+                                "Umi: \"Eh! This place is...\""
                             ]
                         },
                         {
@@ -7476,14 +6986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだ！ジャイアントフロッグに挑むのか？」"
+                                "Kru: \"What's wrong! Are you challenging the Giant Frog?\""
                             ]
                         },
                         {
@@ -7516,14 +7019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ…いっいや…。よく分からないけど…、やめておいた方が…」"
+                                "Umi: \"Eh... no... I don't really understand, but... we should probably\nstop...\""
                             ]
                         },
                         {
@@ -7540,14 +7036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ早く逃げよう！」"
+                                "Kru: \"Then let's escape quickly!\""
                             ]
                         },
                         {
@@ -7580,21 +7069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(えっ？なんだろう変な夢を見ていたような…。思い出せないけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とても悪い夢を…。)"
+                                "Umi: (Eh? What was that? It feels like I was having a strange dream... I\ncan't remember, but... it was a very bad dream...)"
                             ]
                         },
                         {

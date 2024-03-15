@@ -10507,14 +10507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞きましたか？クルのやつまた手柄上げたらしいですよ」"
+                                "Soldier 1: \"Did you hear? Kru has apparently made another notable\nachievement.\""
                             ]
                         },
                         {
@@ -10531,14 +10524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ、家柄が悪いとガツガツして困る…」"
+                                "Soldier 2: \"Sigh, it's troublesome how the ones from poor families are so\noverly ambitious...\""
                             ]
                         },
                         {
@@ -10555,14 +10541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「目障りな野郎ですよね。あいつのせいでまるで俺達が働いてないような目で見られる…」"
+                                "Soldier 1: \"He's such an eyesore. Because of him, it's like we're not even\nseen as working...\""
                             ]
                         },
                         {
@@ -10579,21 +10558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあまあ…貴族でもない平民の出の者は飢餓感が違うからの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　必死に武勲を立てぬと食っていけないのだ」"
+                                "Soldier 2: \"Well, well... Those who aren't nobles and come from commoner\nbackgrounds have a different sense of hunger. They have to earn their\nmilitary exploits desperately to make a living.\""
                             ]
                         },
                         {
@@ -10610,14 +10575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつ平民どころか孤児だったらしいですよ。どうりで卑しい目をしてると」"
+                                "Soldier 1: \"That guy is not just a commoner, but apparently an orphan. No\nwonder he has such a lowly look in his eyes.\""
                             ]
                         },
                         {
@@ -10634,14 +10592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどな。貧乏人の悪臭がするわ。臭い臭い」"
+                                "Soldier 2: \"I see. That explains the stench of poverty. Stinks, stinks.\""
                             ]
                         },
                         {
@@ -10658,14 +10609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士１"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいつのヨダレで滑って転ばないように気をつけないといけないですね！」"
+                                "Soldier 1: \"We have to be careful not to slip on his drool and fall over!\""
                             ]
                         },
                         {
@@ -10682,14 +10626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士２"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっは！あいつはヨダレも大事がって自分ですするだろ！」"
+                                "Soldier 2: \"Hah hah hah! He probably treasures his drool and slurps it up\nhimself!\""
                             ]
                         },
                         {
@@ -10918,7 +10855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ…"
+                                "Good grief..."
                             ]
                         },
                         {
@@ -10935,7 +10872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに行っても煙たがれる…"
+                                "I'm unwelcome wherever I go..."
                             ]
                         },
                         {
@@ -10952,7 +10889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痛いな…"
+                                "It hurts..."
                             ]
                         },
                         {
@@ -10969,14 +10906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は強くなりたかったのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや強くなったからここまで生きてこれた…"
+                                "Did I want to become strong? No, it's because I became strong that I've\nsurvived this far..."
                             ]
                         },
                         {
@@ -10993,7 +10923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが…なぜ…こんなにも…"
+                                "But... why... why is it..."
                             ]
                         },
                         {
@@ -11010,7 +10940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…こんなにも…"
+                                "...why is it..."
                             ]
                         },
                         {
@@ -11027,7 +10957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜ…今頃になってこんな事思い出しているんだろう…"
+                                "Why am I recalling such things now of all times..."
                             ]
                         },
                         {
@@ -11116,7 +11046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　寂しいか…？"
+                                "Am I lonely...?"
                             ]
                         },
                         {
@@ -11133,7 +11063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ…"
+                                "Good grief..."
                             ]
                         },
                         {
@@ -11150,7 +11080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　オマエもウミと同じかと思って…"
+                                "I thought you were the same as Umi..."
                             ]
                         },
                         {
@@ -11193,7 +11123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの子のせいだな…"
+                                "It's because of that girl..."
                             ]
                         },
                         {

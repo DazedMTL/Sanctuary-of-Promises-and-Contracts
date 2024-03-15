@@ -2077,14 +2077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼種の守り人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………お…まえ…クセシの民では…ないな…」"
+                                "Guardian of the Summoned \"…Oh... you... are not from the people of\nKuseshi...\""
                             ]
                         },
                         {
@@ -2101,14 +2094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうです…外界から来ました…」"
+                                "Kru \"Yes... I come from the outside world...\""
                             ]
                         },
                         {
@@ -2125,14 +2111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼種の守り人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「巫女様達の力を…奪うつもりだな…」"
+                                "Guardian of the Summoned \"You intend to... steal the power of the\npriestesses...\""
                             ]
                         },
                         {
@@ -2149,14 +2128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ…そんなつもりは…」"
+                                "Kru \"No... I have no such intention...\""
                             ]
                         },
                         {
@@ -2195,14 +2167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼種の守り人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「許さんぞぉぉぉぉ！我が守る！巫女様達には指一本触れさせんぞぉぉぉ！」"
+                                "Guardian of the Summoned \"I won't allow it! I will protect them! I won't\nlet you lay a finger on our priestesses!\""
                             ]
                         },
                         {
@@ -2235,14 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来る…」"
+                                "Umi \"They're coming...\""
                             ]
                         },
                         {
@@ -2259,14 +2217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ウミ危ないから下がってるんだ！」"
+                                "Kru \"Ah! Umi, it's dangerous, stay back!\""
                             ]
                         },
                         {
@@ -2283,14 +2234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、オマエ一人は心配。ウミも戦う」"
+                                "Umi \"No, I'm worried about you being alone. Umi will fight too.\""
                             ]
                         },
                         {
@@ -2307,14 +2251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…じゃぁさっさと終わらすぞ！」"
+                                "Kru \"Umi... then let's finish this quickly!\""
                             ]
                         },
                         {
@@ -2360,14 +2297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼種の守り人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……あなた様は…クセシレイ様の………」"
+                                "Guardian of the Summoned \"Ah... you are... of Lady Kuseshirei's...\""
                             ]
                         },
                         {
@@ -2418,14 +2348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミのこと？」"
+                                "Umi \"About Umi?\""
                             ]
                         },
                         {
@@ -2442,14 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼種の守り人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこの先には……行っては……なり…ま…」"
+                                "Guardian of the Summoned \"Beyond here... you must not... go...\""
                             ]
                         },
                         {
@@ -2534,14 +2450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふー。中々手強い敵だったな…」"
+                                "Kru: \"Phew... That was a pretty tough enemy...\""
                             ]
                         },
                         {
@@ -2574,14 +2483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…これで帰れる…」"
+                                "Umi: \"Haa... We can finally go back...\""
                             ]
                         },
                         {
@@ -2598,14 +2500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは！道案内ご苦労さん！疲れたなぁ」"
+                                "Kru: \"Hahaha! Thanks for guiding the way! I'm beat.\""
                             ]
                         },
                         {
@@ -2638,14 +2533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「疲れた…。でも…」"
+                                "Umi: \"Tired... But...\""
                             ]
                         },
                         {
@@ -2662,14 +2550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも？」"
+                                "Kru: \"But?\""
                             ]
                         },
                         {
@@ -2702,14 +2583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たまには…冒険もいいな」"
+                                "Umi: \"Sometimes... adventure can be nice.\""
                             ]
                         },
                         {
@@ -2726,14 +2600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぷっ…ははははは！そうだな！冒険もたまにはいいな！」"
+                                "Kru: \"Pfft... Hahahaha! That's true! Adventure can be nice once in a\nwhile!\""
                             ]
                         },
                         {
@@ -2766,14 +2633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むっ…。なぜ笑う？」"
+                                "Umi: \"Hmm... Why are you laughing?\""
                             ]
                         },
                         {
@@ -2790,14 +2650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃ…意外だったからかな」"
+                                "Kru: \"Well... It was unexpected, I guess.\""
                             ]
                         },
                         {
@@ -2830,14 +2683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな…ウミが言わなさそうな事言った…」"
+                                "Umi: \"That's true... It's not like me to say something like that...\""
                             ]
                         },
                         {
@@ -2854,14 +2700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな」"
+                                "Kru: \"Indeed.\""
                             ]
                         },
                         {
@@ -2878,7 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グゥゥゥゥゥ…"
+                                "Grrrrr..."
                             ]
                         },
                         {
@@ -2895,14 +2734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今の…」"
+                                "Kru: \"That sound just now...\""
                             ]
                         },
                         {
@@ -2935,14 +2767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……なんだオマエ。腹減ったのか。しょうがないやつだ。早く帰ってごはん食べよう」"
+                                "Umi: \"...What is it with you. Are you hungry? You're such a hopeless case.\nLet's hurry back and eat.\""
                             ]
                         },
                         {
@@ -2959,14 +2784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ今の音はさ」"
+                                "Kru: \"Eh, that noise was, you know\""
                             ]
                         },
                         {
@@ -2999,14 +2817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ…帰る。すぐ帰る」"
+                                "Umi: \"Come on... Let's go back. We're going back right now.\""
                             ]
                         },
                         {
@@ -3023,14 +2834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…はいはい…ウミさんお腹減ってるもんね。すぐ帰ろう」"
+                                "Kru: \"...Alright, alright... Umi-san is hungry, after all. Let's head back\nquickly.\""
                             ]
                         },
                         {
@@ -3505,7 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オレ達は急いで村に帰った…。"
+                                "We hurried back to the village..."
                             ]
                         },
                         {
@@ -3522,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "途中で何度もウミが休憩を欲しがったが、周りにモンスターがウジャウジャといたから却下した。"
+                                "Along the way, Umi wanted to take breaks several times, but I refused\nbecause monsters were swarming all around us."
                             ]
                         },
                         {
@@ -3539,21 +3343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミにはそういった危機管理能力が欠けているのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それともお腹が減りすぎてポンコツになっているのかわからないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな風にわがままを言っては不満そうな顔をした。"
+                                "I couldn't tell if Umi lacked crisis management skills, or if she was just\ntoo hungry and acting silly, but she kept making selfish requests and then\nlooked dissatisfied."
                             ]
                         },
                         {
@@ -3570,7 +3360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもそれが、なんだか心を開いてくれているような気がして、僕は嬉しかった…。"
+                                "But somehow, her opening up like that made me happy..."
                             ]
                         },
                         {

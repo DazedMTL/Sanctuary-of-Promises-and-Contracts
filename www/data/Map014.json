@@ -2163,14 +2163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「少し休憩しよう」"
+                                "Kru: \"Let's take a short break.\""
                             ]
                         },
                         {
@@ -2221,14 +2214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミへとへと」"
+                                "Umi: \"Umi is totally exhausted.\""
                             ]
                         },
                         {
@@ -2740,14 +2726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この場所……」"
+                                "Umi: \"This place...\""
                             ]
                         },
                         {

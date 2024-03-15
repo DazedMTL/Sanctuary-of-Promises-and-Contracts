@@ -4915,7 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]ゾンビを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the zombie!"
                             ]
                         },
                         {
@@ -4932,7 +4932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]ゾンビの目玉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the zombie's eyeball!"
                             ]
                         },
                         {
@@ -4949,7 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]夢誘丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained Yumeyobimaru!"
                             ]
                         },
                         {

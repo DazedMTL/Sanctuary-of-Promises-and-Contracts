@@ -3564,14 +3564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ」"
+                                "Clerk: \"Welcome!\""
                             ]
                         },
                         {
@@ -3588,14 +3581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…久しぶりだなぁこの店も…」"
+                                "Customer: \"Phew... It's been a while since I've been to this shop...\""
                             ]
                         },
                         {
@@ -3612,14 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「随分とご無沙汰で？」"
+                                "Clerk: \"It's been quite some time, hasn't it?\""
                             ]
                         },
                         {
@@ -3636,14 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…中々いい子がいなくてね…」"
+                                "Customer: \"Yeah... It's hard to find good girls these days...\""
                             ]
                         },
                         {
@@ -3660,14 +3632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでは運がいい。お客様今ちょうどいいのが入店しまして…」"
+                                "Clerk: \"Then you're in luck. We just had a great girl start with us...\""
                             ]
                         },
                         {
@@ -3684,14 +3649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またまたぁ…。商売上手だねえ店員さん」"
+                                "Customer: \"Oh, come on... You're quite the salesperson, aren't you?\""
                             ]
                         },
                         {
@@ -3708,14 +3666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえお客様。嘘偽りございません」"
+                                "Clerk: \"No, sir. I assure you there's no deception here.\""
                             ]
                         },
                         {
@@ -3732,14 +3683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんとかい⁉じゃぁその話乗ってやるよ」"
+                                "Customer: \"Really now⁉ Well then, I'll take you up on that offer.\""
                             ]
                         },
                         {
@@ -3756,14 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かしこまりました」"
+                                "Clerk: \"Certainly, sir.\""
                             ]
                         },
                         {

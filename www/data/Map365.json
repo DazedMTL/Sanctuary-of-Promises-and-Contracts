@@ -3575,14 +3575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて……しかしどうしたものか……」"
+                                "Kru: \"Well... But what should I do...\""
                             ]
                         },
                         {
@@ -3599,21 +3592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まず…村の皆が人質になっている状態を何とかするのが先決だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつ人質を盾にされるか分からない…)"
+                                "Kru: (First... I need to do something about the villagers being held\nhostage. They could use them as shields at any moment...)"
                             ]
                         },
                         {
@@ -3630,14 +3609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(しかしどうしたらいいのか……)"
+                                "Kru: (But what can I do...)"
                             ]
                         },
                         {
@@ -3654,14 +3626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ん？なんだ今の記憶は……)"
+                                "Kru: (Hm? What was that memory just now...)"
                             ]
                         },
                         {
@@ -3678,21 +3643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(オレがイーブルさんに殺される記憶…。外が騒がしいって事は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イーブルさんが反乱を起こしたって事か…)"
+                                "Kru: (The memory of me being killed by Iburu... If it's noisy outside, does\nthat mean Iburu has started a rebellion...)"
                             ]
                         },
                         {
@@ -3709,14 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(話を聞いてみよう…。しかしどうやって村に潜り込もう……)"
+                                "Kru: (I should listen to what's happening... But how can I sneak into the\nvillage...)"
                             ]
                         },
                         {
@@ -3754,14 +3698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Kru: \"Hm?\""
                             ]
                         },
                         {
@@ -3935,14 +3872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア！どうしてここに？」"
+                                "Kru: \"Mia! Why are you here?\""
                             ]
                         },
                         {
@@ -3971,14 +3901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャー」"
+                                "Mia: \"Meow\""
                             ]
                         },
                         {
@@ -3995,14 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Kru: \"Hm?\""
                             ]
                         },
                         {
@@ -4049,14 +3965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャーー」"
+                                "Kru: \"Meow--\""
                             ]
                         },
                         {
@@ -4073,14 +3982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おぅ……これは！)"
+                                "Kru: (Ow... What's this!)"
                             ]
                         },
                         {
@@ -4097,14 +3999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャー」"
+                                "Mia: \"Meow\""
                             ]
                         },
                         {
@@ -4121,14 +4016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(これなら村に入れるな……)"
+                                "Kru: (With this, I can get into the village...)"
                             ]
                         },
                         {
@@ -4317,14 +4205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア、遺跡はどこにあるんだ？」"
+                                "Kru \"Mia, where are the ruins located?\""
                             ]
                         },
                         {
@@ -4375,14 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遺跡は聖子の森の中にある」"
+                                "Lutetia \"The ruins are in the Sacred Child's Forest.\""
                             ]
                         },
                         {
@@ -4399,14 +4273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ行こう」"
+                                "Kru \"Then let's go.\""
                             ]
                         },
                         {
@@ -4439,14 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その前に、ウミ」"
+                                "Lutetia \"Before that, Umi...\""
                             ]
                         },
                         {
@@ -4497,14 +4357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何？」"
+                                "Umi \"What?\""
                             ]
                         },
                         {
@@ -4537,14 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「私はミーア。あなたとずっと暮らしていた」"
+                                "Lutetia \"I am Mia. I've been living with you all this time.\""
                             ]
                         },
                         {
@@ -4577,14 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん」"
+                                "Umi \"...Yeah.\""
                             ]
                         },
                         {
@@ -4617,14 +4456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「猫の恰好をしていたけれど、本当はルイテシアという神だったの」"
+                                "Lutetia \"I may have been dressed as a cat, but in truth, I am a goddess\nnamed Lutetia.\""
                             ]
                         },
                         {
@@ -4657,14 +4489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん」"
+                                "Umi \"...Yeah.\""
                             ]
                         },
                         {
@@ -4697,14 +4522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…驚かないの？」"
+                                "Lutetia \"...Aren't you surprised?\""
                             ]
                         },
                         {
@@ -4737,21 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……うん。何度も夢で見た気がする。一緒に戦ったり、慰められたり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だから、不思議と受け入れられる」"
+                                "Umi \"...Yeah. I feel like I've seen it in my dreams many times. We fought\ntogether, you comforted me. So, it's strangely easy to accept.\""
                             ]
                         },
                         {
@@ -4784,21 +4588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか…、不思議ね…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　じゃぁ、服を持ってきた。その恰好じゃ風邪ひくから着替えよう」"
+                                "Lutetia \"I see... how mysterious... Well, I brought some clothes. You'll\ncatch a cold in that outfit, so let's change.\""
                             ]
                         },
                         {
@@ -4831,14 +4621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう」"
+                                "Umi \"Thank you.\""
                             ]
                         },
                         {
@@ -4937,7 +4720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴソゴソ…"
+                                "Rustle rustle..."
                             ]
                         },
                         {
@@ -4980,14 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ…」"
+                                "Kru \"Whoa...\""
                             ]
                         },
                         {
@@ -5038,14 +4814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんか……逆に恥ずかしい」"
+                                "Umi \"Somehow... this feels even more embarrassing.\""
                             ]
                         },
                         {
@@ -5062,14 +4831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……その姿…本当に久しぶりに見た気がする…」"
+                                "Kru \"No... that look... I really feel like it's been a long time since I've\nseen it...\""
                             ]
                         },
                         {
@@ -5120,14 +4882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルは五年後から来たから、そう思うの当然」"
+                                "Lutetia \"Kru is from five years in the future, so it's natural for him to\nfeel that way.\""
                             ]
                         },
                         {
@@ -5160,14 +4915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…五年後から来たのか？どういう事だ？」"
+                                "Umi \"Kru... you came from five years in the future? What does that mean?\""
                             ]
                         },
                         {
@@ -5184,21 +4932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ…。あぁ話すと長くなるというか…。オレもよく分かってないというか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　とにかく、オレはシフとクセシレイを倒す為に未来から戻ってきたんだ」"
+                                "Kru \"Yeah... It's a long story... or rather, I don't fully understand it\nmyself... Anyway, I came back from the future to defeat Shif and Xecilay.\""
                             ]
                         },
                         {
@@ -5231,21 +4965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…、なんか凄い話…。でもミーアがいるから本当の話なんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　…五年後のウミは元気にしてた？」"
+                                "Umi \"Ugh... that's an incredible story... But since Mia is here, it must be\ntrue.... Was Umi doing well five years in the future?\""
                             ]
                         },
                         {
@@ -5262,21 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…いや、オレが来た未来ではウミは死んでいたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クセシレイを倒す為に犠牲になって…」"
+                                "Kru \"...No, in the future I came from, Umi was dead. She became a sacrifice\nto defeat Xecilay...\""
                             ]
                         },
                         {
@@ -5309,14 +5015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そっか」"
+                                "Umi \"...I see.\""
                             ]
                         },
                         {
@@ -5349,14 +5048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度はそうならない…。絶対に倒してみせる…」"
+                                "Lutetia \"This time it won't happen... We will definitely defeat them...\""
                             ]
                         },
                         {
@@ -5373,14 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！」"
+                                "Kru \"Yeah!\""
                             ]
                         },
                         {
@@ -5413,14 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！」"
+                                "Umi \"Right!\""
                             ]
                         },
                         {
@@ -5453,14 +5131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ行こう！まずは聖子の森に行く」"
+                                "Lutetia \"Then let's go! First, we head to the Sacred Child's Forest.\""
                             ]
                         },
                         {
@@ -5482,7 +5153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -5490,8 +5161,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

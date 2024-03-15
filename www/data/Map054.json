@@ -3967,14 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Kru: \"Not this way.\""
                             ]
                         },
                         {
@@ -4192,14 +4185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"Not this way.\""
                             ]
                         },
                         {
@@ -4276,14 +4262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Kru: \"Not this way.\""
                             ]
                         },
                         {
@@ -4501,14 +4480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"Not this way.\""
                             ]
                         },
                         {
@@ -4585,14 +4557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Kru: \"Not this way.\""
                             ]
                         },
                         {
@@ -4810,14 +4775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"This isn't the right way.\""
                             ]
                         },
                         {
@@ -5287,14 +5245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここが聖子の森か…うん、あれだな間違いなく…」"
+                                "Kru \"So this is the Forest of the Holy Child... Yeah, that's definitely\nit...\""
                             ]
                         },
                         {
@@ -5311,14 +5262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……迷うな。」"
+                                "Kru \"...Don't get lost.\""
                             ]
                         },
                         {
@@ -5335,14 +5279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは…強いとか強くないとかの能力の問題じゃないと思うんだよなぁ…」"
+                                "Kru \"I think this isn't a matter of whether you're strong or not...\""
                             ]
                         },
                         {
@@ -5359,14 +5296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ、見つけるまで帰れなさそうだし、ボチボチ頑張るか」"
+                                "Kru \"Well, it seems I can't go back until I find it, so I might as well\nkeep at it.\""
                             ]
                         },
                         {
@@ -5604,7 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに向かいますか？"
+                                "Where are you heading?"
                             ]
                         },
                         {
@@ -5612,11 +5542,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "王国",
-                                    "呼種の洞窟",
-                                    "クセシの村",
-                                    "玉河山",
-                                    "行かない"
+                                    "Kingdom",
+                                    "Beastkin's Cave",
+                                    "Village of Kuseshi",
+                                    "Tamagawa Mountain",
+                                    "Don't go"
                                 ],
                                 1,
                                 0,
@@ -5951,7 +5881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに向かいますか？"
+                                "Where are we heading?"
                             ]
                         },
                         {
@@ -5959,10 +5889,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "クセシの村",
-                                    "呼種の洞窟",
-                                    "玉河山",
-                                    "行かない"
+                                    "Kusechi Village",
+                                    "Yobigane Cave",
+                                    "Tamakawa Mountain",
+                                    "Don't go"
                                 ],
                                 1,
                                 0,

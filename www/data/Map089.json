@@ -1567,14 +1567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんかこの壺だけ軽いな…」"
+                                "Kru: \"Somehow this pot feels light...\""
                             ]
                         },
                         {
@@ -1591,14 +1584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに風が吹いている？」"
+                                "Kru: \"And there's a breeze coming from it?\""
                             ]
                         },
                         {
@@ -1709,14 +1695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はん！よそ者が！」"
+                                "Banka: \"Hmph! A stranger, huh!\""
                             ]
                         },
                         {
@@ -1733,14 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…」"
+                                "Kru: \"Sigh...\""
                             ]
                         },
                         {
@@ -1773,14 +1745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレはお前の事絶対認めねぇからな！」"
+                                "Banka: \"I'll never accept you, just so you know!\""
                             ]
                         },
                         {
@@ -1797,14 +1762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…」"
+                                "Kru: \"Sigh...\""
                             ]
                         },
                         {
@@ -1837,14 +1795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あとウミはオレの物だ！わかったか！」"
+                                "Banka: \"And Umi is mine! Got that?!\""
                             ]
                         },
                         {
@@ -1861,14 +1812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっそう」"
+                                "Kru: \"Oh, is that so.\""
                             ]
                         },
                         {
@@ -1885,14 +1829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんかめんどいやつだな…）"
+                                "Kru: (What a troublesome guy...)"
                             ]
                         },
                         {
@@ -2110,14 +2047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Banka: \"Ugh...\""
                             ]
                         },
                         {

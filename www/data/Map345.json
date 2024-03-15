@@ -4013,14 +4013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く持っていけ」"
+                                "Shif: \"Take it away quickly.\""
                             ]
                         },
                         {
@@ -4207,14 +4200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル……ごめん」"
+                                "Umi: \"Kru... I'm sorry.\""
                             ]
                         },
                         {
@@ -4517,14 +4503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここで……いいですか？」"
+                                "Umi: \"Is it okay to do it here...?\""
                             ]
                         },
                         {
@@ -4575,14 +4554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそこで待て……」"
+                                "Chancellor Shif: \"Ah, wait there...\""
                             ]
                         },
                         {
@@ -4748,14 +4720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ……」"
+                                "Kru: \"Ugh...\""
                             ]
                         },
                         {
@@ -4772,14 +4737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ様…連れて参りました……」"
+                                "Soldier: \"Chancellor Shif... I have brought him...\""
                             ]
                         },
                         {
@@ -4830,14 +4788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ…」"
+                                "Chancellor Shif: \"Hmm...\""
                             ]
                         },
                         {
@@ -4888,14 +4839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル‼‼」"
+                                "Umi: \"Kru!!\""
                             ]
                         },
                         {
@@ -4912,14 +4856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ウ…ミ…？」"
+                                "Kru: \"...U...mi...?\""
                             ]
                         },
                         {
@@ -4952,14 +4889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ様！どうして⁉」"
+                                "Umi: \"Chancellor Shif! Why are you doing this?!\""
                             ]
                         },
                         {
@@ -4992,14 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうして？くっくっくっ……儀式に必要だからに決まっておろう…」"
+                                "Chancellor Shif: \"Why? Kukuku... It's necessary for the ritual, of\ncourse...\""
                             ]
                         },
                         {
@@ -5032,14 +4955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルをどうするつもり？」"
+                                "Umi: \"What are you planning to do with Kru?\""
                             ]
                         },
                         {
@@ -5072,14 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうもしない…。ちょっとお手伝いをしてもらうだけだ」"
+                                "Chancellor Shif: \"Nothing in particular... I just need a little help from\nhim.\""
                             ]
                         },
                         {
@@ -5112,14 +5021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お手伝い……？」"
+                                "Umi: \"Help...?\""
                             ]
                         },
                         {
@@ -5152,21 +5054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし、では始めよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クルよ。お前にはこれからウミの膣内にある精液をあの祭壇に捧げる役目をしてもらう」"
+                                "Chancellor Shif: \"Alright, let's begin. Kru, you will now have the role of\noffering the semen inside Umi's pussy to that altar.\""
                             ]
                         },
                         {
@@ -5199,14 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Umi: \"What?\""
                             ]
                         },
                         {
@@ -5223,14 +5104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ………うぅ」"
+                                "Kru: \"Ugh...ugh\""
                             ]
                         },
                         {
@@ -5247,14 +5121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ様が説明して下さっている！しゃきっとしろ！」"
+                                "Soldier: \"Chancellor Shif is explaining! Pull yourself together!\""
                             ]
                         },
                         {
@@ -5271,7 +5138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バシッ"
+                                "*Smack*"
                             ]
                         },
                         {
@@ -5288,14 +5155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グフッ！」"
+                                "Kru: \"Guh!\""
                             ]
                         },
                         {
@@ -5328,14 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「乱暴はやめろ‼」"
+                                "Umi: \"Stop being so rough!!\""
                             ]
                         },
                         {
@@ -5368,14 +5221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よいよい…。お前たち手荒な真似はよしてやれ。大事なお手伝いさんだからのぅ」"
+                                "Chancellor Shif: \"There there... No need to be rough with him. He's an\nimportant helper, after all.\""
                             ]
                         },
                         {
@@ -5392,14 +5238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ」"
+                                "Soldier: \"Yes, sir!\""
                             ]
                         },
                         {
@@ -5432,14 +5271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ではクル。まずはウミの所へ行って精液を手で受け止めろ」"
+                                "Chancellor Shif: \"Now, Kru. First, go to Umi and catch the semen with your\nhands.\""
                             ]
                         },
                         {
@@ -5472,14 +5304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉」"
+                                "Umi: \"What?!\""
                             ]
                         },
                         {
@@ -5496,14 +5321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ………い…いやだ……」"
+                                "Kru: \"Ugh...no...I don't want to...\""
                             ]
                         },
                         {
@@ -5536,14 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……。だだを捏ねるでない。だらしがない男だ。どれ手伝ってやろう」"
+                                "Chancellor Shif: \"Sigh... Don't be such a baby. What a disgraceful man. Let\nme help you.\""
                             ]
                         },
                         {
@@ -5569,14 +5380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……かっ身体が………」"
+                                "Kru: \"Ah...my body...\""
                             ]
                         },
                         {
@@ -5593,14 +5397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…」"
+                                "Umi: \"Kru...\""
                             ]
                         },
                         {
@@ -5984,14 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし…。ではウミ。そのクルの手の中に精液を出せ」"
+                                "Chancellor Shif: \"Alright... Now, Umi. Release the semen into Kru's hands.\""
                             ]
                         },
                         {
@@ -6008,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「い……いや………」"
+                                "Umi: \"No...I can't...\""
                             ]
                         },
                         {
@@ -6032,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっ……やめろ………やめてくれ…」"
+                                "Kru: \"Stop...please stop...\""
                             ]
                         },
                         {
@@ -6072,21 +5848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…………ここは寒い…。早く終わらせて帰りたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミ…お前私の言う事を聞かないという事がどういう事かわかっておらんのか？」"
+                                "Chancellor Shif: \"Sigh... It's cold here... I want to finish quickly and go\nback. Umi... do you not understand what it means to disobey me?\""
                             ]
                         },
                         {
@@ -6103,14 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「⁉……………いえ…わかってます」"
+                                "Umi: \"!...No, I understand.\""
                             ]
                         },
                         {
@@ -6127,14 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ではさっさとしろ」"
+                                "Chancellor Shif: \"Then hurry up and do it.\""
                             ]
                         },
                         {
@@ -6151,14 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………はい」"
+                                "Umi: \"...Yes.\""
                             ]
                         },
                         {
@@ -6175,14 +5916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ…」"
+                                "Kru: \"...Umi...\""
                             ]
                         },
                         {
@@ -6199,14 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………クル……ごめん」"
+                                "Umi: \"...Kru...I'm sorry.\""
                             ]
                         },
                         {
@@ -6251,7 +5978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たらぁ～…………"
+                                "*Drip*..."
                             ]
                         },
                         {
@@ -6268,14 +5995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ………」"
+                                "Kru: \"Ugh...\""
                             ]
                         },
                         {
@@ -6292,14 +6012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウミの膣内に………シフの……くそ…)"
+                                "Kru: \"(Inside Umi's pussy... Chancellor Shif's... damn it...)\""
                             ]
                         },
                         {
@@ -6344,7 +6057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たらぁ～………"
+                                "*Drip*..."
                             ]
                         },
                         {
@@ -6361,14 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……うぅ……あぁ…………」"
+                                "Umi: \"Ugh... Ugh... Ahh...\""
                             ]
                         },
                         {
@@ -6385,14 +6091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くぅ………」"
+                                "Kru: \"Guh...\""
                             ]
                         },
                         {
@@ -6409,7 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受け止めた精液は温かく、ドクンと脈打つのではないかと錯覚する程だった。"
+                                "The semen that was received felt so warm, it almost seemed to throb with a\npulse."
                             ]
                         },
                         {
@@ -6426,7 +6125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は、意気地なしの僕は、ウミの顔を見る事ができなかった…。"
+                                "I, the coward that I am, couldn't bring myself to look at Umi's face..."
                             ]
                         },
                         {
@@ -6443,14 +6142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、ではその高貴で尊大なる精液を祭壇に納めろ」"
+                                "Chancellor Shif: \"Now, then, offer that noble and haughty semen to the\naltar.\""
                             ]
                         },
                         {
@@ -6467,14 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………くそ。なにが…高貴で尊大だ……」"
+                                "Kru: \"...Damn it. What's so... noble and haughty about it...\""
                             ]
                         },
                         {
@@ -6491,14 +6176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ……。早くしろ平民」"
+                                "Chancellor Shif: \"Hahaha... Hurry up, commoner.\""
                             ]
                         },
                         {
@@ -6515,14 +6193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ……」"
+                                "Kru: \"Grr...\""
                             ]
                         },
                         {
@@ -6866,14 +6537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ…。一滴も零すんじゃないぞ」"
+                                "Soldier: \"Heh heh heh... Don't spill even a single drop.\""
                             ]
                         },
                         {
@@ -7001,14 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…。いったいどんな性交をしていたんだろうか」"
+                                "Soldier: \"Haa... I wonder what kind of sex they were having...\""
                             ]
                         },
                         {
@@ -7147,7 +6804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "祭壇に精液を捧げますか？"
+                                "Will you offer semen to the altar?"
                             ]
                         },
                         {
@@ -7155,8 +6812,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7207,14 +6864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「早くしろ…」"
+                                "Shif: \"Hurry up...\""
                             ]
                         },
                         {
@@ -7304,7 +6954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たらぁ～…"
+                                "Taraa~..."
                             ]
                         },
                         {
@@ -7321,7 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜこんな……こんなこと………"
+                                "Why is this... such a thing..."
                             ]
                         },
                         {
@@ -7372,14 +7022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ………」"
+                                "Chancellor Shif: \"Kukkukku...\""
                             ]
                         },
                         {
@@ -7450,14 +7093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ……」"
+                                "Kru: \"Wha-what's...\""
                             ]
                         },
                         {
@@ -7508,14 +7144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…？」"
+                                "Umi: \"Kru...?\""
                             ]
                         },
                         {
@@ -7568,14 +7197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ……頭が…………」"
+                                "Kru: \"Ah... my head...\""
                             ]
                         },
                         {
@@ -7592,7 +7214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっなんなんだ……"
+                                "Wha-what's happening..."
                             ]
                         },
                         {
@@ -7623,7 +7245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ……目の前が真っ白に………"
+                                "What's... everything's gone white..."
                             ]
                         },
                         {
@@ -7640,7 +7262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにが始まるんだ……"
+                                "What's starting..."
                             ]
                         },
                         {
@@ -7783,14 +7405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ………うぅ……なっ……」"
+                                "Kru: \"Haa haa haa... ugh... wha...\""
                             ]
                         },
                         {
@@ -7841,14 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ク……クル……」"
+                                "Umi: \"K... Kru...\""
                             ]
                         },
                         {
@@ -7899,21 +7507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ……。あぁお前達……巫女様をお連れしろ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なにせ薄着だから身体が冷えてしまう……」"
+                                "Chancellor Shif: \"Kukukuku... Ah, you two... bring the shrine maiden...\nafter all, she might get cold in such scant clothing...\""
                             ]
                         },
                         {
@@ -7930,14 +7524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ」"
+                                "Soldier: \"Yes, sir!\""
                             ]
                         },
                         {
@@ -7954,14 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こちらに……」"
+                                "Soldier: \"This way...\""
                             ]
                         },
                         {
@@ -7994,14 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……クルが…」"
+                                "Umi: \"But... Kru is...\""
                             ]
                         },
                         {
@@ -8034,14 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前がいた方があの男は体調が悪くなる…。そうは思わんか？」"
+                                "Chancellor Shif: \"Having you around will only make that man's condition\nworse... don't you think?\""
                             ]
                         },
                         {
@@ -8074,14 +7640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ………」"
+                                "Umi: \"Ugh...\""
                             ]
                         },
                         {
@@ -8098,14 +7657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く行け……」"
+                                "Chancellor Shif: \"Hurry up and go...\""
                             ]
                         },
                         {
@@ -8148,7 +7700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -8165,7 +7717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -8182,7 +7734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -8229,14 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっ……随分辛そうだな……」"
+                                "Chancellor Shif: \"Kukukuku... You seem to be in quite a bit of pain...\""
                             ]
                         },
                         {
@@ -8253,14 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ………うえっ…」"
+                                "Kru: \"Ughhh... ughh...\""
                             ]
                         },
                         {
@@ -8277,7 +7815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビシャビシャビシャビシャ……"
+                                "Splish splash splish splash..."
                             ]
                         },
                         {
@@ -8310,14 +7848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ううぇ……嘔吐するとは……。どれ慈悲深いシフ様が背中をさすってやろうか？」"
+                                "Chancellor Shif: \"Ugh... To think you would vomit... How about the merciful\nChancellor Shif pats your back?\""
                             ]
                         },
                         {
@@ -8334,14 +7865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ……うぅ……何が慈悲深いだ…あんな物見せやがって…」"
+                                "Kru: \"Haa haa haa... ugh... What mercy... showing me something like\nthat...\""
                             ]
                         },
                         {
@@ -8374,14 +7898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あんなもの？はて何のことだ？」"
+                                "Chancellor Shif: \"Something like that? Whatever do you mean?\""
                             ]
                         },
                         {
@@ -8398,14 +7915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とぼけるな！あんなのお前のお得意の魔法だろ⁉」"
+                                "Kru: \"Don't play dumb! That's your specialty magic, isn't it?!\""
                             ]
                         },
                         {
@@ -8438,21 +7948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！なるほど。お前の脳味噌ではそのように考えるのか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誓って私は魔法など使っておらんし、何も知らんぞ。お前の身に何が起こったなど…」"
+                                "Chancellor Shif: \"Hah hah hah! I see, so that's how your brain interprets\nit... I swear I haven't used any magic, nor do I know anything about what\nhas happened to you...\""
                             ]
                         },
                         {
@@ -8469,14 +7965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ？じゃぁあれはどういう……」"
+                                "Kru: \"Hah? Then what was that all about...\""
                             ]
                         },
                         {
@@ -8509,21 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあいいではないか、そんなこと。まだ儀式はあと二回ある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　楽しみにしておれ」"
+                                "Chancellor Shif: \"Well, never mind that. There are still two more rituals\nto go. Look forward to them.\""
                             ]
                         },
                         {
@@ -8594,7 +8069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くそっ……いったいなんなんだ……。"
+                                "Damn it... what the hell is going on..."
                             ]
                         },
                         {
@@ -8611,7 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが…あの様子からしてシフが何か知っている事は明らかだ…。"
+                                "But... it's clear from his behavior that Shif knows something..."
                             ]
                         },
                         {
@@ -8795,14 +8270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「精液をずっと膣内に入れていたのか…。変態女だな」"
+                                "Soldier: \"You've been keeping semen inside your pussy all this time... What\na pervert.\""
                             ]
                         },
                         {
@@ -8981,14 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい…。あの女顔を赤られて…。ひょっとして興奮してるんじゃないか」"
+                                "Soldier: \"Hey... that girl's face is turning red... Could it be she's\ngetting excited?\""
                             ]
                         },
                         {

@@ -2632,14 +2632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴホゴホ…」"
+                                "Townsman: \"Cough cough...\""
                             ]
                         },
                         {

@@ -22579,14 +22579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、戻るか」"
+                                "Kru: \"Well, time to head back.\""
                             ]
                         },
                         {
@@ -22624,14 +22617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しまった囲まれた！」"
+                                "Kru: \"Damn, we're surrounded!\""
                             ]
                         },
                         {
@@ -22734,14 +22720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ次から次に湧いてくる…」"
+                                "Kru: \"Tch, they just keep coming one after another...\""
                             ]
                         },
                         {
@@ -22846,14 +22825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…やっと終わった…。すこし時間を食ってしまったな…」"
+                                "Kru: \"Phew... it's finally over... That took a bit of time...\""
                             ]
                         },
                         {
@@ -22870,14 +22842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし戻ろう」"
+                                "Kru: \"Alright, let's head back.\""
                             ]
                         },
                         {

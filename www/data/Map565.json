@@ -1405,14 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっちなスライム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは回想空間です。一度見たイベントを再度見る事ができます」"
+                                "Naughty Slime: \"This is the Recollection Space. You can rewatch events\nyou've seen before here.\""
                             ]
                         },
                         {
@@ -1429,14 +1422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっちなスライム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「左右に別空間に移動でき、それぞれ適したイベントが見れます」"
+                                "Naughty Slime: \"You can move to different spaces on the left and right, and\nyou can see events suitable for each space.\""
                             ]
                         },
                         {
@@ -1453,14 +1439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっちなスライム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「元の世界に戻る場合は、どのマップも南側から出る事ができます」"
+                                "Naughty Slime: \"If you want to return to the original world, you can exit\nfrom the south side of any map.\""
                             ]
                         },
                         {
@@ -1477,14 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっちなスライム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全てのイベントを解放するには隣にいるゴブリンに声を掛けて下さい」"
+                                "Naughty Slime: \"To unlock all events, please speak to the goblin next to\nus.\""
                             ]
                         },
                         {
@@ -1561,14 +1533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「全てのシーンを解放するかい？」"
+                                "Goblin: \"Do you want to unlock all the scenes?\""
                             ]
                         },
                         {
@@ -1576,8 +1541,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1642,14 +1607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ゆっくり楽しんでいってくれ…」"
+                                "Goblin: \"Take your time and enjoy...\""
                             ]
                         },
                         {
@@ -1679,14 +1637,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「……必要になったらまた来るんだ」"
+                                "Goblin: \"...Come back again if you need to.\""
                             ]
                         },
                         {

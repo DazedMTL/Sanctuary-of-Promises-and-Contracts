@@ -110,7 +110,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]ワンダーマッシュを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated Wonder Mash!"
                 ]
             },
             {
@@ -188,7 +188,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]兵士を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the soldier!"
                 ]
             },
             {
@@ -319,7 +319,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]スライムを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the slime!"
                 ]
             },
             {
@@ -379,7 +379,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]ラージバットを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the Rajibatto!"
                 ]
             },
             {
@@ -507,7 +507,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]オークを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated Orc!"
                 ]
             },
             {
@@ -593,7 +593,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]オーガを倒した！"
+                    "_pum[30,0,0,GrowUp]I defeated the Ogre!"
                 ]
             },
             {
@@ -679,7 +679,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]洞窟の悪魔を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the cave demon!"
                 ]
             },
             {
@@ -796,7 +796,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]スケルトンを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the skeleton!"
                 ]
             },
             {
@@ -934,7 +934,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]洞窟の悪魔を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the cave demon!"
                 ]
             },
             {
@@ -1115,7 +1115,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]スライムを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the slime!"
                 ]
             },
             {
@@ -1240,7 +1240,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]兵士を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the soldier!"
                 ]
             },
             {
@@ -1296,7 +1296,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]神殿に巣くう悪魔を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the demon nesting in the temple!"
                 ]
             },
             {
@@ -1376,7 +1376,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]ゴーレムを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the Golem!"
                 ]
             },
             {
@@ -1472,7 +1472,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]ゴーレムを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the Golem!"
                 ]
             },
             {
@@ -1797,7 +1797,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]フォレストスネークを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the Forest Snake!"
                 ]
             },
             {
@@ -1930,7 +1930,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]ゴブリンを倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the Goblin!"
                 ]
             },
             {
@@ -2067,7 +2067,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]盗賊を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the thief!"
                 ]
             },
             {
@@ -2223,7 +2223,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[60,0,0,GrowUp]バンカのレベルが上がった！"
+                    "_pum[60,0,0,GrowUp]Banka's level has increased!"
                 ]
             },
             {
@@ -3590,14 +3590,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「はぁはぁ…あっあれ？ウミ……どうしたんだろ…」"
+                    "Umi: \"Haa haa... Ah? What's wrong? Why am I...?\""
                 ]
             },
             {
@@ -3648,14 +3641,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「おぅ…大丈夫か？」"
+                    "Banka: \"Hey... Are you okay?\""
                 ]
             },
             {
@@ -3688,14 +3674,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「……えっウミどうして裸？」"
+                    "Umi: \"...Eh? Why am I naked?\""
                 ]
             },
             {
@@ -3728,21 +3707,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「あぁ…。スライムが狂暴化してな…。暴れ回ったんだ…。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "　全滅しそうだったが…、だがなんとか追い払ったぜ」"
+                    "Banka: \"Ah... The slimes went berserk... They were rampaging... We were\nalmost wiped out, but... somehow we managed to drive them off.\""
                 ]
             },
             {
@@ -3775,14 +3740,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「………あっありがとう…」"
+                    "Umi: \"...Ah, thank you...\""
                 ]
             },
             {
@@ -3815,14 +3773,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "(くっくっくっ…。こちらこそ…)"
+                    "Banka: (Heh heh heh... I should be the one thanking you...)"
                 ]
             },
             {
@@ -4118,7 +4069,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[30,0,0,GrowUp]豚を倒した！"
+                    "_pum[30,0,0,GrowUp]Defeated the pig!"
                 ]
             },
             {
@@ -5217,14 +5168,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「オマエ…ふざけるな！」"
+                    "Umi: \"You... don't mess with me!\""
                 ]
             },
             {
@@ -6513,14 +6457,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「オマエ…ふざけるな！」"
+                    "Umi: \"Don't mess with me!\""
                 ]
             },
             {
@@ -6746,7 +6683,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -7846,14 +7783,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「オマエ！戦闘中にふざけるな！」"
+                    "Umi: \"You! Don't mess around during battle!\""
                 ]
             },
             {
@@ -8079,7 +8009,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -9179,14 +9109,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「オマエ！邪魔するな！」"
+                    "Umi: \"You! Don't get in the way!\""
                 ]
             },
             {
@@ -9412,7 +9335,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -9464,7 +9387,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -9481,7 +9404,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -9498,7 +9421,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -9560,14 +9483,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「なはははは！相手が悪かったな！おれっちに逆らおうなんて10年早い！」"
+                    "Thief \"Nahaha! You picked the wrong opponent! You're a decade too early to\ndefy me!\""
                 ]
             },
             {
@@ -9584,14 +9500,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅ……離せ！あぁ……はぁはぁ…力が出ない…」"
+                    "Umi \"Ugh... let go! Ah... haa haa... I can't muster any strength...\""
                 ]
             },
             {
@@ -9608,14 +9517,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「なははは！おれっちに絡んできたお前が悪い！そりゃ！」"
+                    "Thief \"Nahaha! It's your fault for messing with me! That's right!\""
                 ]
             },
             {
@@ -9632,7 +9534,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬぷん！"
+                    "Squelch!"
                 ]
             },
             {
@@ -9703,14 +9605,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！やっやめろぉぉぉ！」"
+                    "Umi \"Aaah! Stop it, nooo!\""
                 ]
             },
             {
@@ -9727,7 +9622,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "Squelch squelch squelch squelch..."
                 ]
             },
             {
@@ -9744,14 +9639,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「んぅ？やけにツルッと入ったな。お前戦闘中おれっちに胸を触られて感じていたな⁉」"
+                    "Thief \"Hm? It slid in so smoothly. You were getting turned on by me\ntouching your breasts during the fight, weren't you?!\""
                 ]
             },
             {
@@ -9784,14 +9672,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そっそんなこと……ぅぅ…なっない！」"
+                    "Umi \"That's not... ugh... true!\""
                 ]
             },
             {
@@ -9808,7 +9689,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "Squelch squelch squelch squelch..."
                 ]
             },
             {
@@ -9825,21 +9706,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そうか？ならダメージを受けて興奮していたって事か？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　変態マゾ野郎だな！」"
+                    "Thief \"Is that so? Then were you getting excited from taking damage? What a\nperverted masochist!\""
                 ]
             },
             {
@@ -9856,14 +9723,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ちっ違う！はぁはぁ…そっそんなんじゃ…ない…。あぁぁ！」"
+                    "Umi \"That's not it! Haa haa... it's not like that... aahh!\""
                 ]
             },
             {
@@ -9880,14 +9740,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「なはははは！まあいい！そうやって否定していても息が上がってきているぞ！」"
+                    "Thief \"Nahaha! Well, it doesn't matter! Even as you deny it, your breath is\ngetting heavier!\""
                 ]
             },
             {
@@ -9920,14 +9773,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……あぁ…んぅ…あぁ！やめろぉ…」"
+                    "Umi \"Haa haa... ah... mmm... aah! Stop it...\""
                 ]
             },
             {
@@ -9944,7 +9790,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "Squelch squelch squelch squelch..."
                 ]
             },
             {
@@ -9961,14 +9807,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そらそら！早く終わらせねぇと兵隊が捕まえに来るからよ！」"
+                    "Thief \"Come on, come on! We need to finish this quickly before the soldiers\ncome to catch us!\""
                 ]
             },
             {
@@ -9985,7 +9824,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "Thrust thrust thrust thrust!!"
                 ]
             },
             {
@@ -10018,14 +9857,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！はっ激しくするな！あぁぁ！」"
+                    "Umi \"Aaah! Don't do it so fiercely! Aaahh!\""
                 ]
             },
             {
@@ -10042,14 +9874,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「何言ってる！お前激しくしてから愛液がドバッて溢れてるぞ！」"
+                    "Thief \"What are you saying! Your love juices are gushing out since I\nstarted going hard!\""
                 ]
             },
             {
@@ -10066,14 +9891,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁはぁ……んぅ……そっそんな事…ない…。たっただの汗…」"
+                    "Umi \"Haa haa haa... mmm... that's not... true... it's just sweat...\""
                 ]
             },
             {
@@ -10090,7 +9908,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "Thrust thrust thrust thrust!!"
                 ]
             },
             {
@@ -10107,14 +9925,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「なははは！そうかそうか！汗か⁉そうだな！さっきから身体が火照ってるもんな！」"
+                    "Thief \"Nahaha! Is that so, is that so?! Sweat, huh?! Sure, because your\nbody has been heating up since a while ago!\""
                 ]
             },
             {
@@ -10147,14 +9958,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……あっうぅ……んぅ…」"
+                    "Umi \"Haa haa... ah uh... mmm...\""
                 ]
             },
             {
@@ -10171,7 +9975,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "Thrust thrust thrust thrust!!"
                 ]
             },
             {
@@ -10188,14 +9992,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そりゃお前がオレの肉棒で感じてるからだ！ほぉら！堪らんだろ！」"
+                    "Thief \"That's because you're feeling my cock! Look at that, you can't get\nenough!\""
                 ]
             },
             {
@@ -10212,14 +10009,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ！ちっ違う！……あぁぁ…はぁはぁ……はっ離せ！」"
+                    "Umi \"Haa haa! That's not it! ...Aaahh... haa haa... let go!\""
                 ]
             },
             {
@@ -10236,14 +10026,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「またまた！素直になった方がいいぞ！ほらほらほら！」"
+                    "Thief \"Oh come on! You'd be better off being honest! Here here here!\""
                 ]
             },
             {
@@ -10260,7 +10043,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "Thrust thrust thrust thrust!!"
                 ]
             },
             {
@@ -10293,14 +10076,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！やっやめろ！そっそんな奥！あぁぁ！」"
+                    "Umi \"Aaahh! Stop! Not so deep! Aaahh!\""
                 ]
             },
             {
@@ -10317,14 +10093,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ…あぁぁ……逝きそうだ…まだまだ楽しみてぇとこだが…」"
+                    "Thief \"Haa haa... aahh... I'm about to cum... but I still want to enjoy\nthis more...\""
                 ]
             },
             {
@@ -10341,14 +10110,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「んぅぅ！はぁはぁ……あぁぁ！あぁぁ…はぁはぁ…あぅぅ……あぁぁ！」"
+                    "Umi \"Mmm! Haa haa... aahh! Aaahh... haa haa... ohh... aahh!\""
                 ]
             },
             {
@@ -10365,7 +10127,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "Thrust thrust thrust thrust!!"
                 ]
             },
             {
@@ -10382,14 +10144,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ…命あっての物種なんでね！はぁはぁ……あぁぁ！」"
+                    "Thief \"Haa haa... life is precious, after all! Haa haa... aahh!\""
                 ]
             },
             {
@@ -10406,14 +10161,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁ！」"
+                    "Umi \"Aaahhh!\""
                 ]
             },
             {
@@ -10479,7 +10227,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ビュッビュッビュッビュッ！"
+                    "Splurt splurt splurt splurt!"
                 ]
             },
             {
@@ -10496,21 +10244,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬすっと"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……ふぅ……いい身体してるなお前！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　これに懲りたらもうおれっちの邪魔するんじゃねぇぞ！」"
+                    "Thief \"Haa haa... phew... You've got a nice body there! If you've learned\nyour lesson, don't ever get in my way again!\""
                 ]
             },
             {
@@ -10527,14 +10261,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅ……酷い…」"
+                    "Umi \"Ugh... how cruel...\""
                 ]
             },
             {
@@ -10563,7 +10290,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -10580,7 +10307,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -10597,7 +10324,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -10767,7 +10494,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                    "_pum[60,0,0,GrowUp]Magic power has increased!"
                 ]
             },
             {
@@ -10784,7 +10511,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[90,0,0,GrowUp]名声値が上がった！"
+                    "_pum[90,0,0,GrowUp]Fame has increased!"
                 ]
             },
             {
@@ -10801,7 +10528,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[120,0,0,GrowUp]膣内で感じた回数が上がった！"
+                    "_pum[120,0,0,GrowUp]The number of times felt inside the vagina has increased!"
                 ]
             },
             {
@@ -10818,7 +10545,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[150,0,0,GrowUp]膣内射精で感じた回数が上がった！"
+                    "_pum[150,0,0,GrowUp]The number of times felt from vaginal ejaculation has increased!"
                 ]
             },
             {
@@ -10835,7 +10562,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[180,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                    "_pum[180,0,0,GrowUp]The number of times felt from embarrassment has increased!"
                 ]
             },
             {
@@ -10852,7 +10579,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[210,0,0,GrowUp]クル以外で感じた回数が上がった！"
+                    "_pum[210,0,0,GrowUp]The number of times felt with someone other than Kru has increased!"
                 ]
             },
             {
@@ -10894,7 +10621,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -10911,7 +10638,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -10928,7 +10655,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -10990,14 +10717,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「まったく…行儀のなってない女だ…。私の男根でその性根を叩き直してやる！」"
+                    "Swindler: \"Really... such an ill-mannered woman... I'll straighten out your\ndisposition with my cock!\""
                 ]
             },
             {
@@ -11014,14 +10734,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「くぅ！やめろ！離せっ！」"
+                    "Umi: \"Ngh! Stop it! Let me go!\""
                 ]
             },
             {
@@ -11038,7 +10751,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬぷんっ！"
+                    "*squelch*"
                 ]
             },
             {
@@ -11109,14 +10822,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁぁぁぁ！やめろぉぉぉ！」"
+                    "Umi: \"Aaaaah! Stop it, stop it!\""
                 ]
             },
             {
@@ -11133,14 +10839,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁ……まったくなんて口の利き方だ！」"
+                    "Swindler: \"Haah... what a way to talk!\""
                 ]
             },
             {
@@ -11157,14 +10856,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！んぅぅ……やめろ！あぁぁ！あぁぁ……」"
+                    "Umi: \"Aaah! Nngh... stop it! Aaah! Aaah...\""
                 ]
             },
             {
@@ -11181,7 +10873,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11198,14 +10890,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「それにしても……いい身体ですねぇ…。これは売ったらいい金になります」"
+                    "Swindler: \"Even so... what a fine body you have... This could fetch a good\nprice if sold.\""
                 ]
             },
             {
@@ -11238,14 +10923,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……うぅ…あぁぁ！はっ離せぇぇ…」"
+                    "Umi: \"Haa haa... ugh... aah! Let go of me...!\""
                 ]
             },
             {
@@ -11262,7 +10940,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11279,21 +10957,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「くっくっくっ……また心にもない事を言って…。あなた…本当は公衆の面前で"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　犯されて快感を得ていますね…」"
+                    "Swindler: \"Heh heh heh... spouting such insincere words again... You... you\nactually enjoy being violated in public, don't you?\""
                 ]
             },
             {
@@ -11310,14 +10974,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そっそんなこと……あぁぁ！」"
+                    "Umi: \"That's not true... Aaah!\""
                 ]
             },
             {
@@ -11334,21 +10991,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「私こう見えましても人の心を読む事を商売にしておりまして…。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　あなた今…そっそんなこと…と言い淀みましたね？」"
+                    "Swindler: \"You see, I make a living reading people's hearts... and you just\nhesitated when you said 'that's not true', didn't you?\""
                 ]
             },
             {
@@ -11381,14 +11024,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……そんなの…知らない……あぁぁ！」"
+                    "Umi: \"Haa haa... that's not... I don't know anything about that... Aaah!\""
                 ]
             },
             {
@@ -11405,7 +11041,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11422,21 +11058,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「くっくっくっ……。いいえ、私はちゃんと聞いてましたよ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　あなたの心の声を…。あなたの一瞬の言葉の迷いが心の迷いなんです」"
+                    "Swindler: \"Heh heh heh... No, I heard you quite clearly. The hesitation in\nyour words is the hesitation in your heart.\""
                 ]
             },
             {
@@ -11453,14 +11075,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぅうぅ…んぅ……ウミは……はぁはぁ騙されない……」"
+                    "Umi: \"Ugh... Nngh... Umi won't be... haa haa deceived...\""
                 ]
             },
             {
@@ -11477,21 +11092,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「騙してなどおりません。第一あなたをここで騙して私に何の得がありますか？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　なので嘘を言っているのはあなたです」"
+                    "Swindler: \"I'm not deceiving you. In the first place, what would I gain by\ndeceiving you here? So, the one lying is you.\""
                 ]
             },
             {
@@ -11524,14 +11125,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ…そんなことない……。ウミは嘘なんて………」"
+                    "Umi: \"Haa haa... that's not true... Umi isn't lying...\""
                 ]
             },
             {
@@ -11548,7 +11142,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11565,21 +11159,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁ…いい加減自分を偽るのをやめなさい。先程からすごく身体が火照ってきています。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　これは身体が快楽を感じている証拠です。あなたの身体はとても正直者です」"
+                    "Swindler: \"Haah... stop pretending already. Your body has been getting\nhotter and hotter. This is proof that your body is feeling pleasure. Your\nbody is very honest.\""
                 ]
             },
             {
@@ -11596,14 +11176,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！だって……んぅぅ……はぁはぁ……違う……はぁはぁ…あぁぁ」"
+                    "Umi: \"Aaah! But... Nngh... haa haa... it's different... haa haa... Aaah!\""
                 ]
             },
             {
@@ -11620,21 +11193,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「こんなに汗ばんで、身体を火照らして、嬌声をあげて、股を濡らして…。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　んぅ……私好みに淫乱な女だ！」"
+                    "Swindler: \"Sweating like this, your body flushed with heat, moaning\nsweetly, and wetting your crotch... Nngh... You're a lewd woman just to my\nliking!\""
                 ]
             },
             {
@@ -11651,14 +11210,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁ！やめろぉぉ！もう……やめて！あぁぁぁ！」"
+                    "Umi: \"Aaaaah! Stop it! Please, just stop! Aaaaah!\""
                 ]
             },
             {
@@ -11675,7 +11227,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11692,14 +11244,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ほらほら…人に物を頼む時はなんて言うんですか？ほれほれ」"
+                    "Swindler: \"Now now... what do you say when you ask someone for something?\nCome on, come on.\""
                 ]
             },
             {
@@ -11732,14 +11277,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……あぅ……やっ……やめて…」"
+                    "Umi: \"Haa haa... Ahh... stop... please stop...\""
                 ]
             },
             {
@@ -11756,14 +11294,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「やめて？」"
+                    "Swindler: \"Stop?\""
                 ]
             },
             {
@@ -11780,14 +11311,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……くっくだ…さい…」"
+                    "Umi: \"Haa haa... please...\""
                 ]
             },
             {
@@ -11804,7 +11328,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11821,14 +11345,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「よく言えました！私の男根でこうも更生するなど、男冥利に尽きます！」"
+                    "Swindler: \"Well said! To think my cock could reform you like this, it's a\nman's greatest joy!\""
                 ]
             },
             {
@@ -11861,14 +11378,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁ！激しくしないで！あぁぁ！やめろ！」"
+                    "Umi: \"Aaaaah! Don't be so rough! Aaah! Stop it!\""
                 ]
             },
             {
@@ -11885,7 +11395,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -11902,14 +11412,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「やめません！やめません！せっかく更生したのですから、その対価を貰わないと」"
+                    "Swindler: \"I won't stop! I won't stop! Now that you've reformed, I must\nreceive my due reward.\""
                 ]
             },
             {
@@ -11926,14 +11429,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！あっあっ！んぅぅ……はぁはぁはぁ…あぁ……熱い…」"
+                    "Umi: \"Aaah! Ahh! Nngh... haa haa haa... Aaah... it's hot...\""
                 ]
             },
             {
@@ -11950,14 +11446,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「気持ち良く射精させて貰いますよ！あぁぁ……実にいい気分だ！」"
+                    "Swindler: \"I'll take my pleasure and cum feeling good! Aaah... what a great\nfeeling!\""
                 ]
             },
             {
@@ -11990,14 +11479,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！んぅ………くぅぅ……あうぅぅぅ……」"
+                    "Umi: \"Aaah! Nngh... Kuhh... Ahhhhh...\""
                 ]
             },
             {
@@ -12014,7 +11496,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*squelch squelch squelch squelch...*"
                 ]
             },
             {
@@ -12031,14 +11513,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「さぁさぁ逝きますよ！しっかり受け止めて下さい！」"
+                    "Swindler: \"Here we go! Make sure you take it all in!\""
                 ]
             },
             {
@@ -12055,14 +11530,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！やめろぉぉぉぉ！」"
+                    "Umi: \"Aaah! Stop it!\""
                 ]
             },
             {
@@ -12128,7 +11596,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ビュッビュッビュッビュッ！"
+                    "*spurt spurt spurt spurt!*"
                 ]
             },
             {
@@ -12145,14 +11613,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁぁぁ！」"
+                    "Umi: \"Aaahhhhh!\""
                 ]
             },
             {
@@ -12169,21 +11630,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "詐欺師"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ふぅぅぅ……。私としたことが少し羽目を外し過ぎてしまいました。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　ではここらで退散させてもらいます…」"
+                    "Swindler: \"Phew... I may have gotten a bit too carried away. Well then, I\nshall take my leave...\""
                 ]
             },
             {
@@ -12216,14 +11663,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅぅ……」"
+                    "Umi: \"Uuu...\""
                 ]
             },
             {
@@ -12252,7 +11692,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -12269,7 +11709,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -12286,7 +11726,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -12463,7 +11903,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                    "_pum[60,0,0,GrowUp]Magic power has increased!"
                 ]
             },
             {
@@ -12480,7 +11920,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[90,0,0,GrowUp]名声値が上がった！"
+                    "_pum[90,0,0,GrowUp]Fame has increased!"
                 ]
             },
             {
@@ -12497,7 +11937,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[120,0,0,GrowUp]膣内で感じた回数が上がった！"
+                    "_pum[120,0,0,GrowUp]The number of times felt inside the vagina has increased!"
                 ]
             },
             {
@@ -12514,7 +11954,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[150,0,0,GrowUp]膣内射精で感じた回数が上がった！"
+                    "_pum[150,0,0,GrowUp]The number of times felt from vaginal ejaculation has increased!"
                 ]
             },
             {
@@ -12531,7 +11971,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[180,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                    "_pum[180,0,0,GrowUp]The number of times felt from embarrassment has increased!"
                 ]
             },
             {
@@ -12548,7 +11988,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[210,0,0,GrowUp]クル以外で感じた回数が上がった！"
+                    "_pum[210,0,0,GrowUp]The number of times felt with someone other than Kru has increased!"
                 ]
             },
             {
@@ -12590,7 +12030,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -12607,7 +12047,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -12624,7 +12064,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -12686,14 +12126,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふぅ……臭う……お前臭うぞぉ…」"
+                    "Murderer: \"Gufuu... You stink... You reek...\""
                 ]
             },
             {
@@ -12710,14 +12143,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅ……身体が動かない……。誰か助け…」"
+                    "Umi: \"Ugh... I can't move my body... Someone help...\""
                 ]
             },
             {
@@ -12734,21 +12160,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「誰も助けなんて来ない…。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　それに僕の楽しみを邪魔する事なんて誰にもできない…」"
+                    "Murderer: \"No one's going to come to save you... Besides, no one can\ninterfere with my fun...\""
                 ]
             },
             {
@@ -12765,14 +12177,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅ…ウミをどうする気？」"
+                    "Umi: \"Ugh... What are you going to do to Umi?\""
                 ]
             },
             {
@@ -12789,14 +12194,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ふぅふぅ……お前の腋……いい臭いがする…。僕には分かる…」"
+                    "Murderer: \"Fuu fuu... Your armpits... They smell so good... I can tell...\""
                 ]
             },
             {
@@ -12867,7 +12265,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -12884,14 +12282,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……やっやめ……」"
+                    "Umi: \"Haa haa... Stop it...\""
                 ]
             },
             {
@@ -12908,14 +12299,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「僕には分かる…。やめてと言いながら…今腋から粘っこい汗が出てる…」"
+                    "Murderer: \"I can tell... Even though you say stop, your armpits are\nsweating sticky sweat right now...\""
                 ]
             },
             {
@@ -12932,7 +12316,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -12949,7 +12333,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -12966,14 +12350,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……うぅ…だっだから何？」"
+                    "Umi: \"Haa haa... Ugh... So what?\""
                 ]
             },
             {
@@ -12990,21 +12367,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふぅ…とぼけても無駄だ…。本当は腋の下で感じる事知ってるんだろ？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　僕と一緒の異常者だな」"
+                    "Murderer: \"Gufuu... Playing dumb is useless... You know you feel it under\nyour arms, right? You're a freak just like me.\""
                 ]
             },
             {
@@ -13037,14 +12400,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ…ちっ違う！ウミは……異常者なんかじゃ……あぁぁ！」"
+                    "Umi: \"Haa haa... No! Umi is not... a freak... Ahh!\""
                 ]
             },
             {
@@ -13061,21 +12417,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふぅ…。普通の女はこんな事でそんな声出さない。そんなに吐息が荒くなってる…。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　僕は堪らなく楽しい…。普通の女ならもう殺してるけど…殺しより楽しいかも…」"
+                    "Murderer: \"Gufuu... A normal woman wouldn't make such a sound from this.\nYour breath is getting rougher... I'm having an unbearable amount of fun...\nIf you were a normal woman, I would have killed you already... but this\nmight be more fun than killing...\""
                 ]
             },
             {
@@ -13092,7 +12434,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -13109,14 +12451,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ……そっそんな風に……触るな…あぁ！」"
+                    "Umi: \"Ahh... Don't touch me like that... Ahh!\""
                 ]
             },
             {
@@ -13133,21 +12468,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「強がって見せてもさっきからどんどん腋から愛液出てる…。そんなに気持ちいいんだ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　ねぇどんな気持ちなの腋で感じるって」"
+                    "Murderer: \"No matter how tough you act, your armpits have been leaking love\njuice since a while ago... It feels that good, huh. Tell me, how does it\nfeel to be touched there?\""
                 ]
             },
             {
@@ -13180,7 +12501,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -13197,14 +12518,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ……そんなこと言われても……かっ感じてないから分からない…」"
+                    "Umi: \"Haa haa... Even if you say that... I don't know because I'm not\nfeeling it...\""
                 ]
             },
             {
@@ -13221,14 +12535,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「僕にそんな嘘言っていいと思ってる⁉正直に答えないとそこらの人間何人か殺すよ！」"
+                    "Murderer: \"You think you can lie to me⁉ If you don't answer honestly, I'll\nkill a few people around here!\""
                 ]
             },
             {
@@ -13245,7 +12552,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -13262,14 +12569,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そっそんなのダメ‼やめて‼」"
+                    "Umi: \"You can't do that‼ Stop it‼\""
                 ]
             },
             {
@@ -13286,14 +12586,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「じゃぁ教えてよ」"
+                    "Murderer: \"Then tell me.\""
                 ]
             },
             {
@@ -13326,14 +12619,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅ……わっ腋の下を触られると…はぁはぁ…あっ……、頭の中がドロっと溶けて」"
+                    "Umi: \"Ugh... When you touch under my arms like that... Haa haa... Ahh... My\nmind feels like it's melting into goo\""
                 ]
             },
             {
@@ -13350,14 +12636,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ほぅ…」"
+                    "Murderer: \"Hooh...\""
                 ]
             },
             {
@@ -13390,7 +12669,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -13407,14 +12686,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅ…あぁ…どんどん腋の下が気持ち良くて…もっと……あぁ…もっと弄ってって！」"
+                    "Umi: \"Ugh... Ahh... It's getting more and more pleasurable under my arms...\nMore... Ahh... Touch me more!\""
                 ]
             },
             {
@@ -13431,14 +12703,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「こんな風に？」"
+                    "Murderer: \"Like this?\""
                 ]
             },
             {
@@ -13471,7 +12736,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -13488,14 +12753,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！あぁ！ダメ！あぁぁ！そんなにしたら！」"
+                    "Umi: \"Ahh! No! Don't! Ahh!\""
                 ]
             },
             {
@@ -13512,14 +12770,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふぅ…。あぁいい臭いだ…発情したメスの臭いだ…」"
+                    "Murderer: \"Gufuu... Ah, what a nice smell... The scent of a female in\nheat...\""
                 ]
             },
             {
@@ -13552,14 +12803,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「やっやめて……臭い嗅がないで……あぁぁ！はぁはぁ…うぅ……」"
+                    "Umi: \"Stop it... Don't sniff me like that... Ahh! Haa haa... Ugh...\""
                 ]
             },
             {
@@ -13576,21 +12820,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ふぅふぅ……あぁ興奮する…。ぐふぅ…ピクピクしてきたな。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　そろそろ逝くのか？」"
+                    "Murderer: \"Fuu fuu... Ah, it's so exciting... Gufuu... You're starting to\ntwitch. Are you about to come?\""
                 ]
             },
             {
@@ -13623,7 +12853,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "さわさわさわ…"
+                    "Rustle rustle rustle..."
                 ]
             },
             {
@@ -13640,14 +12870,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁ……嫌ぁ……腋で逝きたくない…やめて…あぁぁ…」"
+                    "Umi: \"Ahh... No... I don't want to come from my armpits... Stop it... Ahh!\""
                 ]
             },
             {
@@ -13664,21 +12887,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふぅ…嫌がっている振りがうまいなぁ…。こんなに身体が熱くなって快楽を"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　受け入れてるのに…。ほら…僕に見せてよ…君の逝きっぷりを！」"
+                    "Murderer: \"Gufuu... You're good at pretending to hate it... Your body is\ngetting so hot and accepting the pleasure... Look at me... Show me how you\ncome!\""
                 ]
             },
             {
@@ -13695,14 +12904,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「嫌ぁ…ダメ！そんなにしたら…あぁ！あぁぁぁぁ！」"
+                    "Umi: \"No! Don't! If you keep doing that... Ahh! Ahhhhh!\""
                 ]
             },
             {
@@ -13768,7 +12970,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ブッシャーーーーーーーーー‼‼"
+                    "Spluuuuurt!!!"
                 ]
             },
             {
@@ -13785,14 +12987,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁぁ！いやぁぁぁぁぁぁ！」"
+                    "Umi: \"Ahhhhhh! Noooooooo!\""
                 ]
             },
             {
@@ -13809,14 +13004,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！なんて美しい！血しぶきよりも美しい！」"
+                    "Murderer: \"Ahhh! How beautiful! More beautiful than a spray of blood!\""
                 ]
             },
             {
@@ -13849,14 +13037,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁぁぁ……うぅ…あぁぁ…」"
+                    "Umi: \"Ahhhhhh... ugh... ahhh...\""
                 ]
             },
             {
@@ -13873,14 +13054,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "殺人者"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふぅ…。君は殺さないでおくよ…。また会ったらその時は腋を弄らしておくれ」"
+                    "Murderer: \"Gufuu... I won't kill you... Next time we meet, let me play with\nyour armpits again.\""
                 ]
             },
             {
@@ -13897,14 +13071,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「うぅぅ……」"
+                    "Umi: \"Uuuu...\""
                 ]
             },
             {
@@ -13933,7 +13100,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -13950,7 +13117,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -13967,7 +13134,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -14151,7 +13318,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                    "_pum[60,0,0,GrowUp]Magic power has increased!"
                 ]
             },
             {
@@ -14168,7 +13335,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[90,0,0,GrowUp]名声値が上がった！"
+                    "_pum[90,0,0,GrowUp]Fame has increased!"
                 ]
             },
             {
@@ -14185,7 +13352,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[120,0,0,GrowUp]腋の下で感じた回数が上がった！"
+                    "_pum[120,0,0,GrowUp]The number of times felt through the armpits has increased!"
                 ]
             },
             {
@@ -14202,7 +13369,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[150,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                    "_pum[150,0,0,GrowUp]The number of times felt through squirting has increased!"
                 ]
             },
             {
@@ -14219,7 +13386,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[180,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                    "_pum[180,0,0,GrowUp]The number of times felt from embarrassment has increased!"
                 ]
             },
             {
@@ -14236,7 +13403,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[210,0,0,GrowUp]クル以外で感じた回数が上がった！"
+                    "_pum[210,0,0,GrowUp]The number of times felt with someone other than Kru has increased!"
                 ]
             },
             {
@@ -14278,7 +13445,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -14295,7 +13462,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -14312,7 +13479,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -14428,7 +13595,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*thrusting sounds*"
                 ]
             },
             {
@@ -14450,14 +13617,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふふふふ…んぅ……実に味わい深い女体なんだなぁ！」"
+                    "Hachi.Yonmaru \"Gufufufu... Nn... What a deeply flavorful woman!\""
                 ]
             },
             {
@@ -14474,14 +13634,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！やめろぉぉ！あぁぁぁ！」"
+                    "Umi \"Aaah! Stop it! Aaahhh!\""
                 ]
             },
             {
@@ -14498,21 +13651,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふふふふ！そんな事言っても無駄なんだなぁ！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　この街でオイラに逆らおうなんて奴は誰もいないんだなぁ！」"
+                    "Hachi.Yonmaru \"Gufufufu! No use saying that! There's no one in this town\nwho dares defy me!\""
                 ]
             },
             {
@@ -14529,14 +13668,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！助けて！あぁぁぁ！んぁあ！」"
+                    "Umi \"Aaah! Help me! Aaahhh! Nnahh!\""
                 ]
             },
             {
@@ -14553,7 +13685,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*thrusting sounds*"
                 ]
             },
             {
@@ -14570,14 +13702,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「おまえも諦めて楽しんだらいいんだなぁ！お前の膣はもう楽しんでいるみたいだが」"
+                    "Hachi.Yonmaru \"You might as well give up and enjoy it! Your pussy seems to\nbe enjoying it already!\""
                 ]
             },
             {
@@ -14594,14 +13719,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そんな！たっ楽しんでなんかない！」"
+                    "Umi \"That's not true! I'm not enjoying this at all!\""
                 ]
             },
             {
@@ -14618,21 +13736,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「またまたぁ…お前の膣、グチャグチャのドロドロなんだなぁ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　膣の愛情表現はどれだけビシャビシャに濡れているかなんだなぁ」"
+                    "Hachi.Yonmaru \"Oh come on... Your pussy is all sloppy and dripping. The way\na pussy shows love is by how wet it gets.\""
                 ]
             },
             {
@@ -14649,14 +13753,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「そっそれは…あぁぁ！そんな奥突くなぁ！あぁぁ！」"
+                    "Umi \"That's... Aaah! Don't thrust so deep! Aaahhh!\""
                 ]
             },
             {
@@ -14673,7 +13770,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*thrusting sounds*"
                 ]
             },
             {
@@ -14690,21 +13787,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「おぅ！ここが感じるという事は…。お前かなり経験を積んでるみたいなんだなぁ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　淫乱ド変態女なんだなぁ。オイラがしっかり楽しませてやる！」"
+                    "Hachi.Yonmaru \"Oh! If this spot feels good... it seems you've had quite the\nexperience. What a lewd pervert you are. I'll make sure to please you\nthoroughly!\""
                 ]
             },
             {
@@ -14721,14 +13804,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あっぐぅ…はぁはぁ！あぁぁぁ！やめて……あぁぁぁ！」"
+                    "Umi \"Ah, ugh... Haa haa! Aaahhh! Stop it... Aaahhh!\""
                 ]
             },
             {
@@ -14745,21 +13821,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふふふふ…。強がりはよすんだなぁ。ほぉれさっきより息が上がっているぞ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　身体もどんどん熱くなってきてるんだなぁ」"
+                    "Hachi.Yonmaru \"Gufufufu... Quit your bluffing. Look, your breathing is\ngetting heavier. Your body is getting hotter and hotter.\""
                 ]
             },
             {
@@ -14776,14 +13838,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！ぅぅ…嫌ぁ……あぁぁ……はぁはぁ…あぅぅ…あぁぁぁ！」"
+                    "Umi \"Aaah! Uuh... No... Aaah... Haa haa... Ahh... Aaahhh!\""
                 ]
             },
             {
@@ -14800,14 +13855,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ぐふふふふふふ…。お前いい女なんだなぁ…。卑猥な臭いがプンプンしてるんだなぁ」"
+                    "Hachi.Yonmaru \"Gufufufufufu... You're such a good woman... I can smell the\nlewdness wafting off of you.\""
                 ]
             },
             {
@@ -14824,14 +13872,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ…んぅぅ…そっそんなの……あぁぁ！」"
+                    "Umi \"Aaah... Nnuuh... Don't say such things... Aaahhh!\""
                 ]
             },
             {
@@ -14848,21 +13889,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「なははは！ほれほれ膣が締まってきたぞ！オイラの肉棒をしっかり抱きしめて離したくないって"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　言ってるんだなぁ！お前の身体は素直で可愛いんだなぁ」"
+                    "Hachi.Yonmaru \"Nahaha! Look, look, your pussy is tightening up! It's like\nit's hugging my cock tightly and doesn't want to let go! Your body is so\nhonest and cute.\""
                 ]
             },
             {
@@ -14879,14 +13906,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁ！ダメ！あぁぁぁやめて……もうダメって言ってるのに……あぁぁ！」"
+                    "Umi \"Aaahhh! No! Aaahhh stop it... I'm saying no more... Aaahhh!\""
                 ]
             },
             {
@@ -14903,7 +13923,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ぬっぷぬっぷぬっぷぬっぷ…"
+                    "*thrusting sounds*"
                 ]
             },
             {
@@ -14920,21 +13940,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「おぅよしよし…わかるんだなぁ。意識とは別に身体が言う事を聞かないんだなぁ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　身体が快楽を求めてしまうんだなぁ。より強い男を求めてしまうんだなぁ」"
+                    "Hachi.Yonmaru \"Oh, there there... I understand. Your body won't listen to\nyour mind. It's seeking pleasure on its own. It's craving a stronger man.\""
                 ]
             },
             {
@@ -15036,7 +14042,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "*pounding sounds*"
                 ]
             },
             {
@@ -15053,14 +14059,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！嫌なのに……ウミの身体どうして…あぁぁぁ！」"
+                    "Umi \"Aaah! Even though I hate it... Why is my body reacting like this...\nAaahhh!\""
                 ]
             },
             {
@@ -15077,21 +14076,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「悲しいんだなぁ…。素直じゃない事は悲しい事なんだなぁ。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　素直になればもっといい思いができるのに…」"
+                    "Hachi.Yonmaru \"It's sad... It's sad when you're not honest. If you were\nhonest, you could feel even better...\""
                 ]
             },
             {
@@ -15108,14 +14093,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！お願い！激しくしないで…んぅぅぁ！ああぁぁぁぁ！」"
+                    "Umi \"Aaahhh! Please! Don't be so rough... Nnuuhh! Ahh ahhh ahhh!\""
                 ]
             },
             {
@@ -15132,7 +14110,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "*pounding sounds*"
                 ]
             },
             {
@@ -15149,14 +14127,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！オイラが激しくしているんじゃないんだなぁ。腰が勝手に動くんだなぁ」"
+                    "Hachi.Yonmaru \"Aaahh! It's not me being rough, it's your hips moving on\ntheir own.\""
                 ]
             },
             {
@@ -15173,14 +14144,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「ああぁぁぁ‼‼あっはぁぁぁ！あぁぁ！あっあっあっあっ！」"
+                    "Umi \"Aaahhh!! Ahh haa haa! Aaahh! Ah ah ah ah!\""
                 ]
             },
             {
@@ -15197,14 +14161,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「はぁはぁ…膣が収縮しているんだぁ…。もう逝くのか？オイラも逝くぞ」"
+                    "Hachi.Yonmaru \"Haa haa... Your pussy is clenching... Are you going to cum?\nI'm going to cum too.\""
                 ]
             },
             {
@@ -15221,14 +14178,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「嫌ぁ……嫌なのに…あぁぁぁ……んぅ…あぁぁぁ！あぁぁぁぁ！」"
+                    "Umi \"No... I don't want this... Aaahhh... Nn... Aaahhh! Aaahhh!\""
                 ]
             },
             {
@@ -15245,7 +14195,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "*pounding sounds*"
                 ]
             },
             {
@@ -15262,14 +14212,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ…はぁはぁ……んぅあぁ」"
+                    "Hachi.Yonmaru \"Aaahh... Haa haa... Nnuh ahh\""
                 ]
             },
             {
@@ -15286,14 +14229,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あっあっあっあっ！はぁはぁ……あぅぅ……嫌ぁ……」"
+                    "Umi \"Ah ah ah ah! Haa haa... Ahh... I don't want this...\""
                 ]
             },
             {
@@ -15310,7 +14246,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ズパンズパンズパンズパン‼‼"
+                    "*pounding sounds*"
                 ]
             },
             {
@@ -15327,14 +14263,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ！もうオイラダメだ！でっ出る！」"
+                    "Hachi.Yonmaru \"Aaahh! I can't hold back anymore! I'm cumming!\""
                 ]
             },
             {
@@ -15351,14 +14280,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「嫌ぁぁぁぁぁぁぁぁ！」"
+                    "Umi \"No ahhhhhhhhh!\""
                 ]
             },
             {
@@ -15431,7 +14353,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ブッシャーーーーーーーーー‼‼"
+                    "*splashing sounds*"
                 ]
             },
             {
@@ -15448,14 +14370,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁぁぁ！ダメぇぇぇぇ！」"
+                    "Umi \"Aaahhh!! Noooo!!\""
                 ]
             },
             {
@@ -15472,14 +14387,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「おぅ……これは………心が浄化されるようだ…」"
+                    "Hachi.Yonmaru \"Ooh... this is... as if my soul is being purified...\""
                 ]
             },
             {
@@ -15496,14 +14404,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぁぁ……嫌ぁ……ウミ……ウミ…」"
+                    "Umi \"Aaahh... I don't want this... Umi... Umi...\""
                 ]
             },
             {
@@ -15520,21 +14421,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ハチ・ヨンマル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「なははははは！たまには街に来るのも悪くない…。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "　おっと捕まってはいけないのでこれにて退散！」"
+                    "Hachi.Yonmaru \"Nahahahaha! Coming to town once in a while isn't so bad...\nOops, I mustn't get caught, so with this, I take my leave!\""
                 ]
             },
             {
@@ -15551,14 +14438,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "「あぐぅ……うぅ…あぁぁ…」"
+                    "Umi \"Agguu... uuu... aaahh...\""
                 ]
             },
             {
@@ -15587,7 +14467,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "………。"
+                    "..."
                 ]
             },
             {
@@ -15604,7 +14484,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "……。"
+                    "..."
                 ]
             },
             {
@@ -15621,7 +14501,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "…。"
+                    "..."
                 ]
             },
             {
@@ -15823,7 +14703,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[60,0,0,GrowUp]呪力値が上がった！"
+                    "_pum[60,0,0,GrowUp]Magic power has increased!"
                 ]
             },
             {
@@ -15840,7 +14720,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[90,0,0,GrowUp]名声値が上がった！"
+                    "_pum[90,0,0,GrowUp]Fame has increased!"
                 ]
             },
             {
@@ -15857,7 +14737,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[120,0,0,GrowUp]膣内で感じた回数が上がった！"
+                    "_pum[120,0,0,GrowUp]The number of times felt inside the pussy has increased!"
                 ]
             },
             {
@@ -15874,7 +14754,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[150,0,0,GrowUp]潮吹きで感じた回数が上がった！"
+                    "_pum[150,0,0,GrowUp]The number of times felt from squirting has increased!"
                 ]
             },
             {
@@ -15891,7 +14771,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[180,0,0,GrowUp]恥ずかしくて感じた回数が上がった！"
+                    "_pum[180,0,0,GrowUp]The number of times felt from embarrassment has increased!"
                 ]
             },
             {
@@ -15908,7 +14788,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[210,0,0,GrowUp]クル以外で感じた回数が上がった！"
+                    "_pum[210,0,0,GrowUp]The number of times felt with someone other than Kru has increased!"
                 ]
             },
             {
@@ -15925,7 +14805,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "_pum[240,0,0,GrowUp]膣内射精で感じた回数が上がった！"
+                    "_pum[240,0,0,GrowUp]The number of times felt from creampie has increased!"
                 ]
             },
             {
@@ -17325,7 +16205,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -18737,7 +17617,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -20093,7 +18973,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -21522,7 +20402,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -22889,7 +21769,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -24245,7 +23125,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -25581,7 +24461,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -26948,7 +25828,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -28304,7 +27184,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "………反応がない…。"
+                    "...There's no response..."
                 ]
             },
             {
@@ -28472,14 +27352,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ！どうだ！気持ち良過ぎて堪んないか！」"
+                    "Banka \"Hah hah! How's that! Feels too good to stand, doesn't it!\""
                 ]
             },
             {
@@ -28496,14 +27369,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁ！バンカ様！はい！ウミのお股！あっはぁぁ！堪んないです！んぅ！んぅ！！」"
+                    "Umi \"Aaah! Lord Banka! Yes! My crotch! Ahh haa! I can't stand it! Nnh!\nNnh!!\""
                 ]
             },
             {
@@ -28520,14 +27386,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はっはっはっ！そうだろ！そうだろ！そりゃぁ！オレ様が最高だろ！」"
+                    "Banka \"Hah hah hah! That's right! That's right! Of course! I'm the best,\naren't I!\""
                 ]
             },
             {
@@ -28544,14 +27403,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぃぃ！最高です！はぁはぁ！あぁぁ！ウミ！もう逝っちゃう！逝っちゃいますぅぅ！」"
+                    "Umi \"Yes! The best! Hah hah! Aaah! Umi! I'm going to come! I'm coming!!\""
                 ]
             },
             {
@@ -28568,14 +27420,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁはぁ！オレも……オレも逝くぞ！あぁぁぁ！」"
+                    "Banka \"Hah hah hah! I'm also... I'm going to come too! Aaahhh!\""
                 ]
             },
             {
@@ -28592,14 +27437,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あんあんあんあんあん！あぁぁ！逝っくぅぅぅぅぅぅぅ！」"
+                    "Umi \"Ahn ahn ahn ahn ahn! Aaah! I'm cominggggg!\""
                 ]
             },
             {
@@ -28616,7 +27454,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ビュッビュッビュッビュッ‼‼"
+                    "Splurt splurt splurt splurt!!"
                 ]
             },
             {
@@ -29003,14 +27841,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁ！最高な気分だ！あの反抗的なウミがこんなに従順にオレ様に従ってるなんてな！」"
+                    "Banka \"Aah! What a great feeling! To think that defiant Umi would obey me\nso submissively!\""
                 ]
             },
             {
@@ -29027,14 +27858,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！あっあっあっあっ！はぁぁぁ！うぅっぅ！んぅ！んっはぁぁぁぁ！」"
+                    "Umi \"Aaah! Ahh ahh ahh ahh! Haa haa haa! Uuh uuh! Nnh! Nnhaaa!\""
                 ]
             },
             {
@@ -29051,14 +27875,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「オレ様の肉棒で！こんなに悦んでいるなんて！こんなに感じてるなんて！あぁぁ！」"
+                    "Banka \"With my cock! To be so pleased! To feel so much! Aaahh!\""
                 ]
             },
             {
@@ -29075,14 +27892,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぅぅぅ！あぁぁぁ！んぅ！あぁぁぁぁぁぁぁぁ！」"
+                    "Umi \"Auuhh! Aaahh! Nnh! Aaahhhhhhh!\""
                 ]
             },
             {
@@ -29099,14 +27909,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「ううぅ！はぁはぁ！」"
+                    "Banka \"Uuhh! Hah hah!\""
                 ]
             },
             {
@@ -29123,14 +27926,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「バンカ様！もっと！もっと突いて下さい！ああぁぁ！」"
+                    "Umi \"Lord Banka! More! Please thrust more! Aaaahhh!\""
                 ]
             },
             {
@@ -29312,14 +28108,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はっはっはっ！どうだ！このバンカ様の肉棒は最高だろ！」"
+                    "Banka \"Hah hah hah! How's that! This cock of Lord Banka is the best, isn't\nit!\""
                 ]
             },
             {
@@ -29336,14 +28125,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はい！あぁぁ！バンカ様！あぁ！すごい！すごいです！」"
+                    "Umi \"Yes! Aaahh! Lord Banka! Ahh! Amazing! It's amazing!\""
                 ]
             },
             {
@@ -29360,14 +28142,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ！あぁ！早く逝かねぇと催眠が解けちまうからな！オラオラ！」"
+                    "Banka \"Hah hah! Aah! Hurry up and come before the hypnosis wears off! Ora\nora!\""
                 ]
             },
             {
@@ -29384,14 +28159,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！激しいです！あはぁ！あっあっあっあっあっ！」"
+                    "Umi \"Aaahh! It's intense! Ah haa! Ahh ahh ahh ahh ahh!\""
                 ]
             },
             {
@@ -29408,14 +28176,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁ！んぅ！あぁぁ！」"
+                    "Banka \"Aah! Nnh! Aaahh!\""
                 ]
             },
             {
@@ -29432,14 +28193,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！あっはぁぁ！バンカ様！バンカ様！あぁぁぁぁぁ！」"
+                    "Umi \"Aaahh! Ahh haa! Lord Banka! Lord Banka! Aaaahhhh!\""
                 ]
             },
             {
@@ -29573,14 +28327,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi \"Enough already! What are you doing⁉\""
                 ]
             },
             {
@@ -29715,14 +28462,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「オラオラ！奥まで届いているか⁉」"
+                    "Banka: \"Hey hey! Can you feel it reaching all the way inside⁉\""
                 ]
             },
             {
@@ -29739,14 +28479,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はいぃぃ！あはぁぁ！奥まで当たってます！あぁぁぁぁ！」"
+                    "Umi: \"Yes! Ahhhaa! It's hitting all the way inside! Aaaahhhhh!\""
                 ]
             },
             {
@@ -29763,14 +28496,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「お前は子宮口を突かれて感じる女だからな！」"
+                    "Banka: \"You're a woman who feels it when her cervix is pounded!\""
                 ]
             },
             {
@@ -29787,14 +28513,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁ！はい！赤ちゃんの出口突かれて感じてしまいます！あっはぁぁぁ！」"
+                    "Umi: \"Ahh! Yes! I feel it when you hit the baby's exit! Ahhhaaa!\""
                 ]
             },
             {
@@ -29811,14 +28530,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁはぁ！あぁ！逝くぞ！子宮で受け止めろ！」"
+                    "Banka: \"Hah hah hah! Ahh! I'm going to come! Catch it with your womb!\""
                 ]
             },
             {
@@ -29835,14 +28547,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁ！逝っくぅぅぅぅぅぅぅ！」"
+                    "Umi: \"Ahh! I'm cominggggggg!\""
                 ]
             },
             {
@@ -29859,7 +28564,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ビュッビュッビュッビュッ‼‼"
+                    "Splurt splurt splurt splurt‼‼"
                 ]
             },
             {
@@ -30246,14 +28951,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「まったくなんてはしたない女だ！こんな場所でこんなに乱れて！」"
+                    "Banka: \"What an indecent woman you are! To be so disheveled in such a\nplace!\""
                 ]
             },
             {
@@ -30270,14 +28968,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あはぁぁ！だって！だって！バンカ様が！バンカ様がぁ！」"
+                    "Umi: \"Ahhhaa! Because! Because! It's Banka-sama! Banka-sama ahh!\""
                 ]
             },
             {
@@ -30294,14 +28985,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「オレのせいにするな！お前が淫乱だからだ！」"
+                    "Banka: \"Don't blame me! It's because you're a nympho!\""
                 ]
             },
             {
@@ -30318,14 +29002,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぃぃぃぃ！ウミが淫乱だからですぅ！」"
+                    "Umi: \"Yes! It's because Umi is a nympho!\""
                 ]
             },
             {
@@ -30342,14 +29019,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ！あぁぁ！」"
+                    "Banka: \"Hah hah! Ahhh!\""
                 ]
             },
             {
@@ -30366,14 +29036,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！この変態の変態膣もっと突いて下さい！」"
+                    "Umi: \"Ahh! Please pound this pervert's perverted pussy more!\""
                 ]
             },
             {
@@ -30555,14 +29218,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あがぁぁ！んぅぅ！んぅぅ！はぁはぁはぁ！凄い！奥まで当たる！」"
+                    "Umi: \"Agghhh! Nnnh! Nnnh! Hah hah hah! Amazing! It's hitting all the way\ninside!\""
                 ]
             },
             {
@@ -30579,14 +29235,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「へっへっへっ！オレ様の肉棒なら当たり前よ！」"
+                    "Banka: \"Heh heh heh! Of course, my cock hits the spot!\""
                 ]
             },
             {
@@ -30603,14 +29252,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっはぁぁぁ！もっと下さい！もっとウミに下さいぃぃぃ！」"
+                    "Umi: \"Ahhhaaa! More please! Give Umi moreee!\""
                 ]
             },
             {
@@ -30627,14 +29269,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「おう！お前にくれてやるぜ！」"
+                    "Banka: \"Alright! I'll give it to you!\""
                 ]
             },
             {
@@ -30651,14 +29286,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「んぅぅぅぅぅ！あぁぁぁ！激しい！あぁぁぁ！」"
+                    "Umi: \"Nnnhhh! Ahhhhh! It's intense! Ahhhhh!\""
                 ]
             },
             {
@@ -30792,14 +29420,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi: \"What are you doing⁉\""
                 ]
             },
             {
@@ -30934,14 +29555,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ！逝きそうだ！」"
+                    "Banka: \"Hah hah! I'm about to come!\""
                 ]
             },
             {
@@ -30958,14 +29572,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ！ウミも……ウミも逝きそうです！あぁぁぁ！あぁぁ！」"
+                    "Umi: \"Hah hah! Umi too... Umi is about to come too! Ahhhhh! Ahhh!\""
                 ]
             },
             {
@@ -30982,14 +29589,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「どこに出してほしい？」"
+                    "Banka: \"Where do you want me to release it?\""
                 ]
             },
             {
@@ -31006,14 +29606,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「んぅぅ！膣内に！はぁはぁ！あぁぁぁ！膣内に出してください！」"
+                    "Umi: \"Nnng! Inside! Hah hah! Ahhhh! Please release it inside!\""
                 ]
             },
             {
@@ -31030,14 +29623,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はっはっはっ！そうだろう！オラオラオラ！逝くぞ！」"
+                    "Banka: \"Hah hah hah! I knew it! Take it take it take it! I'm coming!\""
                 ]
             },
             {
@@ -31054,14 +29640,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁぁ！逝っくぅぅぅぅぅぅ‼‼」"
+                    "Umi: \"Ahhhhh! I'm cummingggggg‼‼\""
                 ]
             },
             {
@@ -31078,7 +29657,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ビュッビュッビュッビュッ‼‼"
+                    "Splurt splurt splurt splurt‼‼"
                 ]
             },
             {
@@ -31465,14 +30044,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「おら！もっと鳴け！」"
+                    "Banka: \"Hey! Scream louder!\""
                 ]
             },
             {
@@ -31489,14 +30061,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっあっあっあっ！ああぁぁ！」"
+                    "Umi: \"Ah ah ah ah! Ahhhhh!\""
                 ]
             },
             {
@@ -31513,14 +30078,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「いいケツしやがって！これで男を誘っているのか！」"
+                    "Banka: \"You've got a nice ass! Have you been using it to seduce men!\""
                 ]
             },
             {
@@ -31537,14 +30095,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！そうです！誘ってます！あぁぁぁぁ！」"
+                    "Umi: \"Ahhh! Yes! I'm seducing! Ahhhhh!\""
                 ]
             },
             {
@@ -31561,14 +30112,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ！この淫乱め！」"
+                    "Banka: \"Hah hah! You nympho!\""
                 ]
             },
             {
@@ -31585,14 +30129,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「バンカ様！あぁぁぁ！淫乱でごめんなさい！あぁぁぁぁ！」"
+                    "Umi: \"Chancellor Banka! Ahhhhh! I'm sorry for being such a nympho! Ahhhhh!\""
                 ]
             },
             {
@@ -31774,14 +30311,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「オラオラオラオラ！どうだ！」"
+                    "Banka: \"Take it take it take it take it! How's that!\""
                 ]
             },
             {
@@ -31798,14 +30328,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！すごい！こんな恰好で！あぁぁ！」"
+                    "Umi: \"Ahhhh! It's amazing! To do it in such a position! Ahhhh!\""
                 ]
             },
             {
@@ -31822,14 +30345,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はっはっはっ！このメス豚がぁ！お前にはお似合いの格好だぜ！」"
+                    "Banka: \"Hah hah hah! You bitch pig! This is the perfect look for you!\""
                 ]
             },
             {
@@ -31846,14 +30362,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぃぃぃ！ウミはバンカ様のメス豚です！躾けて下さい！あぁぁぁ！」"
+                    "Umi: \"Yes sir! Umi is Chancellor Banka's bitch pig! Please train me!\nAhhhhh!\""
                 ]
             },
             {
@@ -31870,14 +30379,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「おらぁぁ！豚らしく鳴け！」"
+                    "Banka: \"Heyyyy! Squeal like the pig you are!\""
                 ]
             },
             {
@@ -31894,14 +30396,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はい！バンカ様！ぶぅぅぅ！ぶぃぃぃぃぃ！あぁぁぁ！」"
+                    "Umi: \"Yes, Chancellor Banka! Oink oink oink oink! Ahhhhh!\""
                 ]
             },
             {
@@ -32035,14 +30530,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi: \"What the heck are you doing⁉\""
                 ]
             },
             {
@@ -32177,14 +30665,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ！あぁぁ！」"
+                    "Banka: \"Hah hah! Aaahhh!\""
                 ]
             },
             {
@@ -32201,14 +30682,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あっあっあっあっ！はぁはぁ…あぁぁぁ！」"
+                    "Umi: \"Ah! Ah! Ah! Ah! Hah hah... Aaahhh!\""
                 ]
             },
             {
@@ -32225,14 +30699,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「オラオラオラオラ！子宮を攻めて逝かせてやる！」"
+                    "Banka: \"Take it take it take it take it! I'm going to make you come by\nhitting your womb!\""
                 ]
             },
             {
@@ -32249,14 +30716,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁぁ！あっあっあっ！そんな！そこはぁぁぁ！」"
+                    "Umi: \"Aaahhh! Ah! Ah! Ah! Not there! Aaahhh!\""
                 ]
             },
             {
@@ -32273,14 +30733,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁぁ！逝くぞ！逝くぞ！」"
+                    "Banka: \"Aaahhh! I'm coming! I'm coming!\""
                 ]
             },
             {
@@ -32297,14 +30750,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「逝っくぅぅぅぅぅぅ‼‼」"
+                    "Umi: \"I'm cuuummmiiinggg‼‼\""
                 ]
             },
             {
@@ -32321,7 +30767,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ビュッビュッビュッビュッ‼‼"
+                    "Splurt splurt splurt splurt‼‼"
                 ]
             },
             {
@@ -32708,14 +31154,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はっはっはっ！さっきから腰が動いているぞ！」"
+                    "Banka: \"Hah hah hah! Your hips have been moving this whole time!\""
                 ]
             },
             {
@@ -32732,14 +31171,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「だって……あぁぁ！腰が…勝手に！あぁぁぁぁ！」"
+                    "Umi: \"Because... Aaahh! My hips... they're moving on their own! Aaahhhhh!\""
                 ]
             },
             {
@@ -32756,14 +31188,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「この淫売が！欲しがりおって！」"
+                    "Banka: \"You slut! You're so greedy for it!\""
                 ]
             },
             {
@@ -32780,14 +31205,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁはぁ！だってぇ……バンカ様の肉棒気持ちいい！あぁぁ！」"
+                    "Umi: \"Hah hah hah! Because... Banka-sama's cock feels so good! Aaahhh!\""
                 ]
             },
             {
@@ -32804,14 +31222,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「そうだろぉ！そうだろぉ！」"
+                    "Banka: \"That's right! That's right!\""
                 ]
             },
             {
@@ -32828,14 +31239,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！もっと突いて！もっと突いて下さい！あぁぁぁ！」"
+                    "Umi: \"Aaahh! Thrust more! Please thrust more! Aaahhh!\""
                 ]
             },
             {
@@ -33017,14 +31421,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「まったく淫乱な女だ…こんな恰好で攻められてそんなに気持ちいいのか⁉」"
+                    "Banka: \"You're such a nympho... Does it feel that good to be taken in such\na position⁉\""
                 ]
             },
             {
@@ -33041,14 +31438,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぃぃぃ！この恰好好きです！あぁぁぁぁ！」"
+                    "Umi: \"Yes! I love this position! Aaahhhhh!\""
                 ]
             },
             {
@@ -33065,14 +31455,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「この淫乱がぁ！オラオラオラ！」"
+                    "Banka: \"You nympho! Take it take it take it!\""
                 ]
             },
             {
@@ -33089,14 +31472,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっはぁぁぁぁぁ！んぅぅ！あっあっあっあっ！あぁぁ！」"
+                    "Umi: \"Ah haaahhhh! Nnghh! Ah! Ah! Ah! Ah! Aaahh!\""
                 ]
             },
             {
@@ -33113,14 +31489,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁはぁ…」"
+                    "Banka: \"Hah hah hah...\""
                 ]
             },
             {
@@ -33137,14 +31506,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！バンカ様！あぁぁ！奥に当たる！あぁぁ！」"
+                    "Umi: \"Aaahh! Banka-sama! Aaahh! It's hitting deep inside! Aaahh!\""
                 ]
             },
             {
@@ -33278,14 +31640,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi: \"What are you doing⁉\""
                 ]
             },
             {
@@ -33420,14 +31775,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁ！オレ…もう…もう…」"
+                    "Banka: \"Aaah! I... I can't... I can't hold on any longer...\""
                 ]
             },
             {
@@ -33444,14 +31792,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁはぁ…逝きそうですか…あぁぁ！」"
+                    "Umi: \"Haa haa haa... Are you about to come... Aaah!\""
                 ]
             },
             {
@@ -33468,14 +31809,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「もう耐えられない…あぁぁ！」"
+                    "Banka: \"I can't take it anymore... Aaah!\""
                 ]
             },
             {
@@ -33492,14 +31826,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「ウミも…ウミも…もう逝っちゃう！逝っちゃう！あぁぁ！」"
+                    "Umi: \"Umi too... Umi too... I'm going to come! I'm coming! Aaah!\""
                 ]
             },
             {
@@ -33516,14 +31843,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁぁ！逝く！」"
+                    "Banka: \"Aaahhh! I'm coming!\""
                 ]
             },
             {
@@ -33540,14 +31860,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「逝っくぅぅ‼‼あぁぁぁぁ！」"
+                    "Umi: \"I'm cuuumming‼‼ Aaahhhhh!\""
                 ]
             },
             {
@@ -33564,7 +31877,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ビュッビュッビュッビュッ‼‼"
+                    "Splurt splurt splurt splurt‼‼"
                 ]
             },
             {
@@ -33951,14 +32264,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁはぁ！いい眺めだ！胸が生きているようだ！」"
+                    "Banka: \"Haa haa haa! What a view! Your breasts seem so alive!\""
                 ]
             },
             {
@@ -33975,14 +32281,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！ありがとうございます！バンカ様！あぁぁぁ！」"
+                    "Umi: \"Aaah! Thank you! Lord Banka! Aaahhh!\""
                 ]
             },
             {
@@ -33999,14 +32298,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ！情動がどんどん掻き立てられる！あぁぁ！」"
+                    "Banka: \"Haa haa! My passion is being stirred up more and more! Aaah!\""
                 ]
             },
             {
@@ -34023,14 +32315,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！バンカ様！あっあっあっ！また大きく！」"
+                    "Umi: \"Aaah! Lord Banka! Ah ah ah! It's getting bigger again!\""
                 ]
             },
             {
@@ -34047,14 +32332,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁはぁ！仕方なかろう！ウミ！お前の胸のせいだ！」"
+                    "Banka: \"Haa haa haa! It can't be helped! Umi! It's because of your\nbreasts!\""
                 ]
             },
             {
@@ -34071,14 +32349,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！ウミの弾む胸を見てもっと勃起して下さい！」"
+                    "Umi: \"Aaah! Please get more aroused by looking at Umi's bouncing breasts!\""
                 ]
             },
             {
@@ -34260,14 +32531,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「いい腰使いだ…。あぁぁ！あぁぁ」"
+                    "Banka: \"You're moving your hips so well... Aaah! Aaah\""
                 ]
             },
             {
@@ -34284,14 +32548,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！バンカ様の大きな肉棒が…お腹の深くまで刺さってます！あぁぁ！」"
+                    "Umi: \"Aaah! Lord Banka's big cock... It's piercing deep inside my belly!\nAaah!\""
                 ]
             },
             {
@@ -34308,14 +32565,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はっはっはっ！あぁぁ！そっそんな！」"
+                    "Banka: \"Ha ha ha! Aaah! Like that!\""
                 ]
             },
             {
@@ -34332,14 +32582,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっあっあっ！ウミが！バンカ様を逝かせます！」"
+                    "Umi: \"Ah ah ah! Umi will make you come, Lord Banka!\""
                 ]
             },
             {
@@ -34356,14 +32599,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「まっ待ってくれ！あぁぁ！」"
+                    "Banka: \"Wai-wait a moment! Aaah!\""
                 ]
             },
             {
@@ -34380,14 +32616,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっはぁぁぁ！あんあんあん！あぁぁ！」"
+                    "Umi: \"Ah haaaah! Ahn ahn ahn! Aaah!\""
                 ]
             },
             {
@@ -34521,14 +32750,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi: \"Geez! What are you doing⁉\""
                 ]
             },
             {
@@ -34663,14 +32885,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ！ダメだ！逝っちまう！」"
+                    "Banka: \"Hah, hah! No good! I'm going to come!\""
                 ]
             },
             {
@@ -34687,14 +32902,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ！ウミも！あぁぁ！ウミも逝きます！」"
+                    "Umi: \"Hah, hah! Me too! Ahhh! I'm going to come too!\""
                 ]
             },
             {
@@ -34711,14 +32919,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はぁはぁ…あぁ一緒に逝くぞ！あぁぁ！あぁ！」"
+                    "Banka: \"Hah, hah... Ahh, let's come together! Ahhh! Ah!\""
                 ]
             },
             {
@@ -34735,14 +32936,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁ！逝きます！一緒に逝きます！」"
+                    "Umi: \"Ahh! I'm coming! We're coming together!\""
                 ]
             },
             {
@@ -34759,14 +32953,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「逝く！」"
+                    "Banka: \"I'm coming!\""
                 ]
             },
             {
@@ -34783,14 +32970,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あっはぁぁぁぁぁ！」"
+                    "Umi: \"Ahhhhaaaaahhhhh!\""
                 ]
             },
             {
@@ -34807,7 +32987,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ビュッビュッビュッビュッ‼‼"
+                    "Splurt splurt splurt splurt!!"
                 ]
             },
             {
@@ -35194,14 +33374,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっあぁ……ウミ…ちょっとちょっと待ってくれ…」"
+                    "Banka: \"Ah, ahh... Umi... wait a second, just wait...\""
                 ]
             },
             {
@@ -35218,14 +33391,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ…ダメです…バンカ様！ダメです…ウミ…腰止まらない！」"
+                    "Umi: \"Hah, hah... No good... Lord Banka! It's no good... I can't stop\nmoving my hips!\""
                 ]
             },
             {
@@ -35242,14 +33408,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁ！そんなに速くしたら…あぁぁぁ！」"
+                    "Banka: \"Ahh! If you move that fast... ahhhhaaa!\""
                 ]
             },
             {
@@ -35266,14 +33425,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あっあっあっ！ダメ！バンカ様！耐えて…耐えて下さい！あぁぁぁ！」"
+                    "Umi: \"Ah, ah, ah! No good! Lord Banka! Hold on... endure it! Ahhhhaaa!\""
                 ]
             },
             {
@@ -35290,14 +33442,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「んぅぅ……あぁぁ！はぁはぁ」"
+                    "Banka: \"Nnghh... Ahhh! Hah, hah\""
                 ]
             },
             {
@@ -35314,14 +33459,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁぁ！いい！気持ちいい！はぁはぁ！あぁぁぁぁ！」"
+                    "Umi: \"Ahhhaaa! It feels so good! Hah, hah! Ahhhhaaaaah!\""
                 ]
             },
             {
@@ -35503,14 +33641,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「このボリューム…。このケツの圧力…堪らん！」"
+                    "Banka: \"This volume... this ass pressure... it's irresistible!\""
                 ]
             },
             {
@@ -35527,14 +33658,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「どうぞ…ウミの大きなお尻…堪能して下さい！あぁぁ！」"
+                    "Umi: \"Please... enjoy Umi's big butt! Ahhhha!\""
                 ]
             },
             {
@@ -35551,14 +33675,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ…この迫力！あぁぁ！」"
+                    "Banka: \"Hah, hah... This intensity! Ahhhha!\""
                 ]
             },
             {
@@ -35575,14 +33692,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あはぁぁぁ！バンカ様！硬い！また硬くなってます！」"
+                    "Umi: \"Ahhaaaaah! Lord Banka! You're hard! You're getting hard again!\""
                 ]
             },
             {
@@ -35599,14 +33709,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！ウミ！ウミ！硬くなる…そりゃぁ…硬くなるぞ！」"
+                    "Banka: \"Ahhha! Umi! Umi! Getting hard... of course... it's getting hard!\""
                 ]
             },
             {
@@ -35623,14 +33726,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「んぅぅ……あぁ…あぁ……いっぱい硬くして下さい！」"
+                    "Umi: \"Nnghh... Ahh... Ahh... make it really hard for me!\""
                 ]
             },
             {
@@ -35764,14 +33860,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi: \"What are you doing?!\""
                 ]
             },
             {
@@ -35899,14 +33988,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「身体がビクついているぞ！逝くのか？逝きそうなのか？」"
+                    "Banka: \"Your body is twitching! Are you going to come? Are you about to\ncome?\""
                 ]
             },
             {
@@ -35923,14 +34005,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「はいぃぃ…ウミ……ウミ…もう…逝っちゃいそうで…」"
+                    "Umi: \"Yes... Umi... Umi... is about to... come...\""
                 ]
             },
             {
@@ -35947,14 +34022,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「ははははは！あぁ！逝け！派手に逝け！」"
+                    "Banka: \"Hahahaha! Ah! Come on! Come spectacularly!\""
                 ]
             },
             {
@@ -35971,14 +34039,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あぁぁ！手が止まらない！はぁはぁ…あっあっあっ！」"
+                    "Umi: \"Ahh! I can't stop my hand! Haah haah... ah! ah! ah!\""
                 ]
             },
             {
@@ -35995,14 +34056,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「さぁ恥ずかしい絶頂した姿をこのバンカ様に見せろ！」"
+                    "Banka: \"Now, show your embarrassingly climactic state to Lord Banka!\""
                 ]
             },
             {
@@ -36019,14 +34073,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "「あはぁぁぁ！逝くぅぅぅぅぅぅぅぅ！」"
+                    "Umi: \"Ahhaaaa! I'm cominggggggg!\""
                 ]
             },
             {
@@ -36043,7 +34090,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ブシャーーーーーーー‼‼"
+                    "Splash-------‼‼"
                 ]
             },
             {
@@ -36430,14 +34477,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はははは！こんな公衆の面前で自慰をして感じるなど…この変態！」"
+                    "Banka: \"Hahahaha! To masturbate and feel pleasure in front of the public\nlike this... what a pervert!\""
                 ]
             },
             {
@@ -36454,14 +34494,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！はいぃぃ…ウミは……ウミは…変態ですぅ…」"
+                    "Umi: \"Ahh! Yes... Umi is... Umi is... a pervert...\""
                 ]
             },
             {
@@ -36478,14 +34511,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「どうやらお前はこうして見られている事に相当興奮しているようだな…」"
+                    "Banka: \"It seems you're quite excited to be watched like this...\""
                 ]
             },
             {
@@ -36502,14 +34528,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！はぁはぁ…そっそんなこと……あぁぁ…あぁぁ！」"
+                    "Umi: \"Ahh! Haah haah... That's not it... ahh... ahh!\""
                 ]
             },
             {
@@ -36526,14 +34545,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「お前のその愛液の量が物語っているぞ！」"
+                    "Banka: \"The amount of your love juices tells the story!\""
                 ]
             },
             {
@@ -36550,14 +34562,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「はぁはぁ……あぁぁ！嫌ぁぁぁ！見ないでぇぇぇ！」"
+                    "Umi: \"Haah haah... Ahh! Nooo! Don't look!\""
                 ]
             },
             {
@@ -36739,14 +34744,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「ほれほれ…感じてる姿をこのバンカ様に見せてみろ…」"
+                    "Banka: \"Come on, show your pleasured state to Lord Banka...\""
                 ]
             },
             {
@@ -36763,14 +34761,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁ……そっそんな…恥ずかしいです…」"
+                    "Umi: \"Ahh... that's so... embarrassing...\""
                 ]
             },
             {
@@ -36787,14 +34778,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「くっくっくっ……その割には手が激しく動いているぞ…」"
+                    "Banka: \"Kukukuku... Despite that, your hand is moving fiercely...\""
                 ]
             },
             {
@@ -36811,14 +34795,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「あぁぁ！あっあっ！だって……あぁぁ」"
+                    "Umi: \"Ahh! Ah! Because... ahh!\""
                 ]
             },
             {
@@ -36835,14 +34812,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "バンカ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「気持ちいいのか？」"
+                    "Banka: \"Does it feel good?\""
                 ]
             },
             {
@@ -36859,14 +34829,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "「うぅ…あはぁ…はい……気持ちいいです！あぁぁぁ！」"
+                    "Umi: \"Uu... ahha... yes... it feels good! Ahhhhh!\""
                 ]
             },
             {
@@ -37000,14 +34963,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "ウミ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "「もう！オマエ何してる⁉」"
+                    "Umi: \"Enough! What are you doing⁉\""
                 ]
             },
             {

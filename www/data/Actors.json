@@ -18,7 +18,7 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 30,
-        "name": "クル",
+        "name": "Kru",
         "nickname": "王国剣士長",
         "note": "",
         "profile": ""
@@ -41,7 +41,7 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 30,
-        "name": "ウミ",
+        "name": "Umi",
         "nickname": "巫女",
         "note": "",
         "profile": ""
@@ -64,7 +64,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 25,
-        "name": "主人公3",
+        "name": "Protagonist 3",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -87,7 +87,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 25,
-        "name": "主人公4",
+        "name": "Protagonist 4",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -110,7 +110,7 @@
         "traits": [],
         "initialLevel": 99,
         "maxLevel": 99,
-        "name": "覚醒クル",
+        "name": "Awakened Kru",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -139,7 +139,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 30,
-        "name": "バンカ",
+        "name": "Banka",
         "nickname": "族長の息子",
         "note": "<LevelUpCommonEvent:29>",
         "profile": ""
@@ -168,7 +168,7 @@
         ],
         "initialLevel": 30,
         "maxLevel": 30,
-        "name": "ウミ",
+        "name": "Umi",
         "nickname": "巫女",
         "note": "",
         "profile": ""
@@ -191,7 +191,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "クル",
+        "name": "Kru",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -214,7 +214,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "フタナリ",
+        "name": "Futanari",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -237,7 +237,7 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 30,
-        "name": "ルイテシア",
+        "name": "Luitesia",
         "nickname": "神",
         "note": "",
         "profile": ""
@@ -260,7 +260,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "子供1",
+        "name": "Child 1",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -283,7 +283,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "子供2",
+        "name": "Child 2",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -306,7 +306,7 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 30,
-        "name": "クル",
+        "name": "Kru",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -329,7 +329,7 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 30,
-        "name": "ウミ",
+        "name": "Umi",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -352,7 +352,7 @@
         "traits": [],
         "initialLevel": 30,
         "maxLevel": 99,
-        "name": "ルイテシア",
+        "name": "Luitesia",
         "nickname": "神",
         "note": "",
         "profile": ""
@@ -375,7 +375,7 @@
         "traits": [],
         "initialLevel": 99,
         "maxLevel": 99,
-        "name": "クル",
+        "name": "Kru",
         "nickname": "",
         "note": "",
         "profile": ""

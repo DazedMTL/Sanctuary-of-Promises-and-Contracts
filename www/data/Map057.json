@@ -2278,14 +2278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル！アンタ生きてたか！」"
+                                "Sister: \"Kru! You're alive!\""
                             ]
                         },
                         {
@@ -2302,14 +2295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ無事帰って来たよ」"
+                                "Kru: \"Yeah, I made it back safely.\""
                             ]
                         },
                         {
@@ -2326,21 +2312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう何か月も帰らないから私はてっきり…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おや？そのお嬢さんは？」"
+                                "Sister: \"You hadn't come back for so many months, I thought for sure... Oh?\nAnd who might this young lady be?\""
                             ]
                         },
                         {
@@ -2357,14 +2329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁこの子はクセシの村の巫女のウミっていう子だ」"
+                                "Kru: \"Ah, this girl is Umi, a shrine maiden from the village of Kusechi.\""
                             ]
                         },
                         {
@@ -2381,14 +2346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうも」"
+                                "Umi: \"Pleased to meet you.\""
                             ]
                         },
                         {
@@ -2405,14 +2363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシの民の子か！初めてお会いしたよ」"
+                                "Sister: \"A child of the Kusechi people! This is my first time meeting one.\""
                             ]
                         },
                         {
@@ -2429,14 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。今はお役目でこの王国まで来てる」"
+                                "Kru: \"Yeah. She's here on official duty in the kingdom now.\""
                             ]
                         },
                         {
@@ -2453,21 +2397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかい。しかし、めんどうに巻き込まれるかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しっかり守っておやり」"
+                                "Sister: \"Is that so. However, you might get wrapped up in trouble. Make\nsure to protect her well.\""
                             ]
                         },
                         {
@@ -2484,14 +2414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！」"
+                                "Kru: \"Yeah!\""
                             ]
                         },
                         {
@@ -2567,14 +2490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しっかりね！」"
+                                "Sister: \"Hold on tight!\""
                             ]
                         },
                         {
@@ -2642,14 +2558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルは元気かい？」"
+                                "Sister: \"Is Kru doing well?\""
                             ]
                         },
                         {

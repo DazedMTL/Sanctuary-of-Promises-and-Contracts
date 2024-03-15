@@ -5806,14 +5806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうも、ありがとうございました！」"
+                                "Umi: \"Thank you very much!\""
                             ]
                         },
                         {
@@ -5830,14 +5823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また来るよ！」"
+                                "Customer: \"I'll come again!\""
                             ]
                         },
                         {
@@ -5854,14 +5840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…」"
+                                "Umi: \"Phew...\""
                             ]
                         },
                         {
@@ -5878,14 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…ウミちゃん！お疲れ様！今日もご苦労さん！」"
+                                "Shop Owner: \"Well... Umi-chan! Good work! You've done a great job today as\nwell!\""
                             ]
                         },
                         {
@@ -5902,14 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ…全然！まだまだ働けます！」"
+                                "Umi: \"No... not at all! I can still keep working!\""
                             ]
                         },
                         {
@@ -5926,21 +5891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは！まあ忙しくなったのはウミちゃんとウミちゃんのレシピの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お陰だからね！責任は取って貰わないと！」"
+                                "Shop Owner: \"Hahaha! Well, the busyness is all thanks to Umi-chan and your\nrecipes! You've got to take responsibility!\""
                             ]
                         },
                         {
@@ -5957,14 +5908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははは！頑張ります！」"
+                                "Umi: \"Hahaha! I'll do my best!\""
                             ]
                         },
                         {
@@ -5981,28 +5925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは！冗談だよ！いつもありがとう…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもそんなに働いて…。あたしゃ心配だよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この間の貴族様の結婚の申し出も断っちまったんだろ？」"
+                                "Shop Owner: \"Hahaha! Just kidding! Thanks as always... but I'm worried\nabout you working so much... You even turned down that marriage proposal\nfrom the nobleman, didn't you?\""
                             ]
                         },
                         {
@@ -6019,14 +5942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Umi: \"...Yes\""
                             ]
                         },
                         {
@@ -6043,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いくら死んだ旦那の事を思っているって言ったって…」"
+                                "Shop Owner: \"No matter how much you think about your late husband...\""
                             ]
                         },
                         {
@@ -6076,14 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カカーー」"
+                                "???: \"Kaka--\""
                             ]
                         },
                         {
@@ -6100,14 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア！また怪我して！」"
+                                "Umi: \"Mia! You're hurt again!\""
                             ]
                         },
                         {
@@ -6124,21 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またあのガキンチョ共の仕業か！今度見たらとっちめてやる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ミーアちゃん大丈夫かい？」"
+                                "Shop Owner: \"Is it those brats' doing again? Next time I see them, I'll\ngive them a piece of my mind! Are you okay, Mia-chan?\""
                             ]
                         },
                         {
@@ -6155,14 +6036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「痛かったけど…優しいお兄さんが助けてくれた！」"
+                                "Mia: \"It hurt, but... a kind big brother helped me!\""
                             ]
                         },
                         {
@@ -6179,14 +6053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お兄さん？」"
+                                "Umi: \"Big brother?\""
                             ]
                         },
                         {
@@ -6203,14 +6070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！今度いじめている所を見つけたら殺すって、追い払ってくれたのぉ」"
+                                "Mia: \"Yeah! He said he'd kill them if he caught them bullying again, and he\nchased them away!\""
                             ]
                         },
                         {
@@ -6227,14 +6087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっ殺す？」"
+                                "Umi: \"Kill?\""
                             ]
                         },
                         {
@@ -6251,14 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……あぁ…それはそれで怖いねぇ」"
+                                "Shop Owner: \"...Ah... that's kind of scary in its own way.\""
                             ]
                         },
                         {
@@ -6448,14 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうすぐウミちゃん帰ってくるからね」"
+                                "Shopkeeper: \"Umi-chan will be back soon, you know.\""
                             ]
                         },
                         {
@@ -6472,14 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…。ごちそう様おばちゃん！美味しかった！」"
+                                "Mia: \"Yeah... Thank you for the meal, auntie! It was delicious!\""
                             ]
                         },
                         {
@@ -6496,14 +6328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかい！よかったよかった！」"
+                                "Shopkeeper: \"Is that so? I'm glad to hear it!\""
                             ]
                         },
                         {
@@ -6520,14 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おばちゃん…カカはなんでケッコンしないのかな…」"
+                                "Mia: \"Auntie... why doesn't mom get remarried, I wonder...\""
                             ]
                         },
                         {
@@ -6544,14 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーアちゃん…」"
+                                "Shopkeeper: \"Mia-chan...\""
                             ]
                         },
                         {
@@ -6568,21 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーアが生まれてすぐにトトは死んじゃったって言ってたんだけど…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ミーアはカカがとても寂しそうにしているのをたまに見掛ける」"
+                                "Mia: \"You said that dad died right after I was born... but sometimes I see\nmom looking very lonely.\""
                             ]
                         },
                         {
@@ -6599,14 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう…」"
+                                "Shopkeeper: \"Is that so...\""
                             ]
                         },
                         {
@@ -6623,14 +6413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーアもトトがいてくれたらって…とても寂しい」"
+                                "Mia: \"I feel very lonely too, wishing dad was here...\""
                             ]
                         },
                         {
@@ -6647,14 +6430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そうだね…。ミーアちゃん、愛する人を忘れるって、とても難しい事なんだよ」"
+                                "Shopkeeper: \"...That's right... Mia-chan, forgetting someone you love is a\nvery difficult thing to do.\""
                             ]
                         },
                         {
@@ -6671,14 +6447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなの？」"
+                                "Mia: \"Is that true?\""
                             ]
                         },
                         {
@@ -6695,14 +6464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんだ…」"
+                                "Shopkeeper: \"It is...\""
                             ]
                         },
                         {
@@ -6719,14 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっか。じゃぁカカはトトの事すごーく愛してたんだろうね」"
+                                "Mia: \"I see. So mom must have really loved dad, huh?\""
                             ]
                         },
                         {
@@ -6743,14 +6498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ」"
+                                "Shopkeeper: \"That's right.\""
                             ]
                         },
                         {
@@ -6767,14 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おばちゃん、これ」"
+                                "Mia: \"Auntie, this...\""
                             ]
                         },
                         {
@@ -6791,14 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだいこの本」"
+                                "Shopkeeper: \"What's this book?\""
                             ]
                         },
                         {
@@ -6815,14 +6549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはカカがたまに書いているニッキ？本？なんだ…。黙って持ってきちゃった」"
+                                "Mia: \"This is a diary? A book? that mom writes in sometimes... I brought it\nhere without asking.\""
                             ]
                         },
                         {
@@ -6839,14 +6566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ！それは！…それはダメ…だよぉ…」"
+                                "Shopkeeper: \"Oh my! That's... that's not good...\""
                             ]
                         },
                         {
@@ -6863,21 +6583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも……もしかしたらトトの事が書いてあるかもって思って…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもミーア…字が読めないから…」"
+                                "Mia: \"But... I thought maybe it has something written about dad... But I\ncan't read yet...\""
                             ]
                         },
                         {
@@ -6894,14 +6600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか…。ミーアちゃんもお父ちゃんの事知りたいよね」"
+                                "Shopkeeper: \"I see... Mia-chan wants to know about her father too, huh.\""
                             ]
                         },
                         {
@@ -6918,14 +6617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だからお願い！少しだけミーアに読んで！」"
+                                "Mia: \"So please! Read it to me, just a little!\""
                             ]
                         },
                         {
@@ -6942,14 +6634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！そっそれは……」"
+                                "Shopkeeper: \"Eh! But that's...\""
                             ]
                         },
                         {
@@ -6966,14 +6651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願い！」"
+                                "Mia: \"Please!\""
                             ]
                         },
                         {
@@ -6990,14 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……じゃぁ…ちょっとだけだよ…」"
+                                "Shopkeeper: \"...Well... just a little bit then...\""
                             ]
                         },
                         {
@@ -7014,14 +6685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう！」"
+                                "Mia: \"Thank you!\""
                             ]
                         },
                         {
@@ -7038,7 +6702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ"
+                                "*Flipping pages*"
                             ]
                         },
                         {
@@ -7055,14 +6719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ……何々……ねぇ、クル…。覚えてる？」"
+                                "Shopkeeper: \"Eh... what's this... hey, Kru... do you remember?\""
                             ]
                         },
                         {
@@ -7079,14 +6736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル？……ひょっとしてトトの名前⁉」"
+                                "Mia: \"Kru? Could that be dad's name⁉\""
                             ]
                         },
                         {
@@ -7103,14 +6753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかもねぇ…。どれどれ」"
+                                "Shopkeeper: \"It might be... let's see here.\""
                             ]
                         },
                         {
@@ -7127,14 +6770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「戻りました！」"
+                                "Umi: \"I'm back!\""
                             ]
                         },
                         {
@@ -7151,7 +6787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビクゥ‼‼"
+                                "*Startled*"
                             ]
                         },
                         {
@@ -7168,14 +6804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あわあわあわあわ……どっどうしよう！」"
+                                "Mia: \"Oh no oh no oh no oh no... what should we do!\""
                             ]
                         },
                         {
@@ -7192,14 +6821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひとまずテーブルの下に隠すよ！」"
+                                "Shopkeeper: \"For now, let's hide it under the table!\""
                             ]
                         },
                         {
@@ -7225,14 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おつかい済ませてきました」"
+                                "Umi: \"I've finished the errands.\""
                             ]
                         },
                         {
@@ -7249,14 +6864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ……いやぁ！どうもありがとう！」"
+                                "Shopkeeper: \"Oh... yeah! Thank you so much!\""
                             ]
                         },
                         {
@@ -7273,14 +6881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カカ！………おかえり！」"
+                                "Mia: \"Mom!... Welcome back!\""
                             ]
                         },
                         {
@@ -7297,14 +6898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んぅ………怪しい…」"
+                                "Umi: \"Hmm... suspicious...\""
                             ]
                         },
                         {
@@ -7321,7 +6915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギクゥ！"
+                                "*Nervous*"
                             ]
                         },
                         {
@@ -7338,14 +6932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あわあわあわあわ……」"
+                                "Mia: \"Oh no oh no oh no oh no...\""
                             ]
                         },
                         {
@@ -7362,14 +6949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそっそっそんなことないよ」"
+                                "Shopkeeper: \"There's there's there's nothing like that\""
                             ]
                         },
                         {
@@ -7386,14 +6966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………さては…ミーア！また野菜残したんでしょ⁉」"
+                                "Umi: \"...Don't tell me... Mia! You left vegetables on your plate again,\ndidn't you⁉\""
                             ]
                         },
                         {
@@ -7410,14 +6983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？あぁ……」"
+                                "Mia: \"Huh? Ah...\""
                             ]
                         },
                         {
@@ -7434,14 +7000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…そうなんだよ！ミーアちゃんが残しちゃって…」"
+                                "Shopkeeper: \"Ah... that's right! Mia-chan left some behind...\""
                             ]
                         },
                         {
@@ -7458,14 +7017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア、ちゃんと食べたよ！」"
+                                "Mia: \"Mia ate properly!\""
                             ]
                         },
                         {
@@ -7482,14 +7034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しょうがないなぁ…。次はちゃんと食べてね」"
+                                "Umi: \"Can't be helped... Make sure to eat properly next time, okay?\""
                             ]
                         },
                         {
@@ -7506,14 +7051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「次は…私がちゃんと食べさすよ」"
+                                "Shopkeeper: \"Next time... I'll make sure she eats properly.\""
                             ]
                         },
                         {
@@ -7530,14 +7068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶぅ……ちゃんと食べたのに……」"
+                                "Mia: \"Hmph... even though I ate properly...\""
                             ]
                         },
                         {

@@ -3211,14 +3211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでこんな場所にスライムがいるんだ？」"
+                                "Kru \"Why are there slimes in a place like this?\""
                             ]
                         },
                         {
@@ -3269,14 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スライムはどこにでもいる」"
+                                "Umi \"Slimes can be found anywhere.\""
                             ]
                         },
                         {
@@ -3293,7 +3279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブルブル！"
+                                "Blub blub blub blub!"
                             ]
                         },
                         {
@@ -3310,14 +3296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ！スライムが震えてる！」"
+                                "Kru \"Whoa! The slime is trembling!\""
                             ]
                         },
                         {
@@ -3350,14 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変！スライムが興奮している！」"
+                                "Umi \"This is bad! The slime is getting excited!\""
                             ]
                         },
                         {
@@ -3510,14 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでこんなに強いんだ？」"
+                                "Kru \"Why are you so strong?\""
                             ]
                         },
                         {
@@ -3568,14 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今のうちに逃げる！」"
+                                "Umi \"Let's escape while we can!\""
                             ]
                         },
                         {
@@ -3695,14 +3653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…。このスライムやけに強かったな…」"
+                                "Kru: \"Phew... That slime was unusually strong...\""
                             ]
                         },
                         {
@@ -3753,14 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「聞いたことある。発情期のスライムは異常な強さを見せる」"
+                                "Umi: \"I've heard that slimes in heat show abnormal strength.\""
                             ]
                         },
                         {
@@ -3777,14 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんだ…初めて知った。じゃあ早いところとどめを刺そう」"
+                                "Kru: \"Is that so... I didn't know that. Let's finish it off quickly then.\""
                             ]
                         },
                         {
@@ -3801,7 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブルブル！"
+                                "Wobble wobble wobble wobble!"
                             ]
                         },
                         {
@@ -3818,14 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ！」"
+                                "Kru: \"Whoa!\""
                             ]
                         },
                         {
@@ -3870,14 +3800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変！」"
+                                "Umi: \"This is bad!\""
                             ]
                         },
                         {
@@ -3894,14 +3817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この！ダメだ！スライムがまとわりついて、身動きが取れない！」"
+                                "Kru: \"Damn it! I can't move, the slime is clinging to me!\""
                             ]
                         },
                         {
@@ -3934,14 +3850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミがなんとかする！」"
+                                "Umi: \"Umi will do something about it!\""
                             ]
                         },
                         {
@@ -4005,7 +3914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビチャビチャ！"
+                                "Squish squish!"
                             ]
                         },
                         {
@@ -4022,14 +3931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャ！スライム振ってきた！」"
+                                "Umi: \"Kyaa! The slime splashed me!\""
                             ]
                         },
                         {
@@ -4079,14 +3981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌！ダメ！このスライム離れない！」"
+                                "Umi: \"No! Stop! The slime won't come off!\""
                             ]
                         },
                         {
@@ -4103,14 +3998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！大丈夫か！」"
+                                "Kru: \"Umi! Are you okay?\""
                             ]
                         },
                         {
@@ -4143,14 +4031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ！このスライムなんか変！」"
+                                "Umi: \"No! This slime is weird!\""
                             ]
                         },
                         {
@@ -4167,14 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「変？変ってなんだ！」"
+                                "Kru: \"Weird? What do you mean by weird?\""
                             ]
                         },
                         {
@@ -4207,14 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんか…こう…。とにかく変なの！」"
+                                "Umi: \"It's just... somehow... it's weird in every way!\""
                             ]
                         },
                         {
@@ -4266,14 +4133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうしよう…。こそばゆくて、ムズムズする…)"
+                                "Umi: (What should I do... It's tickling and making me feel itchy...)"
                             ]
                         },
                         {
@@ -4290,21 +4150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまないウミ！すぐ振りほどいて助ける！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この！この！離れろ！」"
+                                "Kru: \"I'm sorry, Umi! I'll shake it off and help you right away! Get off!\nGet off!\""
                             ]
                         },
                         {
@@ -4337,14 +4183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…、あぁ…、なんか…感触が…」"
+                                "Umi: \"No... Ah... The sensation is...\""
                             ]
                         },
                         {
@@ -4377,14 +4216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嫌…。どんどんこそばゆい所が温かくなってきてる…)"
+                                "Umi: (No... The ticklish spots are getting warmer and warmer...)"
                             ]
                         },
                         {
@@ -4401,7 +4233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュクジュクジュク…"
+                                "Squelch squelch squelch..."
                             ]
                         },
                         {
@@ -4434,14 +4266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌ぁ…服が溶けてきてる…」"
+                                "Umi: \"No... My clothes are starting to dissolve...\""
                             ]
                         },
                         {
@@ -4458,14 +4283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ！この！ウミ！大丈夫か！」"
+                                "Kru: \"Damn it! Umi! Are you okay?\""
                             ]
                         },
                         {
@@ -4498,14 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫じゃない…。恥ずかしい…」"
+                                "Umi: \"I'm not okay... It's embarrassing...\""
                             ]
                         },
                         {
@@ -4550,14 +4361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(恥ずかしいからかな…すごく熱い…)"
+                                "Umi: (Is it because I'm embarrassed...? I'm feeling really hot...)"
                             ]
                         },
                         {
@@ -4574,7 +4378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムニュムニュムニュムニュ…"
+                                "Mush mush mush mush..."
                             ]
                         },
                         {
@@ -4607,14 +4411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…、やっやめて…」"
+                                "Umi: \"Haa haa haa... Stop it...\""
                             ]
                         },
                         {
@@ -4631,14 +4428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！ひどいことされてるのか⁉」"
+                                "Kru: \"Umi! Are you being treated badly?!\""
                             ]
                         },
                         {
@@ -4671,14 +4461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違う…くない。そう！スライムがウミの身体を…」"
+                                "Umi: \"It's not that... It's not. That's right! The slime is on Umi's\nbody...\""
                             ]
                         },
                         {
@@ -4711,14 +4494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(はぁはぁ…。ちょっと気持ち良くなってきたなんて言えない…)"
+                                "Umi: (Haa haa... I can't say that it's starting to feel good...)"
                             ]
                         },
                         {
@@ -4751,14 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願い…離れて…あっ！」"
+                                "Umi: \"Please... get off... Ah!\""
                             ]
                         },
                         {
@@ -4775,14 +4544,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうした！」"
+                                "Kru: \"What happened!\""
                             ]
                         },
                         {
@@ -4815,14 +4577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんでも…ない」"
+                                "Umi: \"It's nothing... nothing at all.\""
                             ]
                         },
                         {
@@ -4839,14 +4594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちくしょう！はぁ！」"
+                                "Kru: \"Damn it! Haa!\""
                             ]
                         },
                         {
@@ -5055,14 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ！やっと離れた。ウミ！今助ける！」"
+                                "Kru: \"Hah, hah! Finally got away. Umi! I'm coming to save you now!\""
                             ]
                         },
                         {
@@ -5190,14 +4931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…よかった…」"
+                                "Kru: \"Hah... Thank goodness...\""
                             ]
                         },
                         {
@@ -5248,14 +4982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐすん…あっありがとう…」"
+                                "Umi: \"Sob... Thank you...\""
                             ]
                         },
                         {
@@ -5272,14 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひどい目にあったな…ケガはないか？」"
+                                "Kru: \"You've had a terrible time... Are you hurt?\""
                             ]
                         },
                         {
@@ -5312,14 +5032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ケガない…けど…」"
+                                "Umi: \"I'm not hurt... but...\""
                             ]
                         },
                         {
@@ -5336,14 +5049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「けど？」"
+                                "Kru: \"But?\""
                             ]
                         },
                         {
@@ -5376,14 +5082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恥ずかしいからあっち向いて！」"
+                                "Umi: \"It's embarrassing, so please look away!\""
                             ]
                         },
                         {
@@ -5400,14 +5099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！ごめんごめん！」"
+                                "Kru: \"Whoa! Sorry, sorry!\""
                             ]
                         },
                         {
@@ -5424,7 +5116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムにマーキングされた。"
+                                "Marked by the slime."
                             ]
                         },
                         {
@@ -5651,14 +5343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またスライムか！」"
+                                "Kru: \"Slimes again!\""
                             ]
                         },
                         {
@@ -5709,14 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スライムはもういや…」"
+                                "Umi: \"I'm so tired of slimes...\""
                             ]
                         },
                         {
@@ -5733,7 +5411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブルブル！"
+                                "Blub blub blub blub!"
                             ]
                         },
                         {
@@ -5750,14 +5428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ！またスライムが震えてる！」"
+                                "Kru: \"Whoa! The slime is trembling again!\""
                             ]
                         },
                         {
@@ -5790,14 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっいや！襲ってこないで！」"
+                                "Umi: \"N-No! Don't attack me!\""
                             ]
                         },
                         {
@@ -5950,14 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっなんて強いスライムなんだ！」"
+                                "Kru: \"Damn, what a strong slime!\""
                             ]
                         },
                         {
@@ -6008,14 +5665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「スライムは嫌！」"
+                                "Umi: \"I hate slimes!\""
                             ]
                         },
                         {
@@ -6032,14 +5682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今のうちに逃げるぞ！」"
+                                "Kru: \"We should escape while we can!\""
                             ]
                         },
                         {
@@ -6159,14 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しまった囲まれた！」"
+                                "Kru: \"Damn, we're surrounded!\""
                             ]
                         },
                         {
@@ -6217,14 +5853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌ぁ…こないで…」"
+                                "Umi: \"No... don't come any closer...\""
                             ]
                         },
                         {
@@ -6241,7 +5870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブルブル！"
+                                "Shivering!"
                             ]
                         },
                         {
@@ -6258,14 +5887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しまった…捕まった！」"
+                                "Kru: \"Damn it... we've been caught!\""
                             ]
                         },
                         {
@@ -6298,14 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ！離れて！」"
+                                "Umi: \"No! Get away from me!\""
                             ]
                         },
                         {
@@ -6322,14 +5937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru: \"Umi!\""
                             ]
                         },
                         {
@@ -6365,7 +5973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バリバリ！ビリビリ！"
+                                "Ripping! Zapping!"
                             ]
                         },
                         {
@@ -6415,14 +6023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁぁぁ！」"
+                                "Umi: \"No, no, no!\""
                             ]
                         },
                         {
@@ -6439,14 +6040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！くそっ離せ！」"
+                                "Kru: \"Umi! Damn it, let her go!\""
                             ]
                         },
                         {
@@ -6475,7 +6069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷよぷよぷよ…"
+                                "Squishy squishy squishy..."
                             ]
                         },
                         {
@@ -6508,14 +6102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嫌…なんでこんな…こんな風に触るの…」"
+                                "Umi: \"No... why are you touching me like this...\""
                             ]
                         },
                         {
@@ -6548,14 +6135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(前と一緒…。なんなのこのスライムは…。種類が違うの…？)"
+                                "Umi: (Just like before... what is this slime... is it a different kind?...)"
                             ]
                         },
                         {
@@ -6572,7 +6152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷにぷにぷにぷに…"
+                                "Squishy squishy squishy..."
                             ]
                         },
                         {
@@ -6624,14 +6204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…そこは…だめ…」"
+                                "Umi: \"Ah... not there... that's bad...\""
                             ]
                         },
                         {
@@ -6664,14 +6237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（弱いところばかり触ってくる…。人間の事よく分かってるんだ…）"
+                                "Umi: (It keeps touching my weak spots... it knows humans too well...)"
                             ]
                         },
                         {
@@ -6704,14 +6270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…汗が…」"
+                                "Umi: \"Hah hah hah... I'm sweating...\""
                             ]
                         },
                         {
@@ -6744,14 +6303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（熱い…汗がいっぱい出ちゃう…）"
+                                "Umi: (It's hot... I'm sweating so much...)"
                             ]
                         },
                         {
@@ -6768,7 +6320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷにぷにぷに…"
+                                "Squishy squishy squishy..."
                             ]
                         },
                         {
@@ -6813,14 +6365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっ…ちゅぱ…やだ…口の中は…」"
+                                "Umi: \"No... suck... I don't want it... not in my mouth...\""
                             ]
                         },
                         {
@@ -6837,7 +6382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムニュムニュムニュ…"
+                                "Mushy mushy mushy..."
                             ]
                         },
                         {
@@ -6870,14 +6415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(このスライム、甘い…体液が甘いの？)"
+                                "Umi: (This slime, it's sweet... is its body fluid sweet?)"
                             ]
                         },
                         {
@@ -6894,7 +6432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムニュムニュムニュ…"
+                                "Mushy mushy mushy..."
                             ]
                         },
                         {
@@ -6927,21 +6465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(この甘み…頭がクラクラしてくる…それに身体が熱くなってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムの体液にそういう作用があるの…)"
+                                "Umi: (This sweetness... it's making my head spin... and my body's getting\nhotter. Does the slime's body fluid have this effect...)"
                             ]
                         },
                         {
@@ -6958,7 +6482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリクリクリ…"
+                                "Twirling twirling twirling..."
                             ]
                         },
                         {
@@ -6991,14 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ダメ！」"
+                                "Umi: \"Ah! No!\""
                             ]
                         },
                         {
@@ -7015,14 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！どうしたんだ！」"
+                                "Kru: \"Umi! What's wrong?\""
                             ]
                         },
                         {
@@ -7055,14 +6565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんでも…なんでもないの…」"
+                                "Umi: \"It's nothing... nothing at all...\""
                             ]
                         },
                         {
@@ -7079,7 +6582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クリッ"
+                                "Click"
                             ]
                         },
                         {
@@ -7112,14 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぁぁぁ！」"
+                                "Umi: \"Hyaah!\""
                             ]
                         },
                         {
@@ -7136,14 +6632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！くそっ離れろ！」"
+                                "Kru: \"Umi! Damn it, get off her!\""
                             ]
                         },
                         {
@@ -7176,14 +6665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…。はぁはぁ…」"
+                                "Umi: \"Hah... hah hah...\""
                             ]
                         },
                         {
@@ -7216,21 +6698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おかしい…さっきよりも明らかに感度が増してる…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このスライム何かウミにしたんだ…)　"
+                                "Umi: (This is strange... my sensitivity has clearly increased since\nearlier... what did this slime do to Umi...)"
                             ]
                         },
                         {
@@ -7247,7 +6715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チュパチュパチュパ…"
+                                "Sucking sucking sucking..."
                             ]
                         },
                         {
@@ -7280,14 +6748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(甘い、甘い、甘い…。頭の中甘いのでいっぱいになっちゃう…)"
+                                "Umi: (Sweet, sweet, sweet... my head is filled with sweetness...)"
                             ]
                         },
                         {
@@ -7327,14 +6788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…もう…やめて…。ウミを解放して…」"
+                                "Umi: \"Hah hah hah... enough... please stop... release Umi...\""
                             ]
                         },
                         {
@@ -7351,7 +6805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブル…"
+                                "Shivering!"
                             ]
                         },
                         {
@@ -7384,14 +6838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ…」"
+                                "Umi: \"Eh...?\""
                             ]
                         },
                         {
@@ -7424,14 +6871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっ今度は何をするの…)"
+                                "Umi: (What is it going to do now...)"
                             ]
                         },
                         {
@@ -7593,7 +7033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドサッ"
+                                "Thud"
                             ]
                         },
                         {
@@ -7610,14 +7050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャッ！」"
+                                "Umi: \"Kyaa!\""
                             ]
                         },
                         {
@@ -7634,14 +7067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru: \"Umi!\""
                             ]
                         },
                         {
@@ -7850,7 +7276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブル！"
+                                "Brrr, brrr, brrr!"
                             ]
                         },
                         {
@@ -7883,14 +7309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何⁉そんなに震えて…」"
+                                "Umi \"What⁉ Why are you trembling so much...\""
                             ]
                         },
                         {
@@ -7907,14 +7326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いったい何をするつもりだんだ！」"
+                                "Kru \"What the hell are you planning to do!\""
                             ]
                         },
                         {
@@ -7943,7 +7355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぷぬぷぬぷぬぷ…"
+                                "Squelch, squelch, squelch, squelch..."
                             ]
                         },
                         {
@@ -7976,14 +7388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁぁぁぁぁ！」"
+                                "Umi \"Nooo ahhhhhh!\""
                             ]
                         },
                         {
@@ -8000,14 +7405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうそだろ…。まさか…今、お尻の穴に入ったのか…」"
+                                "Kru \"No way... Don't tell me... Did it just go into her butt hole...\""
                             ]
                         },
                         {
@@ -8036,7 +7434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squelch, squelch, squelch, squelch..."
                             ]
                         },
                         {
@@ -8088,14 +7486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！お願い！出し入れしないで！あぁっ！」"
+                                "Umi \"Ah! Please! Don't thrust it in and out! Ahh!\""
                             ]
                         },
                         {
@@ -8128,14 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嫌！…嫌なのに…嫌なのに…)"
+                                "Umi (No!... I hate this... Even though I hate it...)"
                             ]
                         },
                         {
@@ -8152,7 +7536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニッチニッチニッチニッチ…"
+                                "Nitch, nitch, nitch, nitch..."
                             ]
                         },
                         {
@@ -8185,14 +7569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぅ…はぁはぁはぁ…あぁ！」"
+                                "Umi \"Ah... haa haa haa... ahh!\""
                             ]
                         },
                         {
@@ -8209,14 +7586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ、頑張れ！辛いだろうけど…なんとか耐えてくれ！」"
+                                "Kru \"Hang in there, Umi! I know it's tough but... somehow endure it!\""
                             ]
                         },
                         {
@@ -8249,14 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(違うの…。ウミ…違うの…)"
+                                "Umi (It's not like that... Umi... It's not like that...)"
                             ]
                         },
                         {
@@ -8273,7 +7636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽぬっぽ…"
+                                "Squelch, squelch, squelch, squelch..."
                             ]
                         },
                         {
@@ -8318,14 +7681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…んん！あぁ…はぁはぁはぁ…あぅ…」"
+                                "Umi \"Ugh... mmm! Ahh... haa haa haa... ahh...\""
                             ]
                         },
                         {
@@ -8358,14 +7714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。なんて辛そうなんだ…。あんなに苦しそうな顔をして…」"
+                                "Kru \"Umi... You look so pained... making such a tormented face...\""
                             ]
                         },
                         {
@@ -8382,7 +7731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -8415,14 +7764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(違うの…。そういうのじゃないの…)"
+                                "Umi (It's not like that... It's not that kind of feeling...)"
                             ]
                         },
                         {
@@ -8455,14 +7797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あぅ！あぁ！あぁぁぁ！んぅ！」"
+                                "Umi \"Ah! Ahh! Ahh! Ahhhh! Mmm!\""
                             ]
                         },
                         {
@@ -8479,14 +7814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッウミ⁉」"
+                                "Kru \"U-Umi⁉\""
                             ]
                         },
                         {
@@ -8519,14 +7847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お尻が…)"
+                                "Umi (My butt...)"
                             ]
                         },
                         {
@@ -8543,7 +7864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -8576,14 +7897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お尻が…)"
+                                "Umi (My butt...)"
                             ]
                         },
                         {
@@ -8600,7 +7914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -8645,14 +7959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！あん！あぁん！はぁ…はぁぁぁ！」"
+                                "Umi \"Ahhh! Ahn! Ahhn! Haa... haaaah!\""
                             ]
                         },
                         {
@@ -8755,14 +8062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(お尻が気持ちいいのぉ！)"
+                                "Umi (My butt feels so good!)"
                             ]
                         },
                         {
@@ -8779,14 +8079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！大丈夫か⁉」"
+                                "Kru \"Umi! Are you okay⁉\""
                             ]
                         },
                         {
@@ -8819,14 +8112,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…」"
+                                "Umi \"Haa haa...\""
                             ]
                         },
                         {
@@ -8843,7 +8129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squelch, squelch, squelch, squelch..."
                             ]
                         },
                         {
@@ -8876,14 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「みっ見ないで…お願い…見ないで…」"
+                                "Umi \"Don't look... please... don't look...\""
                             ]
                         },
                         {
@@ -8916,14 +8195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いやぁ…恥ずかしい姿見られた…いやぁ…)"
+                                "Umi (No... I'm being seen in such an embarrassing state... no...)"
                             ]
                         },
                         {
@@ -8940,7 +8212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -8973,14 +8245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…あぅ…んっ…はぁぁん…」"
+                                "Umi \"Ahh... ah... mmm... haaahn...\""
                             ]
                         },
                         {
@@ -9013,14 +8278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(でも恥ずかしいのに…恥ずかしいのが…)"
+                                "Umi (But even though it's embarrassing... the embarrassment is...)"
                             ]
                         },
                         {
@@ -9037,7 +8295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヨン！ボヨン！ボヨン！"
+                                "Bounce! Bounce! Bounce!"
                             ]
                         },
                         {
@@ -9054,14 +8312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ！あのスライム急に変な動きをしだしたぞ！」"
+                                "Kru \"What's that! That slime suddenly started moving weirdly!\""
                             ]
                         },
                         {
@@ -9106,14 +8357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなに…なにをするつもりなの！」"
+                                "Umi \"Wha-what are you going to do now!\""
                             ]
                         },
                         {
@@ -9130,7 +8374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヨ～ン…"
+                                "Bouncy..."
                             ]
                         },
                         {
@@ -9163,14 +8407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あぁぁ！」"
+                                "Umi \"Ah! Ahhh!\""
                             ]
                         },
                         {
@@ -9187,14 +8424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶっ分裂した！しかもあれは…あの赤いスライムは…」"
+                                "Kru \"It split apart! And that red slime is...\""
                             ]
                         },
                         {
@@ -9227,14 +8457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…違うの…そっそんなはずない…」"
+                                "Umi \"Ah... no... it's not like that...\""
                             ]
                         },
                         {
@@ -9251,14 +8474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれは…エクスタシースライム…。宿主の性感が高ければ赤い色をして生まれるという…」"
+                                "Kru \"That's... an Ecstasy Slime... It's said to turn red when its host's\nsexual arousal is high...\""
                             ]
                         },
                         {
@@ -9291,14 +8507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…お願い…見ないで…」"
+                                "Umi \"No... please... don't look...\""
                             ]
                         },
                         {
@@ -9315,21 +8524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなにかの間違いだろ…。だってそれなら…ウミはお尻でスライムが赤くなる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　くらい感じていたってことに…」"
+                                "Kru \"It must be some kind of mistake... because if that's true... it means\nUmi was feeling it in her butt enough to make the slime turn red...\""
                             ]
                         },
                         {
@@ -9346,7 +8541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヨンボヨンボヨン…"
+                                "Bounce! Bounce! Bounce!"
                             ]
                         },
                         {
@@ -9449,14 +8644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。あぁ…やめて…」"
+                                "Umi \"Ah... ah... stop it...\""
                             ]
                         },
                         {
@@ -9473,14 +8661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うそだろ…あっあんなにたくさん…」"
+                                "Kru \"No way... so many of them...\""
                             ]
                         },
                         {
@@ -9513,14 +8694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いやぁ…恥ずかしい…)"
+                                "Umi (No... it's embarrassing...)"
                             ]
                         },
                         {
@@ -9537,7 +8711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -9582,14 +8756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！ぁあん！おっお願い…もう…やめて…」"
+                                "Umi \"Ah! Aaah! Please... stop it...\""
                             ]
                         },
                         {
@@ -9606,14 +8773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウッウミ…)"
+                                "Kru (Umi...)"
                             ]
                         },
                         {
@@ -9630,7 +8790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -9663,14 +8823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あぁん！あぁ…はぁはぁ…」"
+                                "Umi \"Ah! Aahn! Ah... haa haa...\""
                             ]
                         },
                         {
@@ -9703,14 +8856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこのスライム…まだまだ産む気なんだ…)"
+                                "Umi (This slime... it still wants to breed...)"
                             ]
                         },
                         {
@@ -9743,14 +8889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…んぅ…あぁ！やっやだ…嫌…。あぁ！」"
+                                "Umi \"Haa haa... nnn... ah! No... I hate it... ah!\""
                             ]
                         },
                         {
@@ -9767,7 +8906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぽぬっぽぬっぽ！"
+                                "Squelch, squelch, squelch!"
                             ]
                         },
                         {
@@ -9800,14 +8939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ！激しくしないで！」"
+                                "Umi \"No! Don't be so rough!\""
                             ]
                         },
                         {
@@ -9840,14 +8972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いやぁ！お願い…もうお尻で感じたくないのに…あぁ！)"
+                                "Umi (No! Please... I don't want to feel it in my butt anymore... ah!)"
                             ]
                         },
                         {
@@ -9864,7 +8989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヨンボヨンボヨン！"
+                                "Bounce! Bounce! Bounce!"
                             ]
                         },
                         {
@@ -9897,14 +9022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やぁ…もう…産まれないで…恥ずかしい…いやぁ…」"
+                                "Umi \"No... not anymore... don't be born... it's embarrassing... no...\""
                             ]
                         },
                         {
@@ -9921,7 +9039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボヨ～ン…"
+                                "Bouncy..."
                             ]
                         },
                         {
@@ -9938,14 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんて数なんだ…」"
+                                "Kru \"What a number...\""
                             ]
                         },
                         {
@@ -9978,14 +9089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…いやぁ…はぁはぁ…」"
+                                "Umi \"No... no... haa haa...\""
                             ]
                         },
                         {
@@ -10002,7 +9106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squelch, squelch, squelch, squelch..."
                             ]
                         },
                         {
@@ -10117,14 +9221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁん…はぁはぁ…あぁ！ああぁ！」"
+                                "Umi \"Haaan... haa haa... ah! Aaah!\""
                             ]
                         },
                         {
@@ -10141,21 +9238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウミ…あんなに肌を赤くさせて…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっそんなにスライムにお尻を犯されるのが気持ちいいのか…)"
+                                "Kru (Umi... her skin is turning so red... does she really feel good being\nviolated by the slime in her butt like that...)"
                             ]
                         },
                         {
@@ -10188,14 +9271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ぁぁぁああ！ああぁん！あぁ！」"
+                                "Umi \"Ah! Aaaaah! Aaahn! Ah!\""
                             ]
                         },
                         {
@@ -10212,14 +9288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(違う！違う！きっと何かあのスライムにされているんだ！きっとそうだ！)"
+                                "Kru (No! It's not true! She must be affected by that slime somehow! That\nmust be it!)"
                             ]
                         },
                         {
@@ -10252,14 +9321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ！はぁぁぁん！あぁ！ああぁ！」"
+                                "Umi \"Haa haa! Haaan! Ah! Aaah!\""
                             ]
                         },
                         {
@@ -10292,14 +9354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だめ…このままじゃ…本当におかしくなっちゃう…)"
+                                "Umi (No good... at this rate... I'll really go crazy...)"
                             ]
                         },
                         {
@@ -10316,7 +9371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっぷぬっぷぬっぷぬっぷ…"
+                                "Squelch, squelch, squelch, squelch..."
                             ]
                         },
                         {
@@ -10349,14 +9404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！あん！はぁ！ああぁん！」"
+                                "Umi \"Ah! Aahn! Haa! Aaahn!\""
                             ]
                         },
                         {
@@ -10389,14 +9437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まだ続けるの…このままじゃ…ウミ…)"
+                                "Umi (It's still going on... at this rate... Umi...)"
                             ]
                         },
                         {
@@ -10429,14 +9470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっお願い…たす…あぁ…助けて…」"
+                                "Umi \"Please... help... ah... save me...\""
                             ]
                         },
                         {
@@ -10453,14 +9487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！くそっ！うぉぉぉぉぉ！」"
+                                "Kru \"Umi! Damn it! Uooooooh!\""
                             ]
                         },
                         {
@@ -10477,7 +9504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブチブチブチ！"
+                                "Snap, snap, snap!"
                             ]
                         },
                         {
@@ -10583,14 +9610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やった！離れたぞ！」"
+                                "Kru \"I did it! It's detached!\""
                             ]
                         },
                         {
@@ -10607,14 +9627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ早く…」"
+                                "Umi \"Hurry up...\""
                             ]
                         },
                         {
@@ -10631,14 +9644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミから離れろ！」"
+                                "Kru \"Get away from Umi!\""
                             ]
                         },
                         {
@@ -10655,7 +9661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブンブンブン…"
+                                "Whirr, whirr, whirr..."
                             ]
                         },
                         {
@@ -10717,14 +9723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…。よかった…。スライム達が逃げてくれて…」"
+                                "Kru \"Haa haa haa... Thank goodness... The slimes have fled...\""
                             ]
                         },
                         {
@@ -10775,14 +9774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…」"
+                                "Umi \"Haa haa haa...\""
                             ]
                         },
                         {
@@ -10799,14 +9791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…大丈夫か？」"
+                                "Kru \"Umi... Are you okay?\""
                             ]
                         },
                         {
@@ -10839,14 +9824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…うっうん。大丈夫…。あっありがとう、助けてくれて…」"
+                                "Umi \"Haa haa... Yeah, I'm fine... Thank you for saving me...\""
                             ]
                         },
                         {
@@ -10879,14 +9857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あっあんな姿見られて…はっ恥ずかしい…)"
+                                "Umi (Ah, to be seen in such a state... How embarrassing...)"
                             ]
                         },
                         {
@@ -10903,14 +9874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにしてもひどい目にあったな…。あのスライムの毒か何かにやられたんだろ？」"
+                                "Kru \"You really went through a terrible ordeal... You were affected by the\nslime's poison or something, right?\""
                             ]
                         },
                         {
@@ -10943,14 +9907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？そっ…そう！あのスライム！ウミに変な毒を…」"
+                                "Umi \"Eh? Oh... Yes! That slime! It poisoned Umi with something strange...\""
                             ]
                         },
                         {
@@ -10983,14 +9940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そう！それしか考えられない！そんなわけない！)"
+                                "Umi (Yes! That's the only explanation! It can't be anything else!)"
                             ]
                         },
                         {
@@ -11007,14 +9957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよな！ったくあのスライム」"
+                                "Kru \"Right?! Damn that slime.\""
                             ]
                         },
                         {
@@ -11047,14 +9990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなわけない…。お尻で気持ちいいなんて…。)"
+                                "Umi (It can't be... Feeling good from my butt...)"
                             ]
                         },
                         {
@@ -11071,14 +10007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ少し休んだら出発しよう」"
+                                "Kru \"Let's rest a bit before we set off.\""
                             ]
                         },
                         {
@@ -11111,14 +10040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…。そうする」"
+                                "Umi \"Yeah... Let's do that.\""
                             ]
                         },
                         {
@@ -11151,14 +10073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そんなわけない…。)"
+                                "Umi (It can't be...)"
                             ]
                         },
                         {

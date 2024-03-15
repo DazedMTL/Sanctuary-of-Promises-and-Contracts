@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv1～4】",
+        "name": "[Lv1~4]",
         "note": "",
         "params": [
             100,
@@ -116,7 +116,7 @@
             }
         ],
         "gold": 0,
-        "name": "ファイアウルフ",
+        "name": "Fire Wolf",
         "note": "",
         "params": [
             99999,
@@ -200,7 +200,7 @@
             }
         ],
         "gold": 0,
-        "name": "呼種の番人",
+        "name": "Guardian of the Summoned",
         "note": "",
         "params": [
             80000,
@@ -267,7 +267,7 @@
             }
         ],
         "gold": 5000,
-        "name": "スライム",
+        "name": "Slime",
         "note": "",
         "params": [
             5000,
@@ -341,7 +341,7 @@
             }
         ],
         "gold": 0,
-        "name": "プラントバイツ",
+        "name": "Plant Bites",
         "note": "",
         "params": [
             5000,
@@ -430,7 +430,7 @@
             }
         ],
         "gold": 10000,
-        "name": "山神デビダム",
+        "name": "Mountain God Debiddam",
         "note": "",
         "params": [
             150000,
@@ -492,7 +492,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv5】",
+        "name": "[Lv5]",
         "note": "",
         "params": [
             100,
@@ -603,7 +603,7 @@
             }
         ],
         "gold": 10000,
-        "name": "将軍トロス",
+        "name": "General Tros",
         "note": "",
         "params": [
             300000,
@@ -665,7 +665,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv6～9】",
+        "name": "[Lv6~9]",
         "note": "",
         "params": [
             100,
@@ -744,7 +744,7 @@
             }
         ],
         "gold": 5000,
-        "name": "宝玉の番人",
+        "name": "Guardian of the Jewel",
         "note": "",
         "params": [
             10000,
@@ -838,7 +838,7 @@
             }
         ],
         "gold": 25,
-        "name": "風の試練",
+        "name": "Wind Trial",
         "note": "",
         "params": [
             236,
@@ -937,7 +937,7 @@
             }
         ],
         "gold": 29,
-        "name": "火の試練",
+        "name": "Fire Trial",
         "note": "",
         "params": [
             219,
@@ -1042,7 +1042,7 @@
             }
         ],
         "gold": 0,
-        "name": "ジャイアントフロッグ",
+        "name": "Giant Frog",
         "note": "",
         "params": [
             100000,
@@ -1166,7 +1166,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv10】",
+        "name": "[Lv10]",
         "note": "",
         "params": [
             100,
@@ -1313,7 +1313,7 @@
             }
         ],
         "gold": 0,
-        "name": "ガーゴイル",
+        "name": "Gargoyle",
         "note": "",
         "params": [
             3318,
@@ -1375,7 +1375,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv11～14】",
+        "name": "[Lv11~14]",
         "note": "",
         "params": [
             100,
@@ -1481,7 +1481,7 @@
             }
         ],
         "gold": 38,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "",
         "params": [
             360,
@@ -1574,7 +1574,7 @@
             }
         ],
         "gold": 42,
-        "name": "パペット",
+        "name": "Puppet",
         "note": "",
         "params": [
             387,
@@ -1680,7 +1680,7 @@
             }
         ],
         "gold": 30,
-        "name": "アイススピリット",
+        "name": "Ice Spirit",
         "note": "",
         "params": [
             370,
@@ -1778,7 +1778,7 @@
             }
         ],
         "gold": 33,
-        "name": "サンダーデビル",
+        "name": "Thunder Devil",
         "note": "",
         "params": [
             412,
@@ -1874,7 +1874,7 @@
             }
         ],
         "gold": 37,
-        "name": "スケルトン",
+        "name": "Skeleton",
         "note": "",
         "params": [
             441,
@@ -1936,7 +1936,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv15】",
+        "name": "[Lv15]",
         "note": "",
         "params": [
             100,
@@ -2080,7 +2080,7 @@
             }
         ],
         "gold": 0,
-        "name": "デス",
+        "name": "Death",
         "note": "",
         "params": [
             4452,
@@ -2142,7 +2142,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv16～19】",
+        "name": "[Lv16~19]",
         "note": "",
         "params": [
             100,
@@ -2231,7 +2231,7 @@
             }
         ],
         "gold": 45,
-        "name": "サイレントバット",
+        "name": "Silent Bat",
         "note": "",
         "params": [
             562,
@@ -2317,7 +2317,7 @@
             }
         ],
         "gold": 48,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             630,
@@ -2415,7 +2415,7 @@
             }
         ],
         "gold": 49,
-        "name": "コカトリス",
+        "name": "Cockatrice",
         "note": "",
         "params": [
             594,
@@ -2515,7 +2515,7 @@
             }
         ],
         "gold": 51,
-        "name": "バッドピクシー",
+        "name": "Bad Pixie",
         "note": "",
         "params": [
             567,
@@ -2606,7 +2606,7 @@
             }
         ],
         "gold": 54,
-        "name": "サラマンダー",
+        "name": "Salamander",
         "note": "",
         "params": [
             662,
@@ -2668,7 +2668,7 @@
             }
         ],
         "gold": 0,
-        "name": "【Lv20】",
+        "name": "[Lv20]",
         "note": "",
         "params": [
             100,
@@ -2836,7 +2836,7 @@
             }
         ],
         "gold": 0,
-        "name": "ドラゴン",
+        "name": "Dragon",
         "note": "",
         "params": [
             7000,
@@ -2910,7 +2910,7 @@
             }
         ],
         "gold": 5000,
-        "name": "狂スライム",
+        "name": "Mad Slime",
         "note": "",
         "params": [
             10000,
@@ -2996,7 +2996,7 @@
             }
         ],
         "gold": 5000,
-        "name": "咲プラントバイツ",
+        "name": "Blooming Plant Bites",
         "note": "",
         "params": [
             10000,
@@ -3100,7 +3100,7 @@
             }
         ],
         "gold": 0,
-        "name": "クセシレイ",
+        "name": "Kusechirei",
         "note": "",
         "params": [
             99999,
@@ -3167,7 +3167,7 @@
             }
         ],
         "gold": 0,
-        "name": "ウミ",
+        "name": "Umi",
         "note": "",
         "params": [
             1500,
@@ -3271,7 +3271,7 @@
             }
         ],
         "gold": 0,
-        "name": "シフ",
+        "name": "Shif",
         "note": "",
         "params": [
             200000,
@@ -3372,7 +3372,7 @@
             }
         ],
         "gold": 1000,
-        "name": "盗人",
+        "name": "Thief",
         "note": "",
         "params": [
             3000,
@@ -3485,7 +3485,7 @@
             }
         ],
         "gold": 5000,
-        "name": "詐欺師",
+        "name": "Swindler",
         "note": "",
         "params": [
             5000,
@@ -3600,7 +3600,7 @@
             }
         ],
         "gold": 10000,
-        "name": "殺人者",
+        "name": "Murderer",
         "note": "",
         "params": [
             7000,
@@ -3708,7 +3708,7 @@
             }
         ],
         "gold": 100000,
-        "name": "変態野郎ハチ・ヨンマル",
+        "name": "Pervert Hachi Yonmaru",
         "note": "",
         "params": [
             10000,
@@ -3794,7 +3794,7 @@
             }
         ],
         "gold": 48,
-        "name": "オーク",
+        "name": "Orc",
         "note": "",
         "params": [
             630,
@@ -3868,7 +3868,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライム　",
+        "name": "Slime",
         "note": "",
         "params": [
             5000,
@@ -3935,7 +3935,7 @@
             }
         ],
         "gold": 0,
-        "name": "スライム　",
+        "name": "Slime",
         "note": "",
         "params": [
             5000,
@@ -4017,7 +4017,7 @@
             }
         ],
         "gold": 0,
-        "name": "滅びの使者　イデオ",
+        "name": "Herald of Ruin Ideo",
         "note": "",
         "params": [
             150000,
@@ -4101,7 +4101,7 @@
             }
         ],
         "gold": 0,
-        "name": "巫女の亡霊",
+        "name": "Priestess's Ghost",
         "note": "",
         "params": [
             80000,

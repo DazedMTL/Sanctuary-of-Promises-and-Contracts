@@ -1977,14 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カカァ…元気ない…？」"
+                                "Umi: \"Grandma... Are you not feeling well...?\""
                             ]
                         },
                         {
@@ -2001,14 +1994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの母"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに言ってるの？カカはいつも元気でしょ？」"
+                                "Umi's Mother: \"What are you talking about? Grandma is always full of\nenergy, right?\""
                             ]
                         },
                         {
@@ -2025,14 +2011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウソ！カカずっとベッドにいるもん！」"
+                                "Umi: \"No way! Grandma is always in bed!\""
                             ]
                         },
                         {
@@ -2049,21 +2028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カカはここが好きだからいるのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもごめんね、ウミ…。カカとお外で遊びたいよね」"
+                                "Grandma: \"I stay here because I like it. But I'm sorry, Umi... You want to\nplay outside with Grandma, don't you?\""
                             ]
                         },
                         {
@@ -2080,21 +2045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遊びたいけど…ウミ平気！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カカが早く元気になるように、お祈りしてくる！」"
+                                "Umi: \"I want to play, but... Umi is okay! I'll go pray for Grandma to get\nbetter quickly!\""
                             ]
                         },
                         {
@@ -2111,14 +2062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの母"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう…ウミ…」"
+                                "Umi's Mother: \"Thank you... Umi...\""
                             ]
                         },
                         {
@@ -2433,14 +2377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トトおかえり！」"
+                                "Umi: \"Toto, welcome back!\""
                             ]
                         },
                         {
@@ -2457,14 +2394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅウミ。どっか行くのか？」"
+                                "Umi's Father: \"Hey, Umi. Are you going somewhere?\""
                             ]
                         },
                         {
@@ -2481,14 +2411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。カカの病気治るように、くれしれせい様にお祈りしてくる」"
+                                "Umi: \"Yeah. I'm going to pray to the god Kureshiresama for Grandma's\nillness to be cured.\""
                             ]
                         },
                         {
@@ -2505,14 +2428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイ様な。おぅえらいなウミ！ウミがお祈りすればきっと良くなるよ」"
+                                "Umi's Father: \"Kureshirei-sama, huh. Oh, that's very good of you, Umi! If\nyou pray, I'm sure she'll get better.\""
                             ]
                         },
                         {
@@ -2529,14 +2445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウソ…。ウミずっとお祈りしてるけど、カカ全然良くならないもん」"
+                                "Umi: \"That's not true... I've been praying all the time, but Grandma isn't\ngetting any better.\""
                             ]
                         },
                         {
@@ -2553,14 +2462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの母"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた、おかえりなさい」"
+                                "Umi's Mother: \"Dear, welcome back.\""
                             ]
                         },
                         {
@@ -2577,14 +2479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの父"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ戻ったよ…。すまない、森中探したんだが、やはりブドウは見つからなかった」"
+                                "Umi's Father: \"Ah, I'm back... Sorry, I searched all over the forest, but I\ncouldn't find any grapes.\""
                             ]
                         },
                         {
@@ -2601,14 +2496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（カカ…ブドウが好きだったな…。もし食べれたら元気になれるかも…）"
+                                "Umi: (Grandma... used to love grapes... Maybe she could get better if she\ncould eat some...)"
                             ]
                         },
                         {
@@ -2625,14 +2513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そうだ‼‼）"
+                                "Umi: (That's it!!)"
                             ]
                         },
                         {

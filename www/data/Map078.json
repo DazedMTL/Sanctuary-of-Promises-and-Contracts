@@ -8746,7 +8746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]エクスタシースライムを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ecstasy Slime!"
                             ]
                         },
                         {
@@ -8763,7 +8763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]スライムの肝を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Gained the Slime's Liver!"
                             ]
                         },
                         {
@@ -8780,7 +8780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]上薬草を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Acquired the Superior Herb!"
                             ]
                         },
                         {
@@ -9746,7 +9746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オークを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Orc!"
                             ]
                         },
                         {
@@ -9763,7 +9763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オークのバラ肉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained Orc's Wild Meat!"
                             ]
                         },
                         {
@@ -9780,7 +9780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]回帰丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Return Sphere!"
                             ]
                         },
                         {

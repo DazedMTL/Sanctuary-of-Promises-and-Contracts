@@ -2074,14 +2074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは…」"
+                                "Umi: \"This place is...\""
                             ]
                         },
                         {
@@ -2098,14 +2091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この奥に歴代の巫女様の魂が祀られているんだろ？」"
+                                "Kru: \"The souls of the successive shrine maidens are enshrined deeper\ninside, right?\""
                             ]
                         },
                         {
@@ -2138,14 +2124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだけど…」"
+                                "Umi: \"Yes, but...\""
                             ]
                         },
                         {
@@ -2162,14 +2141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「巫女様達に協力して貰えないか頼んでみよう」"
+                                "Kru: \"Let's ask the shrine maidens for their cooperation.\""
                             ]
                         },
                         {
@@ -2202,14 +2174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんな事……できるの？」"
+                                "Umi: \"Can we really do something like that?\""
                             ]
                         },
                         {
@@ -2226,14 +2191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やってみるだけやってみよう。さあ、開けて」"
+                                "Kru: \"Let's just try it. Come on, open it.\""
                             ]
                         },
                         {
@@ -2266,14 +2224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうん。わかった」"
+                                "Umi: \"Uh-huh. Understood.\""
                             ]
                         },
                         {
@@ -2315,14 +2266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふっ！」"
+                                "Umi: \"Huff!\""
                             ]
                         },
                         {
@@ -2391,7 +2335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴゴゴゴゴゴゴ………"
+                                "Rumble rumble rumble..."
                             ]
                         },
                         {

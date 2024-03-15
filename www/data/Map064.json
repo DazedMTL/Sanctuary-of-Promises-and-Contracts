@@ -8066,21 +8066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「‼‼‼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　モンスターの声‼‼」"
+                                "Kru: \"!!! Monster's roar!!!\""
                             ]
                         },
                         {
@@ -8280,14 +8266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「女の子‼‼」"
+                                "Kru: \"A girl!!!\""
                             ]
                         },
                         {
@@ -8364,14 +8343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャー…」"
+                                "Cat: \"Meow...\""
                             ]
                         },
                         {
@@ -8388,21 +8360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？ネコ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　目の錯覚かな…。一瞬女の子に見えたけど…」"
+                                "Kru: \"Hm? A cat? Was it an illusion... I thought I saw a girl for a\nmoment...\""
                             ]
                         },
                         {
@@ -8431,14 +8389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャー！」"
+                                "Cat: \"Meow!\""
                             ]
                         },
                         {
@@ -8784,14 +8735,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モンスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴワァァァァ‼‼‼‼」"
+                                "Monster: \"Gwaaaaa!!!!\""
                             ]
                         },
                         {
@@ -9535,14 +9479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、行っちゃった…」"
+                                "Kru: \"Ah, it's gone...\""
                             ]
                         },
                         {
@@ -9559,21 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…えっ助ける？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だってネコだよね…」"
+                                "Kru: \"...Huh, save her? But it's just a cat, right...?\""
                             ]
                         },
                         {
@@ -9590,14 +9513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、もしかしたら女の子かもしれないしなぁ…」"
+                                "Kru: \"No, maybe it could be a girl after all...\""
                             ]
                         },
                         {
@@ -9636,14 +9552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モンスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴワァァァァ‼‼‼‼」"
+                                "Monster: \"Gwaaaaa!!!!\""
                             ]
                         },
                         {
@@ -9660,14 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！行こう！」"
+                                "Kru: \"Ah! Let's go!\""
                             ]
                         },
                         {
@@ -10557,14 +10459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"Not this way.\""
                             ]
                         },
                         {
@@ -10632,14 +10527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"Not this way.\""
                             ]
                         },
                         {
@@ -10791,14 +10679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"Not this way.\""
                             ]
                         },
                         {
@@ -10866,14 +10747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっちじゃないな」"
+                                "Umi: \"Not this way.\""
                             ]
                         },
                         {
@@ -11001,7 +10875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クセシの村に帰りますか？"
+                                "Shall we return to the village of Kuseshi?"
                             ]
                         },
                         {
@@ -11009,8 +10883,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

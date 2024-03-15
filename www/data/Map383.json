@@ -7302,14 +7302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい！ねぇちゃん！」"
+                                "Rude Customer: \"Hey! Missy!\""
                             ]
                         },
                         {
@@ -7357,14 +7350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…なんでしょう？」"
+                                "Umi: \"Yes... What is it?\""
                             ]
                         },
                         {
@@ -7381,14 +7367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇちゃん！ワシのタイプだからハメハメさせて！」"
+                                "Rude Customer: \"Missy! You're my type, so let's get it on!\""
                             ]
                         },
                         {
@@ -7405,14 +7384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっハメハメ？」"
+                                "Umi: \"Huh? Get it on?\""
                             ]
                         },
                         {
@@ -7429,14 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっとお客さんやめとくれよ！」"
+                                "Shopkeeper: \"Hey, customer, please stop that!\""
                             ]
                         },
                         {
@@ -7453,14 +7418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ…あの人…隣町の大商人の息子だよ…」"
+                                "Customer A: \"Wow... that guy... he's the son of a big merchant from the\nnext town...\""
                             ]
                         },
                         {
@@ -7477,14 +7435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪い噂しか聞かないよ…」"
+                                "Customer B: \"I've only heard bad things about him...\""
                             ]
                         },
                         {
@@ -7501,21 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「何がやめてだ！ワシはこの店の常連だぞ！それにびっくりするくらいの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　金持ちだ！ねぇちゃん！いくら出したらハメハメさせてくれる？」"
+                                "Rude Customer: \"What do you mean stop? I'm a regular at this shop! And I'm\nso rich it'll surprise you! Hey missy! How much do I have to pay for you to\nlet me get it on with you?\""
                             ]
                         },
                         {
@@ -7532,14 +7469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……そんな事しません！」"
+                                "Umi: \"...I won't do such a thing!\""
                             ]
                         },
                         {
@@ -7556,21 +7486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あわあわあわあわ…。どうしよう……怖い…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お兄さん……」"
+                                "Mia: \"Oh no, oh no, oh no... What should I do... I'm scared... Big\nbrother...\""
                             ]
                         },
                         {
@@ -7587,21 +7503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「悪いようにはせん！なんだったら妾にして養ってやってもいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうだ？なんぼ出したらいいんだ？」"
+                                "Rude Customer: \"I won't do anything bad to you! If you want, I could even\nkeep you as my mistress and provide for you! How about it? How much do I\nhave to pay?\""
                             ]
                         },
                         {
@@ -7618,7 +7520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガッ！"
+                                "Thud!"
                             ]
                         },
                         {
@@ -7635,14 +7537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃっ！離して…離してください！」"
+                                "Umi: \"Kyaa! Let go... Please let go!\""
                             ]
                         },
                         {
@@ -7659,14 +7554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「最低だ…」"
+                                "Customer C: \"That's despicable...\""
                             ]
                         },
                         {
@@ -7683,14 +7571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客D"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんとかしてあげたいけど……」"
+                                "Customer D: \"I want to help her, but...\""
                             ]
                         },
                         {
@@ -7707,14 +7588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……トト」"
+                                "Mia: \"...Toto\""
                             ]
                         },
                         {
@@ -7731,14 +7605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その手を離せ！」"
+                                "???: \"Let go of her hand!\""
                             ]
                         },
                         {
@@ -7755,14 +7622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁん？」"
+                                "Rude Customer: \"Huh? Who the hell are you?\""
                             ]
                         },
                         {
@@ -7908,14 +7768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日のお兄さん…」"
+                                "Mia: \"It's the big brother from yesterday...\""
                             ]
                         },
                         {
@@ -7932,14 +7785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーアちゃんを助けてくれた人かい？」"
+                                "Shopkeeper: \"Is that the person who helped Mia-chan yesterday?\""
                             ]
                         },
                         {
@@ -7956,14 +7802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その手を離せ、ゲス野郎」"
+                                "???: \"Let go of her hand, you scumbag.\""
                             ]
                         },
                         {
@@ -7980,14 +7819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁん…誰だてめぇは……」"
+                                "Rude Customer: \"Ahh... who the hell are you...\""
                             ]
                         },
                         {
@@ -8004,14 +7836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その手はお前のような男が握っていいてじゃない…」"
+                                "???: \"Hands like yours shouldn't be touching her...\""
                             ]
                         },
                         {
@@ -8028,21 +7853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前ワシが誰だかわかっておらんようだな……。その気になればこの店なんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あっという間に潰せるんだぞ…」"
+                                "Rude Customer: \"You don't seem to know who I am... If I felt like it, I\ncould shut down this shop in no time...\""
                             ]
                         },
                         {
@@ -8059,14 +7870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「好きにしろ…。だが…」"
+                                "???: \"Do as you like... but...\""
                             ]
                         },
                         {
@@ -8092,14 +7896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぃぃぃ……なっなんだ…その目は……」"
+                                "Rude Customer: \"Eeeek... what's with those eyes...\""
                             ]
                         },
                         {
@@ -8116,7 +7913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブルブル……"
+                                "Shivering..."
                             ]
                         },
                         {
@@ -8133,14 +7930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その代償はお前の命だけでは足りないがな……」"
+                                "???: \"The price for that won't be just your life, though...\""
                             ]
                         },
                         {
@@ -8157,14 +7947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぃぃぃぃ…」"
+                                "Rude Customer: \"Eeeek...\""
                             ]
                         },
                         {
@@ -8181,14 +7964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんて気迫だ……」"
+                                "Customer A: \"What an intimidating presence...\""
                             ]
                         },
                         {
@@ -8205,14 +7981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……只者じゃない…」"
+                                "Customer B: \"Yeah... he's no ordinary person...\""
                             ]
                         },
                         {
@@ -8229,7 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルブルブルブル……"
+                                "Shivering..."
                             ]
                         },
                         {
@@ -8246,14 +8015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "態度の悪い客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ覚えてろよ！」"
+                                "Rude Customer: \"You'll remember this!\""
                             ]
                         },
                         {
@@ -8289,14 +8051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お騒がせしました」"
+                                "???: \"Sorry for causing a scene.\""
                             ]
                         },
                         {
@@ -8313,14 +8068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ！こちらこそ！危ない所を助けて頂いてありがとうございました！」"
+                                "Shopkeeper: \"No, no! Thank you so much for helping us out of a dangerous\nsituation!\""
                             ]
                         },
                         {
@@ -8337,14 +8085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日のお兄ちゃん！助けてくれてありがとう！」"
+                                "Mia: \"Big brother from yesterday! Thank you for saving me!\""
                             ]
                         },
                         {
@@ -8361,14 +8102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「昨日の……元気そうでよかった」"
+                                "???: \"From yesterday... I'm glad you're okay.\""
                             ]
                         },
                         {
@@ -8385,14 +8119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……あぁ………」"
+                                "Umi: \"...Ah...\""
                             ]
                         },
                         {
@@ -8409,14 +8136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっと見つけた……」"
+                                "???: \"I've finally found you...\""
                             ]
                         },
                         {
@@ -8433,14 +8153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Shopkeeper: \"Eh?\""
                             ]
                         },
                         {
@@ -8483,7 +8196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -8505,14 +8218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「久しぶりだな…ウミ」"
+                                "Kru: \"It's been a while... Umi.\""
                             ]
                         },
                         {
@@ -8529,14 +8235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………クル…」"
+                                "Umi: \"...Kru...\""
                             ]
                         },
                         {
@@ -8553,14 +8252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ク……ル…？」"
+                                "Shopkeeper: \"K... Kru...?\""
                             ]
                         },
                         {
@@ -8577,14 +8269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「って事は………トト…」"
+                                "Mia: \"So that means... Toto...\""
                             ]
                         },
                         {
@@ -8601,14 +8286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっと会えた…。ずっと探していた…」"
+                                "Kru: \"I've finally found you... I've been searching for so long...\""
                             ]
                         },
                         {
@@ -8625,14 +8303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ………ぁ……」"
+                                "Umi: \"Ah... ah...\""
                             ]
                         },
                         {
@@ -8649,14 +8320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…ウミ？」"
+                                "Kru: \"...Umi?\""
                             ]
                         },
                         {
@@ -8673,14 +8337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ごっ……ごめん」"
+                                "Umi: \"...I'm... sorry.\""
                             ]
                         },
                         {
@@ -8958,14 +8615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃん！」"
+                                "Shopkeeper: \"Umi-chan!\""
                             ]
                         },
                         {
@@ -8982,14 +8632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カカ！」"
+                                "Mia: \"Kaka!\""
                             ]
                         },
                         {
@@ -9006,14 +8649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ウミ」"
+                                "Kru: \"...Umi\""
                             ]
                         },
                         {
@@ -9030,14 +8666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ…どうしたんだ…」"
+                                "Customer C: \"What's going on... what happened...\""
                             ]
                         },
                         {
@@ -9054,14 +8683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客D"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだウミちゃん…」"
+                                "Customer D: \"What's wrong Umi-chan...\""
                             ]
                         },
                         {
@@ -9078,14 +8700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Kru: \"...\""
                             ]
                         },
                         {
@@ -9102,14 +8717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ……今日はもう店じまいだ！申し訳ないがお客さん！帰ってもらえますか⁉」"
+                                "Shopkeeper: \"Alright... that's it for today! I'm sorry, but could all the\ncustomers please leave⁉\""
                             ]
                         },
                         {
@@ -9131,7 +8739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざわざわざわ……"
+                                "Murmur murmur murmur..."
                             ]
                         },
                         {
@@ -9148,7 +8756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -9165,7 +8773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -9182,7 +8790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {

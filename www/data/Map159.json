@@ -1958,14 +1958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "司書"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうぞご自由に閲覧下さい」"
+                                "Librarian: \"Please feel free to browse.\""
                             ]
                         },
                         {

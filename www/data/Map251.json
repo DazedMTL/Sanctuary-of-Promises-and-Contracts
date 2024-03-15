@@ -2699,14 +2699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はこの宿に泊まりましょう」"
+                                "Banka: \"Let's stay at this inn tonight.\""
                             ]
                         },
                         {
@@ -2723,14 +2716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一人部屋ばかりしかないんだな」"
+                                "Kru: \"It seems there are only single rooms available.\""
                             ]
                         },
                         {
@@ -2763,14 +2749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。なので皆別々の部屋ですね。寂しいんじゃないですか？ウミさん」"
+                                "Banka: \"Yes. So, everyone will have separate rooms. Aren't you going to be\nlonely, Umi-san?\""
                             ]
                         },
                         {
@@ -2821,14 +2800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…バカ」"
+                                "Umi: \"...Idiot.\""
                             ]
                         },
                         {
@@ -2977,14 +2949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お客さん…勘弁してくださいよ。昨日の喘ぎ声すごかったんですから」"
+                                "Shopkeeper: \"Please, customer... spare me. Your moaning last night was\nincredible.\""
                             ]
                         },
                         {
@@ -3035,14 +3000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ悪い悪い。昨日の娼婦がすごい淫乱で淫乱で！」"
+                                "Banka: \"Ah, my bad, my bad. The prostitute last night was just so lewd and\nwild!\""
                             ]
                         },
                         {
@@ -3059,14 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「勘弁してください。連れ込み宿じゃないんですから」"
+                                "Shopkeeper: \"Please spare me. This isn't a brothel, you know.\""
                             ]
                         },
                         {
@@ -3083,14 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お連れの方からも…お願いしますね」"
+                                "Shopkeeper: \"And please, ask the same of your companion.\""
                             ]
                         },
                         {
@@ -3107,14 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…」"
+                                "Kru: \"Sigh...\""
                             ]
                         },
                         {
@@ -3165,14 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -3236,14 +3166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ…行きますか」"
+                                "Banka: \"Well then... shall we go?\""
                             ]
                         },
                         {
@@ -3260,14 +3183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…。わかった。ん？」"
+                                "Kru: \"Sigh... alright. Hm?\""
                             ]
                         },
                         {
@@ -3284,14 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしました？」"
+                                "Banka: \"What's wrong?\""
                             ]
                         },
                         {
@@ -3308,14 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。目の下クマがあるね。あんまし寝れなかったの？」"
+                                "Kru: \"Umi... you have bags under your eyes. Didn't sleep well?\""
                             ]
                         },
                         {
@@ -3348,14 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ…あぁいや…おかしいな…」"
+                                "Umi: \"Eh... ah, no... that's strange...\""
                             ]
                         },
                         {
@@ -3388,14 +3283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁなんかすみません。オレの連れて来た女がうるさくて寝れなかったんでしょ？」"
+                                "Banka: \"Ah, sorry about that. It must've been because of the noisy woman I\nbrought back, right?\""
                             ]
                         },
                         {
@@ -3412,14 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まったく…。どこであんな淫乱ではしたない女を引っかけてきたんだ」"
+                                "Kru: \"Really... where do you pick up such indecent and lewd women?\""
                             ]
                         },
                         {
@@ -3452,14 +3333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…。いい女でね。ありゃぁ心も体も淫売ですよ」"
+                                "Banka: \"Ah... she was a fine woman. Her heart and body were both utterly\nlewd.\""
                             ]
                         },
                         {
@@ -3492,14 +3366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -3516,14 +3383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。道中辛かったら言うんだよ。急いで帰る必要もないんだから」"
+                                "Kru: \"Umi... if the journey is tough, just say so. There's no need to rush\nback.\""
                             ]
                         },
                         {
@@ -3556,14 +3416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…。ありがとう」"
+                                "Umi: \"Yeah... thank you.\""
                             ]
                         },
                         {
@@ -3596,14 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ帰りましょう！」"
+                                "Banka: \"Let's head back!\""
                             ]
                         },
                         {

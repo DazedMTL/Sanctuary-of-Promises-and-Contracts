@@ -2175,14 +2175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia: \"Meow~\""
                             ]
                         },
                         {
@@ -2233,14 +2226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア…。もうウミと話してはくれないの？」"
+                                "Umi: \"Mia... won't you talk to Umi anymore?\""
                             ]
                         },
                         {
@@ -2257,14 +2243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～…」"
+                                "Mia: \"Meow~...\""
                             ]
                         },
                         {
@@ -2297,14 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや……グチグチ言っていてもしょうがない…」"
+                                "Umi: \"No... It's no use complaining...\""
                             ]
                         },
                         {
@@ -2321,7 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖子の森、呼種の洞窟、玉河山…行って確かめよう…。"
+                                "Let's go and check the Sacred Forest, the Cave of Summoning, and Tamagawa\nMountain..."
                             ]
                         },
                         {

@@ -9689,14 +9689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？どうしてこんなに水浸しなんだ…。それに…少し臭うか…」"
+                                "Kru: \"Hm? Why is it so flooded here... and... does it smell a bit...?\""
                             ]
                         },
                         {
@@ -9725,14 +9718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ？寝ているのか…」"
+                                "Kru: \"Umi? Are you asleep...?\""
                             ]
                         },
                         {
@@ -9783,14 +9769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ随分疲れているようです。久しぶりの旅だったからですかね」"
+                                "Banka: \"Yes, she seems quite exhausted. Perhaps it's because of the long\njourney we had.\""
                             ]
                         },
                         {
@@ -9807,14 +9786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてそんなにニヤついているんだ？」"
+                                "Kru: \"Why are you grinning like that?\""
                             ]
                         },
                         {
@@ -9847,14 +9819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ…お二人の仲睦まじい姿が微笑ましくて」"
+                                "Banka: \"No... it's just that the sight of you two getting along so well is\nheartwarming.\""
                             ]
                         },
                         {
@@ -9871,14 +9836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか」"
+                                "Kru: \"Is that so.\""
                             ]
                         },
                         {
@@ -9911,14 +9869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん！ウミさん！クルさん帰ってきましたよ」"
+                                "Banka: \"Miss Umi! Miss Umi! Kru has returned.\""
                             ]
                         },
                         {
@@ -9969,14 +9920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…くックル！こっこれはちがっ」"
+                                "Umi: \"Uh... K-Kru! This isn't what it loo\""
                             ]
                         },
                         {
@@ -9993,14 +9937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにが違うんだ？」"
+                                "Kru: \"What's different?\""
                             ]
                         },
                         {
@@ -10033,14 +9970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…それは…」"
+                                "Umi: \"No... that is...\""
                             ]
                         },
                         {
@@ -10073,14 +10003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミさん変な夢でも見ていたんじゃないですか…。たとえば溺れる夢とか」"
+                                "Banka: \"Maybe Miss Umi was having a strange dream... like drowning in\nwater, perhaps?\""
                             ]
                         },
                         {
@@ -10113,14 +10036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…」"
+                                "Umi: \"No...\""
                             ]
                         },
                         {
@@ -10153,14 +10069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「水に関する夢を見るとお漏らししてしまうらしいですね」"
+                                "Banka: \"They say if you dream about water, you might wet yourself.\""
                             ]
                         },
                         {
@@ -10177,14 +10086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、そういうことか。この辺が水浸しだからそう思ったのか？」"
+                                "Kru: \"Ah, I see. Is that why you thought it was flooded here?\""
                             ]
                         },
                         {
@@ -10217,14 +10119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんなわけ！」"
+                                "Umi: \"That's not it at all!\""
                             ]
                         },
                         {
@@ -10241,14 +10136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じょっ冗談だよ…。ごめんごめん」"
+                                "Kru: \"Just kidding... sorry, sorry.\""
                             ]
                         },
                         {
@@ -10281,21 +10169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな冗談駄目ですよ、クルさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まさかこの水浸しなのがウミさんのナニなわけがないですから」"
+                                "Banka: \"You shouldn't joke about that, Kru. There's no way this flood is\nbecause of Miss Umi's... you know.\""
                             ]
                         },
                         {
@@ -10312,14 +10186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。さぁウミ歩けるか？」"
+                                "Kru: \"Right. Can you walk, Umi?\""
                             ]
                         },
                         {
@@ -10352,14 +10219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうん…」"
+                                "Umi: \"Yeah...\""
                             ]
                         },
                         {
@@ -10376,14 +10236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…？」"
+                                "Kru: \"...?\""
                             ]
                         },
                         {

@@ -3217,14 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いらっしゃいませ…」"
+                                "Clerk: \"Welcome...\""
                             ]
                         },
                         {
@@ -3241,14 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて……今日はいい子がいるかい？」"
+                                "Customer: \"Well... Do you have any good girls today?\""
                             ]
                         },
                         {
@@ -3265,14 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい……いい新人が入店致しました…」"
+                                "Clerk: \"Yes... We have a nice newcomer...\""
                             ]
                         },
                         {
@@ -3289,14 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん…私を満足させてくれる子なんているのかね…」"
+                                "Customer: \"Hmph... I wonder if there's a girl who can satisfy me...\""
                             ]
                         },
                         {
@@ -3313,14 +3285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぜひお試しください…」"
+                                "Clerk: \"Please give her a try...\""
                             ]
                         },
                         {

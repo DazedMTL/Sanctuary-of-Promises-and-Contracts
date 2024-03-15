@@ -2719,14 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイ様のご加護がありますように」"
+                                "Villager: \"May the blessings of Lady Kseshilei be with you.\""
                             ]
                         },
                         {

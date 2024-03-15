@@ -2380,14 +2380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「手芸は好きですか？」"
+                                "Townsfolk: \"Do you like handicrafts?\""
                             ]
                         },
                         {

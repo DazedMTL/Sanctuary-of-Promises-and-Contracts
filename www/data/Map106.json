@@ -18908,7 +18908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]ゾンビを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the zombie!"
                             ]
                         },
                         {
@@ -18925,7 +18925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]ゾンビの目玉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the zombie's eyeball!"
                             ]
                         },
                         {
@@ -18942,7 +18942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]強魔力の薬を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained a potion of strong magic power!"
                             ]
                         },
                         {
@@ -19810,7 +19810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]ゾンビを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the zombie!"
                             ]
                         },
                         {
@@ -19827,7 +19827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]ゾンビの目玉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the zombie's eyeball!"
                             ]
                         },
                         {
@@ -19844,7 +19844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]強魔力の薬を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained a potion of strong magic power!"
                             ]
                         },
                         {
@@ -20734,7 +20734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]ミノタウロスを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Minotaur!"
                             ]
                         },
                         {
@@ -20751,7 +20751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]ミノタウロスの角を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Minotaur's Horn!"
                             ]
                         },
                         {
@@ -20768,7 +20768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]神水を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Divine Water!"
                             ]
                         },
                         {
@@ -20785,7 +20785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[120,0,0,GrowUp]鬼神香を手に入れた！"
+                                "_pum[120,0,0,GrowUp]Obtained the Ogre Incense!"
                             ]
                         },
                         {
@@ -20986,7 +20986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢誘丸を手に入れた！"
+                                "Gained the Dream Inducer!"
                             ]
                         },
                         {
@@ -21233,7 +21233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "岩防丸を手に入れた！"
+                                "Obtained the Stoneguard!"
                             ]
                         },
                         {
@@ -21934,14 +21934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…スライム……嫌な予感…」"
+                                "Umi: \"Ugh...slimes...I have a bad feeling...\""
                             ]
                         },
                         {
@@ -21992,14 +21985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレに任せておけ！」"
+                                "Banka: \"Leave it to me!\""
                             ]
                         },
                         {
@@ -22016,14 +22002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっくっくっこれくらい弱い魔物ならどさくさに紛れてセクハラし放題だな…)"
+                                "Banka: (Heh heh heh, with such weak monsters, I can get away with sexual\nharassment in the confusion...)"
                             ]
                         },
                         {

@@ -6292,7 +6292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに向かいますか？"
+                                "Where are you heading?"
                             ]
                         },
                         {
@@ -6300,11 +6300,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "王国",
-                                    "聖子の森",
-                                    "クセシの村",
-                                    "呼種の洞窟",
-                                    "行かない"
+                                    "Kingdom",
+                                    "Saint's Forest",
+                                    "Kusechi Village",
+                                    "Summoner's Cave",
+                                    "Don't go"
                                 ],
                                 1,
                                 0,
@@ -6784,14 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…スライム……嫌な予感…」"
+                                "Umi: \"Ugh...slimes...I have a bad feeling...\""
                             ]
                         },
                         {
@@ -6842,14 +6835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレに任せておけ！」"
+                                "Banka: \"Leave it to me!\""
                             ]
                         },
                         {
@@ -6866,14 +6852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっくっくっこれくらい弱い魔物ならどさくさに紛れてセクハラし放題だな…)"
+                                "Banka: (Heh heh heh, with such weak monsters, I can get away with sexual\nharassment in the confusion...)"
                             ]
                         },
                         {

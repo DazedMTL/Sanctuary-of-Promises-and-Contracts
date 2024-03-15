@@ -2677,14 +2677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだい？また任務かい？」"
+                                "Shopkeeper: \"What's up? Another mission?\""
                             ]
                         },
                         {
@@ -2701,14 +2694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ～。休みほしいよ～」"
+                                "Kru: \"Yeah~. I want a break~\""
                             ]
                         },
                         {
@@ -2725,14 +2711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「休むんならうちの宿使いなよ」"
+                                "Shopkeeper: \"If you're going to rest, use our inn.\""
                             ]
                         },
                         {
@@ -2800,14 +2779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「泊りかい？クル」"
+                                "Innkeeper: \"Staying the night, Kru?\""
                             ]
                         },
                         {
@@ -2824,14 +2796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁばあちゃん。２部屋取りたいんだが…」"
+                                "Kru: \"Yeah, granny. I'd like to book two rooms...\""
                             ]
                         },
                         {
@@ -2848,14 +2813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あいにくだが、１部屋しか空いてないよ」"
+                                "Innkeeper: \"Unfortunately, we only have one room available.\""
                             ]
                         },
                         {
@@ -2872,14 +2830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！めずらしいね、そんなに部屋が埋ってるなんて…」"
+                                "Kru: \"What! That's rare for you to be so fully booked...\""
                             ]
                         },
                         {
@@ -2896,14 +2847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるさいよ。そのお嬢さんを泊めるんだろ？あんたは兵舎に帰りな」"
+                                "Innkeeper: \"Quiet down. You're planning to lodge that young lady, right?\nYou can go back to the barracks.\""
                             ]
                         },
                         {
@@ -2920,14 +2864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁそれが兵舎には帰りにくいんだよなぁ」"
+                                "Kru: \"Well, that's the thing... it's a bit difficult for me to return to\nthe barracks now.\""
                             ]
                         },
                         {
@@ -2987,14 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル、いつも同じ部屋に寝てる。ウミと一緒いや？」"
+                                "Umi: \"Kru, we always sleep in the same room. You don't want to be with\nUmi?\""
                             ]
                         },
                         {
@@ -3011,14 +2941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや！そういうわけじゃないんだが…」"
+                                "Kru: \"No! It's not like that but...\""
                             ]
                         },
                         {
@@ -3035,14 +2958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…。お嬢さんもそういってる事だ。覚悟を決めて同じ部屋に泊まれ」"
+                                "Innkeeper: \"Kru... The young lady says so too. Make up your mind and stay\nin the same room.\""
                             ]
                         },
                         {
@@ -3059,14 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ばあちゃん…」"
+                                "Kru: \"Granny...\""
                             ]
                         },
                         {
@@ -3083,14 +2992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと。宿泊代は二人分頂くよ」"
+                                "Innkeeper: \"Oh, and I'll be charging for two people for the room.\""
                             ]
                         },
                         {
@@ -3107,14 +3009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ汚ねぇ！」"
+                                "Kru: \"Ah, that's dirty!\""
                             ]
                         },
                         {
@@ -3147,14 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…。言葉が悪い。おばあさんに謝って」"
+                                "Umi: \"Kru... Your language is bad. Apologize to the old lady.\""
                             ]
                         },
                         {
@@ -3171,14 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっオレが悪いの！」"
+                                "Kru: \"What, I'm the bad guy here!\""
                             ]
                         },
                         {
@@ -3195,14 +3076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あら、良い子だねぇ。クルにはもったいない子だ」"
+                                "Innkeeper: \"Oh, what a good girl. She's too good for you, Kru.\""
                             ]
                         },
                         {
@@ -3235,14 +3109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もったいない？」"
+                                "Umi: \"Too good?\""
                             ]
                         },
                         {
@@ -3259,14 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁもういいよ。寝るときは声掛けるから！もう行くよ！」"
+                                "Kru: \"Ah, enough already. I'll call out when it's time to sleep! We're\ngoing now!\""
                             ]
                         },
                         {
@@ -3283,14 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいはい毎度」"
+                                "Innkeeper: \"Alright, alright, thanks as always.\""
                             ]
                         },
                         {
@@ -3405,14 +3258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう寝るかい？」"
+                                "Shopkeeper: \"Are you going to bed now?\""
                             ]
                         },
                         {
@@ -3420,8 +3266,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3451,14 +3297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「夜更かしするんじゃないよ」"
+                                "Shopkeeper: \"Don't stay up too late.\""
                             ]
                         },
                         {
@@ -3521,14 +3360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「はいはい、また来な」"
+                                "Shopkeeper: \"Alright, come again.\""
                             ]
                         },
                         {
@@ -3606,14 +3438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よく眠れたかい？」"
+                                "Innkeeper: \"Did you sleep well?\""
                             ]
                         },
                         {
@@ -3630,14 +3455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、まったく」"
+                                "Kru: \"No, not at all.\""
                             ]
                         },
                         {
@@ -3654,14 +3472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…寝れなかったのか？」"
+                                "Umi: \"Kru... couldn't you sleep?\""
                             ]
                         },
                         {
@@ -3678,14 +3489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あ！いやいや！ぐっすり寝たよ」"
+                                "Kru: \"Ah! No, no! I slept like a log.\""
                             ]
                         },
                         {
@@ -3702,14 +3506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっへっへっ…。感謝せぇよ若者！」"
+                                "Innkeeper: \"Heh heh heh... Be grateful, young man!\""
                             ]
                         },
                         {
@@ -3726,14 +3523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ばあさん…」"
+                                "Kru: \"Granny...\""
                             ]
                         },
                         {
@@ -3750,14 +3540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ところで昨日宿代まけてやったんだから、お使い行ってきておくれよ」"
+                                "Innkeeper: \"By the way, since I gave you a discount on your stay last\nnight, could you run an errand for me?\""
                             ]
                         },
                         {
@@ -3774,14 +3557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「誰がまけてくれたんだよ」"
+                                "Kru: \"Who gave me a discount?\""
                             ]
                         },
                         {
@@ -3798,14 +3574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？まけたはずじゃがのう。いやぁ年を取ると忘れっぽくなっていかんの」"
+                                "Innkeeper: \"Eh? I'm sure I gave you a discount. Oh dear, getting old makes\none forgetful.\""
                             ]
                         },
                         {
@@ -3822,14 +3591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へいへい。で何を買ってくるんだ？」"
+                                "Kru: \"Yeah yeah. So what am I supposed to buy?\""
                             ]
                         },
                         {
@@ -3846,14 +3608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「市場で果物買ってきておくれよ」"
+                                "Innkeeper: \"Please go buy some fruit from the market.\""
                             ]
                         },
                         {
@@ -3870,14 +3625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいはい。行ってくるよ」"
+                                "Kru: \"Alright, alright. I'm on it.\""
                             ]
                         },
                         {
@@ -4002,14 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「市場はここを出て東にあるよ」"
+                                "Shopkeeper: \"The market is to the east when you leave here.\""
                             ]
                         },
                         {
@@ -4077,14 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変だ！ばあちゃん！連れの女の子が…盗賊に攫われたんだ！」"
+                                "Kru \"This is terrible! Granny! The girl with me... she's been kidnapped by\nbandits!\""
                             ]
                         },
                         {
@@ -4101,14 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんてこったい！すぐに助けに行かなきゃ！」"
+                                "Shopkeeper \"What a disaster! We must go to her rescue at once!\""
                             ]
                         },
                         {
@@ -4125,14 +3852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！ばあちゃん！盗賊のアジト知らないか！」"
+                                "Kru \"Ah! Granny! Do you know where the bandits' hideout is?\""
                             ]
                         },
                         {
@@ -4149,14 +3869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「たしか…町を出て南東の方角にあると噂で聞いた事あるよ」"
+                                "Shopkeeper \"I believe... I've heard rumors it's to the southeast of town.\""
                             ]
                         },
                         {
@@ -4173,14 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当か！ありがとうばあちゃん！」"
+                                "Kru \"Really? Thank you, Granny!\""
                             ]
                         },
                         {
@@ -4256,14 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店主"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「町を出て南東の方角だよ！」"
+                                "Shopkeeper: \"It's southeast of the town!\""
                             ]
                         },
                         {

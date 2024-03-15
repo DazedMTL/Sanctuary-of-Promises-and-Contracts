@@ -3278,14 +3278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ先生⁉」"
+                                "Child A: \"Hey, teacher⁉\""
                             ]
                         },
                         {
@@ -3302,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？なんだい？」"
+                                "Kru: \"Hmm? What is it?\""
                             ]
                         },
                         {
@@ -3326,14 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうやったら先生のように強くなれるの？」"
+                                "Child B: \"How can we become as strong as you, teacher?\""
                             ]
                         },
                         {
@@ -3350,14 +3329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？そうだなぁ…。先生そんなに強くないからなぁ…」"
+                                "Kru: \"Eh? Well... I'm not that strong, you know...\""
                             ]
                         },
                         {
@@ -3374,14 +3346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うそだ！お父さんが教えてくれたもん！先生が100匹近い魔物を一瞬で倒したって！」"
+                                "Child A: \"That's not true! My dad told me! He said you defeated nearly a\nhundred monsters in an instant!\""
                             ]
                         },
                         {
@@ -3398,14 +3363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…それは話が大きくなり過ぎなような…」"
+                                "Kru: \"No... that story might have gotten a bit exaggerated...\""
                             ]
                         },
                         {
@@ -3422,14 +3380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇ！教えて！」"
+                                "Child B: \"Please tell us!\""
                             ]
                         },
                         {
@@ -3446,14 +3397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ねぇねぇ！」"
+                                "Child A: \"Yeah, tell us!\""
                             ]
                         },
                         {
@@ -3470,14 +3414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそうだなぁ…。どうして強くなりたいんだい？」"
+                                "Kru: \"Well... why do you want to become strong?\""
                             ]
                         },
                         {
@@ -3494,14 +3431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？どうしてって…」"
+                                "Child A: \"Eh? Why, you ask...?\""
                             ]
                         },
                         {
@@ -3518,14 +3448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは……負けたくないから？」"
+                                "Child B: \"Is it... because we don't want to lose?\""
                             ]
                         },
                         {
@@ -3542,14 +3465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「かっこいいから？」"
+                                "Child A: \"Because it's cool?\""
                             ]
                         },
                         {
@@ -3566,14 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは！正直でよろしい！そういう気持ちは強くなる為に必要だ…」"
+                                "Kru: \"Hahaha! That's very honest of you! Such feelings are necessary to\nbecome strong...\""
                             ]
                         },
                         {
@@ -3590,14 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほんと⁉」"
+                                "Child A: \"Really⁉\""
                             ]
                         },
                         {
@@ -3614,14 +3516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ私達強くなれる⁉」"
+                                "Child B: \"So we can become strong⁉\""
                             ]
                         },
                         {
@@ -3638,21 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもそれだけじゃダメだ…。それだけだとこれから大きくなってもっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　辛い訓練を積まなくちゃいけなくなった時に、自分に負けてしまう…」"
+                                "Kru: \"But that's not enough... If that's all you have, when you grow up and\nface even tougher training, you might end up losing to yourself...\""
                             ]
                         },
                         {
@@ -3669,14 +3550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁどうすればいいの？」"
+                                "Child A: \"Then what should we do?\""
                             ]
                         },
                         {
@@ -3693,14 +3567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生が思うに…それは守りたいものがちゃんとあるか、だと思うよ」"
+                                "Kru: \"In my opinion... it's about whether you have something you truly want\nto protect.\""
                             ]
                         },
                         {
@@ -3717,14 +3584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守りたいもの？」"
+                                "Child A: \"Something we want to protect?\""
                             ]
                         },
                         {
@@ -3741,14 +3601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それがあれば負けないの？」"
+                                "Child B: \"If we have that, we won't lose?\""
                             ]
                         },
                         {
@@ -3765,14 +3618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん。まぁ負けることもあるが…」"
+                                "Kru: \"Well, not exactly. You might still lose sometimes...\""
                             ]
                         },
                         {
@@ -3789,14 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁダメじゃん！」"
+                                "Child A: \"Then that's no good!\""
                             ]
                         },
                         {
@@ -3813,14 +3652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ダメじゃん！」"
+                                "Child B: \"That's no good!\""
                             ]
                         },
                         {
@@ -3837,14 +3669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも、自分に打ち勝つことができる。それが一番大事だ」"
+                                "Kru: \"But, it's most important to be able to overcome yourself. That's what\ntruly matters.\""
                             ]
                         },
                         {
@@ -3861,14 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅん…」"
+                                "Child A: \"Hmm...\""
                             ]
                         },
                         {
@@ -3885,14 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「先生には守りたいものってあるの？」"
+                                "Child B: \"Do you have something you want to protect, teacher?\""
                             ]
                         },
                         {
@@ -3909,14 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -3933,14 +3737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守りたいものよ！」"
+                                "Child B: \"Something you want to protect!\""
                             ]
                         },
                         {
@@ -3957,14 +3754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそうだなぁ…。……あるよ、いっぱい」"
+                                "Kru: \"Well... yes, I do have things I want to protect, lots of them.\""
                             ]
                         },
                         {
@@ -3981,14 +3771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なになに⁉」"
+                                "Child A: \"What what⁉\""
                             ]
                         },
                         {
@@ -4005,14 +3788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「教えて教えて！」"
+                                "Child B: \"Tell us, tell us!\""
                             ]
                         },
                         {
@@ -4029,14 +3805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは君たち生徒たちかな？」"
+                                "Kru: \"That would be you students, I guess?\""
                             ]
                         },
                         {
@@ -4053,14 +3822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇーーーー。つまんない！」"
+                                "Child A: \"Ehh----. That's boring!\""
                             ]
                         },
                         {
@@ -4077,14 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういうのじゃないのよ！」"
+                                "Child B: \"Not that kind of thing!\""
                             ]
                         },
                         {
@@ -4101,21 +3856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！だって本当の事だから…。ほらほら！早く帰んないとお父さんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　叱られるよ」"
+                                "Kru: \"Eh! But it's the truth... Come on, hurry home or your dad will scold\nyou.\""
                             ]
                         },
                         {
@@ -4132,14 +3873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぶぅ…」"
+                                "Child A: \"Hmph...\""
                             ]
                         },
                         {
@@ -4156,14 +3890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またね先生！」"
+                                "Child B: \"See you later, teacher!\""
                             ]
                         },
                         {
@@ -4206,14 +3933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…」"
+                                "Kru: \"*sigh*...\""
                             ]
                         },
                         {
@@ -4230,14 +3950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守りたいもの…か…」"
+                                "Kru: \"Something to protect... huh...\""
                             ]
                         },
                         {
@@ -4254,7 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはたしかにあった…"
+                                "Indeed, there was something..."
                             ]
                         },
                         {
@@ -4271,7 +3984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "けど…どんなに鍛錬を積んでも、どうにもならない事があるのを僕は知っている…。"
+                                "But... I know that no matter how much I train, there are things that just\ncan't be helped..."
                             ]
                         },
                         {
@@ -4295,14 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでも…」"
+                                "Kru: \"Even so...\""
                             ]
                         },
                         {
@@ -4319,7 +4025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも…"
+                                "Even so..."
                             ]
                         },
                         {
@@ -4358,14 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キャーーーーーーーー‼‼」"
+                                "Child B: \"Kyaa--------!!\""
                             ]
                         },
                         {
@@ -4382,14 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来るな！来るな！」"
+                                "Child A: \"Don't come! Don't come!\""
                             ]
                         },
                         {
@@ -4437,14 +4129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ⁉」"
+                                "Kru: \"What's that⁉\""
                             ]
                         },
                         {

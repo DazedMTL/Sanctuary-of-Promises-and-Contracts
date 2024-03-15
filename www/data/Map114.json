@@ -12955,7 +12955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -12972,7 +12972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -12989,7 +12989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]岩防丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Stone Defense Pill!"
                             ]
                         },
                         {
@@ -13852,7 +13852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -13869,7 +13869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -13886,7 +13886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]夢誘丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Dream-Inducing Pills!"
                             ]
                         },
                         {
@@ -14754,7 +14754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]オーガを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Ogre!"
                             ]
                         },
                         {
@@ -14771,7 +14771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]オーガの睾丸を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained the Ogre's testicles!"
                             ]
                         },
                         {
@@ -14788,7 +14788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]夢誘丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained the Dream-Inducing Pills!"
                             ]
                         },
                         {
@@ -15668,7 +15668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]エビルオークを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Evil Orc!"
                             ]
                         },
                         {
@@ -15685,7 +15685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]エビルオークの肉を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Obtained Evil Orc meat!"
                             ]
                         },
                         {
@@ -15702,7 +15702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]鬼神香を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Obtained Ogre Incense!"
                             ]
                         },
                         {

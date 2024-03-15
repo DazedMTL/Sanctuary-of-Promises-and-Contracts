@@ -2436,7 +2436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガバッ‼‼"
+                                "*gasp*!!"
                             ]
                         },
                         {
@@ -2453,14 +2453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…」"
+                                "Kru: *pant* *pant* *pant*..."
                             ]
                         },
                         {
@@ -2477,14 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ…なにか嫌な夢を見たような…」"
+                                "Kru: What was that... It felt like I had a bad dream..."
                             ]
                         },
                         {
@@ -2535,14 +2521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル大丈夫？うなされていた…」"
+                                "Umi: Kru, are you okay? You were having a nightmare..."
                             ]
                         },
                         {
@@ -2559,14 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…、大丈夫。変な夢を見ただけさ」"
+                                "Kru: Ah... I'm fine. Just a weird dream."
                             ]
                         },
                         {
@@ -2599,14 +2571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか…。族長がクルの事呼んでるみたい」"
+                                "Umi: I see... The chieftain seems to be calling for you, Kru."
                             ]
                         },
                         {
@@ -2623,14 +2588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかったすぐ行く」"
+                                "Kru: Got it, I'll go right away."
                             ]
                         },
                         {
@@ -2864,21 +2822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル！おかえり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　族長の話おわった？」"
+                                "Umi: \"Kru! Welcome back. Did you finish talking with the chief?\""
                             ]
                         },
                         {
@@ -2895,28 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、終わった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　族長は村を開放して王国と交流を持ちたいらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その使者に選ばれた」"
+                                "Kru: \"Yeah, it's finished. The chief wants to open up the village and\ninteract with the kingdom. I've been chosen as the envoy.\""
                             ]
                         },
                         {
@@ -2949,14 +2872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル忙しい。族長こき使い過ぎ」"
+                                "Umi: \"Kru is busy. The chief is overworking you.\""
                             ]
                         },
                         {
@@ -2973,14 +2889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはいいんだけど…。その使者にウミも選ばれたんだ」"
+                                "Kru: \"That's fine, but... Umi, you've been chosen as an envoy too.\""
                             ]
                         },
                         {
@@ -3013,14 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！」"
+                                "Umi: \"What!?\""
                             ]
                         },
                         {
@@ -3037,14 +2939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長からその件について話があるらしいから一緒に行こうか」"
+                                "Kru: \"The chief wants to talk to us about it, so shall we go together?\""
                             ]
                         },
                         {
@@ -3077,14 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ行かない…」"
+                                "Umi: \"Umi doesn't want to go...\""
                             ]
                         },
                         {
@@ -3101,14 +2989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -3141,14 +3022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミこわい…」"
+                                "Umi: \"Umi is scared...\""
                             ]
                         },
                         {
@@ -3165,14 +3039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。大丈夫、オレがついてるから」"
+                                "Kru: \"Umi... It's okay, I'm with you.\""
                             ]
                         },
                         {
@@ -3205,14 +3072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…」"
+                                "Umi: \"Okay...\""
                             ]
                         },
                         {
@@ -3229,14 +3089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それに今まで色んな事乗り越えてきたんだから、大丈夫」"
+                                "Kru: \"Besides, we've overcome so many things up to now, it'll be fine.\""
                             ]
                         },
                         {
@@ -3269,14 +3122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…」"
+                                "Umi: \"Okay...\""
                             ]
                         },
                         {
@@ -3293,14 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ行こう」"
+                                "Kru: \"Then let's go.\""
                             ]
                         },
                         {
@@ -3317,14 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia: \"Meow~\""
                             ]
                         },
                         {
@@ -3357,14 +3189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん、行く」"
+                                "Umi: \"Okay, let's go.\""
                             ]
                         },
                         {

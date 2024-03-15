@@ -2213,14 +2213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんか買っていくかい？」"
+                                "Poso: \"Wanna buy something?\""
                             ]
                         },
                         {
@@ -2476,14 +2469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルの入荷がないんだ…。手に入ったら持ってきてくれよ」"
+                                "Poso: \"We're out of massage oil... Bring some if you get your hands on it,\nwill you?\""
                             ]
                         },
                         {
@@ -2617,14 +2603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルを持っているのか？じゃぁオレがマッサージしてやるよ」"
+                                "Poso: \"Do you have the massage oil? Then I'll give you a massage.\""
                             ]
                         },
                         {
@@ -2641,7 +2620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソのマッサージを受けますか？"
+                                "Will you receive a massage from Poso?"
                             ]
                         },
                         {
@@ -2649,8 +2628,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2680,14 +2659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「疲れてんだな…。オレに任せろ」"
+                                "Poso: \"You're tired, huh... Leave it to me.\""
                             ]
                         },
                         {
@@ -2760,14 +2732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか…。気が変わったら声掛けてくれよ」"
+                                "Poso: \"I see... If you change your mind, just call out to me.\""
                             ]
                         },
                         {
@@ -2904,21 +2869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルの入荷がないんだ…。手に入ったら持ってきてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また疲れを取ってやるよ」"
+                                "Poso: \"We're out of massage oil... Bring some when you get it. I'll help\nrelieve your fatigue again.\""
                             ]
                         },
                         {
@@ -3052,14 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルを持っているのか？じゃぁオレがマッサージしてやるよ」"
+                                "Poso: \"Do you have the massage oil? Then I'll give you a massage.\""
                             ]
                         },
                         {
@@ -3076,7 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソのマッサージを受けますか？"
+                                "Will you receive a massage from Poso?"
                             ]
                         },
                         {
@@ -3084,8 +3028,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3115,14 +3059,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「疲れてんだな…。オレに任せろ」"
+                                "Poso: \"You're tired, huh... Leave it to me.\""
                             ]
                         },
                         {
@@ -3195,14 +3132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか…。気が変わったら声掛けてくれよ」"
+                                "Poso: \"I see... If you change your mind, just call out to me.\""
                             ]
                         },
                         {
@@ -3339,21 +3269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルの入荷がないんだ…。手に入ったら持ってきてくれよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　また疲れを取ってやるよ」"
+                                "Poso: \"We're out of massage oil... Bring some when you get it. I'll help\nrelieve your fatigue again.\""
                             ]
                         },
                         {
@@ -3487,14 +3403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルを持っているのか？じゃぁオレがマッサージしてやるよ」"
+                                "Poso: \"Do you have the massage oil? Then I'll give you a massage.\""
                             ]
                         },
                         {
@@ -3511,7 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソのマッサージを受けますか？"
+                                "Will you receive a massage from Poso?"
                             ]
                         },
                         {
@@ -3519,8 +3428,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3550,14 +3459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「疲れてんだな…。オレに任せろ」"
+                                "Poso: \"You're tired, huh... Leave it to me.\""
                             ]
                         },
                         {
@@ -3630,14 +3532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「そうか…。気が変わったら声掛けてくれよ」"
+                                "Poso: \"I see... If you change your mind, just call out to me.\""
                             ]
                         },
                         {
@@ -3774,14 +3669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポソ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「マッサージオイルの入荷がないんだ…。手に入ったら持ってきてくれよ」"
+                                "Poso: \"We're out of massage oil... Bring some over when you get a hold of\nit.\""
                             ]
                         },
                         {

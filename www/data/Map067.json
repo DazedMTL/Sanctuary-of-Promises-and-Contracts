@@ -25207,7 +25207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[30,0,0,GrowUp]クレイジーバットを倒した！"
+                                "_pum[30,0,0,GrowUp]Defeated the Crazy Bat!"
                             ]
                         },
                         {
@@ -25224,7 +25224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[60,0,0,GrowUp]狂バットの羽を手に入れた！"
+                                "_pum[60,0,0,GrowUp]Gained the Mad Bat's Wing!"
                             ]
                         },
                         {
@@ -25241,7 +25241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "_pum[90,0,0,GrowUp]眼暗丸を手に入れた！"
+                                "_pum[90,0,0,GrowUp]Gained the Dark Eye Marble!"
                             ]
                         },
                         {
@@ -25442,7 +25442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼人香を手に入れた！"
+                                "Gained the Ogre Incense!"
                             ]
                         },
                         {
@@ -25688,7 +25688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1000\\G 手に入れた！"
+                                "Gained 1000\\G!"
                             ]
                         },
                         {
@@ -26886,14 +26886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？なんだ……。今誰かここにいたかな……」"
+                                "Kru: \"Hm? What was that... Was someone here just now...?\""
                             ]
                         },
                         {
@@ -28147,7 +28140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オークのバラ肉を手に入れた！"
+                                "Obtained the Oak's Venison!"
                             ]
                         },
                         {
@@ -28360,14 +28353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…スライム……嫌な予感…」"
+                                "Umi: \"Ugh... Slime... I have a bad feeling...\""
                             ]
                         },
                         {
@@ -28418,14 +28404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレに任せておけ！」"
+                                "Banka: \"Leave it to me!\""
                             ]
                         },
                         {
@@ -28442,14 +28421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くっくっくっこれくらい弱い魔物ならどさくさに紛れてセクハラし放題だな…)"
+                                "Banka: (Heh heh heh, with such weak monsters around, I can get away with\nsexual harassment in the confusion...)"
                             ]
                         },
                         {

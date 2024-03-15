@@ -8370,14 +8370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！どうしたんだ！」"
+                                "Kru: \"Umi! What's wrong?\""
                             ]
                         },
                         {
@@ -8459,14 +8452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたじゃない。ウミあの人嫌い」"
+                                "Umi: \"It's not about what's wrong. Umi doesn't like that person.\""
                             ]
                         },
                         {
@@ -8483,14 +8469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも村の人達が…」"
+                                "Kru: \"But the villagers...\""
                             ]
                         },
                         {
@@ -8523,14 +8502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村の人達もきっと嫌い」"
+                                "Umi: \"The villagers surely don't like him either.\""
                             ]
                         },
                         {
@@ -8547,14 +8519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのわからないよ！」"
+                                "Kru: \"You can't know that for sure!\""
                             ]
                         },
                         {
@@ -8587,21 +8552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミわかる。ウミ、クル好き。村の人達もクル好き。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミあの人嫌い。だから村の人達もあの人嫌い」"
+                                "Umi: \"Umi knows. Umi likes Kru. The villagers like Kru too. Umi doesn't\nlike that person. So the villagers must not like him either.\""
                             ]
                         },
                         {
@@ -8618,14 +8569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？…好き？」"
+                                "Kru: \"Eh?... Like?\""
                             ]
                         },
                         {
@@ -8658,14 +8602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルもあの人嫌い？」"
+                                "Umi: \"Does Kru also dislike that person?\""
                             ]
                         },
                         {
@@ -8682,14 +8619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？…うん、まあそうだな」"
+                                "Kru: \"Eh?... Yeah, well, I guess so.\""
                             ]
                         },
                         {
@@ -8722,14 +8652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁもういい。村にはクルがいればそれでいい」"
+                                "Umi: \"Then it's settled. As long as Kru is in the village, that's all that\nmatters.\""
                             ]
                         },
                         {
@@ -8746,14 +8669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレが村に？」"
+                                "Kru: \"Me, in the village?\""
                             ]
                         },
                         {
@@ -8786,14 +8702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルは村好き？」"
+                                "Umi: \"Does Kru like the village?\""
                             ]
                         },
                         {
@@ -8810,14 +8719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ好きだよ」"
+                                "Kru: \"Yeah, I like it.\""
                             ]
                         },
                         {
@@ -8850,21 +8752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村もクル好き。クル好きな場所で暮らす。クル村で暮らす。とても単純なこと」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　"
+                                "Umi: \"The village likes Kru too. Live in a place you like. Kru will live in\nthe village. It's very simple.\""
                             ]
                         },
                         {
@@ -8881,14 +8769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とても単純なことか…」"
+                                "Kru: \"Is it really that simple...\""
                             ]
                         },
                         {
@@ -8921,14 +8802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村は心配いらない。どうせあの人来られない」"
+                                "Umi: \"The village doesn't need to worry. That person won't be able to come\nanyway.\""
                             ]
                         },
                         {
@@ -8945,21 +8819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まあ族長は残念がるだろうけど、正直あの人が村の為に良い行いをしてくれるとは思えない」"
+                                "Kru: \"That's true. The chief might be disappointed, but honestly, I can't\nimagine that person doing anything good for the village.\""
                             ]
                         },
                         {
@@ -8992,14 +8852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう。クル、帰ろう」"
+                                "Umi: \"Right. Kru, let's go home.\""
                             ]
                         },
                         {
@@ -9016,14 +8869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな、帰ろう」"
+                                "Kru: \"Yeah, let's go home.\""
                             ]
                         },
                         {
@@ -9056,14 +8902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「帰ろう。ウミとクルの村に」"
+                                "Umi: \"Let's go home. To the village of Umi and Kru.\""
                             ]
                         },
                         {

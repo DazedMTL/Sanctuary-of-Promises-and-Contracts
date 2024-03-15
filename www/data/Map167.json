@@ -3967,14 +3967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村に急がなければ！」"
+                                "Kru: \"We must hurry to the village!\""
                             ]
                         },
                         {
@@ -4051,14 +4044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村に急がなければ！」"
+                                "Kru: \"We must hurry to the village!\""
                             ]
                         },
                         {
@@ -4135,14 +4121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村に急がなければ！」"
+                                "Kru: \"We must hurry to the village!\""
                             ]
                         },
                         {
@@ -4544,14 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこれは！」"
+                                "Kru \"What is this?!\""
                             ]
                         },
                         {
@@ -4602,14 +4574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしてこんな…」"
+                                "Umi \"Why is something like this...\""
                             ]
                         },
                         {
@@ -4626,14 +4591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフの仕業か！」"
+                                "Kru \"Is this Shif's doing?!\""
                             ]
                         },
                         {
@@ -4666,14 +4624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも大丈夫。結界があるから村までは行けないはず…」"
+                                "Umi \"But it's okay. They shouldn't be able to reach the village because of\nthe barrier...\""
                             ]
                         },
                         {
@@ -4690,14 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とにかく急ごう！」"
+                                "Kru \"Anyway, let's hurry!\""
                             ]
                         },
                         {
@@ -4714,14 +4658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ミーア…」"
+                                "Umi \"Mia...\""
                             ]
                         },
                         {

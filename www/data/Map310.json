@@ -1483,14 +1483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう少し探そう…」"
+                                "Kru: \"Let's search a little more...\""
                             ]
                         },
                         {
@@ -1681,14 +1674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？この壺の底に何か…」"
+                                "Kru: \"Hm? There's something at the bottom of this pot...\""
                             ]
                         },
                         {
@@ -1705,7 +1691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カチッ！"
+                                "Click!"
                             ]
                         },
                         {
@@ -1743,14 +1729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「とっ扉…」"
+                                "Kru: \"The door...!\""
                             ]
                         },
                         {
@@ -1878,14 +1857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うーん、前々から何かこの部屋は怪しいと思ってたんだよなぁ…」"
+                                "Kru: \"Hmm, I've always thought there was something suspicious about this\nroom...\""
                             ]
                         },
                         {
@@ -1902,14 +1874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちょっと探ってみるか…」"
+                                "Kru: \"Maybe I should have a little look around...\""
                             ]
                         },
                         {
@@ -2096,14 +2061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカのベッド…。誰もいない…よな？」"
+                                "Kru: \"Banka's bed... There's no one here... right?\""
                             ]
                         },
                         {
@@ -2282,14 +2240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「樽の中はいない…」"
+                                "Kru: \"There's no one inside the barrel...\""
                             ]
                         },
                         {
@@ -2468,14 +2419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここに隠し階段が……なんてな…」"
+                                "Kru: \"A hidden staircase here... just kidding...\""
                             ]
                         },
                         {

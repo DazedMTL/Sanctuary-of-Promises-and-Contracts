@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "フィールド",
+        "name": "Field",
         "order": 67,
         "parentId": 17,
         "scrollX": 1769.4545454545455,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": true,
-        "name": "色々な設定",
+        "name": "Various Settings",
         "order": 30,
         "parentId": 7,
         "scrollX": 1081.3333333333333,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": false,
-        "name": "集落",
+        "name": "Village",
         "order": 58,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": false,
-        "name": "祭壇",
+        "name": "Altar",
         "order": 59,
         "parentId": 3,
         "scrollX": 1786.909090909091,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": false,
-        "name": "洋館",
+        "name": "Mansion",
         "order": 11,
         "parentId": 19,
         "scrollX": 982.8,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": false,
-        "name": "洋館　玉座の部屋",
+        "name": "Mansion Throne Room",
         "order": 12,
         "parentId": 5,
         "scrollX": 832,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "テスト",
+        "name": "Test",
         "order": 29,
         "parentId": 17,
         "scrollX": 1081.3333333333333,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": false,
-        "name": "ウミ家",
+        "name": "Umi's House",
         "order": 60,
         "parentId": 3,
         "scrollX": 1786.909090909091,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": false,
-        "name": "民家3",
+        "name": "House 3",
         "order": 61,
         "parentId": 3,
         "scrollX": 1786.909090909091,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": false,
-        "name": "民家2",
+        "name": "House 2",
         "order": 64,
         "parentId": 3,
         "scrollX": 1090.6666666666667,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "族長家",
+        "name": "Chieftain's House",
         "order": 65,
         "parentId": 3,
         "scrollX": 1786.909090909091,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": true,
-        "name": "洞窟 最深部",
+        "name": "Cave Depths",
         "order": 25,
         "parentId": 67,
         "scrollX": 1786.909090909091,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": false,
-        "name": "呼種の洞窟 1F",
+        "name": "Summoning Cave 1F",
         "order": 21,
         "parentId": 14,
         "scrollX": 1769.4545454545455,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "洞窟 休憩",
+        "name": "Cave Rest Area",
         "order": 20,
         "parentId": 63,
         "scrollX": 1786.909090909091,
@@ -129,7 +129,7 @@
     {
         "id": 15,
         "expanded": true,
-        "name": "森　エリア2",
+        "name": "Forest Area 2",
         "order": 145,
         "parentId": 60,
         "scrollX": 1390.2857142857142,
@@ -138,7 +138,7 @@
     {
         "id": 16,
         "expanded": true,
-        "name": "光溢れる地",
+        "name": "Land Overflowing with Light",
         "order": 116,
         "parentId": 39,
         "scrollX": 1390.2857142857142,
@@ -147,7 +147,7 @@
     {
         "id": 17,
         "expanded": true,
-        "name": "城下町",
+        "name": "Town Below the Castle",
         "order": 1,
         "parentId": 0,
         "scrollX": 1786.909090909091,
@@ -156,7 +156,7 @@
     {
         "id": 18,
         "expanded": false,
-        "name": "城下町　墓地",
+        "name": "Town Below the Castle Graveyard",
         "order": 4,
         "parentId": 19,
         "scrollX": 982.8,
@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": false,
-        "name": "宿屋　1F",
+        "name": "Inn 1F",
         "order": 2,
         "parentId": 17,
         "scrollX": 1638,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": false,
-        "name": "宿屋　2F",
+        "name": "Inn 2F",
         "order": 3,
         "parentId": 19,
         "scrollX": 811,
@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": false,
-        "name": "武器・防具屋",
+        "name": "Weapon & Armor Shop",
         "order": 13,
         "parentId": 19,
         "scrollX": 982.8,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": false,
-        "name": "ギルド",
+        "name": "Guild",
         "order": 14,
         "parentId": 19,
         "scrollX": 982.8,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "道具屋",
+        "name": "Tool Shop",
         "order": 15,
         "parentId": 19,
         "scrollX": 982.8,
@@ -210,7 +210,7 @@
     {
         "id": 24,
         "expanded": false,
-        "name": "酒場",
+        "name": "Tavern",
         "order": 16,
         "parentId": 19,
         "scrollX": 982.8,
@@ -219,7 +219,7 @@
     {
         "id": 25,
         "expanded": false,
-        "name": "教会",
+        "name": "Church",
         "order": 17,
         "parentId": 19,
         "scrollX": 982.8,
@@ -228,7 +228,7 @@
     {
         "id": 26,
         "expanded": false,
-        "name": "民家1　1F",
+        "name": "House 1 1F",
         "order": 5,
         "parentId": 19,
         "scrollX": 982.8,
@@ -237,7 +237,7 @@
     {
         "id": 27,
         "expanded": true,
-        "name": "民家1　2F",
+        "name": "House 1 2F",
         "order": 6,
         "parentId": 26,
         "scrollX": 832,
@@ -246,7 +246,7 @@
     {
         "id": 28,
         "expanded": false,
-        "name": "民家2　1F",
+        "name": "House 2 1F",
         "order": 7,
         "parentId": 19,
         "scrollX": 982.8,
@@ -255,7 +255,7 @@
     {
         "id": 29,
         "expanded": false,
-        "name": "民家2　2F",
+        "name": "House 2 2F",
         "order": 8,
         "parentId": 28,
         "scrollX": 832,
@@ -264,7 +264,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "民家3　1F",
+        "name": "House 3 1F",
         "order": 9,
         "parentId": 19,
         "scrollX": 982.8,
@@ -273,7 +273,7 @@
     {
         "id": 31,
         "expanded": false,
-        "name": "民家3　2F",
+        "name": "House 3 2F",
         "order": 10,
         "parentId": 30,
         "scrollX": 832,
@@ -282,7 +282,7 @@
     {
         "id": 32,
         "expanded": false,
-        "name": "民家4",
+        "name": "House 4",
         "order": 62,
         "parentId": 9,
         "scrollX": 1404,
@@ -291,7 +291,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "民家5",
+        "name": "House 5",
         "order": 63,
         "parentId": 32,
         "scrollX": 1636,
@@ -309,7 +309,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "ボス試し",
+        "name": "Boss Trial",
         "order": 32,
         "parentId": 34,
         "scrollX": 1786.909090909091,
@@ -327,7 +327,7 @@
     {
         "id": 37,
         "expanded": true,
-        "name": "アルド村",
+        "name": "Aldo Village",
         "order": 90,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -336,7 +336,7 @@
     {
         "id": 38,
         "expanded": false,
-        "name": "民家",
+        "name": "House",
         "order": 91,
         "parentId": 37,
         "scrollX": 1786.909090909091,
@@ -345,7 +345,7 @@
     {
         "id": 39,
         "expanded": true,
-        "name": "クセシの村",
+        "name": "Kuseshi Village",
         "order": 92,
         "parentId": 17,
         "scrollX": 2162.6666666666665,
@@ -354,7 +354,7 @@
     {
         "id": 40,
         "expanded": false,
-        "name": "イベント用城1F",
+        "name": "Castle for Events 1F",
         "order": 18,
         "parentId": 17,
         "scrollX": 1390.2857142857142,
@@ -363,7 +363,7 @@
     {
         "id": 41,
         "expanded": true,
-        "name": "大きな城",
+        "name": "Large Castle",
         "order": 154,
         "parentId": 17,
         "scrollX": 959.1111111111111,
@@ -372,7 +372,7 @@
     {
         "id": 42,
         "expanded": true,
-        "name": "大きな城　1F大広間",
+        "name": "Large Castle 1F Great Hall",
         "order": 155,
         "parentId": 41,
         "scrollX": 1404,
@@ -381,7 +381,7 @@
     {
         "id": 43,
         "expanded": true,
-        "name": "大きな城　2F",
+        "name": "Large Castle 2F",
         "order": 159,
         "parentId": 41,
         "scrollX": 1404,
@@ -390,7 +390,7 @@
     {
         "id": 44,
         "expanded": true,
-        "name": "大きな城　3F",
+        "name": "Large Castle 3F",
         "order": 163,
         "parentId": 41,
         "scrollX": 1404,
@@ -399,7 +399,7 @@
     {
         "id": 45,
         "expanded": true,
-        "name": "大きな城　謁見の間最初",
+        "name": "Large Castle Audience Chamber Entrance",
         "order": 164,
         "parentId": 44,
         "scrollX": 1404,
@@ -408,7 +408,7 @@
     {
         "id": 46,
         "expanded": true,
-        "name": "オープニング",
+        "name": "Opening",
         "order": 52,
         "parentId": 17,
         "scrollX": 832,
@@ -417,7 +417,7 @@
     {
         "id": 47,
         "expanded": false,
-        "name": "チュートリアル平原",
+        "name": "Tutorial Plains",
         "order": 193,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -426,7 +426,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "チュートリアル平原2",
+        "name": "Tutorial Plains 2",
         "order": 195,
         "parentId": 47,
         "scrollX": 884.7272727272727,
@@ -435,7 +435,7 @@
     {
         "id": 49,
         "expanded": true,
-        "name": "チュートリアル平原3",
+        "name": "Tutorial Plains 3",
         "order": 196,
         "parentId": 48,
         "scrollX": 884.7272727272727,
@@ -444,7 +444,7 @@
     {
         "id": 50,
         "expanded": true,
-        "name": "狩りの森",
+        "name": "Hunting Forest",
         "order": 66,
         "parentId": 3,
         "scrollX": 1769.4545454545455,
@@ -453,7 +453,7 @@
     {
         "id": 51,
         "expanded": false,
-        "name": "ボスカニ",
+        "name": "Boss Cany",
         "order": 34,
         "parentId": 36,
         "scrollX": 1404,
@@ -462,7 +462,7 @@
     {
         "id": 52,
         "expanded": false,
-        "name": "イベント用城下町",
+        "name": "Event Town Below the Castle",
         "order": 57,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -471,7 +471,7 @@
     {
         "id": 53,
         "expanded": false,
-        "name": "暗転用",
+        "name": "Fade to Black",
         "order": 55,
         "parentId": 17,
         "scrollX": 1404,
@@ -480,7 +480,7 @@
     {
         "id": 54,
         "expanded": true,
-        "name": "聖子の森1",
+        "name": "Holy Child's Forest 1",
         "order": 197,
         "parentId": 49,
         "scrollX": 1786.909090909091,
@@ -489,7 +489,7 @@
     {
         "id": 55,
         "expanded": false,
-        "name": "暗き森",
+        "name": "Dark Forest",
         "order": 56,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -498,7 +498,7 @@
     {
         "id": 56,
         "expanded": true,
-        "name": "城下町A",
+        "name": "Town Below the Castle A",
         "order": 169,
         "parentId": 41,
         "scrollX": 2457,
@@ -507,7 +507,7 @@
     {
         "id": 57,
         "expanded": false,
-        "name": "教会",
+        "name": "Church",
         "order": 170,
         "parentId": 56,
         "scrollX": 1638,
@@ -516,7 +516,7 @@
     {
         "id": 58,
         "expanded": true,
-        "name": "暗き森",
+        "name": "Dark Forest",
         "order": 117,
         "parentId": 16,
         "scrollX": 1404,
@@ -525,7 +525,7 @@
     {
         "id": 59,
         "expanded": true,
-        "name": "★遺跡内部 1",
+        "name": "Ruins Interior 1",
         "order": 119,
         "parentId": 69,
         "scrollX": 1404,
@@ -534,7 +534,7 @@
     {
         "id": 60,
         "expanded": true,
-        "name": "チュートリアル森",
+        "name": "Tutorial Forest",
         "order": 144,
         "parentId": 93,
         "scrollX": 1769.4545454545455,
@@ -543,7 +543,7 @@
     {
         "id": 61,
         "expanded": true,
-        "name": "聖子の森3",
+        "name": "Holy Child's Forest 3",
         "order": 199,
         "parentId": 54,
         "scrollX": 1786.909090909091,
@@ -552,7 +552,7 @@
     {
         "id": 62,
         "expanded": true,
-        "name": "聖子の森9",
+        "name": "Holy Child's Forest 9",
         "order": 209,
         "parentId": 64,
         "scrollX": 1786.909090909091,
@@ -561,7 +561,7 @@
     {
         "id": 63,
         "expanded": true,
-        "name": "呼種の洞窟",
+        "name": "Summoning Cave",
         "order": 19,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -570,7 +570,7 @@
     {
         "id": 64,
         "expanded": true,
-        "name": "森の泉",
+        "name": "Forest Spring",
         "order": 206,
         "parentId": 65,
         "scrollX": 1638,
@@ -579,7 +579,7 @@
     {
         "id": 65,
         "expanded": true,
-        "name": "聖子の森6",
+        "name": "Holy Child's Forest 6",
         "order": 205,
         "parentId": 61,
         "scrollX": 1786.909090909091,
@@ -588,7 +588,7 @@
     {
         "id": 66,
         "expanded": true,
-        "name": "洞窟 Ｂ2",
+        "name": "Cave B2",
         "order": 26,
         "parentId": 12,
         "scrollX": 1786.909090909091,
@@ -597,7 +597,7 @@
     {
         "id": 67,
         "expanded": true,
-        "name": "洞窟 B",
+        "name": "Cave B",
         "order": 24,
         "parentId": 63,
         "scrollX": 1769.4545454545455,
@@ -606,7 +606,7 @@
     {
         "id": 68,
         "expanded": true,
-        "name": "滝のある森",
+        "name": "Forest with Waterfall",
         "order": 211,
         "parentId": 62,
         "scrollX": 1769.4545454545455,
@@ -615,7 +615,7 @@
     {
         "id": 69,
         "expanded": true,
-        "name": "★遺跡外部 A",
+        "name": "Ruins Exterior A",
         "order": 118,
         "parentId": 58,
         "scrollX": 1404,
@@ -624,7 +624,7 @@
     {
         "id": 70,
         "expanded": true,
-        "name": "村長の家イベント過去",
+        "name": "Village Chief's House Event Past",
         "order": 113,
         "parentId": 125,
         "scrollX": 1786.909090909091,
@@ -633,7 +633,7 @@
     {
         "id": 71,
         "expanded": true,
-        "name": "ウミ家最初",
+        "name": "Umi's House Beginning",
         "order": 95,
         "parentId": 82,
         "scrollX": 1786.909090909091,
@@ -642,7 +642,7 @@
     {
         "id": 72,
         "expanded": true,
-        "name": "ウミ家プレーン",
+        "name": "Umi's House Plain",
         "order": 96,
         "parentId": 82,
         "scrollX": 832,
@@ -651,7 +651,7 @@
     {
         "id": 73,
         "expanded": false,
-        "name": "クセシの村東",
+        "name": "Village of Kusechi East",
         "order": 235,
         "parentId": 17,
         "scrollX": 1622,
@@ -660,7 +660,7 @@
     {
         "id": 74,
         "expanded": false,
-        "name": "教会",
+        "name": "Church",
         "order": 237,
         "parentId": 73,
         "scrollX": 1953.6,
@@ -669,7 +669,7 @@
     {
         "id": 75,
         "expanded": true,
-        "name": "聖子の森2",
+        "name": "Holy Child's Forest 2",
         "order": 198,
         "parentId": 54,
         "scrollX": 1786.909090909091,
@@ -678,7 +678,7 @@
     {
         "id": 76,
         "expanded": true,
-        "name": "聖子の森4",
+        "name": "Holy Child's Forest 4",
         "order": 200,
         "parentId": 61,
         "scrollX": 1786.909090909091,
@@ -687,7 +687,7 @@
     {
         "id": 77,
         "expanded": true,
-        "name": "聖子の森5",
+        "name": "Holy Child's Forest 5",
         "order": 201,
         "parentId": 76,
         "scrollX": 1786.909090909091,
@@ -696,7 +696,7 @@
     {
         "id": 78,
         "expanded": true,
-        "name": "チュートリアル平原",
+        "name": "Tutorial Plains",
         "order": 194,
         "parentId": 47,
         "scrollX": 884.7272727272727,
@@ -705,7 +705,7 @@
     {
         "id": 79,
         "expanded": true,
-        "name": "集落に続く森",
+        "name": "Forest Leading to the Settlement",
         "order": 68,
         "parentId": 17,
         "scrollX": 1638,
@@ -714,7 +714,7 @@
     {
         "id": 80,
         "expanded": true,
-        "name": "西の森",
+        "name": "Western Forest",
         "order": 69,
         "parentId": 79,
         "scrollX": 1638,
@@ -723,7 +723,7 @@
     {
         "id": 81,
         "expanded": false,
-        "name": "呼種の洞窟入口",
+        "name": "Call Species Cave Entrance",
         "order": 83,
         "parentId": 79,
         "scrollX": 1786.909090909091,
@@ -732,7 +732,7 @@
     {
         "id": 82,
         "expanded": true,
-        "name": "ウミ家",
+        "name": "Umi's House",
         "order": 93,
         "parentId": 39,
         "scrollX": 1228.5,
@@ -741,7 +741,7 @@
     {
         "id": 83,
         "expanded": false,
-        "name": "雑貨屋ポソの家",
+        "name": "General Store Poso's House",
         "order": 105,
         "parentId": 39,
         "scrollX": 893.4545454545455,
@@ -750,7 +750,7 @@
     {
         "id": 84,
         "expanded": true,
-        "name": "民家2",
+        "name": "Private House 2",
         "order": 106,
         "parentId": 39,
         "scrollX": 1404,
@@ -759,7 +759,7 @@
     {
         "id": 85,
         "expanded": false,
-        "name": "民家2 B1",
+        "name": "Private House 2 B1",
         "order": 107,
         "parentId": 84,
         "scrollX": 1786.909090909091,
@@ -768,7 +768,7 @@
     {
         "id": 86,
         "expanded": true,
-        "name": "民家3",
+        "name": "Private House 3",
         "order": 108,
         "parentId": 39,
         "scrollX": 720.8888888888889,
@@ -777,7 +777,7 @@
     {
         "id": 87,
         "expanded": false,
-        "name": "民家3 2F",
+        "name": "Private House 3 2F",
         "order": 109,
         "parentId": 86,
         "scrollX": 1404,
@@ -786,7 +786,7 @@
     {
         "id": 88,
         "expanded": true,
-        "name": "村長の家",
+        "name": "Village Chief's House",
         "order": 110,
         "parentId": 39,
         "scrollX": 1786.909090909091,
@@ -795,7 +795,7 @@
     {
         "id": 89,
         "expanded": false,
-        "name": "村長の家バンカの部屋",
+        "name": "Village Chief's House Banka's Room",
         "order": 111,
         "parentId": 88,
         "scrollX": 1786.909090909091,
@@ -804,7 +804,7 @@
     {
         "id": 90,
         "expanded": false,
-        "name": "ウミ家イベント用",
+        "name": "Umi's House Event",
         "order": 94,
         "parentId": 82,
         "scrollX": 1786.909090909091,
@@ -813,7 +813,7 @@
     {
         "id": 91,
         "expanded": true,
-        "name": "狩りの森",
+        "name": "Hunting Forest",
         "order": 84,
         "parentId": 79,
         "scrollX": 1390.2857142857142,
@@ -822,7 +822,7 @@
     {
         "id": 92,
         "expanded": true,
-        "name": "クセシの村夜イベント用",
+        "name": "Kuseshi Village Night Event",
         "order": 127,
         "parentId": 17,
         "scrollX": 1769.142857142857,
@@ -831,7 +831,7 @@
     {
         "id": 93,
         "expanded": false,
-        "name": "山のふもと",
+        "name": "Foot of the Mountain",
         "order": 128,
         "parentId": 17,
         "scrollX": 1081.7777777777778,
@@ -840,7 +840,7 @@
     {
         "id": 94,
         "expanded": true,
-        "name": "山の洞窟 1F",
+        "name": "Mountain Cave 1F",
         "order": 129,
         "parentId": 93,
         "scrollX": 1769.4545454545455,
@@ -849,7 +849,7 @@
     {
         "id": 95,
         "expanded": true,
-        "name": "山の洞窟 2F",
+        "name": "Mountain Cave 2F",
         "order": 130,
         "parentId": 93,
         "scrollX": 1769.4545454545455,
@@ -858,7 +858,7 @@
     {
         "id": 96,
         "expanded": true,
-        "name": "山の洞窟 3Ｆ",
+        "name": "Mountain Cave 3F",
         "order": 131,
         "parentId": 95,
         "scrollX": 1786.909090909091,
@@ -867,7 +867,7 @@
     {
         "id": 97,
         "expanded": true,
-        "name": "山頂イベント用",
+        "name": "Mountain Summit Event",
         "order": 142,
         "parentId": 111,
         "scrollX": 1390.2857142857142,
@@ -876,7 +876,7 @@
     {
         "id": 98,
         "expanded": true,
-        "name": "山の中腹",
+        "name": "Mid-Mountain",
         "order": 132,
         "parentId": 93,
         "scrollX": 1585.3333333333333,
@@ -885,7 +885,7 @@
     {
         "id": 99,
         "expanded": true,
-        "name": "山の洞窟 3F-3",
+        "name": "Mountain Cave 3F-3",
         "order": 135,
         "parentId": 93,
         "scrollX": 1769.4545454545455,
@@ -894,7 +894,7 @@
     {
         "id": 100,
         "expanded": true,
-        "name": "聖子の森7",
+        "name": "Saint's Forest 7",
         "order": 207,
         "parentId": 64,
         "scrollX": 1786.909090909091,
@@ -903,7 +903,7 @@
     {
         "id": 101,
         "expanded": true,
-        "name": "ウミ家初夜",
+        "name": "Umi's House First Night",
         "order": 102,
         "parentId": 82,
         "scrollX": 1786.909090909091,
@@ -912,7 +912,7 @@
     {
         "id": 102,
         "expanded": true,
-        "name": "アルヴァ街道イベント用",
+        "name": "Alva Highway Event",
         "order": 73,
         "parentId": 120,
         "scrollX": 1786.909090909091,
@@ -921,7 +921,7 @@
     {
         "id": 103,
         "expanded": true,
-        "name": "宿屋イベント用",
+        "name": "Inn Event",
         "order": 176,
         "parentId": 128,
         "scrollX": 1786.909090909091,
@@ -930,7 +930,7 @@
     {
         "id": 104,
         "expanded": true,
-        "name": "後編フォルダ",
+        "name": "Sequel Folder",
         "order": 257,
         "parentId": 0,
         "scrollX": 1092,
@@ -939,7 +939,7 @@
     {
         "id": 105,
         "expanded": true,
-        "name": "ウミ家新婚",
+        "name": "Umi's House Honeymoon",
         "order": 258,
         "parentId": 104,
         "scrollX": 1786.909090909091,
@@ -948,7 +948,7 @@
     {
         "id": 106,
         "expanded": true,
-        "name": "山の洞窟 9F-1",
+        "name": "Mountain Cave 9F-1",
         "order": 136,
         "parentId": 93,
         "scrollX": 1769.4545454545455,
@@ -957,7 +957,7 @@
     {
         "id": 107,
         "expanded": false,
-        "name": "山の洞窟 9F-2",
+        "name": "Mountain Cave 9F-2",
         "order": 137,
         "parentId": 106,
         "scrollX": 1786.909090909091,
@@ -966,7 +966,7 @@
     {
         "id": 108,
         "expanded": true,
-        "name": "山の洞窟 10F-1",
+        "name": "Mountain Cave 10F-1",
         "order": 138,
         "parentId": 93,
         "scrollX": 1786.909090909091,
@@ -975,7 +975,7 @@
     {
         "id": 109,
         "expanded": false,
-        "name": "山の洞窟 10F-2",
+        "name": "Mountain Cave 10F-2",
         "order": 139,
         "parentId": 108,
         "scrollX": 1786.909090909091,
@@ -984,7 +984,7 @@
     {
         "id": 110,
         "expanded": false,
-        "name": "山の洞窟 11F",
+        "name": "Mountain Cave 11F",
         "order": 140,
         "parentId": 93,
         "scrollX": 1390.2857142857142,
@@ -993,7 +993,7 @@
     {
         "id": 111,
         "expanded": true,
-        "name": "山頂",
+        "name": "Mountain Summit",
         "order": 141,
         "parentId": 93,
         "scrollX": 1390.2857142857142,
@@ -1002,7 +1002,7 @@
     {
         "id": 112,
         "expanded": true,
-        "name": "プレグスの道",
+        "name": "Pregs Road",
         "order": 70,
         "parentId": 80,
         "scrollX": 1390.2857142857142,
@@ -1011,7 +1011,7 @@
     {
         "id": 113,
         "expanded": true,
-        "name": "アルヴァ街道",
+        "name": "Alva Highway",
         "order": 146,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -1020,7 +1020,7 @@
     {
         "id": 114,
         "expanded": true,
-        "name": "プレグスの道",
+        "name": "Pregs Road",
         "order": 77,
         "parentId": 112,
         "scrollX": 1786.909090909091,
@@ -1029,7 +1029,7 @@
     {
         "id": 115,
         "expanded": true,
-        "name": "クセシの村イベント用",
+        "name": "Kuseshi Village Event",
         "order": 147,
         "parentId": 17,
         "scrollX": 1622.2222222222222,
@@ -1038,7 +1038,7 @@
     {
         "id": 116,
         "expanded": false,
-        "name": "ウミ家イベント用日々",
+        "name": "Umi's House Daily Event",
         "order": 148,
         "parentId": 115,
         "scrollX": 1786.909090909091,
@@ -1047,7 +1047,7 @@
     {
         "id": 117,
         "expanded": true,
-        "name": "クセシの村イベント用2",
+        "name": "Kuseshi Village Event 2",
         "order": 151,
         "parentId": 17,
         "scrollX": 1769.7777777777778,
@@ -1056,7 +1056,7 @@
     {
         "id": 118,
         "expanded": false,
-        "name": "ウミ過去用森",
+        "name": "Umi's Past Forest",
         "order": 152,
         "parentId": 17,
         "scrollX": 720.8888888888889,
@@ -1065,7 +1065,7 @@
     {
         "id": 119,
         "expanded": false,
-        "name": "暗き森過去",
+        "name": "Dark Forest Past",
         "order": 153,
         "parentId": 17,
         "scrollX": 720.8888888888889,
@@ -1074,7 +1074,7 @@
     {
         "id": 120,
         "expanded": true,
-        "name": "アルヴァ街道",
+        "name": "Alva Highway",
         "order": 72,
         "parentId": 121,
         "scrollX": 1786.909090909091,
@@ -1083,7 +1083,7 @@
     {
         "id": 121,
         "expanded": true,
-        "name": "アルヴァ街道 2",
+        "name": "Alva Road 2",
         "order": 71,
         "parentId": 112,
         "scrollX": 1786.909090909091,
@@ -1092,7 +1092,7 @@
     {
         "id": 122,
         "expanded": false,
-        "name": "森の遊歩道 3",
+        "name": "Forest Promenade 3",
         "order": 76,
         "parentId": 112,
         "scrollX": 1769.4545454545455,
@@ -1101,7 +1101,7 @@
     {
         "id": 123,
         "expanded": true,
-        "name": "聖子の森8",
+        "name": "Holy Child's Forest 8",
         "order": 208,
         "parentId": 100,
         "scrollX": 1638,
@@ -1110,7 +1110,7 @@
     {
         "id": 124,
         "expanded": true,
-        "name": "聖子の森",
+        "name": "Holy Child's Forest",
         "order": 210,
         "parentId": 62,
         "scrollX": 1786.909090909091,
@@ -1119,7 +1119,7 @@
     {
         "id": 125,
         "expanded": true,
-        "name": "村長の家イベント",
+        "name": "Village Chief's House Event",
         "order": 112,
         "parentId": 88,
         "scrollX": 720.8888888888889,
@@ -1128,7 +1128,7 @@
     {
         "id": 126,
         "expanded": true,
-        "name": "聖子の森入口",
+        "name": "Holy Child's Forest Entrance",
         "order": 86,
         "parentId": 79,
         "scrollX": 1786.909090909091,
@@ -1137,7 +1137,7 @@
     {
         "id": 127,
         "expanded": true,
-        "name": "聖子の森入口イベント",
+        "name": "Holy Child's Forest Entrance Event",
         "order": 87,
         "parentId": 126,
         "scrollX": 1638,
@@ -1146,7 +1146,7 @@
     {
         "id": 128,
         "expanded": true,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 171,
         "parentId": 56,
         "scrollX": 1404,
@@ -1155,7 +1155,7 @@
     {
         "id": 129,
         "expanded": true,
-        "name": "客室A",
+        "name": "Guest Room A",
         "order": 172,
         "parentId": 128,
         "scrollX": 1404,
@@ -1164,7 +1164,7 @@
     {
         "id": 130,
         "expanded": true,
-        "name": "客室B",
+        "name": "Guest Room B",
         "order": 174,
         "parentId": 128,
         "scrollX": 1404,
@@ -1173,7 +1173,7 @@
     {
         "id": 131,
         "expanded": true,
-        "name": "酒場",
+        "name": "Tavern",
         "order": 177,
         "parentId": 56,
         "scrollX": 1092,
@@ -1182,7 +1182,7 @@
     {
         "id": 132,
         "expanded": false,
-        "name": "道具屋",
+        "name": "Tool Shop",
         "order": 181,
         "parentId": 56,
         "scrollX": 884.7272727272727,
@@ -1191,7 +1191,7 @@
     {
         "id": 133,
         "expanded": true,
-        "name": "薬屋",
+        "name": "Pharmacy",
         "order": 182,
         "parentId": 56,
         "scrollX": 832,
@@ -1200,7 +1200,7 @@
     {
         "id": 134,
         "expanded": false,
-        "name": "武器屋",
+        "name": "Weapon Shop",
         "order": 184,
         "parentId": 56,
         "scrollX": 728,
@@ -1209,7 +1209,7 @@
     {
         "id": 135,
         "expanded": false,
-        "name": "本屋",
+        "name": "Bookstore",
         "order": 185,
         "parentId": 56,
         "scrollX": 1092,
@@ -1218,7 +1218,7 @@
     {
         "id": 136,
         "expanded": false,
-        "name": "木工ギルド",
+        "name": "Carpentry Guild",
         "order": 186,
         "parentId": 56,
         "scrollX": 1638,
@@ -1227,7 +1227,7 @@
     {
         "id": 137,
         "expanded": false,
-        "name": "民家A",
+        "name": "Private House A",
         "order": 187,
         "parentId": 56,
         "scrollX": 1638,
@@ -1236,7 +1236,7 @@
     {
         "id": 138,
         "expanded": false,
-        "name": "民家B",
+        "name": "Private House B",
         "order": 188,
         "parentId": 56,
         "scrollX": 1784.7272727272727,
@@ -1245,7 +1245,7 @@
     {
         "id": 139,
         "expanded": false,
-        "name": "民家C",
+        "name": "Private House C",
         "order": 189,
         "parentId": 56,
         "scrollX": 1638,
@@ -1254,7 +1254,7 @@
     {
         "id": 140,
         "expanded": false,
-        "name": "イベント謁見の間",
+        "name": "Event Audience Chamber",
         "order": 165,
         "parentId": 45,
         "scrollX": 1403.142857142857,
@@ -1263,7 +1263,7 @@
     {
         "id": 141,
         "expanded": false,
-        "name": "大きな城2Fイベント用",
+        "name": "Large Castle 2F Event",
         "order": 160,
         "parentId": 43,
         "scrollX": 1404,
@@ -1272,7 +1272,7 @@
     {
         "id": 142,
         "expanded": false,
-        "name": "客室Aイベント",
+        "name": "Guest Room A Event",
         "order": 173,
         "parentId": 129,
         "scrollX": 1404,
@@ -1281,7 +1281,7 @@
     {
         "id": 143,
         "expanded": true,
-        "name": "シフの部屋",
+        "name": "Shif's Room",
         "order": 166,
         "parentId": 44,
         "scrollX": 1403.142857142857,
@@ -1290,7 +1290,7 @@
     {
         "id": 144,
         "expanded": false,
-        "name": "シフの部屋イベント用",
+        "name": "Shif's Room Event",
         "order": 167,
         "parentId": 143,
         "scrollX": 1403.142857142857,
@@ -1299,7 +1299,7 @@
     {
         "id": 145,
         "expanded": false,
-        "name": "城下町Aイベント用",
+        "name": "Town Below Castle A Event",
         "order": 190,
         "parentId": 56,
         "scrollX": 1621.7142857142856,
@@ -1308,7 +1308,7 @@
     {
         "id": 146,
         "expanded": true,
-        "name": "盗賊アジトへの道",
+        "name": "Thieves' Hideout Path",
         "order": 220,
         "parentId": 17,
         "scrollX": 884.7272727272727,
@@ -1317,7 +1317,7 @@
     {
         "id": 147,
         "expanded": true,
-        "name": "チュートリアル平原2",
+        "name": "Tutorial Plains 2",
         "order": 221,
         "parentId": 146,
         "scrollX": 884.7272727272727,
@@ -1326,7 +1326,7 @@
     {
         "id": 148,
         "expanded": true,
-        "name": "チュートリアル平原2",
+        "name": "Tutorial Plains 2",
         "order": 222,
         "parentId": 146,
         "scrollX": 884.7272727272727,
@@ -1335,7 +1335,7 @@
     {
         "id": 149,
         "expanded": true,
-        "name": "秘密のアジト",
+        "name": "Secret Hideout",
         "order": 230,
         "parentId": 17,
         "scrollX": 1081.3333333333333,
@@ -1344,7 +1344,7 @@
     {
         "id": 150,
         "expanded": true,
-        "name": "地下牢",
+        "name": "Dungeon",
         "order": 232,
         "parentId": 151,
         "scrollX": 1638,
@@ -1353,7 +1353,7 @@
     {
         "id": 151,
         "expanded": true,
-        "name": "秘密のアジト",
+        "name": "Secret Hideout",
         "order": 231,
         "parentId": 149,
         "scrollX": 1638,
@@ -1362,7 +1362,7 @@
     {
         "id": 152,
         "expanded": false,
-        "name": "地下牢イベント用",
+        "name": "Dungeon Event",
         "order": 233,
         "parentId": 150,
         "scrollX": 1092,
@@ -1371,7 +1371,7 @@
     {
         "id": 153,
         "expanded": true,
-        "name": "浜辺のある村",
+        "name": "Village with a Beach",
         "order": 224,
         "parentId": 154,
         "scrollX": 2457,
@@ -1380,7 +1380,7 @@
     {
         "id": 154,
         "expanded": true,
-        "name": "潮騒の街道",
+        "name": "Seaside Highway",
         "order": 223,
         "parentId": 146,
         "scrollX": 1270.6666666666667,
@@ -1389,7 +1389,7 @@
     {
         "id": 155,
         "expanded": false,
-        "name": "民家2",
+        "name": "Private House 2",
         "order": 225,
         "parentId": 153,
         "scrollX": 2457,
@@ -1398,7 +1398,7 @@
     {
         "id": 156,
         "expanded": false,
-        "name": "大きな城　1F",
+        "name": "Large Castle 1F",
         "order": 156,
         "parentId": 42,
         "scrollX": 1404,
@@ -1407,7 +1407,7 @@
     {
         "id": 157,
         "expanded": false,
-        "name": "城　地下牢",
+        "name": "Castle Dungeon",
         "order": 157,
         "parentId": 156,
         "scrollX": 973.1999999999999,
@@ -1416,7 +1416,7 @@
     {
         "id": 158,
         "expanded": false,
-        "name": "城　食堂",
+        "name": "Castle Dining Hall",
         "order": 158,
         "parentId": 156,
         "scrollX": 982.8,
@@ -1425,7 +1425,7 @@
     {
         "id": 159,
         "expanded": false,
-        "name": "大きな城　図書室",
+        "name": "Large Castle Library",
         "order": 161,
         "parentId": 43,
         "scrollX": 1404,
@@ -1434,7 +1434,7 @@
     {
         "id": 160,
         "expanded": true,
-        "name": "大きな城　会議室",
+        "name": "Large Castle Conference Room",
         "order": 162,
         "parentId": 43,
         "scrollX": 1086,
@@ -1443,7 +1443,7 @@
     {
         "id": 161,
         "expanded": false,
-        "name": "大きな城　王と王妃の部屋",
+        "name": "The Grand Castle - King and Queen's Room",
         "order": 168,
         "parentId": 44,
         "scrollX": 1403.142857142857,
@@ -1452,7 +1452,7 @@
     {
         "id": 162,
         "expanded": false,
-        "name": "回想部屋",
+        "name": "Recollection Room",
         "order": 236,
         "parentId": 73,
         "scrollX": 1584,
@@ -1461,7 +1461,7 @@
     {
         "id": 163,
         "expanded": false,
-        "name": "民家",
+        "name": "Villager's House",
         "order": 124,
         "parentId": 39,
         "scrollX": 728,
@@ -1470,7 +1470,7 @@
     {
         "id": 164,
         "expanded": false,
-        "name": "民家1",
+        "name": "Villager's House 1",
         "order": 191,
         "parentId": 56,
         "scrollX": 1638,
@@ -1479,7 +1479,7 @@
     {
         "id": 165,
         "expanded": false,
-        "name": "イベント平原",
+        "name": "Event Plains",
         "order": 234,
         "parentId": 149,
         "scrollX": 1081.3333333333333,
@@ -1488,7 +1488,7 @@
     {
         "id": 166,
         "expanded": true,
-        "name": "浜辺のある村イベント用",
+        "name": "Village by the Beach - Event",
         "order": 226,
         "parentId": 153,
         "scrollX": 2457,
@@ -1497,7 +1497,7 @@
     {
         "id": 167,
         "expanded": true,
-        "name": "聖子の森1イベント",
+        "name": "Saint's Forest 1 - Event",
         "order": 243,
         "parentId": 17,
         "scrollX": 1786.909090909091,
@@ -1506,7 +1506,7 @@
     {
         "id": 168,
         "expanded": true,
-        "name": "聖子の森2-2",
+        "name": "Saint's Forest 2-2",
         "order": 244,
         "parentId": 167,
         "scrollX": 1786.909090909091,
@@ -1515,7 +1515,7 @@
     {
         "id": 169,
         "expanded": true,
-        "name": "聖子の森3-3",
+        "name": "Saint's Forest 3-3",
         "order": 245,
         "parentId": 167,
         "scrollX": 1786.909090909091,
@@ -1524,7 +1524,7 @@
     {
         "id": 170,
         "expanded": true,
-        "name": "聖子の森4-4",
+        "name": "Saint's Forest 4-4",
         "order": 246,
         "parentId": 167,
         "scrollX": 864,
@@ -1533,7 +1533,7 @@
     {
         "id": 171,
         "expanded": true,
-        "name": "聖子の森5-5",
+        "name": "Saint's Forest 5-5",
         "order": 247,
         "parentId": 167,
         "scrollX": 1786.909090909091,
@@ -1542,7 +1542,7 @@
     {
         "id": 172,
         "expanded": true,
-        "name": "聖子の森6-6",
+        "name": "Saint's Forest 6-6",
         "order": 248,
         "parentId": 167,
         "scrollX": 1786.909090909091,
@@ -1551,7 +1551,7 @@
     {
         "id": 173,
         "expanded": true,
-        "name": "森の泉-2",
+        "name": "Forest Spring - 2",
         "order": 249,
         "parentId": 167,
         "scrollX": 1786.909090909091,
@@ -1560,7 +1560,7 @@
     {
         "id": 174,
         "expanded": false,
-        "name": "暗き森",
+        "name": "The Dark Forest",
         "order": 88,
         "parentId": 126,
         "scrollX": 1404,
@@ -1569,7 +1569,7 @@
     {
         "id": 175,
         "expanded": true,
-        "name": "ウミ家プレーン後編",
+        "name": "Umi's House - After the Plains",
         "order": 259,
         "parentId": 105,
         "scrollX": 1404,
@@ -1578,7 +1578,7 @@
     {
         "id": 176,
         "expanded": true,
-        "name": "ウミ家強襲",
+        "name": "Assault on Umi's House",
         "order": 97,
         "parentId": 82,
         "scrollX": 832,
@@ -1587,7 +1587,7 @@
     {
         "id": 177,
         "expanded": true,
-        "name": "聖子の森決戦",
+        "name": "Final Battle in Saint's Forest",
         "order": 250,
         "parentId": 167,
         "scrollX": 1769.4545454545455,
@@ -1596,7 +1596,7 @@
     {
         "id": 178,
         "expanded": true,
-        "name": "聖子の森決戦イベント用",
+        "name": "Final Battle in Saint's Forest - Event",
         "order": 251,
         "parentId": 177,
         "scrollX": 1769.4545454545455,
@@ -1605,7 +1605,7 @@
     {
         "id": 179,
         "expanded": false,
-        "name": "民家イーブル",
+        "name": "Villager's House - Iburu",
         "order": 238,
         "parentId": 73,
         "scrollX": 832,
@@ -1614,7 +1614,7 @@
     {
         "id": 180,
         "expanded": false,
-        "name": "クセシの村東プレーン",
+        "name": "Village of Kusechi - East Plains",
         "order": 242,
         "parentId": 73,
         "scrollX": 1934,
@@ -1623,7 +1623,7 @@
     {
         "id": 181,
         "expanded": false,
-        "name": "民家1",
+        "name": "Villager's House 1",
         "order": 239,
         "parentId": 73,
         "scrollX": 1953.6,
@@ -1632,7 +1632,7 @@
     {
         "id": 182,
         "expanded": true,
-        "name": "民家2",
+        "name": "Villager's House 2",
         "order": 240,
         "parentId": 73,
         "scrollX": 832,
@@ -1641,7 +1641,7 @@
     {
         "id": 183,
         "expanded": true,
-        "name": "ウミ家病気",
+        "name": "Umi's House - Illness",
         "order": 98,
         "parentId": 82,
         "scrollX": 1092,
@@ -1650,7 +1650,7 @@
     {
         "id": 184,
         "expanded": true,
-        "name": "ウミ家めんどうな事狩り終了",
+        "name": "Umi's House - Post-Hunt Trouble",
         "order": 99,
         "parentId": 82,
         "scrollX": 1786.909090909091,
@@ -1659,7 +1659,7 @@
     {
         "id": 185,
         "expanded": true,
-        "name": "村長の家病気イベント",
+        "name": "Village Chief's House - Illness Event",
         "order": 114,
         "parentId": 88,
         "scrollX": 720.8888888888889,
@@ -1668,7 +1668,7 @@
     {
         "id": 186,
         "expanded": false,
-        "name": "ウミ家イベント用過去",
+        "name": "Umi's House - Past Event",
         "order": 100,
         "parentId": 82,
         "scrollX": 1404,
@@ -1677,7 +1677,7 @@
     {
         "id": 187,
         "expanded": true,
-        "name": "ウミ家王国編",
+        "name": "Umi's House - Kingdom Arc",
         "order": 101,
         "parentId": 82,
         "scrollX": 1638,
@@ -1686,7 +1686,7 @@
     {
         "id": 188,
         "expanded": true,
-        "name": "クセシの村強襲",
+        "name": "Kusechi Village Assault",
         "order": 125,
         "parentId": 39,
         "scrollX": 1769.142857142857,
@@ -1695,7 +1695,7 @@
     {
         "id": 189,
         "expanded": true,
-        "name": "クセシの村強襲イベント",
+        "name": "Kusechi Village Assault - Event",
         "order": 126,
         "parentId": 188,
         "scrollX": 1768.888888888889,
@@ -1704,7 +1704,7 @@
     {
         "id": 190,
         "expanded": true,
-        "name": "聖子の森決戦テスト用",
+        "name": "Final Battle Test in Saint's Forest",
         "order": 253,
         "parentId": 177,
         "scrollX": 1769.4545454545455,
@@ -1713,7 +1713,7 @@
     {
         "id": 191,
         "expanded": true,
-        "name": "決戦敵本陣",
+        "name": "Final Battle Enemy Headquarters",
         "order": 254,
         "parentId": 177,
         "scrollX": 1390.2857142857142,
@@ -1722,7 +1722,7 @@
     {
         "id": 192,
         "expanded": true,
-        "name": "聖子の森決戦集合",
+        "name": "Gathering for the Final Battle in Saint's Forest",
         "order": 255,
         "parentId": 177,
         "scrollX": 1390.2857142857142,
@@ -1731,7 +1731,7 @@
     {
         "id": 193,
         "expanded": true,
-        "name": "客室Bイベント",
+        "name": "Guest Room B - Event",
         "order": 175,
         "parentId": 130,
         "scrollX": 1403.142857142857,
@@ -1740,7 +1740,7 @@
     {
         "id": 194,
         "expanded": true,
-        "name": "聖子の森決戦休憩",
+        "name": "Resting during the Final Battle in Saint's Forest",
         "order": 256,
         "parentId": 177,
         "scrollX": 1390.2857142857142,
@@ -1749,7 +1749,7 @@
     {
         "id": 195,
         "expanded": true,
-        "name": "潮騒の街道イベント用",
+        "name": "Seaside Highway - Event",
         "order": 228,
         "parentId": 154,
         "scrollX": 1467.2727272727273,
@@ -1758,7 +1758,7 @@
     {
         "id": 196,
         "expanded": true,
-        "name": "ふつうの城 B1-1",
+        "name": "Ordinary Castle B1-1",
         "order": 241,
         "parentId": 182,
         "scrollX": 1953.6,
@@ -1767,7 +1767,7 @@
     {
         "id": 197,
         "expanded": true,
-        "name": "クセシの村ウエディング",
+        "name": "Kusechi Village Wedding",
         "order": 149,
         "parentId": 115,
         "scrollX": 1769.4545454545455,
@@ -1776,7 +1776,7 @@
     {
         "id": 198,
         "expanded": true,
-        "name": "クセシの村後編",
+        "name": "Kusechi Village - Epilogue",
         "order": 264,
         "parentId": 104,
         "scrollX": 1769.4545454545455,
@@ -1785,7 +1785,7 @@
     {
         "id": 199,
         "expanded": true,
-        "name": "村長の家後編プレーン",
+        "name": "Village Chief's House - Epilogue Plains",
         "order": 265,
         "parentId": 198,
         "scrollX": 1786.909090909091,
@@ -1794,7 +1794,7 @@
     {
         "id": 200,
         "expanded": true,
-        "name": "村長の家後編イベント用",
+        "name": "Village Chief's House - Epilogue Event",
         "order": 266,
         "parentId": 199,
         "scrollX": 1404,
@@ -1803,7 +1803,7 @@
     {
         "id": 201,
         "expanded": true,
-        "name": "クセシの村後編イベ集合",
+        "name": "Kusechi Village Sequel Gathering",
         "order": 271,
         "parentId": 198,
         "scrollX": 1769.4545454545455,
@@ -1812,7 +1812,7 @@
     {
         "id": 202,
         "expanded": true,
-        "name": "クセシの村後編イベント用",
+        "name": "Kusechi Village Sequel Event",
         "order": 272,
         "parentId": 198,
         "scrollX": 1769.4545454545455,
@@ -1821,7 +1821,7 @@
     {
         "id": 203,
         "expanded": true,
-        "name": "第一試練への道",
+        "name": "Path to the First Trial",
         "order": 284,
         "parentId": 104,
         "scrollX": 1786.909090909091,
@@ -1830,7 +1830,7 @@
     {
         "id": 204,
         "expanded": true,
-        "name": "第一試練への道2",
+        "name": "Path to the First Trial 2",
         "order": 285,
         "parentId": 203,
         "scrollX": 1390.2857142857142,
@@ -1839,7 +1839,7 @@
     {
         "id": 205,
         "expanded": true,
-        "name": "試練の洞窟6",
+        "name": "Trial Cave 6",
         "order": 293,
         "parentId": 206,
         "scrollX": 1769.4545454545455,
@@ -1848,7 +1848,7 @@
     {
         "id": 206,
         "expanded": true,
-        "name": "第一試練への道3",
+        "name": "Path to the First Trial 3",
         "order": 290,
         "parentId": 203,
         "scrollX": 1769.4545454545455,
@@ -1857,7 +1857,7 @@
     {
         "id": 207,
         "expanded": true,
-        "name": "休憩",
+        "name": "Rest",
         "order": 286,
         "parentId": 204,
         "scrollX": 1404,
@@ -1866,7 +1866,7 @@
     {
         "id": 208,
         "expanded": false,
-        "name": "休憩イベント用",
+        "name": "Rest Event",
         "order": 287,
         "parentId": 207,
         "scrollX": 1786.909090909091,
@@ -1875,7 +1875,7 @@
     {
         "id": 209,
         "expanded": true,
-        "name": "水辺イベント用",
+        "name": "Riverside Event",
         "order": 288,
         "parentId": 207,
         "scrollX": 1390.2857142857142,
@@ -1884,7 +1884,7 @@
     {
         "id": 210,
         "expanded": true,
-        "name": "第一試練への道5",
+        "name": "Path to the First Trial 5",
         "order": 291,
         "parentId": 206,
         "scrollX": 1081.3333333333333,
@@ -1893,7 +1893,7 @@
     {
         "id": 211,
         "expanded": true,
-        "name": "海岸洞窟 B2",
+        "name": "Coastal Cave B2",
         "order": 296,
         "parentId": 206,
         "scrollX": 1622,
@@ -1902,7 +1902,7 @@
     {
         "id": 212,
         "expanded": false,
-        "name": "海岸洞窟 2F-1",
+        "name": "Coastal Cave 2F-1",
         "order": 297,
         "parentId": 211,
         "scrollX": 1786.909090909091,
@@ -1911,7 +1911,7 @@
     {
         "id": 213,
         "expanded": false,
-        "name": "海岸洞窟 1F-2",
+        "name": "Coastal Cave 1F-2",
         "order": 298,
         "parentId": 211,
         "scrollX": 1786.909090909091,
@@ -1920,7 +1920,7 @@
     {
         "id": 214,
         "expanded": true,
-        "name": "聖子の森決戦イベント用2",
+        "name": "Holy Child's Forest Decisive Battle Event 2",
         "order": 252,
         "parentId": 178,
         "scrollX": 1769.4545454545455,
@@ -1929,7 +1929,7 @@
     {
         "id": 215,
         "expanded": true,
-        "name": "洞窟 スライム",
+        "name": "Cave Slime",
         "order": 27,
         "parentId": 67,
         "scrollX": 1786.909090909091,
@@ -1938,7 +1938,7 @@
     {
         "id": 216,
         "expanded": true,
-        "name": "洞窟スライムイベント",
+        "name": "Cave Slime Event",
         "order": 28,
         "parentId": 215,
         "scrollX": 1404,
@@ -1947,7 +1947,7 @@
     {
         "id": 217,
         "expanded": true,
-        "name": "村長の家バンカ",
+        "name": "Village Chief's House Banka",
         "order": 115,
         "parentId": 88,
         "scrollX": 1638,
@@ -1956,7 +1956,7 @@
     {
         "id": 218,
         "expanded": true,
-        "name": "カエルの沼",
+        "name": "Frog Swamp",
         "order": 80,
         "parentId": 80,
         "scrollX": 1786.909090909091,
@@ -1965,7 +1965,7 @@
     {
         "id": 219,
         "expanded": false,
-        "name": "カエルの沼イベント用",
+        "name": "Frog Swamp Event",
         "order": 81,
         "parentId": 218,
         "scrollX": 1092,
@@ -1974,7 +1974,7 @@
     {
         "id": 220,
         "expanded": false,
-        "name": "カエルの中",
+        "name": "Inside the Frog",
         "order": 82,
         "parentId": 218,
         "scrollX": 1786.909090909091,
@@ -1983,7 +1983,7 @@
     {
         "id": 221,
         "expanded": true,
-        "name": "プラントバイツの洞窟",
+        "name": "Plant Bites Cave",
         "order": 74,
         "parentId": 121,
         "scrollX": 1786.909090909091,
@@ -1992,7 +1992,7 @@
     {
         "id": 222,
         "expanded": false,
-        "name": "プラントバイツの洞窟イベント",
+        "name": "Plant Bites Cave Event",
         "order": 75,
         "parentId": 221,
         "scrollX": 1638,
@@ -2001,7 +2001,7 @@
     {
         "id": 223,
         "expanded": true,
-        "name": "プラントバイツの洞窟Ｂ",
+        "name": "Plant Bites Cave B",
         "order": 133,
         "parentId": 98,
         "scrollX": 1786.909090909091,
@@ -2010,7 +2010,7 @@
     {
         "id": 224,
         "expanded": false,
-        "name": "プラントバイツの洞窟Ｂイベント",
+        "name": "Plant Bites Cave B Event",
         "order": 134,
         "parentId": 223,
         "scrollX": 1638,
@@ -2019,7 +2019,7 @@
     {
         "id": 225,
         "expanded": true,
-        "name": "スライム森",
+        "name": "Slime Forest",
         "order": 78,
         "parentId": 114,
         "scrollX": 1786.909090909091,
@@ -2028,7 +2028,7 @@
     {
         "id": 226,
         "expanded": false,
-        "name": "スライム森イベント用",
+        "name": "Slime Forest Event",
         "order": 79,
         "parentId": 225,
         "scrollX": 1786.909090909091,
@@ -2037,7 +2037,7 @@
     {
         "id": 227,
         "expanded": true,
-        "name": "集落に続く森イベント用",
+        "name": "Forest Leading to the Settlement Event",
         "order": 89,
         "parentId": 79,
         "scrollX": 1404,
@@ -2046,7 +2046,7 @@
     {
         "id": 228,
         "expanded": false,
-        "name": "光溢れる地　宝箱",
+        "name": "Land Overflowing with Light Treasure Chest",
         "order": 122,
         "parentId": 16,
         "scrollX": 728,
@@ -2055,7 +2055,7 @@
     {
         "id": 229,
         "expanded": true,
-        "name": "★遺跡外部 Aイベント用",
+        "name": "★Ruins Exterior A Event",
         "order": 120,
         "parentId": 69,
         "scrollX": 1786.909090909091,
@@ -2064,7 +2064,7 @@
     {
         "id": 230,
         "expanded": true,
-        "name": "ウミ家予告用",
+        "name": "Umi's House Preview",
         "order": 103,
         "parentId": 82,
         "scrollX": 1786.909090909091,
@@ -2073,7 +2073,7 @@
     {
         "id": 231,
         "expanded": true,
-        "name": "遺跡内部予告",
+        "name": "Ruins Interior Preview",
         "order": 123,
         "parentId": 16,
         "scrollX": 720.8888888888889,
@@ -2082,7 +2082,7 @@
     {
         "id": 232,
         "expanded": true,
-        "name": "体験版エンディング",
+        "name": "Demo Version Ending",
         "order": 53,
         "parentId": 46,
         "scrollX": 1403.142857142857,
@@ -2091,7 +2091,7 @@
     {
         "id": 233,
         "expanded": false,
-        "name": "試練の洞窟前イベント",
+        "name": "Trial Cave Entrance Event",
         "order": 295,
         "parentId": 205,
         "scrollX": 1769.4545454545455,
@@ -2100,7 +2100,7 @@
     {
         "id": 234,
         "expanded": true,
-        "name": "試練の洞窟前出発前",
+        "name": "Trial Cave Entrance Before Departure",
         "order": 294,
         "parentId": 205,
         "scrollX": 1390.2857142857142,
@@ -2109,7 +2109,7 @@
     {
         "id": 235,
         "expanded": false,
-        "name": "王国夜の街",
+        "name": "Kingdom Night Town",
         "order": 300,
         "parentId": 104,
         "scrollX": 1343.111111111111,
@@ -2118,7 +2118,7 @@
     {
         "id": 236,
         "expanded": true,
-        "name": "ウミ家イベントいない",
+        "name": "Umi's House Event Absent",
         "order": 260,
         "parentId": 105,
         "scrollX": 1092,
@@ -2127,7 +2127,7 @@
     {
         "id": 237,
         "expanded": true,
-        "name": "ウミ家夜",
+        "name": "Umi's House Night",
         "order": 261,
         "parentId": 105,
         "scrollX": 1786.909090909091,
@@ -2136,7 +2136,7 @@
     {
         "id": 238,
         "expanded": false,
-        "name": "トロッコ洞窟エラー",
+        "name": "Minecart Cave Error",
         "order": 340,
         "parentId": 104,
         "scrollX": 1081.3333333333333,
@@ -2145,7 +2145,7 @@
     {
         "id": 239,
         "expanded": true,
-        "name": "トロッコ洞窟 B1",
+        "name": "Minecart Cave B1",
         "order": 341,
         "parentId": 238,
         "scrollX": 1537.7142857142856,
@@ -2154,7 +2154,7 @@
     {
         "id": 240,
         "expanded": true,
-        "name": "トロッコ洞窟 B2-2",
+        "name": "Minecart Cave B2-2",
         "order": 344,
         "parentId": 238,
         "scrollX": 1390.2857142857142,
@@ -2163,7 +2163,7 @@
     {
         "id": 241,
         "expanded": true,
-        "name": "休憩所",
+        "name": "Rest Area",
         "order": 346,
         "parentId": 238,
         "scrollX": 1390.2857142857142,
@@ -2172,7 +2172,7 @@
     {
         "id": 242,
         "expanded": false,
-        "name": "休憩所イベント用",
+        "name": "Rest Area Event",
         "order": 347,
         "parentId": 241,
         "scrollX": 1390.2857142857142,
@@ -2181,7 +2181,7 @@
     {
         "id": 243,
         "expanded": false,
-        "name": "トロッコ洞窟 B2-2イベント",
+        "name": "Minecart Cave B2-2 Event",
         "order": 345,
         "parentId": 240,
         "scrollX": 1390.2857142857142,
@@ -2190,7 +2190,7 @@
     {
         "id": 244,
         "expanded": true,
-        "name": "ウミ家イベント風呂",
+        "name": "Umi's Home Event Bath",
         "order": 262,
         "parentId": 105,
         "scrollX": 1403.142857142857,
@@ -2199,7 +2199,7 @@
     {
         "id": 245,
         "expanded": false,
-        "name": "★遺跡内部一階",
+        "name": "★Inside the Ruins First Floor",
         "order": 350,
         "parentId": 104,
         "scrollX": 1404,
@@ -2208,7 +2208,7 @@
     {
         "id": 246,
         "expanded": true,
-        "name": "★遺跡内部 2",
+        "name": "★Inside the Ruins 2",
         "order": 351,
         "parentId": 245,
         "scrollX": 1786.909090909091,
@@ -2217,7 +2217,7 @@
     {
         "id": 247,
         "expanded": true,
-        "name": "★遺跡内部 2",
+        "name": "★Inside the Ruins 2",
         "order": 353,
         "parentId": 245,
         "scrollX": 1404,
@@ -2226,7 +2226,7 @@
     {
         "id": 248,
         "expanded": true,
-        "name": "★遺跡内部イベント",
+        "name": "★Inside the Ruins Event",
         "order": 354,
         "parentId": 247,
         "scrollX": 1404,
@@ -2235,7 +2235,7 @@
     {
         "id": 249,
         "expanded": true,
-        "name": "宿屋 2F",
+        "name": "Inn 2F",
         "order": 357,
         "parentId": 104,
         "scrollX": 1404,
@@ -2244,7 +2244,7 @@
     {
         "id": 250,
         "expanded": false,
-        "name": "宿屋 2Fイベント用",
+        "name": "Inn 2F Event",
         "order": 358,
         "parentId": 249,
         "scrollX": 1404,
@@ -2253,7 +2253,7 @@
     {
         "id": 251,
         "expanded": true,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 359,
         "parentId": 249,
         "scrollX": 1786.909090909091,
@@ -2262,7 +2262,7 @@
     {
         "id": 252,
         "expanded": true,
-        "name": "後編バンカの部屋",
+        "name": "Sequel Banka's Room",
         "order": 267,
         "parentId": 200,
         "scrollX": 1786.909090909091,
@@ -2271,7 +2271,7 @@
     {
         "id": 253,
         "expanded": false,
-        "name": "後編バンカの部屋イベント用",
+        "name": "Sequel Banka's Room Event",
         "order": 268,
         "parentId": 252,
         "scrollX": 1786.909090909091,
@@ -2280,7 +2280,7 @@
     {
         "id": 254,
         "expanded": true,
-        "name": "後編バンカの部屋通路",
+        "name": "Sequel Banka's Room Corridor",
         "order": 269,
         "parentId": 252,
         "scrollX": 832,
@@ -2289,7 +2289,7 @@
     {
         "id": 255,
         "expanded": false,
-        "name": "バンカの部屋奥イベント用",
+        "name": "Banka's Inner Room Event",
         "order": 270,
         "parentId": 252,
         "scrollX": 1404,
@@ -2298,7 +2298,7 @@
     {
         "id": 256,
         "expanded": true,
-        "name": "暗き森イベント用",
+        "name": "Dark Forest Event",
         "order": 121,
         "parentId": 58,
         "scrollX": 1786.909090909091,
@@ -2307,7 +2307,7 @@
     {
         "id": 257,
         "expanded": true,
-        "name": "祭壇の下通路",
+        "name": "Altar Subterranean Passage",
         "order": 360,
         "parentId": 104,
         "scrollX": 1769.4545454545455,
@@ -2316,7 +2316,7 @@
     {
         "id": 258,
         "expanded": true,
-        "name": "祭壇の下奥の部屋",
+        "name": "Altar Depths Inner Room",
         "order": 361,
         "parentId": 257,
         "scrollX": 1786.909090909091,
@@ -2325,7 +2325,7 @@
     {
         "id": 259,
         "expanded": false,
-        "name": "森の遊歩道 2",
+        "name": "Forest Promenade 2",
         "order": 365,
         "parentId": 104,
         "scrollX": 1786.909090909091,
@@ -2334,7 +2334,7 @@
     {
         "id": 260,
         "expanded": true,
-        "name": "地下牢イベント用",
+        "name": "Dungeon Event",
         "order": 366,
         "parentId": 104,
         "scrollX": 1786.909090909091,
@@ -2343,7 +2343,7 @@
     {
         "id": 261,
         "expanded": true,
-        "name": "雑貨屋ポソの家自由行動",
+        "name": "Sundry Shop Poso's House Free Action",
         "order": 386,
         "parentId": 276,
         "scrollX": 1404,
@@ -2352,7 +2352,7 @@
     {
         "id": 262,
         "expanded": true,
-        "name": "ウミの日記フォルダ",
+        "name": "Umi's Diary Folder",
         "order": 367,
         "parentId": 104,
         "scrollX": 1786.909090909091,
@@ -2361,7 +2361,7 @@
     {
         "id": 263,
         "expanded": true,
-        "name": "遺跡内部イベント契約",
+        "name": "Inside the Ruins Event Contract",
         "order": 368,
         "parentId": 262,
         "scrollX": 1786.909090909091,
@@ -2370,7 +2370,7 @@
     {
         "id": 264,
         "expanded": true,
-        "name": "祭壇の下奥の部屋日記1",
+        "name": "Altar Depths Inner Room Diary 1",
         "order": 369,
         "parentId": 263,
         "scrollX": 1786.909090909091,
@@ -2379,7 +2379,7 @@
     {
         "id": 265,
         "expanded": true,
-        "name": "休憩日記",
+        "name": "Rest Diary",
         "order": 370,
         "parentId": 262,
         "scrollX": 1786.909090909091,
@@ -2388,7 +2388,7 @@
     {
         "id": 266,
         "expanded": true,
-        "name": "試練の洞窟前出発前",
+        "name": "Cave of Trials Entrance Before Departure",
         "order": 372,
         "parentId": 262,
         "scrollX": 1769.4545454545455,
@@ -2397,7 +2397,7 @@
     {
         "id": 267,
         "expanded": false,
-        "name": "試練の洞窟前イベント",
+        "name": "Cave of Trials Entrance Event",
         "order": 373,
         "parentId": 266,
         "scrollX": 1769.4545454545455,
@@ -2406,7 +2406,7 @@
     {
         "id": 268,
         "expanded": true,
-        "name": "クセシの村日記用",
+        "name": "Kuseshi Village Diary",
         "order": 374,
         "parentId": 262,
         "scrollX": 1769.4545454545455,
@@ -2415,7 +2415,7 @@
     {
         "id": 269,
         "expanded": true,
-        "name": "トロッコ洞窟日記",
+        "name": "Minecart Cave Diary",
         "order": 375,
         "parentId": 262,
         "scrollX": 1786.909090909091,
@@ -2424,7 +2424,7 @@
     {
         "id": 270,
         "expanded": false,
-        "name": "トロッコ洞窟 B1日記",
+        "name": "Minecart Cave B1 Diary",
         "order": 376,
         "parentId": 269,
         "scrollX": 1769.4545454545455,
@@ -2433,7 +2433,7 @@
     {
         "id": 271,
         "expanded": false,
-        "name": "休憩所日記用",
+        "name": "Rest Area Diary",
         "order": 377,
         "parentId": 269,
         "scrollX": 1786.909090909091,
@@ -2442,7 +2442,7 @@
     {
         "id": 272,
         "expanded": true,
-        "name": "ウミ家風呂日記",
+        "name": "Umi's Home Bath Diary",
         "order": 378,
         "parentId": 262,
         "scrollX": 1786.909090909091,
@@ -2451,7 +2451,7 @@
     {
         "id": 273,
         "expanded": true,
-        "name": "★遺跡内部日記",
+        "name": "★Inside the Ruins Diary",
         "order": 379,
         "parentId": 262,
         "scrollX": 1786.909090909091,
@@ -2460,7 +2460,7 @@
     {
         "id": 274,
         "expanded": false,
-        "name": "★遺跡内部日記",
+        "name": "★Inside the Ruins Diary",
         "order": 380,
         "parentId": 273,
         "scrollX": 1786.909090909091,
@@ -2469,7 +2469,7 @@
     {
         "id": 275,
         "expanded": false,
-        "name": "宿屋 2Fイベント用",
+        "name": "Inn 2F Event",
         "order": 381,
         "parentId": 262,
         "scrollX": 1786.909090909091,
@@ -2478,7 +2478,7 @@
     {
         "id": 276,
         "expanded": true,
-        "name": "クセシの村後編自由行動",
+        "name": "Kuseshi Village Sequel Free Action",
         "order": 382,
         "parentId": 104,
         "scrollX": 1769.4545454545455,
@@ -2487,7 +2487,7 @@
     {
         "id": 277,
         "expanded": true,
-        "name": "祭壇の下通路イベント用",
+        "name": "Altar Subterranean Passage Event",
         "order": 362,
         "parentId": 257,
         "scrollX": 1769.4545454545455,
@@ -2496,7 +2496,7 @@
     {
         "id": 278,
         "expanded": true,
-        "name": "祭壇の下奥の部屋イベント用",
+        "name": "Altar Depths Inner Room Event",
         "order": 363,
         "parentId": 277,
         "scrollX": 1786.909090909091,
@@ -2505,7 +2505,7 @@
     {
         "id": 279,
         "expanded": true,
-        "name": "ステージ",
+        "name": "Stage",
         "order": 301,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -2514,7 +2514,7 @@
     {
         "id": 280,
         "expanded": false,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 303,
         "parentId": 235,
         "scrollX": 1092,
@@ -2523,7 +2523,7 @@
     {
         "id": 281,
         "expanded": false,
-        "name": "エントランス",
+        "name": "Entrance",
         "order": 302,
         "parentId": 279,
         "scrollX": 1092,
@@ -2532,7 +2532,7 @@
     {
         "id": 282,
         "expanded": true,
-        "name": "vipルーム",
+        "name": "VIP Room",
         "order": 304,
         "parentId": 235,
         "scrollX": 1092,
@@ -2541,7 +2541,7 @@
     {
         "id": 283,
         "expanded": true,
-        "name": "酒場",
+        "name": "Tavern",
         "order": 305,
         "parentId": 282,
         "scrollX": 1081.3333333333333,
@@ -2550,7 +2550,7 @@
     {
         "id": 284,
         "expanded": true,
-        "name": "客室A",
+        "name": "Guest Room A",
         "order": 306,
         "parentId": 235,
         "scrollX": 1092,
@@ -2559,7 +2559,7 @@
     {
         "id": 285,
         "expanded": true,
-        "name": "娼館部屋",
+        "name": "Brothel Room",
         "order": 307,
         "parentId": 284,
         "scrollX": 1404,
@@ -2568,7 +2568,7 @@
     {
         "id": 286,
         "expanded": true,
-        "name": "娼館受付",
+        "name": "Brothel Reception",
         "order": 308,
         "parentId": 285,
         "scrollX": 1092,
@@ -2577,7 +2577,7 @@
     {
         "id": 287,
         "expanded": true,
-        "name": "コスプレ館",
+        "name": "Cosplay Mansion",
         "order": 309,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -2586,7 +2586,7 @@
     {
         "id": 288,
         "expanded": true,
-        "name": "コスプレ部屋スライム",
+        "name": "Cosplay Room Slime",
         "order": 310,
         "parentId": 287,
         "scrollX": 1092,
@@ -2595,7 +2595,7 @@
     {
         "id": 289,
         "expanded": false,
-        "name": "豚厩舎",
+        "name": "Pig Stables",
         "order": 313,
         "parentId": 235,
         "scrollX": 1092,
@@ -2604,7 +2604,7 @@
     {
         "id": 290,
         "expanded": false,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 35,
         "parentId": 34,
         "scrollX": 1786.909090909091,
@@ -2613,7 +2613,7 @@
     {
         "id": 291,
         "expanded": true,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 36,
         "parentId": 290,
         "scrollX": 1081.3333333333333,
@@ -2622,7 +2622,7 @@
     {
         "id": 292,
         "expanded": true,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 37,
         "parentId": 291,
         "scrollX": 816,
@@ -2631,7 +2631,7 @@
     {
         "id": 293,
         "expanded": true,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 38,
         "parentId": 292,
         "scrollX": 1104,
@@ -2640,7 +2640,7 @@
     {
         "id": 294,
         "expanded": true,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 39,
         "parentId": 293,
         "scrollX": 816,
@@ -2649,7 +2649,7 @@
     {
         "id": 295,
         "expanded": true,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 40,
         "parentId": 294,
         "scrollX": 816,
@@ -2658,7 +2658,7 @@
     {
         "id": 296,
         "expanded": true,
-        "name": "日記テスト",
+        "name": "Diary Test",
         "order": 41,
         "parentId": 295,
         "scrollX": 1081.3333333333333,
@@ -2667,7 +2667,7 @@
     {
         "id": 297,
         "expanded": true,
-        "name": "港町ロフト",
+        "name": "Port Town Loft",
         "order": 314,
         "parentId": 235,
         "scrollX": 1393.3333333333333,
@@ -2676,7 +2676,7 @@
     {
         "id": 298,
         "expanded": false,
-        "name": "池のある町",
+        "name": "Town with a Pond",
         "order": 315,
         "parentId": 297,
         "scrollX": 1174.6666666666667,
@@ -2685,7 +2685,7 @@
     {
         "id": 299,
         "expanded": true,
-        "name": "王国関所",
+        "name": "Royal Checkpoint",
         "order": 316,
         "parentId": 235,
         "scrollX": 1092,
@@ -2694,7 +2694,7 @@
     {
         "id": 300,
         "expanded": true,
-        "name": "第一試練への道イベント用",
+        "name": "Road to the First Trial Event",
         "order": 299,
         "parentId": 203,
         "scrollX": 1390.2857142857142,
@@ -2703,7 +2703,7 @@
     {
         "id": 301,
         "expanded": true,
-        "name": "関所内",
+        "name": "Inside the Checkpoint",
         "order": 317,
         "parentId": 299,
         "scrollX": 1390.6666666666667,
@@ -2712,7 +2712,7 @@
     {
         "id": 302,
         "expanded": true,
-        "name": "クセシの村東後編",
+        "name": "Village of Kusechi East Sequel",
         "order": 273,
         "parentId": 198,
         "scrollX": 2162.6666666666665,
@@ -2721,7 +2721,7 @@
     {
         "id": 303,
         "expanded": true,
-        "name": "洞窟入口イベント",
+        "name": "Cave Entrance Event",
         "order": 348,
         "parentId": 238,
         "scrollX": 1390.2857142857142,
@@ -2730,7 +2730,7 @@
     {
         "id": 304,
         "expanded": true,
-        "name": "★遺跡内部一階イベント",
+        "name": "★Ruins Interior First Floor Event",
         "order": 356,
         "parentId": 245,
         "scrollX": 1404,
@@ -2739,7 +2739,7 @@
     {
         "id": 305,
         "expanded": false,
-        "name": "★遺跡内部 イベント",
+        "name": "★Ruins Interior Event",
         "order": 352,
         "parentId": 246,
         "scrollX": 1404,
@@ -2748,7 +2748,7 @@
     {
         "id": 306,
         "expanded": false,
-        "name": "★遺跡内部イベント2",
+        "name": "★Ruins Interior Event 2",
         "order": 355,
         "parentId": 248,
         "scrollX": 1404,
@@ -2757,7 +2757,7 @@
     {
         "id": 307,
         "expanded": true,
-        "name": "洞窟入口",
+        "name": "Cave Entrance",
         "order": 349,
         "parentId": 238,
         "scrollX": 1390.2857142857142,
@@ -2766,7 +2766,7 @@
     {
         "id": 308,
         "expanded": true,
-        "name": "クセシの村後編夜",
+        "name": "Village of Kusechi Sequel Night",
         "order": 275,
         "parentId": 198,
         "scrollX": 1769.142857142857,
@@ -2775,7 +2775,7 @@
     {
         "id": 309,
         "expanded": true,
-        "name": "村長の家後編夜",
+        "name": "Village Chief's House Sequel Night",
         "order": 276,
         "parentId": 308,
         "scrollX": 1786.909090909091,
@@ -2784,7 +2784,7 @@
     {
         "id": 310,
         "expanded": false,
-        "name": "後編バンカの部屋夜",
+        "name": "Banka's Room Sequel Night",
         "order": 277,
         "parentId": 308,
         "scrollX": 1404,
@@ -2793,7 +2793,7 @@
     {
         "id": 311,
         "expanded": true,
-        "name": "ウミ家プレーン後編夜",
+        "name": "Umi's House Plain Sequel Night",
         "order": 278,
         "parentId": 308,
         "scrollX": 1786.909090909091,
@@ -2802,7 +2802,7 @@
     {
         "id": 312,
         "expanded": true,
-        "name": "歩きイキテスト",
+        "name": "Walking Orgasm Test",
         "order": 46,
         "parentId": 7,
         "scrollX": 1404,
@@ -2811,7 +2811,7 @@
     {
         "id": 313,
         "expanded": true,
-        "name": "ウミ家後編自由行動",
+        "name": "Umi's House Sequel Free Action",
         "order": 383,
         "parentId": 276,
         "scrollX": 1786.909090909091,
@@ -2820,7 +2820,7 @@
     {
         "id": 314,
         "expanded": true,
-        "name": "民家2自由行動",
+        "name": "Civilian House 2 Free Action",
         "order": 389,
         "parentId": 276,
         "scrollX": 1786.909090909091,
@@ -2829,7 +2829,7 @@
     {
         "id": 315,
         "expanded": false,
-        "name": "民家2 B1自由行動",
+        "name": "Civilian House 2 B1 Free Action",
         "order": 390,
         "parentId": 314,
         "scrollX": 1786.909090909091,
@@ -2838,7 +2838,7 @@
     {
         "id": 316,
         "expanded": false,
-        "name": "民家3自由行動",
+        "name": "Civilian House 3 Free Action",
         "order": 391,
         "parentId": 276,
         "scrollX": 1786.909090909091,
@@ -2847,7 +2847,7 @@
     {
         "id": 317,
         "expanded": true,
-        "name": "村長の家自由行動",
+        "name": "Village Chief's House Free Action",
         "order": 392,
         "parentId": 276,
         "scrollX": 1404,
@@ -2856,7 +2856,7 @@
     {
         "id": 318,
         "expanded": true,
-        "name": "バンカの部屋自由行動",
+        "name": "Banka's Room Free Action",
         "order": 393,
         "parentId": 317,
         "scrollX": 1404,
@@ -2865,7 +2865,7 @@
     {
         "id": 319,
         "expanded": true,
-        "name": "村長の家自由行動イベント",
+        "name": "Village Chief's House Free Action Event",
         "order": 395,
         "parentId": 317,
         "scrollX": 1404,
@@ -2874,7 +2874,7 @@
     {
         "id": 320,
         "expanded": true,
-        "name": "城下町A自由行動",
+        "name": "Town Below the Castle A Free Action",
         "order": 396,
         "parentId": 276,
         "scrollX": 1622.2222222222222,
@@ -2883,7 +2883,7 @@
     {
         "id": 321,
         "expanded": true,
-        "name": "関所内イベント",
+        "name": "Checkpoint Event",
         "order": 318,
         "parentId": 301,
         "scrollX": 1537.3333333333333,
@@ -2892,7 +2892,7 @@
     {
         "id": 322,
         "expanded": true,
-        "name": "クセシの村東自由行動",
+        "name": "East Village of Kuseshi Free Action",
         "order": 398,
         "parentId": 276,
         "scrollX": 2162.6666666666665,
@@ -2901,7 +2901,7 @@
     {
         "id": 323,
         "expanded": false,
-        "name": "教会自由行動",
+        "name": "Church Free Action",
         "order": 399,
         "parentId": 322,
         "scrollX": 1786.909090909091,
@@ -2910,7 +2910,7 @@
     {
         "id": 324,
         "expanded": true,
-        "name": "民家イーブル自由行動",
+        "name": "Iburu's House Free Action",
         "order": 400,
         "parentId": 322,
         "scrollX": 1786.909090909091,
@@ -2919,7 +2919,7 @@
     {
         "id": 325,
         "expanded": false,
-        "name": "民家1自由行動",
+        "name": "House 1 Free Action",
         "order": 408,
         "parentId": 322,
         "scrollX": 1786.909090909091,
@@ -2928,7 +2928,7 @@
     {
         "id": 326,
         "expanded": true,
-        "name": "牢屋のある家自由行動",
+        "name": "House with a Jail Cell Free Action",
         "order": 409,
         "parentId": 322,
         "scrollX": 1786.909090909091,
@@ -2937,7 +2937,7 @@
     {
         "id": 327,
         "expanded": true,
-        "name": "ふつうの城 B1-1自由行動",
+        "name": "Ordinary Castle B1-1 Free Action",
         "order": 410,
         "parentId": 326,
         "scrollX": 1786.909090909091,
@@ -2946,7 +2946,7 @@
     {
         "id": 328,
         "expanded": true,
-        "name": "光溢れる地自由行動",
+        "name": "Land Overflowing with Light Free Action",
         "order": 413,
         "parentId": 276,
         "scrollX": 1769.4545454545455,
@@ -2955,7 +2955,7 @@
     {
         "id": 329,
         "expanded": true,
-        "name": "暗き森自由行動",
+        "name": "Dark Forest Free Action",
         "order": 414,
         "parentId": 328,
         "scrollX": 720.8888888888889,
@@ -2964,7 +2964,7 @@
     {
         "id": 330,
         "expanded": true,
-        "name": "★遺跡外部 A自由行動",
+        "name": "★Ruins Exterior A Free Action",
         "order": 415,
         "parentId": 328,
         "scrollX": 1786.909090909091,
@@ -2973,7 +2973,7 @@
     {
         "id": 331,
         "expanded": true,
-        "name": "★遺跡内部 1自由行動",
+        "name": "★Ruins Interior 1 Free Action",
         "order": 416,
         "parentId": 330,
         "scrollX": 1786.909090909091,
@@ -2982,7 +2982,7 @@
     {
         "id": 332,
         "expanded": false,
-        "name": "光溢れる地宝箱自由行動",
+        "name": "Land Overflowing with Light Treasure Chest Free Action",
         "order": 417,
         "parentId": 328,
         "scrollX": 1786.909090909091,
@@ -2991,7 +2991,7 @@
     {
         "id": 333,
         "expanded": false,
-        "name": "はじまりの小径",
+        "name": "Path of Beginnings",
         "order": 289,
         "parentId": 207,
         "scrollX": 1390.2857142857142,
@@ -3000,7 +3000,7 @@
     {
         "id": 334,
         "expanded": false,
-        "name": "試練への道4",
+        "name": "Road to the Trial 4",
         "order": 292,
         "parentId": 210,
         "scrollX": 1390.2857142857142,
@@ -3009,7 +3009,7 @@
     {
         "id": 335,
         "expanded": true,
-        "name": "ポソの家自由行動イベント",
+        "name": "Poso's House Free Action Event",
         "order": 387,
         "parentId": 261,
         "scrollX": 1786.909090909091,
@@ -3018,7 +3018,7 @@
     {
         "id": 336,
         "expanded": true,
-        "name": "歩きイキテスト",
+        "name": "Walking Orgasm Test",
         "order": 47,
         "parentId": 312,
         "scrollX": 1786.909090909091,
@@ -3027,7 +3027,7 @@
     {
         "id": 337,
         "expanded": false,
-        "name": "ポソの家自由行動イベント2",
+        "name": "Poso's House Free Action Event 2",
         "order": 388,
         "parentId": 335,
         "scrollX": 832,
@@ -3036,7 +3036,7 @@
     {
         "id": 338,
         "expanded": true,
-        "name": "民家イーブル自由行動イベント",
+        "name": "Iburu's House Free Action Event",
         "order": 401,
         "parentId": 324,
         "scrollX": 1786.909090909091,
@@ -3045,7 +3045,7 @@
     {
         "id": 339,
         "expanded": false,
-        "name": "イーブルエンド森",
+        "name": "Iburu End Forest",
         "order": 402,
         "parentId": 338,
         "scrollX": 1786.909090909091,
@@ -3054,7 +3054,7 @@
     {
         "id": 340,
         "expanded": true,
-        "name": "祭壇の下奥イーブルエンド",
+        "name": "Altar's Innermost Iburu End",
         "order": 403,
         "parentId": 338,
         "scrollX": 1786.909090909091,
@@ -3063,7 +3063,7 @@
     {
         "id": 341,
         "expanded": true,
-        "name": "地下牢イベント用",
+        "name": "Dungeon Event Use",
         "order": 404,
         "parentId": 338,
         "scrollX": 2457,
@@ -3072,7 +3072,7 @@
     {
         "id": 342,
         "expanded": true,
-        "name": "ウミ家イーブルエンド",
+        "name": "Umi's House Iburu End",
         "order": 405,
         "parentId": 338,
         "scrollX": 2457,
@@ -3081,7 +3081,7 @@
     {
         "id": 343,
         "expanded": true,
-        "name": "イーブルエンド",
+        "name": "Iburu End",
         "order": 407,
         "parentId": 366,
         "scrollX": 2457,
@@ -3090,7 +3090,7 @@
     {
         "id": 344,
         "expanded": true,
-        "name": "ウミ家後編自由行動イベント",
+        "name": "Umi's House Sequel Free Action Event",
         "order": 384,
         "parentId": 313,
         "scrollX": 1786.909090909091,
@@ -3099,7 +3099,7 @@
     {
         "id": 345,
         "expanded": true,
-        "name": "遺跡儀式寝取れエンド",
+        "name": "Ruins Ritual NTR End",
         "order": 437,
         "parentId": 104,
         "scrollX": 1786.909090909091,
@@ -3108,7 +3108,7 @@
     {
         "id": 346,
         "expanded": true,
-        "name": "村青姦",
+        "name": "Village Outdoor Sex",
         "order": 438,
         "parentId": 345,
         "scrollX": 2457,
@@ -3117,7 +3117,7 @@
     {
         "id": 347,
         "expanded": true,
-        "name": "遺跡儀式2",
+        "name": "Ruins Ritual 2",
         "order": 439,
         "parentId": 345,
         "scrollX": 1786.909090909091,
@@ -3126,7 +3126,7 @@
     {
         "id": 348,
         "expanded": true,
-        "name": "ウミ家儀式",
+        "name": "Umi's House Ritual",
         "order": 440,
         "parentId": 345,
         "scrollX": 1786.909090909091,
@@ -3135,7 +3135,7 @@
     {
         "id": 349,
         "expanded": true,
-        "name": "遺跡儀式3",
+        "name": "Ruins Ritual 3",
         "order": 441,
         "parentId": 345,
         "scrollX": 884.7272727272727,
@@ -3144,7 +3144,7 @@
     {
         "id": 350,
         "expanded": true,
-        "name": "祭壇の下奥の部屋日記1",
+        "name": "Innermost Room Under the Altar Diary 1",
         "order": 442,
         "parentId": 345,
         "scrollX": 884.7272727272727,
@@ -3153,7 +3153,7 @@
     {
         "id": 351,
         "expanded": true,
-        "name": "体内",
+        "name": "Inside the Body",
         "order": 443,
         "parentId": 345,
         "scrollX": 1786.909090909091,
@@ -3162,7 +3162,7 @@
     {
         "id": 352,
         "expanded": false,
-        "name": "体内",
+        "name": "Inside the Body",
         "order": 444,
         "parentId": 351,
         "scrollX": 2457,
@@ -3171,7 +3171,7 @@
     {
         "id": 353,
         "expanded": true,
-        "name": "体内入口イベント",
+        "name": "Inside the Body Entrance Event",
         "order": 445,
         "parentId": 351,
         "scrollX": 2457,
@@ -3180,7 +3180,7 @@
     {
         "id": 354,
         "expanded": true,
-        "name": "遺跡儀式3ラスト",
+        "name": "Ruins Ritual 3 Climax",
         "order": 447,
         "parentId": 351,
         "scrollX": 2457,
@@ -3189,7 +3189,7 @@
     {
         "id": 355,
         "expanded": false,
-        "name": "体内入口",
+        "name": "Inside the Body Entrance",
         "order": 446,
         "parentId": 353,
         "scrollX": 893.4545454545455,
@@ -3198,7 +3198,7 @@
     {
         "id": 356,
         "expanded": true,
-        "name": "地下牢純愛プレーン",
+        "name": "Dungeon Pure Love Play Area",
         "order": 449,
         "parentId": 104,
         "scrollX": 2457,
@@ -3207,7 +3207,7 @@
     {
         "id": 357,
         "expanded": true,
-        "name": "地下牢純愛イベント",
+        "name": "Dungeon Pure Love Event",
         "order": 450,
         "parentId": 356,
         "scrollX": 1092,
@@ -3216,7 +3216,7 @@
     {
         "id": 358,
         "expanded": true,
-        "name": "クセシの村おかゆ",
+        "name": "Kuseshi Village Porridge",
         "order": 451,
         "parentId": 357,
         "scrollX": 2086.6666666666665,
@@ -3225,7 +3225,7 @@
     {
         "id": 359,
         "expanded": true,
-        "name": "ウミ家後編純愛イベント",
+        "name": "Umi's House Sequel Pure Love Event",
         "order": 454,
         "parentId": 356,
         "scrollX": 1092,
@@ -3234,7 +3234,7 @@
     {
         "id": 360,
         "expanded": true,
-        "name": "遺跡儀式",
+        "name": "Ruins Ritual",
         "order": 455,
         "parentId": 359,
         "scrollX": 1081.3333333333333,
@@ -3243,7 +3243,7 @@
     {
         "id": 361,
         "expanded": true,
-        "name": "祭壇の下奥の部屋純愛",
+        "name": "Altar's Innermost Room of Pure Love",
         "order": 456,
         "parentId": 360,
         "scrollX": 1092,
@@ -3261,7 +3261,7 @@
     {
         "id": 363,
         "expanded": true,
-        "name": "洞窟 休憩コンティニュー",
+        "name": "Cave Rest & Continue",
         "order": 459,
         "parentId": 359,
         "scrollX": 1092,
@@ -3270,7 +3270,7 @@
     {
         "id": 364,
         "expanded": true,
-        "name": "呼種の洞窟入口純愛",
+        "name": "Yobigane Cave Entrance Pure Love",
         "order": 463,
         "parentId": 359,
         "scrollX": 1092,
@@ -3279,7 +3279,7 @@
     {
         "id": 365,
         "expanded": false,
-        "name": "呼種の洞窟入口純愛イベント",
+        "name": "Yobigane Cave Entrance Pure Love Event",
         "order": 464,
         "parentId": 364,
         "scrollX": 1092,
@@ -3288,7 +3288,7 @@
     {
         "id": 366,
         "expanded": true,
-        "name": "民家イーブル純愛イベント",
+        "name": "Civilian House Iburu Pure Love Event",
         "order": 406,
         "parentId": 338,
         "scrollX": 1786.909090909091,
@@ -3297,7 +3297,7 @@
     {
         "id": 367,
         "expanded": true,
-        "name": "クセシの村崩壊",
+        "name": "Village of Kusechi Collapse",
         "order": 471,
         "parentId": 356,
         "scrollX": 1769.3333333333333,
@@ -3306,7 +3306,7 @@
     {
         "id": 368,
         "expanded": true,
-        "name": "村崩壊",
+        "name": "Village Collapse",
         "order": 472,
         "parentId": 356,
         "scrollX": 884.7272727272727,
@@ -3315,7 +3315,7 @@
     {
         "id": 369,
         "expanded": false,
-        "name": "村崩壊3",
+        "name": "Village Collapse 3",
         "order": 473,
         "parentId": 368,
         "scrollX": 884.7272727272727,
@@ -3333,7 +3333,7 @@
     {
         "id": 371,
         "expanded": true,
-        "name": "祭壇の下奥の部屋",
+        "name": "Altar's Innermost Room",
         "order": 419,
         "parentId": 372,
         "scrollX": 1404,
@@ -3342,7 +3342,7 @@
     {
         "id": 372,
         "expanded": true,
-        "name": "祭壇の下通路自由行動",
+        "name": "Altar's Underpass Free Movement",
         "order": 418,
         "parentId": 328,
         "scrollX": 2457,
@@ -3351,7 +3351,7 @@
     {
         "id": 373,
         "expanded": true,
-        "name": "遺跡儀式純愛ラスト",
+        "name": "Ruins Ceremony Pure Love Last",
         "order": 458,
         "parentId": 360,
         "scrollX": 1081.3333333333333,
@@ -3360,7 +3360,7 @@
     {
         "id": 374,
         "expanded": true,
-        "name": "村崩壊2",
+        "name": "Village Collapse 2",
         "order": 474,
         "parentId": 368,
         "scrollX": 1786.909090909091,
@@ -3369,7 +3369,7 @@
     {
         "id": 375,
         "expanded": true,
-        "name": "橋",
+        "name": "Bridge",
         "order": 475,
         "parentId": 368,
         "scrollX": 884.7272727272727,
@@ -3378,7 +3378,7 @@
     {
         "id": 376,
         "expanded": true,
-        "name": "橋2",
+        "name": "Bridge 2",
         "order": 476,
         "parentId": 375,
         "scrollX": 2433,
@@ -3387,7 +3387,7 @@
     {
         "id": 377,
         "expanded": true,
-        "name": "ウミ家妊娠",
+        "name": "Umi's House Pregnancy",
         "order": 477,
         "parentId": 376,
         "scrollX": 2457,
@@ -3396,7 +3396,7 @@
     {
         "id": 378,
         "expanded": true,
-        "name": "海エンディング",
+        "name": "Sea Ending",
         "order": 482,
         "parentId": 381,
         "scrollX": 1568,
@@ -3405,7 +3405,7 @@
     {
         "id": 379,
         "expanded": true,
-        "name": "レストラン-1",
+        "name": "Restaurant -1",
         "order": 484,
         "parentId": 381,
         "scrollX": 2457,
@@ -3414,7 +3414,7 @@
     {
         "id": 380,
         "expanded": true,
-        "name": "港町ロフト",
+        "name": "Port Town Loft",
         "order": 480,
         "parentId": 368,
         "scrollX": 2457,
@@ -3423,7 +3423,7 @@
     {
         "id": 381,
         "expanded": true,
-        "name": "水の町",
+        "name": "Water Town",
         "order": 481,
         "parentId": 380,
         "scrollX": 2433.3333333333335,
@@ -3432,7 +3432,7 @@
     {
         "id": 382,
         "expanded": false,
-        "name": "民家A 1F",
+        "name": "Civilian House A 1F",
         "order": 487,
         "parentId": 380,
         "scrollX": 832,
@@ -3441,7 +3441,7 @@
     {
         "id": 383,
         "expanded": false,
-        "name": "レストラン-2",
+        "name": "Restaurant -2",
         "order": 485,
         "parentId": 379,
         "scrollX": 2457,
@@ -3450,7 +3450,7 @@
     {
         "id": 384,
         "expanded": true,
-        "name": "レストラン-3",
+        "name": "Restaurant -3",
         "order": 486,
         "parentId": 379,
         "scrollX": 816,
@@ -3459,7 +3459,7 @@
     {
         "id": 385,
         "expanded": true,
-        "name": "日記走る",
+        "name": "Diary Running",
         "order": 488,
         "parentId": 380,
         "scrollX": 2457,
@@ -3468,7 +3468,7 @@
     {
         "id": 386,
         "expanded": false,
-        "name": "ウミの記憶",
+        "name": "Umi's Memory",
         "order": 489,
         "parentId": 385,
         "scrollX": 1092,
@@ -3495,7 +3495,7 @@
     {
         "id": 389,
         "expanded": false,
-        "name": "城下町B",
+        "name": "Town Below the Castle B",
         "order": 498,
         "parentId": 380,
         "scrollX": 2433,
@@ -3558,7 +3558,7 @@
     {
         "id": 396,
         "expanded": false,
-        "name": "王都ルクセンハイム",
+        "name": "Royal Capital Luxenheim",
         "order": 499,
         "parentId": 389,
         "scrollX": 2433,
@@ -3567,7 +3567,7 @@
     {
         "id": 397,
         "expanded": false,
-        "name": "城下町D-1",
+        "name": "Town Below the Castle D-1",
         "order": 500,
         "parentId": 389,
         "scrollX": 2433,
@@ -3576,7 +3576,7 @@
     {
         "id": 398,
         "expanded": true,
-        "name": "クセシの村純愛プレーン",
+        "name": "Kusechi Village Pure Love Plain",
         "order": 502,
         "parentId": 356,
         "scrollX": 2086,
@@ -3585,7 +3585,7 @@
     {
         "id": 399,
         "expanded": true,
-        "name": "クセシの村東　純愛",
+        "name": "Kusechi Village East Pure Love",
         "order": 531,
         "parentId": 356,
         "scrollX": 1081.3333333333333,
@@ -3594,7 +3594,7 @@
     {
         "id": 400,
         "expanded": true,
-        "name": "ウミ家純愛プレーン",
+        "name": "Umi's House Pure Love Plain",
         "order": 503,
         "parentId": 398,
         "scrollX": 1092,
@@ -3603,7 +3603,7 @@
     {
         "id": 401,
         "expanded": true,
-        "name": "雑貨屋ポソの家　純愛",
+        "name": "Poso's General Store Home - Pure Love",
         "order": 505,
         "parentId": 398,
         "scrollX": 1092,
@@ -3612,7 +3612,7 @@
     {
         "id": 402,
         "expanded": true,
-        "name": "民家2自由行動　純愛",
+        "name": "Private House 2 Free Action - Pure Love",
         "order": 506,
         "parentId": 398,
         "scrollX": 1092,
@@ -3621,7 +3621,7 @@
     {
         "id": 403,
         "expanded": false,
-        "name": "民家3　純愛",
+        "name": "Private House 3 - Pure Love",
         "order": 508,
         "parentId": 398,
         "scrollX": 1092,
@@ -3630,7 +3630,7 @@
     {
         "id": 404,
         "expanded": false,
-        "name": "民家2 B1　純愛",
+        "name": "Private House 2 B1 - Pure Love",
         "order": 507,
         "parentId": 402,
         "scrollX": 1092,
@@ -3639,7 +3639,7 @@
     {
         "id": 405,
         "expanded": true,
-        "name": "村長の家　純愛",
+        "name": "Village Chief's House - Pure Love",
         "order": 509,
         "parentId": 398,
         "scrollX": 1092,
@@ -3648,7 +3648,7 @@
     {
         "id": 406,
         "expanded": false,
-        "name": "バンカの部屋　純愛",
+        "name": "Banka's Room - Pure Love",
         "order": 510,
         "parentId": 405,
         "scrollX": 1092,
@@ -3657,7 +3657,7 @@
     {
         "id": 407,
         "expanded": true,
-        "name": "光溢れる地　純愛",
+        "name": "Land Overflowing with Light - Pure Love",
         "order": 511,
         "parentId": 398,
         "scrollX": 1081.3333333333333,
@@ -3666,7 +3666,7 @@
     {
         "id": 408,
         "expanded": false,
-        "name": "教会　純愛",
+        "name": "Church - Pure Love",
         "order": 532,
         "parentId": 399,
         "scrollX": 2457,
@@ -3675,7 +3675,7 @@
     {
         "id": 409,
         "expanded": true,
-        "name": "民家イーブル　純愛",
+        "name": "Iburu's Private House - Pure Love",
         "order": 533,
         "parentId": 399,
         "scrollX": 2457,
@@ -3684,7 +3684,7 @@
     {
         "id": 410,
         "expanded": true,
-        "name": "民家2　純愛",
+        "name": "Private House 2 - Pure Love",
         "order": 534,
         "parentId": 399,
         "scrollX": 2457,
@@ -3693,7 +3693,7 @@
     {
         "id": 411,
         "expanded": false,
-        "name": "民家1　純愛",
+        "name": "Private House 1 - Pure Love",
         "order": 535,
         "parentId": 399,
         "scrollX": 2457,
@@ -3702,7 +3702,7 @@
     {
         "id": 412,
         "expanded": true,
-        "name": "暗き森　純愛",
+        "name": "Dark Forest - Pure Love",
         "order": 512,
         "parentId": 407,
         "scrollX": 2457,
@@ -3711,7 +3711,7 @@
     {
         "id": 413,
         "expanded": true,
-        "name": "★遺跡外部 純愛",
+        "name": "★Ruins Exterior - Pure Love",
         "order": 513,
         "parentId": 412,
         "scrollX": 2457,
@@ -3720,7 +3720,7 @@
     {
         "id": 414,
         "expanded": true,
-        "name": "★遺跡内部 純愛",
+        "name": "★Ruins Interior - Pure Love",
         "order": 514,
         "parentId": 413,
         "scrollX": 2457,
@@ -3729,7 +3729,7 @@
     {
         "id": 415,
         "expanded": false,
-        "name": "光溢れる地宝箱　純愛",
+        "name": "Land Overflowing with Light Treasure Chest - Pure Love",
         "order": 518,
         "parentId": 407,
         "scrollX": 2457,
@@ -3738,7 +3738,7 @@
     {
         "id": 416,
         "expanded": true,
-        "name": "祭壇の下通路　純愛",
+        "name": "Altar's Underground Passage - Pure Love",
         "order": 515,
         "parentId": 412,
         "scrollX": 1081.3333333333333,
@@ -3747,7 +3747,7 @@
     {
         "id": 417,
         "expanded": true,
-        "name": "祭壇の下奥の部屋　純愛",
+        "name": "Altar's Innermost Room - Pure Love",
         "order": 516,
         "parentId": 416,
         "scrollX": 1092,
@@ -3756,7 +3756,7 @@
     {
         "id": 418,
         "expanded": true,
-        "name": "娼館受付",
+        "name": "Brothel Reception",
         "order": 553,
         "parentId": 104,
         "scrollX": 2457,
@@ -3765,7 +3765,7 @@
     {
         "id": 419,
         "expanded": true,
-        "name": "手コキ受付",
+        "name": "Handjob Reception",
         "order": 319,
         "parentId": 235,
         "scrollX": 1092,
@@ -3774,7 +3774,7 @@
     {
         "id": 420,
         "expanded": true,
-        "name": "足コキ受付",
+        "name": "Footjob Reception",
         "order": 321,
         "parentId": 235,
         "scrollX": 1786.909090909091,
@@ -3783,7 +3783,7 @@
     {
         "id": 421,
         "expanded": true,
-        "name": "猫受付",
+        "name": "Cat Reception",
         "order": 323,
         "parentId": 235,
         "scrollX": 1786.909090909091,
@@ -3792,7 +3792,7 @@
     {
         "id": 422,
         "expanded": true,
-        "name": "犬受付",
+        "name": "Dog Reception",
         "order": 325,
         "parentId": 235,
         "scrollX": 832,
@@ -3801,7 +3801,7 @@
     {
         "id": 423,
         "expanded": true,
-        "name": "母乳受付",
+        "name": "Breast Milk Reception",
         "order": 328,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -3810,7 +3810,7 @@
     {
         "id": 424,
         "expanded": true,
-        "name": "豚受付",
+        "name": "Pig Reception",
         "order": 330,
         "parentId": 235,
         "scrollX": 1786.909090909091,
@@ -3819,7 +3819,7 @@
     {
         "id": 425,
         "expanded": true,
-        "name": "手コキ娼館部屋",
+        "name": "Handjob Brothel Room",
         "order": 320,
         "parentId": 419,
         "scrollX": 1092,
@@ -3828,7 +3828,7 @@
     {
         "id": 426,
         "expanded": true,
-        "name": "足コキ娼館部屋",
+        "name": "Footjob Brothel Room",
         "order": 322,
         "parentId": 420,
         "scrollX": 1404,
@@ -3837,7 +3837,7 @@
     {
         "id": 427,
         "expanded": true,
-        "name": "猫娼館部屋",
+        "name": "Cat Brothel Room",
         "order": 324,
         "parentId": 421,
         "scrollX": 1786.909090909091,
@@ -3846,7 +3846,7 @@
     {
         "id": 428,
         "expanded": true,
-        "name": "犬娼館部屋",
+        "name": "Dog Brothel Room",
         "order": 326,
         "parentId": 422,
         "scrollX": 1404,
@@ -3855,7 +3855,7 @@
     {
         "id": 429,
         "expanded": true,
-        "name": "母乳娼館部屋",
+        "name": "Breast Milk Brothel Room",
         "order": 329,
         "parentId": 423,
         "scrollX": 1092,
@@ -3864,7 +3864,7 @@
     {
         "id": 430,
         "expanded": true,
-        "name": "犬　王国夜の街",
+        "name": "Dog Kingdom Night Street",
         "order": 327,
         "parentId": 428,
         "scrollX": 1081.3333333333333,
@@ -3873,7 +3873,7 @@
     {
         "id": 431,
         "expanded": false,
-        "name": "豚厩舎",
+        "name": "Pig Stable",
         "order": 331,
         "parentId": 424,
         "scrollX": 1092,
@@ -3882,7 +3882,7 @@
     {
         "id": 432,
         "expanded": true,
-        "name": "雑誌王国夜の街",
+        "name": "Magazine Kingdom Night Street",
         "order": 332,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -3891,7 +3891,7 @@
     {
         "id": 433,
         "expanded": true,
-        "name": "地下牢雑誌",
+        "name": "Dungeon Magazine",
         "order": 333,
         "parentId": 432,
         "scrollX": 1092,
@@ -3900,7 +3900,7 @@
     {
         "id": 434,
         "expanded": true,
-        "name": "トロッコ洞窟 B2-1",
+        "name": "Minecart Cave B2-1",
         "order": 342,
         "parentId": 239,
         "scrollX": 1390.2857142857142,
@@ -3909,7 +3909,7 @@
     {
         "id": 435,
         "expanded": false,
-        "name": "トロッコ洞窟 B3",
+        "name": "Minecart Cave B3",
         "order": 343,
         "parentId": 239,
         "scrollX": 1390.2857142857142,
@@ -3918,7 +3918,7 @@
     {
         "id": 436,
         "expanded": false,
-        "name": "山の洞窟 1後編",
+        "name": "Mountain Cave 1 Sequel",
         "order": 423,
         "parentId": 276,
         "scrollX": 1769.4545454545455,
@@ -3927,7 +3927,7 @@
     {
         "id": 437,
         "expanded": true,
-        "name": "山の洞窟 2F後編",
+        "name": "Mountain Cave 2F Sequel",
         "order": 424,
         "parentId": 436,
         "scrollX": 1816,
@@ -3936,7 +3936,7 @@
     {
         "id": 438,
         "expanded": true,
-        "name": "山の洞窟 3Ｆ後編",
+        "name": "Mountain Cave 3F Sequel",
         "order": 425,
         "parentId": 436,
         "scrollX": 1092,
@@ -3945,7 +3945,7 @@
     {
         "id": 439,
         "expanded": true,
-        "name": "山の中腹　後編",
+        "name": "Mid-Mountain Sequel",
         "order": 426,
         "parentId": 436,
         "scrollX": 1894,
@@ -3954,7 +3954,7 @@
     {
         "id": 440,
         "expanded": true,
-        "name": "プラントバイツの洞窟Ｂ後編",
+        "name": "Plant Bites Cave B Sequel",
         "order": 427,
         "parentId": 436,
         "scrollX": 1092,
@@ -3963,7 +3963,7 @@
     {
         "id": 441,
         "expanded": true,
-        "name": "山の洞窟 3F-3後編",
+        "name": "Mountain Cave 3F-3 Part 2",
         "order": 428,
         "parentId": 436,
         "scrollX": 1081.3333333333333,
@@ -3972,7 +3972,7 @@
     {
         "id": 442,
         "expanded": true,
-        "name": "山の洞窟 9F-1後編",
+        "name": "Mountain Cave 9F-1 Part 2",
         "order": 429,
         "parentId": 436,
         "scrollX": 1270.6666666666667,
@@ -3981,7 +3981,7 @@
     {
         "id": 443,
         "expanded": false,
-        "name": "山の洞窟 9F-2後編",
+        "name": "Mountain Cave 9F-2 Part 2",
         "order": 430,
         "parentId": 436,
         "scrollX": 1092,
@@ -3990,7 +3990,7 @@
     {
         "id": 444,
         "expanded": true,
-        "name": "山の洞窟 10F-1後編",
+        "name": "Mountain Cave 10F-1 Part 2",
         "order": 431,
         "parentId": 436,
         "scrollX": 1081.3333333333333,
@@ -3999,7 +3999,7 @@
     {
         "id": 445,
         "expanded": false,
-        "name": "山の洞窟 10F-2後編",
+        "name": "Mountain Cave 10F-2 Part 2",
         "order": 432,
         "parentId": 436,
         "scrollX": 1081.3333333333333,
@@ -4008,7 +4008,7 @@
     {
         "id": 446,
         "expanded": false,
-        "name": "山の洞窟 11F後編",
+        "name": "Mountain Cave 11F Part 2",
         "order": 433,
         "parentId": 436,
         "scrollX": 1081.3333333333333,
@@ -4017,7 +4017,7 @@
     {
         "id": 447,
         "expanded": true,
-        "name": "山頂後編",
+        "name": "Mountain Summit Part 2",
         "order": 434,
         "parentId": 436,
         "scrollX": 1081.3333333333333,
@@ -4026,7 +4026,7 @@
     {
         "id": 448,
         "expanded": false,
-        "name": "山頂イベント用後編",
+        "name": "Mountain Summit Event Part 2",
         "order": 435,
         "parentId": 447,
         "scrollX": 1081.3333333333333,
@@ -4035,7 +4035,7 @@
     {
         "id": 449,
         "expanded": false,
-        "name": "山頂イベント用後編",
+        "name": "Mountain Summit Event Part 2",
         "order": 143,
         "parentId": 97,
         "scrollX": 1390.2857142857142,
@@ -4044,7 +4044,7 @@
     {
         "id": 450,
         "expanded": true,
-        "name": "洞窟 休憩イベント用",
+        "name": "Cave Rest Event",
         "order": 22,
         "parentId": 14,
         "scrollX": 1786.909090909091,
@@ -4053,7 +4053,7 @@
     {
         "id": 451,
         "expanded": true,
-        "name": "洞窟 休憩純愛キーイベント",
+        "name": "Cave Rest Pure Love Key Event",
         "order": 23,
         "parentId": 450,
         "scrollX": 1786.909090909091,
@@ -4062,7 +4062,7 @@
     {
         "id": 452,
         "expanded": true,
-        "name": "聖子の森5NG",
+        "name": "Saint's Forest 5NG",
         "order": 202,
         "parentId": 77,
         "scrollX": 1404,
@@ -4071,7 +4071,7 @@
     {
         "id": 453,
         "expanded": true,
-        "name": "王国夜の街イベント用",
+        "name": "Kingdom Night Town Event",
         "order": 335,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -4080,7 +4080,7 @@
     {
         "id": 454,
         "expanded": false,
-        "name": "民家イーブル後編",
+        "name": "Civilian House Iburu Part 2",
         "order": 274,
         "parentId": 302,
         "scrollX": 1404,
@@ -4089,7 +4089,7 @@
     {
         "id": 455,
         "expanded": false,
-        "name": "歓楽街エンド",
+        "name": "Pleasure District End",
         "order": 336,
         "parentId": 235,
         "scrollX": 1092,
@@ -4098,7 +4098,7 @@
     {
         "id": 456,
         "expanded": false,
-        "name": "コスプレ部屋ハーピー",
+        "name": "Cosplay Room Harpy",
         "order": 311,
         "parentId": 288,
         "scrollX": 1404,
@@ -4107,7 +4107,7 @@
     {
         "id": 457,
         "expanded": false,
-        "name": "コスプレ部屋ラミア",
+        "name": "Cosplay Room Lamia",
         "order": 312,
         "parentId": 288,
         "scrollX": 1404,
@@ -4125,7 +4125,7 @@
     {
         "id": 459,
         "expanded": true,
-        "name": "村長の家純愛イベント",
+        "name": "Village Chief's House Pure Love Event",
         "order": 457,
         "parentId": 361,
         "scrollX": 1092,
@@ -4134,7 +4134,7 @@
     {
         "id": 460,
         "expanded": true,
-        "name": "地下牢純愛プレーンドア開き",
+        "name": "Dungeon Pure Love Plain Door Opening",
         "order": 452,
         "parentId": 357,
         "scrollX": 2457,
@@ -4143,7 +4143,7 @@
     {
         "id": 461,
         "expanded": true,
-        "name": "洞窟 最深部　純愛",
+        "name": "Cave Deepest Part Pure Love",
         "order": 453,
         "parentId": 357,
         "scrollX": 1092,
@@ -4152,7 +4152,7 @@
     {
         "id": 462,
         "expanded": true,
-        "name": "王家の墓所 1F",
+        "name": "Royal Family Tomb 1F",
         "order": 465,
         "parentId": 359,
         "scrollX": 1092,
@@ -4161,7 +4161,7 @@
     {
         "id": 463,
         "expanded": true,
-        "name": "王家の墓所 B2-1",
+        "name": "Royal Family Tomb B2-1",
         "order": 466,
         "parentId": 462,
         "scrollX": 1750.6666666666667,
@@ -4170,7 +4170,7 @@
     {
         "id": 464,
         "expanded": true,
-        "name": "王家の墓所 B3-1",
+        "name": "Royal Family Tomb B3-1",
         "order": 467,
         "parentId": 462,
         "scrollX": 1786.909090909091,
@@ -4179,7 +4179,7 @@
     {
         "id": 465,
         "expanded": false,
-        "name": "王家の墓所 B3-2",
+        "name": "Royal Family Tomb B3-2",
         "order": 468,
         "parentId": 462,
         "scrollX": 2457,
@@ -4188,7 +4188,7 @@
     {
         "id": 466,
         "expanded": false,
-        "name": "王家の墓所 B3-3",
+        "name": "Royal Family Tomb B3-3",
         "order": 469,
         "parentId": 462,
         "scrollX": 2457,
@@ -4197,7 +4197,7 @@
     {
         "id": 467,
         "expanded": true,
-        "name": "クセシの村占領",
+        "name": "Kusechi Village Occupation",
         "order": 470,
         "parentId": 462,
         "scrollX": 2457,
@@ -4206,7 +4206,7 @@
     {
         "id": 468,
         "expanded": true,
-        "name": "クセシの村エンディング用",
+        "name": "Kusechi Village Ending",
         "order": 519,
         "parentId": 398,
         "scrollX": 2457,
@@ -4215,7 +4215,7 @@
     {
         "id": 469,
         "expanded": true,
-        "name": "純愛エンディング用",
+        "name": "Pure Love Ending",
         "order": 520,
         "parentId": 468,
         "scrollX": 1081.3333333333333,
@@ -4224,7 +4224,7 @@
     {
         "id": 470,
         "expanded": true,
-        "name": "水の町コンティニュー",
+        "name": "Water Town Continue",
         "order": 521,
         "parentId": 469,
         "scrollX": 2422.6666666666665,
@@ -4233,7 +4233,7 @@
     {
         "id": 471,
         "expanded": true,
-        "name": "道場",
+        "name": "Dojo",
         "order": 522,
         "parentId": 470,
         "scrollX": 2457,
@@ -4242,7 +4242,7 @@
     {
         "id": 472,
         "expanded": false,
-        "name": "道場2",
+        "name": "Dojo 2",
         "order": 523,
         "parentId": 471,
         "scrollX": 1786.909090909091,
@@ -4251,7 +4251,7 @@
     {
         "id": 473,
         "expanded": true,
-        "name": "水の町モンスター",
+        "name": "Water Town Monster",
         "order": 525,
         "parentId": 470,
         "scrollX": 2433.3333333333335,
@@ -4260,7 +4260,7 @@
     {
         "id": 474,
         "expanded": true,
-        "name": "水の町モンスタープレーン",
+        "name": "Water Town Monster Plain",
         "order": 526,
         "parentId": 473,
         "scrollX": 2433.3333333333335,
@@ -4269,7 +4269,7 @@
     {
         "id": 475,
         "expanded": false,
-        "name": "森の遊歩道コンティニュー",
+        "name": "Forest Promenade Continue",
         "order": 530,
         "parentId": 468,
         "scrollX": 2457,
@@ -4278,7 +4278,7 @@
     {
         "id": 476,
         "expanded": true,
-        "name": "必殺テスト",
+        "name": "Special Move Test",
         "order": 42,
         "parentId": 34,
         "scrollX": 1786.909090909091,
@@ -4287,7 +4287,7 @@
     {
         "id": 477,
         "expanded": true,
-        "name": "ルイテシア神殿",
+        "name": "Luitesia Temple",
         "order": 536,
         "parentId": 399,
         "scrollX": 2457,
@@ -4296,7 +4296,7 @@
     {
         "id": 478,
         "expanded": true,
-        "name": "ルイテシア神殿　地下二階",
+        "name": "Luitesia Temple Underground Second Floor",
         "order": 538,
         "parentId": 477,
         "scrollX": 2457,
@@ -4305,7 +4305,7 @@
     {
         "id": 479,
         "expanded": true,
-        "name": "ルイテシア神殿　一階",
+        "name": "Luitesia Temple First Floor",
         "order": 537,
         "parentId": 477,
         "scrollX": 2457,
@@ -4314,7 +4314,7 @@
     {
         "id": 480,
         "expanded": true,
-        "name": "ルイテシア神殿　別館",
+        "name": "Luitesia Temple Annex",
         "order": 542,
         "parentId": 477,
         "scrollX": 1081.3333333333333,
@@ -4323,7 +4323,7 @@
     {
         "id": 481,
         "expanded": true,
-        "name": "クセシの村崩壊",
+        "name": "The Collapse of Kusechi Village",
         "order": 543,
         "parentId": 477,
         "scrollX": 2086.6666666666665,
@@ -4332,7 +4332,7 @@
     {
         "id": 482,
         "expanded": false,
-        "name": "民家A 1コンティニュー",
+        "name": "House A Continue 1",
         "order": 527,
         "parentId": 470,
         "scrollX": 1092,
@@ -4341,7 +4341,7 @@
     {
         "id": 483,
         "expanded": true,
-        "name": "聖子の森14",
+        "name": "Saint's Forest 14",
         "order": 216,
         "parentId": 65,
         "scrollX": 1786.909090909091,
@@ -4350,7 +4350,7 @@
     {
         "id": 484,
         "expanded": true,
-        "name": "洞窟 最深部",
+        "name": "Cave Depths",
         "order": 460,
         "parentId": 363,
         "scrollX": 1786.909090909091,
@@ -4359,7 +4359,7 @@
     {
         "id": 485,
         "expanded": true,
-        "name": "洞窟 最深部コンティニュー",
+        "name": "Cave Depths Continue",
         "order": 461,
         "parentId": 484,
         "scrollX": 1092,
@@ -4368,7 +4368,7 @@
     {
         "id": 486,
         "expanded": false,
-        "name": "王家の墓所 B3-3コンティニュー",
+        "name": "Royal Tomb B3-3 Continue",
         "order": 462,
         "parentId": 485,
         "scrollX": 1092,
@@ -4377,7 +4377,7 @@
     {
         "id": 487,
         "expanded": true,
-        "name": "聖子の森10",
+        "name": "Saint's Forest 10",
         "order": 212,
         "parentId": 64,
         "scrollX": 1786.909090909091,
@@ -4386,7 +4386,7 @@
     {
         "id": 488,
         "expanded": true,
-        "name": "聖子の森4 ng",
+        "name": "Saint's Forest 4 ng",
         "order": 229,
         "parentId": 146,
         "scrollX": 1786.909090909091,
@@ -4395,7 +4395,7 @@
     {
         "id": 489,
         "expanded": true,
-        "name": "聖子の森11",
+        "name": "Saint's Forest 11",
         "order": 213,
         "parentId": 65,
         "scrollX": 1786.909090909091,
@@ -4404,7 +4404,7 @@
     {
         "id": 490,
         "expanded": true,
-        "name": "聖子の森12",
+        "name": "Saint's Forest 12",
         "order": 214,
         "parentId": 65,
         "scrollX": 1786.909090909091,
@@ -4413,7 +4413,7 @@
     {
         "id": 491,
         "expanded": true,
-        "name": "聖子の森13",
+        "name": "Saint's Forest 13",
         "order": 215,
         "parentId": 65,
         "scrollX": 1786.909090909091,
@@ -4422,7 +4422,7 @@
     {
         "id": 492,
         "expanded": true,
-        "name": "聖子の森5純愛キーイベント",
+        "name": "Saint's Forest 5 Pure Love Key Event",
         "order": 203,
         "parentId": 77,
         "scrollX": 1404,
@@ -4431,7 +4431,7 @@
     {
         "id": 493,
         "expanded": true,
-        "name": "聖子の森5オープニング",
+        "name": "Saint's Forest 5 Opening",
         "order": 204,
         "parentId": 77,
         "scrollX": 1786.909090909091,
@@ -4440,7 +4440,7 @@
     {
         "id": 494,
         "expanded": true,
-        "name": "ルイテシア神殿内部1",
+        "name": "Luitesia Temple Interior 1",
         "order": 544,
         "parentId": 477,
         "scrollX": 1081.3333333333333,
@@ -4449,7 +4449,7 @@
     {
         "id": 495,
         "expanded": true,
-        "name": "ルイテシア神殿　ご神体",
+        "name": "Luitesia Temple Deity Statue",
         "order": 545,
         "parentId": 477,
         "scrollX": 1081.3333333333333,
@@ -4458,7 +4458,7 @@
     {
         "id": 496,
         "expanded": true,
-        "name": "ルイテシア神殿ご神体イベント",
+        "name": "Luitesia Temple Deity Statue Event",
         "order": 546,
         "parentId": 495,
         "scrollX": 1786.909090909091,
@@ -4467,7 +4467,7 @@
     {
         "id": 497,
         "expanded": true,
-        "name": "ルイテシア神殿ご神体過去",
+        "name": "Luitesia Temple Deity Statue Past",
         "order": 548,
         "parentId": 495,
         "scrollX": 1786.909090909091,
@@ -4476,7 +4476,7 @@
     {
         "id": 498,
         "expanded": true,
-        "name": "聖子の森過去1",
+        "name": "Saint's Forest Past 1",
         "order": 549,
         "parentId": 495,
         "scrollX": 2457,
@@ -4485,7 +4485,7 @@
     {
         "id": 499,
         "expanded": true,
-        "name": "聖子の森過去3",
+        "name": "Saint's Forest Past 3",
         "order": 550,
         "parentId": 495,
         "scrollX": 2457,
@@ -4494,7 +4494,7 @@
     {
         "id": 500,
         "expanded": true,
-        "name": "聖子の森過去2",
+        "name": "Saint's Forest Past 2",
         "order": 551,
         "parentId": 495,
         "scrollX": 2457,
@@ -4503,7 +4503,7 @@
     {
         "id": 501,
         "expanded": true,
-        "name": "予備",
+        "name": "Reserve",
         "order": 547,
         "parentId": 496,
         "scrollX": 1081.3333333333333,
@@ -4512,7 +4512,7 @@
     {
         "id": 502,
         "expanded": true,
-        "name": "ルイテシア神殿イベント",
+        "name": "Luitesia Temple Event",
         "order": 552,
         "parentId": 477,
         "scrollX": 2457,
@@ -4521,7 +4521,7 @@
     {
         "id": 503,
         "expanded": true,
-        "name": "ルイテシア神殿地下二階イベ",
+        "name": "Luitesia Temple Basement Second Floor Event",
         "order": 539,
         "parentId": 478,
         "scrollX": 832,
@@ -4530,7 +4530,7 @@
     {
         "id": 504,
         "expanded": true,
-        "name": "ルイテシア神殿地下二階イベ2",
+        "name": "Luitesia Temple Basement Second Floor Event 2",
         "order": 540,
         "parentId": 503,
         "scrollX": 832,
@@ -4539,7 +4539,7 @@
     {
         "id": 505,
         "expanded": true,
-        "name": "ルイテシア神殿2地下二階2",
+        "name": "Luitesia Temple 2 Basement Second Floor 2",
         "order": 541,
         "parentId": 478,
         "scrollX": 1081.3333333333333,
@@ -4548,7 +4548,7 @@
     {
         "id": 506,
         "expanded": true,
-        "name": "後編フィールド",
+        "name": "Second Part Field",
         "order": 554,
         "parentId": 0,
         "scrollX": 1092,
@@ -4557,7 +4557,7 @@
     {
         "id": 507,
         "expanded": true,
-        "name": "集落に続く森後編",
+        "name": "Forest Leading to the Settlement Second Part",
         "order": 555,
         "parentId": 506,
         "scrollX": 2457,
@@ -4566,7 +4566,7 @@
     {
         "id": 508,
         "expanded": false,
-        "name": "西の森後編",
+        "name": "Western Forest Second Part",
         "order": 556,
         "parentId": 507,
         "scrollX": 2457,
@@ -4575,7 +4575,7 @@
     {
         "id": 509,
         "expanded": true,
-        "name": "狩りの森後編",
+        "name": "Hunting Forest Second Part",
         "order": 557,
         "parentId": 507,
         "scrollX": 2457,
@@ -4584,7 +4584,7 @@
     {
         "id": 510,
         "expanded": false,
-        "name": "暗き森後編",
+        "name": "Dark Forest Second Part",
         "order": 558,
         "parentId": 507,
         "scrollX": 2457,
@@ -4593,7 +4593,7 @@
     {
         "id": 511,
         "expanded": true,
-        "name": "聖子の森入口　後編",
+        "name": "Saint's Forest Entrance Second Part",
         "order": 559,
         "parentId": 507,
         "scrollX": 2457,
@@ -4602,7 +4602,7 @@
     {
         "id": 512,
         "expanded": true,
-        "name": "集落に続く森後編イベント",
+        "name": "Forest Leading to the Settlement Second Part Event",
         "order": 560,
         "parentId": 507,
         "scrollX": 2457,
@@ -4611,7 +4611,7 @@
     {
         "id": 513,
         "expanded": true,
-        "name": "祭壇の下奥の部屋純愛飲み込まれる",
+        "name": "Altar's Innermost Room Pure Love Swallowed",
         "order": 517,
         "parentId": 417,
         "scrollX": 1092,
@@ -4620,7 +4620,7 @@
     {
         "id": 514,
         "expanded": true,
-        "name": "橋3",
+        "name": "Bridge 3",
         "order": 479,
         "parentId": 375,
         "scrollX": 2457,
@@ -4629,7 +4629,7 @@
     {
         "id": 515,
         "expanded": true,
-        "name": "橋ラスト",
+        "name": "Bridge Last",
         "order": 478,
         "parentId": 376,
         "scrollX": 2433,
@@ -4638,7 +4638,7 @@
     {
         "id": 516,
         "expanded": true,
-        "name": "水の町純愛エンディング用",
+        "name": "Water Town Pure Love Ending",
         "order": 528,
         "parentId": 470,
         "scrollX": 2433.3333333333335,
@@ -4647,7 +4647,7 @@
     {
         "id": 517,
         "expanded": false,
-        "name": "民家Aエンディング純愛",
+        "name": "House A Ending Pure Love",
         "order": 529,
         "parentId": 516,
         "scrollX": 1092,
@@ -4656,7 +4656,7 @@
     {
         "id": 518,
         "expanded": true,
-        "name": "研究所",
+        "name": "Laboratory",
         "order": 217,
         "parentId": 47,
         "scrollX": 1769.4545454545455,
@@ -4665,7 +4665,7 @@
     {
         "id": 519,
         "expanded": true,
-        "name": "大図書館 1F-1",
+        "name": "Great Library 1F-1",
         "order": 218,
         "parentId": 518,
         "scrollX": 1786.909090909091,
@@ -4674,7 +4674,7 @@
     {
         "id": 520,
         "expanded": false,
-        "name": "大図書館 2F",
+        "name": "Great Library 2F",
         "order": 219,
         "parentId": 518,
         "scrollX": 1786.909090909091,
@@ -4683,7 +4683,7 @@
     {
         "id": 521,
         "expanded": true,
-        "name": "祭壇の下　スクショ",
+        "name": "Altar Below - Screenshot",
         "order": 364,
         "parentId": 278,
         "scrollX": 1786.909090909091,
@@ -4692,7 +4692,7 @@
     {
         "id": 522,
         "expanded": true,
-        "name": "ウミ見つける泉",
+        "name": "Umi's Discovered Spring",
         "order": 104,
         "parentId": 82,
         "scrollX": 1786.909090909091,
@@ -4701,7 +4701,7 @@
     {
         "id": 523,
         "expanded": true,
-        "name": "牢屋バンカ　イベント",
+        "name": "Banka's Cell Event",
         "order": 411,
         "parentId": 326,
         "scrollX": 1786.909090909091,
@@ -4710,7 +4710,7 @@
     {
         "id": 524,
         "expanded": true,
-        "name": "牢屋のある家バンカイベント",
+        "name": "House with a Cell Banka Event",
         "order": 412,
         "parentId": 326,
         "scrollX": 1786.909090909091,
@@ -4719,7 +4719,7 @@
     {
         "id": 525,
         "expanded": true,
-        "name": "バンカセクハラテスト",
+        "name": "Banka Sexual Harassment Test",
         "order": 43,
         "parentId": 34,
         "scrollX": 1786.909090909091,
@@ -4728,7 +4728,7 @@
     {
         "id": 526,
         "expanded": true,
-        "name": "歓楽街ランダムイベントテスト",
+        "name": "Pleasure District Random Event Test",
         "order": 44,
         "parentId": 525,
         "scrollX": 1403.142857142857,
@@ -4737,7 +4737,7 @@
     {
         "id": 527,
         "expanded": true,
-        "name": "歓楽街ランダムイベントテスト2",
+        "name": "Pleasure District Random Event Test 2",
         "order": 45,
         "parentId": 526,
         "scrollX": 1404,
@@ -4746,7 +4746,7 @@
     {
         "id": 528,
         "expanded": false,
-        "name": "バンカの部屋自由行動イベント",
+        "name": "Banka's Room Free Action Event",
         "order": 394,
         "parentId": 318,
         "scrollX": 1786.909090909091,
@@ -4755,7 +4755,7 @@
     {
         "id": 529,
         "expanded": true,
-        "name": "バンカイベント用　城下町",
+        "name": "Banka Event - Town Below the Castle",
         "order": 192,
         "parentId": 56,
         "scrollX": 1622,
@@ -4764,7 +4764,7 @@
     {
         "id": 530,
         "expanded": true,
-        "name": "バンカイベント用城下町自由",
+        "name": "Banka Event - Free Movement in Town Below the Castle",
         "order": 397,
         "parentId": 320,
         "scrollX": 1786.909090909091,
@@ -4773,7 +4773,7 @@
     {
         "id": 531,
         "expanded": true,
-        "name": "錬金術テスト",
+        "name": "Alchemy Test",
         "order": 51,
         "parentId": 7,
         "scrollX": 1786.909090909091,
@@ -4782,7 +4782,7 @@
     {
         "id": 532,
         "expanded": true,
-        "name": "狩りの森イベント",
+        "name": "Hunting Forest Event",
         "order": 85,
         "parentId": 91,
         "scrollX": 1390.2857142857142,
@@ -4791,7 +4791,7 @@
     {
         "id": 533,
         "expanded": true,
-        "name": "クセシの村　キス",
+        "name": "Village of Kusechi - Kiss",
         "order": 150,
         "parentId": 115,
         "scrollX": 1769.7777777777778,
@@ -4800,7 +4800,7 @@
     {
         "id": 534,
         "expanded": true,
-        "name": "ウミ家後編　朝用",
+        "name": "Umi's House Sequel - Morning Edition",
         "order": 263,
         "parentId": 105,
         "scrollX": 1786.909090909091,
@@ -4809,7 +4809,7 @@
     {
         "id": 535,
         "expanded": true,
-        "name": "光溢れる地　夜用",
+        "name": "Land Overflowing with Light - Night Edition",
         "order": 279,
         "parentId": 308,
         "scrollX": 1769.4545454545455,
@@ -4818,7 +4818,7 @@
     {
         "id": 536,
         "expanded": true,
-        "name": "暗き森　夜用",
+        "name": "Dark Forest - Night Edition",
         "order": 280,
         "parentId": 308,
         "scrollX": 1786.909090909091,
@@ -4827,7 +4827,7 @@
     {
         "id": 537,
         "expanded": true,
-        "name": "★遺跡外部 A夜用",
+        "name": "★Ruins Exterior A - Night Edition",
         "order": 281,
         "parentId": 308,
         "scrollX": 1786.909090909091,
@@ -4836,7 +4836,7 @@
     {
         "id": 538,
         "expanded": true,
-        "name": "★遺跡内部 夜用",
+        "name": "★Ruins Interior - Night Edition",
         "order": 282,
         "parentId": 308,
         "scrollX": 1786.909090909091,
@@ -4845,7 +4845,7 @@
     {
         "id": 539,
         "expanded": true,
-        "name": "浜辺のある村バンカイベント用",
+        "name": "Village with a Beach Banka Event",
         "order": 227,
         "parentId": 153,
         "scrollX": 1786.909090909091,
@@ -4854,7 +4854,7 @@
     {
         "id": 540,
         "expanded": true,
-        "name": "クセシの村自由行動イベント",
+        "name": "Kusechi Village Free Action Event",
         "order": 436,
         "parentId": 276,
         "scrollX": 1769.4545454545455,
@@ -4863,7 +4863,7 @@
     {
         "id": 541,
         "expanded": true,
-        "name": "遺跡儀式バンカエンド用",
+        "name": "Ruins Ritual Banka Ending",
         "order": 421,
         "parentId": 372,
         "scrollX": 2457,
@@ -4872,7 +4872,7 @@
     {
         "id": 542,
         "expanded": true,
-        "name": "牢屋バンカエンド",
+        "name": "Banka's Cell Ending",
         "order": 422,
         "parentId": 541,
         "scrollX": 2457,
@@ -4881,7 +4881,7 @@
     {
         "id": 543,
         "expanded": true,
-        "name": "ウミ家純愛イベント",
+        "name": "Umi's House Pure Love Event",
         "order": 504,
         "parentId": 400,
         "scrollX": 2457,
@@ -4890,7 +4890,7 @@
     {
         "id": 544,
         "expanded": true,
-        "name": "あやしい男の部屋",
+        "name": "Suspicious Man's Room",
         "order": 183,
         "parentId": 133,
         "scrollX": 1404,
@@ -4899,7 +4899,7 @@
     {
         "id": 545,
         "expanded": true,
-        "name": "酒場イベント",
+        "name": "Tavern Event",
         "order": 178,
         "parentId": 131,
         "scrollX": 832,
@@ -4908,7 +4908,7 @@
     {
         "id": 546,
         "expanded": false,
-        "name": "酒場イベント2",
+        "name": "Tavern Event 2",
         "order": 179,
         "parentId": 545,
         "scrollX": 1092,
@@ -4917,7 +4917,7 @@
     {
         "id": 547,
         "expanded": false,
-        "name": "酒場イベント3",
+        "name": "Tavern Event 3",
         "order": 180,
         "parentId": 545,
         "scrollX": 1404,
@@ -4926,7 +4926,7 @@
     {
         "id": 548,
         "expanded": true,
-        "name": "王国夜の街チュートリアル",
+        "name": "Royal Capital Night Street Tutorial",
         "order": 337,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -4935,7 +4935,7 @@
     {
         "id": 549,
         "expanded": true,
-        "name": "ウミ家リモコン日記用",
+        "name": "Umi's House Remote Control Diary Event",
         "order": 371,
         "parentId": 265,
         "scrollX": 1786.909090909091,
@@ -4944,7 +4944,7 @@
     {
         "id": 550,
         "expanded": true,
-        "name": "ウミ家自由行動儀式後イベント",
+        "name": "Umi's House Free Action Post-Ritual Event",
         "order": 385,
         "parentId": 344,
         "scrollX": 1786.909090909091,
@@ -4953,7 +4953,7 @@
     {
         "id": 551,
         "expanded": true,
-        "name": "回想部屋",
+        "name": "Recollection Room",
         "order": 561,
         "parentId": 507,
         "scrollX": 1318.6666666666667,
@@ -4962,7 +4962,7 @@
     {
         "id": 552,
         "expanded": true,
-        "name": "体内最後",
+        "name": "Inside the Body Final",
         "order": 448,
         "parentId": 351,
         "scrollX": 2457,
@@ -4971,7 +4971,7 @@
     {
         "id": 553,
         "expanded": true,
-        "name": "村お別れ",
+        "name": "Village Farewell",
         "order": 501,
         "parentId": 368,
         "scrollX": 2457,
@@ -4980,7 +4980,7 @@
     {
         "id": 554,
         "expanded": true,
-        "name": "道場エンディング前",
+        "name": "Dojo Pre-Ending",
         "order": 524,
         "parentId": 471,
         "scrollX": 1786.909090909091,
@@ -4989,7 +4989,7 @@
     {
         "id": 555,
         "expanded": true,
-        "name": "ウミ編からオープニング",
+        "name": "Opening from Umi's Story",
         "order": 54,
         "parentId": 46,
         "scrollX": 1786.909090909091,
@@ -4998,7 +4998,7 @@
     {
         "id": 556,
         "expanded": true,
-        "name": "王国夜の街敗北イベント用",
+        "name": "Royal Capital Night Street Defeat Event",
         "order": 338,
         "parentId": 235,
         "scrollX": 1081.3333333333333,
@@ -5007,7 +5007,7 @@
     {
         "id": 557,
         "expanded": false,
-        "name": "敗北イベント用",
+        "name": "Defeat Event",
         "order": 339,
         "parentId": 235,
         "scrollX": 1092,
@@ -5016,7 +5016,7 @@
     {
         "id": 558,
         "expanded": true,
-        "name": "バンカ　回想",
+        "name": "Banka Recollection",
         "order": 568,
         "parentId": 551,
         "scrollX": 2457,
@@ -5025,7 +5025,7 @@
     {
         "id": 559,
         "expanded": true,
-        "name": "ウミ家回想",
+        "name": "Umi's House Recollection",
         "order": 562,
         "parentId": 551,
         "scrollX": 1092,
@@ -5034,7 +5034,7 @@
     {
         "id": 560,
         "expanded": true,
-        "name": "王国夜の街　回想",
+        "name": "Royal Capital Night Street Recollection",
         "order": 563,
         "parentId": 551,
         "scrollX": 1769.4545454545455,
@@ -5043,7 +5043,7 @@
     {
         "id": 561,
         "expanded": true,
-        "name": "遺跡内部　回想 ",
+        "name": "Inside the Ruins Recollection",
         "order": 564,
         "parentId": 551,
         "scrollX": 2457,
@@ -5052,7 +5052,7 @@
     {
         "id": 562,
         "expanded": true,
-        "name": "シフ　回想",
+        "name": "Chancellor Shif Recollection",
         "order": 565,
         "parentId": 551,
         "scrollX": 1092,
@@ -5061,7 +5061,7 @@
     {
         "id": 563,
         "expanded": true,
-        "name": "イーブル　回想",
+        "name": "Iburu Recollection",
         "order": 566,
         "parentId": 551,
         "scrollX": 2457,
@@ -5070,7 +5070,7 @@
     {
         "id": 564,
         "expanded": true,
-        "name": "ポソ　回想",
+        "name": "Poso Recollection",
         "order": 567,
         "parentId": 551,
         "scrollX": 2457,
@@ -5079,7 +5079,7 @@
     {
         "id": 565,
         "expanded": true,
-        "name": "はじまりの場所　回想",
+        "name": "The Place of Beginning Recollection",
         "order": 571,
         "parentId": 551,
         "scrollX": 2457,
@@ -5088,7 +5088,7 @@
     {
         "id": 566,
         "expanded": true,
-        "name": "洞窟 回想",
+        "name": "Cave Recollection",
         "order": 569,
         "parentId": 551,
         "scrollX": 2457,
@@ -5097,7 +5097,7 @@
     {
         "id": 567,
         "expanded": true,
-        "name": "祭壇の下奥の部屋バンカエンド用",
+        "name": "Innermost Room Beneath the Altar for Banka's Ending",
         "order": 420,
         "parentId": 371,
         "scrollX": 1786.909090909091,
@@ -5106,7 +5106,7 @@
     {
         "id": 568,
         "expanded": false,
-        "name": "エンドロール",
+        "name": "End Credits",
         "order": 483,
         "parentId": 378,
         "scrollX": 2457,
@@ -5115,7 +5115,7 @@
     {
         "id": 569,
         "expanded": false,
-        "name": "地下牢雑誌4",
+        "name": "Dungeon Magazine 4",
         "order": 334,
         "parentId": 433,
         "scrollX": 1786.909090909091,
@@ -5124,7 +5124,7 @@
     {
         "id": 570,
         "expanded": true,
-        "name": "城下町回想",
+        "name": "Town Below the Castle Recollection",
         "order": 570,
         "parentId": 551,
         "scrollX": 2457,
@@ -5133,7 +5133,7 @@
     {
         "id": 571,
         "expanded": false,
-        "name": "雑貨屋ポソの家後編",
+        "name": "General Store Poso's House Sequel",
         "order": 283,
         "parentId": 198,
         "scrollX": 832,

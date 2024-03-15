@@ -2504,14 +2504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………ねぇカカ…」"
+                                "Mia: \"...Hey, Kaka...\""
                             ]
                         },
                         {
@@ -2528,14 +2521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに？」"
+                                "Umi: \"What is it?\""
                             ]
                         },
                         {
@@ -2552,14 +2538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………トトの話して…」"
+                                "Mia: \"...Talk about Toto...\""
                             ]
                         },
                         {
@@ -2576,14 +2555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……また今度ね…」"
+                                "Umi: \"...Maybe another time...\""
                             ]
                         },
                         {
@@ -2600,14 +2572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ぶぅ…またそれ」"
+                                "Mia: \"...Hmph...you always say that.\""
                             ]
                         },
                         {
@@ -2624,14 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トトの話は長くなるから…。寝れなくなるでしょ？」"
+                                "Umi: \"Talking about Toto would take a long time... You wouldn't be able to\nsleep, right?\""
                             ]
                         },
                         {
@@ -2648,14 +2606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………トトの……こと……あい……スー…スー…」"
+                                "Mia: \"...Toto's...thing...love...Su-...Su-...\""
                             ]
                         },
                         {
@@ -2672,14 +2623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………愛していたよ…」"
+                                "Umi: \"...I loved him...\""
                             ]
                         },
                         {
@@ -2701,7 +2645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル………"
+                                "Kru: \"...\""
                             ]
                         },
                         {

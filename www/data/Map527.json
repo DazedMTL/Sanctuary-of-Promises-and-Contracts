@@ -5852,14 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この変態！許せない！」"
+                                "Umi \"You pervert! Unforgivable!\""
                             ]
                         },
                         {
@@ -5876,14 +5869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変態野郎ハチ・ヨンマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよ！俺っちが何したっていうんだ！」"
+                                "Pervert Guy Hachi.Yonmaru \"What's your problem! What did I even do?!\""
                             ]
                         },
                         {
@@ -5900,14 +5886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるさい！変態！ウミが退治する！」"
+                                "Umi \"Shut up! Pervert! Umi will take you down!\""
                             ]
                         },
                         {
@@ -5924,14 +5903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変態野郎ハチ・ヨンマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぃ！お助け！」"
+                                "Pervert Guy Hachi.Yonmaru \"Eek! Somebody help!\""
                             ]
                         },
                         {
@@ -5948,7 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦いますか？"
+                                "Will you fight?"
                             ]
                         },
                         {
@@ -5956,8 +5928,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5987,14 +5959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「行くぞ！」"
+                                "Umi \"Here we go!\""
                             ]
                         },
                         {
@@ -6011,14 +5976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "変態野郎ハチ・ヨンマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やめてぇぇぇぇぇ！」"
+                                "Pervert Guy Hachi.Yonmaru \"Stop ittttttt!\""
                             ]
                         },
                         {
@@ -6050,14 +6008,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "変態野郎ハチ・ヨンマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「あぁ！もっと！もっと打ってくれ！」"
+                                "Pervert Guy Hachi.Yonmaru \"Ahh! More! Hit me more!\""
                             ]
                         },
                         {
@@ -6074,14 +6025,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なっなんだこいつ……。これが変態…」"
+                                "Umi \"Wha-what the... This is a pervert...\""
                             ]
                         },
                         {
@@ -6110,7 +6054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "名声が上がった！"
+                                "Fame increased!"
                             ]
                         },
                         {
@@ -6167,14 +6111,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「う……嘘だ……。こっこんなに強いなんて…」"
+                                "Umi \"No... It can't be... To be this strong...\""
                             ]
                         },
                         {
@@ -6191,14 +6128,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "変態野郎ハチ・ヨンマル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ふふふふふ…」"
+                                "Pervert Guy Hachi.Yonmaru \"Hehehehehe...\""
                             ]
                         },
                         {
@@ -6608,14 +6538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ！人を殺したな！」"
+                                "Umi: \"You! You've killed someone!\""
                             ]
                         },
                         {
@@ -6632,14 +6555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "殺人者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………」"
+                                "Murderer: \"...\""
                             ]
                         },
                         {
@@ -6656,14 +6572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……なっなんだ……その目は…」"
+                                "Umi: \"...Wh-what's with... those eyes...\""
                             ]
                         },
                         {
@@ -6680,14 +6589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "殺人者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…………君も死にたいの？」」"
+                                "Murderer: \"...Do you want to die too?\""
                             ]
                         },
                         {
@@ -6704,14 +6606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………こっ怖い…」"
+                                "Umi: \"...So scary...\""
                             ]
                         },
                         {
@@ -6728,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦いますか？"
+                                "Will you fight?"
                             ]
                         },
                         {
@@ -6736,8 +6631,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6767,14 +6662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「逃げちゃダメだ！」"
+                                "Umi: \"We can't run away!\""
                             ]
                         },
                         {
@@ -6791,14 +6679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "殺人者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うん……手伝ってあげる！」"
+                                "Murderer: \"Yeah... I'll help you!\""
                             ]
                         },
                         {
@@ -6830,14 +6711,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「やった！」"
+                                "Umi: \"We did it!\""
                             ]
                         },
                         {
@@ -6854,14 +6728,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "殺人者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「なぁんだ…。死にたいんじゃないんだ…」"
+                                "Murderer: \"I see... you don't want to die...\""
                             ]
                         },
                         {
@@ -6890,7 +6757,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "名声が上がった！"
+                                "Fame increased!"
                             ]
                         },
                         {
@@ -6938,14 +6805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うぅ……強い…」"
+                                "Umi: \"Ugh... so strong...\""
                             ]
                         },
                         {
@@ -6962,14 +6822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "殺人者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「………ここは人が多いな……。じゃぁ今度は人通りの少ない場所でね…」"
+                                "Murderer: \"...This place is crowded... Next time, let's find a place with\nfewer people...\""
                             ]
                         },
                         {
@@ -7379,14 +7232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ！詐欺で人を騙すのはやめろ！」"
+                                "Umi: \"You! Stop deceiving people with your scams!\""
                             ]
                         },
                         {
@@ -7403,14 +7249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詐欺師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんな……僕は違いますよ…」"
+                                "Swindler: \"No, no... That's not true... I'm not like that...\""
                             ]
                         },
                         {
@@ -7427,14 +7266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそうなのか……」"
+                                "Umi: \"Is that so...\""
                             ]
                         },
                         {
@@ -7451,14 +7283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詐欺師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんです…。だからこの場は何もなかったという事で…」"
+                                "Swindler: \"Yes, it is... So let's pretend nothing happened here...\""
                             ]
                         },
                         {
@@ -7475,14 +7300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…」"
+                                "Umi: \"Ugh...\""
                             ]
                         },
                         {
@@ -7499,7 +7317,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見逃しますか？"
+                                "Will you let them go?"
                             ]
                         },
                         {
@@ -7507,8 +7325,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7538,14 +7356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いや！ウミは騙されない！オマエ悪いやつだ！」"
+                                "Umi: \"No! Umi won't be fooled! You're a bad person!\""
                             ]
                         },
                         {
@@ -7562,14 +7373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "詐欺師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちっ！騙せなかったか…」"
+                                "Swindler: \"Tch! Couldn't fool her, huh...\""
                             ]
                         },
                         {
@@ -7601,14 +7405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "盗人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「ちっちくしょう！」"
+                                "Thief: \"Damn it all!\""
                             ]
                         },
                         {
@@ -7625,14 +7422,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「わぁ！退治してくれてありがとう！」"
+                                "Townspeople: \"Wow! Thank you for getting rid of them!\""
                             ]
                         },
                         {
@@ -7661,7 +7451,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "名声が上がった！"
+                                "Your reputation has increased!"
                             ]
                         },
                         {
@@ -7718,14 +7508,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「うぅ……強い…」"
+                                "Umi: \"Ugh... So strong...\""
                             ]
                         },
                         {
@@ -7742,14 +7525,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "詐欺師"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「へん！これに懲りたらオレの商売の邪魔するなよ！」"
+                                "Swindler: \"Hmph! Don't interfere with my business again if you've learned\nyour lesson!\""
                             ]
                         },
                         {
@@ -8313,14 +8089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ！盗みはダメだぞ！」"
+                                "Umi: \"Hey you! Stealing is not okay!\""
                             ]
                         },
                         {
@@ -8337,14 +8106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだオマエ！やんのか⁉」"
+                                "Thief: \"Wh-who the hell are you?! You wanna go⁉\""
                             ]
                         },
                         {
@@ -8376,14 +8138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "盗人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ちっちくしょう！」"
+                                "Thief: \"Damn it all!\""
                             ]
                         },
                         {
@@ -8400,14 +8155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「わぁ！退治してくれてありがとう！」"
+                                "Townspeople: \"Wow! Thank you for defeating him!\""
                             ]
                         },
                         {
@@ -8447,7 +8195,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "名声が５上がった！"
+                                "Fame increased by 5!"
                             ]
                         },
                         {
@@ -8493,14 +8241,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うぅ……強い…」"
+                                "Umi: \"Ugh... so strong...\""
                             ]
                         },
                         {
@@ -8517,14 +8258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "盗人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「へん！あばよ！もっと時間のある時に可愛がってやる！」"
+                                "Thief: \"Hmph! See ya! I'll take my time with you when I have more time!\""
                             ]
                         },
                         {

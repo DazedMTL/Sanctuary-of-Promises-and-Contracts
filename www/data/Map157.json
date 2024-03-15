@@ -3687,14 +3687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！お前が他の兵士からなんて言われてるか知ってるか！」"
+                                "Prisoner: \"Hmph! Do you know what the other soldiers have been saying about\nyou?\""
                             ]
                         },
                         {
@@ -3711,14 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Kru: \"...\""
                             ]
                         },
                         {
@@ -3735,14 +3721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「守銭奴！生まれの卑しい平民！手柄を横取りされた他の兵士がずっとお前の悪口言ってるぞ！」"
+                                "Prisoner: \"Miser! Low-born commoner! The other soldiers who had their\nachievements stolen by you have been badmouthing you all this time!\""
                             ]
                         },
                         {
@@ -3759,14 +3738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……知ってるよ」"
+                                "Kru: \"...I know.\""
                             ]
                         },
                         {
@@ -3783,14 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよ…、傷ついたのか」"
+                                "Prisoner: \"What's with that... are you hurt?\""
                             ]
                         },
                         {
@@ -3807,14 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ」"
+                                "Kru: \"Yeah.\""
                             ]
                         },
                         {
@@ -3831,14 +3789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめん…謝るよ」"
+                                "Prisoner: \"Sorry... I apologize.\""
                             ]
                         },
                         {
@@ -3916,14 +3867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちきしょう！てめぇさえいなけりゃ…。オレたちの王国になってたんだ…」"
+                                "Prisoner: \"Damn it! If it weren't for you... this would have been our\nkingdom...\""
                             ]
                         },
                         {
@@ -4001,14 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「てめぇこの野郎！同じ平民でありながら俺達をぶち込みやがって！」"
+                                "Prisoner \"You bastard! How dare you throw us in here when you're just a\ncommoner like us!\""
                             ]
                         },
                         {
@@ -4025,14 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「知らねぇよ…。お前が弱いから悪いんだろ？」"
+                                "Kru \"I don't know... It's your fault for being weak, isn't it?\""
                             ]
                         },
                         {
@@ -4049,14 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちきしょう！」"
+                                "Prisoner \"Damn it!\""
                             ]
                         },
                         {
@@ -5921,14 +5844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ルイテシア様は虐げられている。早く救出しなくては」"
+                                "Prisoner \"Lady Lutecia is being oppressed. We must rescue her quickly.\""
                             ]
                         },
                         {
@@ -5945,14 +5861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいはい…。でもそれだからって城に攻め入ったらいけないでしょ」"
+                                "Kru \"Yeah, yeah... But that doesn't mean we should just storm the castle.\""
                             ]
                         },
                         {
@@ -5969,14 +5878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "囚人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの宰相シフは恐ろしい男だ…。お前もあの男の手下か？その内ひどいことになるぞ」"
+                                "Prisoner \"That Chancellor Shif is a terrifying man... Are you one of his\nminions too? You'll end up in a terrible situation.\""
                             ]
                         },
                         {

@@ -2867,21 +2867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将軍トロス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて…剣士長クルよ…。名だたる手練れが聖子の森の調査に向かったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　誰一人として戻ってこれんとは、責任者としてどう捉えておる？」"
+                                "General Tros \"Well... Swordsman Leader Kru... Not a single one of the\nrenowned experts who went to investigate the Holy Forest has returned. As\nthe person in charge, how do you perceive this?\""
                             ]
                         },
                         {
@@ -2898,14 +2884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！ひとえに私の現状の認識の甘さに原因があると思っております」"
+                                "Kru \"Sir! I believe it is entirely due to my lack of proper recognition of\nthe situation.\""
                             ]
                         },
                         {
@@ -2922,14 +2901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将軍トロス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ。してどのような対処を致すつもりじゃ？」"
+                                "General Tros \"Hmm. And what measures do you intend to take?\""
                             ]
                         },
                         {
@@ -2946,14 +2918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！私自らが赴き、必ず神クセシレイの祭壇を見つけてみせます」"
+                                "Kru \"Sir! I myself will go and will surely find the altar of the god\nXecelray.\""
                             ]
                         },
                         {
@@ -2970,14 +2935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将軍トロス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふむ…。では良い報告を待っておるぞ」"
+                                "General Tros \"Hmm... I shall await your good report then.\""
                             ]
                         },
                         {
@@ -2994,14 +2952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…一つ質問をさせて頂いてよろしいですか？」"
+                                "Kru \"...May I ask a question?\""
                             ]
                         },
                         {
@@ -3052,14 +3003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ならん…。貴様自分の立場をわかっておらんようだな」"
+                                "Chancellor Shif \"No... It seems you do not understand your place.\""
                             ]
                         },
                         {
@@ -3076,14 +3020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「申し訳ございません！」"
+                                "Kru \"My apologies!\""
                             ]
                         },
                         {
@@ -3116,21 +3053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「貴様のような劣悪な生まれの下賤な輩が、王の御前で命を頂いている時点で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　法外なる名誉を賜っている事をわきまえず、ましてや問いなどと…」"
+                                "Chancellor Shif \"For someone of your lowly birth and vile status to be\ngranted life in the presence of the king, you are already receiving an\nextraordinary honor. And yet, you dare to ask a question...\""
                             ]
                         },
                         {
@@ -3147,14 +3070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごにょごにょ…」"
+                                "King \"Mumble mumble...\""
                             ]
                         },
                         {
@@ -3187,21 +3103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ…かしこまりました。おい平民…王の許しが出た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　貴様の下等な頭から出る問いとやらを聞いてやろう」"
+                                "Chancellor Shif \"Sir... Understood. Hey, commoner... The king has given his\npermission. Let's hear this question that comes from your inferior mind.\""
                             ]
                         },
                         {
@@ -3218,28 +3120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！有難き幸せ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これまでに数々の犠牲を出して参りましたが、神クセシレイの祭壇にはいかような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　価値があるのでしょうか？」"
+                                "Kru \"Sir! I am most grateful. We have made many sacrifices so far, but what\nvalue does the altar of the god Xecelray hold?\""
                             ]
                         },
                         {
@@ -3272,14 +3153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はん！そんなことも知らなんだか！」"
+                                "Chancellor Shif \"Hmph! You don't even know that!\""
                             ]
                         },
                         {
@@ -3296,28 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将軍トロス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よろしい。私から説明しよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言い伝えでは、神クセシレイには人間を不老不死にする力を持っていると言われている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　王はその不老不死の力を得る必要があるとお考えなのだ」"
+                                "General Tros \"It's fine. Let me explain. According to legend, the god\nXecelray is said to possess the power to grant humans eternal youth and\nimmortality. The king believes it is necessary to obtain this power of\neternal life.\""
                             ]
                         },
                         {
@@ -3334,14 +3187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうでしたか。そのような力が…」"
+                                "Kru \"I see. Such power...\""
                             ]
                         },
                         {
@@ -3358,14 +3204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごにょごにょ…」"
+                                "King \"Mumble mumble...\""
                             ]
                         },
                         {
@@ -3398,14 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はっ。おい平民！話は済んだ！とっとと下がれ！」"
+                                "Chancellor Shif \"...Sir. Hey, commoner! The conversation is over! Step back\nimmediately!\""
                             ]
                         },
                         {
@@ -3450,14 +3282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！かしこまりました」"
+                                "Kru \"Sir! Understood.\""
                             ]
                         },
                         {

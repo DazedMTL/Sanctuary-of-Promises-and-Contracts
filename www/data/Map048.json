@@ -6195,14 +6195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「待ちやがれ‼‼」"
+                                "Bandit Leader: \"Hold it right there!!\""
                             ]
                         },
                         {
@@ -6250,14 +6243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだめんどうくせぇ」"
+                                "Kru: \"What a hassle.\""
                             ]
                         },
                         {
@@ -6274,14 +6260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここを通りたければ、通行料を払え！」"
+                                "Bandit Leader: \"If you want to pass through here, pay the toll!\""
                             ]
                         },
                         {
@@ -6298,14 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前お約束みたいなセリフを吐くなぁ。払わなかったらどうなるんだ？」"
+                                "Kru: \"You're spouting such cliché lines. What happens if I don't pay?\""
                             ]
                         },
                         {
@@ -6322,14 +6294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そらぁお約束みたいな展開になるぜぇ…。身包み剥がれて野犬のエサだ！」"
+                                "Bandit Leader: \"Then you'll get the usual treatment... stripped to the skin\nand left as dog food!\""
                             ]
                         },
                         {
@@ -6346,14 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「親分！コイツひょっとして、王国剣士長のクルじゃないですかい！」"
+                                "Bandit Henchman A: \"Boss! Ain't this guy Kru, the head swordsman of the\nkingdom?\""
                             ]
                         },
                         {
@@ -6370,14 +6328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「親分！間違いないでやす！オラこいつにヒデェ目にあった事あるでやす！」"
+                                "Bandit Henchman B: \"Boss! No mistake about it! I've had a terrible time\nbecause of this guy before!\""
                             ]
                         },
                         {
@@ -6394,21 +6345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレが悪いやつみたいな言い方するなよ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オマエ盗賊なんだからどうせろくでもない事やってたんだろ？」"
+                                "Kru: \"Don't make it sound like I'm the bad guy... You're a bandit, so you\nmust've been up to no good anyway, right?\""
                             ]
                         },
                         {
@@ -6425,14 +6362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「親分！逃げやしょう！」"
+                                "Bandit Henchman B: \"Boss! Let's get out of here!\""
                             ]
                         },
                         {
@@ -6449,21 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バカ野郎！この人数見やがれ！これでどうにかできる人間なんていやしねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オラ！とっとやっちまえ！」"
+                                "Bandit Leader: \"Idiot! Look at our numbers! There's no way a single person\ncan deal with this! Come on, let's finish him off!\""
                             ]
                         },
                         {
@@ -6480,14 +6396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やれやれ！」"
+                                "Kru: \"Good grief!\""
                             ]
                         },
                         {
@@ -6514,14 +6423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分達"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁぁぁぁぁ！」"
+                                "Bandit Henchmen: \"Aaaargh!\""
                             ]
                         },
                         {
@@ -7135,14 +7037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっななな！なんだと‼‼‼‼」"
+                                "Bandit Leader \"Wha-wha-wha-what the hell!!!\""
                             ]
                         },
                         {
@@ -7159,14 +7054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて………次はオマエさんの番だな…」"
+                                "Kru \"Well... it's your turn now...\""
                             ]
                         },
                         {
@@ -7183,14 +7071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いててて…だから言ったのに…」"
+                                "Bandit Henchman 1 \"Ouch, ouch, ouch... That's what I said...\""
                             ]
                         },
                         {
@@ -7207,14 +7088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ…死んでねぇ…。助かった！」"
+                                "Bandit Henchman 2 \"Huh... he's not dead... we're saved!\""
                             ]
                         },
                         {
@@ -7231,14 +7105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊子分Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早いとこずらがりやしょう‼‼」"
+                                "Bandit Henchman C \"Let's scram outta here fast!!!\""
                             ]
                         },
                         {
@@ -7255,21 +7122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗賊頭"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おめぇらがそういうなら仕方ない‼‼"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　逃げるぞ‼‼‼‼」"
+                                "Bandit Leader \"If you guys say so, can't be helped!! Run!!!\""
                             ]
                         },
                         {
@@ -7317,14 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ったくめんどくせぇなぁ…。これがクセシレイの祟りってやつか…」"
+                                "Kru \"Geez, what a pain... Is this the curse of Kuseshirei...\""
                             ]
                         },
                         {
@@ -7341,14 +7187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ気を取り直して…行くか！」"
+                                "Kru \"Well, let's get our spirits back up... and go!\""
                             ]
                         },
                         {
@@ -8467,14 +8306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「気のせいか……。誰かいたような…」"
+                                "Kru: \"Is it just me... or was there someone there...\""
                             ]
                         },
                         {

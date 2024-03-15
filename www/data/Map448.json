@@ -11706,14 +11706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「中々強いモンスターだったな…」"
+                                "Kru \"That was quite a strong monster...\""
                             ]
                         },
                         {
@@ -11764,14 +11757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。恐かった」"
+                                "Umi \"Yeah. It was scary.\""
                             ]
                         },
                         {
@@ -11788,14 +11774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ、来てくれて本当にありがとう。オレ一人だったらたぶんやられてたよ」"
+                                "Kru \"Umi, thank you so much for coming with me. If I had been alone, I\nprobably would have been done for.\""
                             ]
                         },
                         {
@@ -11828,14 +11807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん。オマエがいなかったらウミは来てない。きっと丸くなって村で震えているだけだった」"
+                                "Umi \"Mmm. If you hadn't been there, Umi wouldn't have come. I would have\njust been curled up, trembling in the village.\""
                             ]
                         },
                         {
@@ -11852,14 +11824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなこと…」"
+                                "Kru \"That's not true...\""
                             ]
                         },
                         {
@@ -11892,21 +11857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミにはわかる。だってウミのことだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁ、早く薬草を取ろう」"
+                                "Umi \"Umi knows. Because it's about Umi. Come on, let's hurry and gather the\nherbs.\""
                             ]
                         },
                         {
@@ -12050,14 +12001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「集まった！これで…」"
+                                "Umi \"We've gathered them! With this...\""
                             ]
                         },
                         {
@@ -12074,14 +12018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！村の皆やミーアが助かる！」"
+                                "Kru \"Ah! Everyone in the village and Mia will be saved!\""
                             ]
                         },
                         {
@@ -12114,14 +12051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…ウミ…来れて…本当に…本当に…よかった…」"
+                                "Umi \"Umi... Umi... I'm so glad... really glad... that I came...\""
                             ]
                         },
                         {
@@ -12138,14 +12068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…よく頑張ったな！」"
+                                "Kru \"Ah... you did great!\""
                             ]
                         },
                         {
@@ -12240,14 +12163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん…。クルのお陰…」"
+                                "Umi \"Mmm... thanks to Kru...\""
                             ]
                         },
                         {
@@ -12264,14 +12180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん…。…ん？」"
+                                "Kru \"Mmm... huh?\""
                             ]
                         },
                         {
@@ -12288,14 +12197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あれ？今オレのこと名前で…)"
+                                "Kru (Huh? Did she just call me by my name...?)"
                             ]
                         },
                         {
@@ -12346,21 +12248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルがいたからここまで来れた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これが外の世界…」"
+                                "Umi \"It's because Kru was here that I could come this far... This is the\noutside world...\""
                             ]
                         },
                         {
@@ -12377,14 +12265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそうだ。世界は広いんだ…」"
+                                "Kru \"Yeah, that's right. The world is vast...\""
                             ]
                         },
                         {
@@ -12417,21 +12298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「山…川…森…町…城…それから海…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　行った事ないがたくさんある！」"
+                                "Umi \"Mountains... rivers... forests... towns... castles... and the sea...\nI've never been, but there's so much out there!\""
                             ]
                         },
                         {
@@ -12448,14 +12315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。これからどんどん行ったことあるに変えなきゃな」"
+                                "Kru \"That's right. We've got to change 'places we've never been' to 'places\nwe've been' from now on.\""
                             ]
                         },
                         {
@@ -12488,14 +12348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルが手伝う？」"
+                                "Umi \"Will Kru help?\""
                             ]
                         },
                         {
@@ -12512,14 +12365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。オレが手伝うよ！」"
+                                "Kru \"Yeah. I'll help you!\""
                             ]
                         },
                         {
@@ -12552,14 +12398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すごい…。こんな日、来るなんて…」"
+                                "Umi \"Amazing... I never thought such a day would come...\""
                             ]
                         },
                         {
@@ -12576,14 +12415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、そうだな！」"
+                                "Kru \"Yeah, you're right!\""
                             ]
                         },
                         {
@@ -12600,14 +12432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「トト…カカ……。いつまでも忘れない…」"
+                                "Umi \"Toto... Kaka... I'll never forget them...\""
                             ]
                         },
                         {
@@ -12624,14 +12449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……」"
+                                "Kru \"Umi...\""
                             ]
                         },
                         {
@@ -12664,14 +12482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも…ウミは元気にやっていくよ！」"
+                                "Umi \"But... Umi will keep going strong!\""
                             ]
                         },
                         {
@@ -12688,14 +12499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Kru \"...\""
                             ]
                         },
                         {
@@ -12728,14 +12532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…」"
+                                "Umi \"Kru...\""
                             ]
                         },
                         {
@@ -12752,14 +12549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？」"
+                                "Kru \"Hmm?\""
                             ]
                         },
                         {
@@ -12792,14 +12582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…」"
+                                "Umi \"Kru...\""
                             ]
                         },
                         {
@@ -12816,14 +12599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよ？」"
+                                "Kru \"What is it?\""
                             ]
                         },
                         {
@@ -12856,14 +12632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでもない」"
+                                "Umi \"It's nothing.\""
                             ]
                         },
                         {
@@ -12880,14 +12649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだそれ」"
+                                "Kru \"What's that supposed to mean\""
                             ]
                         },
                         {
@@ -12920,14 +12682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く帰る！皆待ってる！」"
+                                "Umi \"Let's hurry back! Everyone's waiting!\""
                             ]
                         },
                         {
@@ -12944,14 +12699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな、帰ろう！」"
+                                "Kru \"Right, let's go home!\""
                             ]
                         },
                         {
@@ -12968,14 +12716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから僕たちは急いで山を下り、村に向かった。いつもは疲れたと駄々を捏ねるウミも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆が心配なのか、何も言わずに先を急いだ。"
+                                "After that, we hurried down the mountain and headed for the village. Umi,\nwho usually complains of being tired, was worried about everyone and\nhurried ahead without saying a word."
                             ]
                         },
                         {
@@ -12992,14 +12733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕はというと、ウミに初めて名前を呼ばれた事を思い返すと無意識に顔がにやけてしまうらしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度かウミに渋い顔で見られた。"
+                                "I, on the other hand, found myself unconsciously grinning every time I\nrecalled Umi calling me by my name for the first time, and Umi gave me a\nstern look several times."
                             ]
                         },
                         {
@@ -13016,14 +12750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村が一大事の時に何を不謹慎な事をしているんだと自分に言い聞かせて気を引き締めたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウミが僕の名前を呼んだ時の横顔が、ふと頭に浮かんでは胸を躍らせた。"
+                                "I told myself it was inappropriate to be so cheerful when the village was\nin crisis and tried to stay focused, but the image of Umi's profile as she\ncalled my name kept popping into my head, making my heart flutter."
                             ]
                         },
                         {
@@ -13040,7 +12767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル…。"
+                                "Kru..."
                             ]
                         },
                         {
@@ -13057,14 +12784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ついちょっと前まで、僕の名前であってないような何も意味を感じないただの言葉だったのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウミがその名前を呼んだ瞬間、僕の中に意味が芽生えた。"
+                                "Just a little while ago, my name felt like a meaningless word that wasn't\nreally mine. But the moment Umi called it out, it took on meaning inside\nme."
                             ]
                         },
                         {
@@ -13081,7 +12801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはウミが僕を呼ぶ時の言葉。この世でたった一つの僕の名前。"
+                                "It's the word Umi uses when she calls for me. The one and only name that\nbelongs to me in this world."
                             ]
                         },
                         {
@@ -13098,14 +12818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ。この名前を何度も呼ばれよう。ウミに何度もこの名前を口にしてもらおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それこそが僕がこれから生きていく意味になる。"
+                                "That's right. Let this name be called out many times. Let Umi say this name\nover and over again. That will become the meaning of my life from now on."
                             ]
                         },
                         {
@@ -13122,7 +12835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この旅路で僕だけが持ち帰った宝。それは何にも代えがたい僕だけの価値。"
+                                "The treasure I alone brought back from this journey. It's an irreplaceable\nvalue that belongs only to me."
                             ]
                         },
                         {
@@ -13139,7 +12852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕だけの名前…。"
+                                "My very own name..."
                             ]
                         },
                         {

@@ -2972,14 +2972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急いで探したほうがいい…。そう遠くへは行っていないはずだ…」"
+                                "Iburu: \"We better hurry and search... She can't have gone too far...\""
                             ]
                         },
                         {
@@ -3166,14 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く呪力を溜めてこい」"
+                                "Shif: \"Hurry up and gather the magical energy.\""
                             ]
                         },
                         {
@@ -3495,14 +3481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ…。どこに行ったの…」"
+                                "Umi: \"Shif... where did you go...\""
                             ]
                         },
                         {
@@ -3740,14 +3719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ……嫌な予感がする…」"
+                                "Luitesia: \"Shif... I have a bad feeling about this...\""
                             ]
                         },
                         {

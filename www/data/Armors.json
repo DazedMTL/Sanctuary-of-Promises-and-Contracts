@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--防具Lv1--",
+        "name": "--Armor Lv1--",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "【服/防+3】\n布で作られた、通気性の良い服。",
+        "description": "[Clothes/Def+3] A breathable garment made from cloth.",
         "etypeId": 4,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "布の服",
+        "name": "Cloth Clothes",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 2,
-        "description": "【ローブ/防+2/魔防+4】\n木綿で織られた魔法使い用のローブ。",
+        "description": "[Robe/Def+2/M.Def+4] A robe for mages, woven from cotton.",
         "etypeId": 4,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "木綿のローブ",
+        "name": "Cotton Robe",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 3,
-        "description": "【鎧/防+4】\nなめし革で作られた簡素な鎧。",
+        "description": "[Armor/Def+4] Simple armor made from tanned leather.",
         "etypeId": 4,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "革の鎧",
+        "name": "Leather Armor",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 4,
-        "description": "【腕輪/魔防+2】\n木で作られた簡素な腕輪。",
+        "description": "[Bracelet/M.Def+2] A simple bracelet made of wood.",
         "etypeId": 2,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "木の腕輪",
+        "name": "Wooden Bracelet",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 5,
-        "description": "【靴/敏+4】\n革のバンドで止める木製の履物。",
+        "description": "[Shoes/Agility+4] Wooden footwear fastened with leather straps.",
         "etypeId": 3,
         "traits": [
             {
@@ -148,7 +148,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "サンダル",
+        "name": "Sandals",
         "note": "",
         "params": [
             0,
@@ -175,7 +175,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--防具Lv2--",
+        "name": "--Armor Lv2--",
         "note": "",
         "params": [
             0,
@@ -192,7 +192,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "【服/防+7】\n過酷な冒険にも耐えられるよう、丈夫な布で作られた服。",
+        "description": "[Clothes/Def+7] Durable clothing made to withstand harsh adventures.",
         "etypeId": 4,
         "traits": [
             {
@@ -202,7 +202,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "冒険者の服",
+        "name": "Adventurer's Clothes",
         "note": "",
         "params": [
             0,
@@ -219,7 +219,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "【服/防+10/氷属性軽減】\n氷の攻撃を和らげてくれるコート。",
+        "description": "[Clothes/Def+10/Ice Resistance] A coat that mitigates ice attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -234,7 +234,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "毛皮のコート",
+        "name": "Fur Coat",
         "note": "",
         "params": [
             0,
@@ -251,7 +251,7 @@
     {
         "id": 10,
         "atypeId": 2,
-        "description": "【ローブ/防+5/魔防+8】\n絹で作られたしなやかなローブ。",
+        "description": "[Robe/Def+5/M.Def+8] A supple robe made from silk.",
         "etypeId": 4,
         "traits": [
             {
@@ -261,7 +261,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "絹のローブ",
+        "name": "Silk Robe",
         "note": "",
         "params": [
             0,
@@ -278,7 +278,7 @@
     {
         "id": 11,
         "atypeId": 2,
-        "description": "【ローブ/防+8/魔防+10/炎属性軽減】\n炎の攻撃を和らげてくれるローブ。",
+        "description": "[Robe/Def+8/M.Def+10/Fire Resistance] A robe that mitigates fire attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -293,7 +293,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "クリムゾンローブ",
+        "name": "Crimson Robe",
         "note": "",
         "params": [
             0,
@@ -310,7 +310,7 @@
     {
         "id": 12,
         "atypeId": 3,
-        "description": "【鎧/防+8/回避-2%】\n青銅の板を加工して作られた鎧。",
+        "description": "[Armor/Def+8/Evasion-2%] Armor crafted from processed bronze plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -320,7 +320,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "青銅の鎧",
+        "name": "Bronze Armor",
         "note": "",
         "params": [
             0,
@@ -337,7 +337,7 @@
     {
         "id": 13,
         "atypeId": 3,
-        "description": "【鎧/防+11/回避-2%/雷属性軽減】\n雷の攻撃を和らげてくれる鎧。",
+        "description": "[Armor/Def+11/Evasion-2%/Lightning Resistance] Armor that mitigates\nlightning attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -352,7 +352,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "大地の鎧",
+        "name": "Earth Armor",
         "note": "",
         "params": [
             0,
@@ -369,7 +369,7 @@
     {
         "id": 14,
         "atypeId": 4,
-        "description": "【腕輪/魔防+4】\n青銅で作られた腕輪。",
+        "description": "[Bracelet/M.Def+4] A bracelet made of bronze.",
         "etypeId": 2,
         "traits": [
             {
@@ -379,7 +379,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "青銅の腕輪",
+        "name": "Bronze Bracelet",
         "note": "",
         "params": [
             0,
@@ -396,7 +396,7 @@
     {
         "id": 15,
         "atypeId": 5,
-        "description": "【靴/敏+8】\nなめし革で作られたブーツ。",
+        "description": "[Shoes/Agility+8] Boots made from tanned leather.",
         "etypeId": 3,
         "traits": [
             {
@@ -406,7 +406,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "レザーブーツ",
+        "name": "Leather Boots",
         "note": "",
         "params": [
             0,
@@ -433,7 +433,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--防具Lv3--",
+        "name": "--Armor Lv3--",
         "note": "",
         "params": [
             0,
@@ -450,7 +450,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "【服/防+13/炎属性軽減】\n炎の攻撃を和らげてくれる服。",
+        "description": "[Clothes/Def+13/Fire Resistance] Clothing that mitigates fire attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -465,7 +465,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "耐火服",
+        "name": "Fireproof Clothes",
         "note": "",
         "params": [
             0,
@@ -482,7 +482,7 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "【服/防+17】\n堅い布で作られた、戦闘用のジャケット。",
+        "description": "[Clothes/Def+17] A combat jacket made from sturdy cloth.",
         "etypeId": 4,
         "traits": [
             {
@@ -492,7 +492,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "バトルジャケット",
+        "name": "Battle Jacket",
         "note": "",
         "params": [
             0,
@@ -509,7 +509,7 @@
     {
         "id": 19,
         "atypeId": 2,
-        "description": "【ローブ/防+11/魔防+15/雷属性軽減】\n雷の攻撃を和らげてくれるローブ。",
+        "description": "[Robe/Def+11/M.Def+15/Lightning Resistance] A robe that mitigates lightning\nattacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -524,7 +524,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "アースローブ",
+        "name": "Earth Robe",
         "note": "",
         "params": [
             0,
@@ -541,7 +541,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "【ローブ/防+15/魔防+19】\n丈夫な布で作られたローブ",
+        "description": "[Robe/Def+15/M.Def+19] A robe made from durable fabric.",
         "etypeId": 4,
         "traits": [
             {
@@ -551,7 +551,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "フェルトローブ",
+        "name": "Felt Robe",
         "note": "",
         "params": [
             0,
@@ -568,7 +568,7 @@
     {
         "id": 21,
         "atypeId": 3,
-        "description": "【鎧/防+15/敏-3/回避-4%】\n頑丈な鉄板を組み合わせて作られた鎧。",
+        "description": "[Armor/Def+15/Agility-3/Evasion-4%] Armor assembled from sturdy iron\nplates.",
         "etypeId": 4,
         "traits": [
             {
@@ -578,7 +578,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "鉄の鎧",
+        "name": "Iron Armor",
         "note": "",
         "params": [
             0,
@@ -595,7 +595,7 @@
     {
         "id": 22,
         "atypeId": 3,
-        "description": "【鎧/防+19/敏-5/回避-5%/氷属性軽減】\n氷の攻撃を和らげてくれる分厚い鎧。",
+        "description": "[Armor/Def+19/Agility-5/Evasion-5%/Ice Resistance] Thick armor that\nmitigates ice attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -610,7 +610,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "厚手の鎧",
+        "name": "Thick Armor",
         "note": "",
         "params": [
             0,
@@ -627,7 +627,7 @@
     {
         "id": 23,
         "atypeId": 4,
-        "description": "【腕輪/魔防+7】\n鉄で作られた腕輪。",
+        "description": "[Bracelet/M.Def+7] A bracelet made of iron.",
         "etypeId": 2,
         "traits": [
             {
@@ -637,7 +637,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "鉄の腕輪",
+        "name": "Iron Bracelet",
         "note": "",
         "params": [
             0,
@@ -654,7 +654,7 @@
     {
         "id": 24,
         "atypeId": 5,
-        "description": "【靴/敏+2/スタン半減】\n転倒しづらいように重心を調整してくれるブーツ。",
+        "description": "[Shoes/Agility+2/Stun Reduction] Boots designed to prevent falling by\nadjusting the center of gravity.",
         "etypeId": 3,
         "traits": [
             {
@@ -669,7 +669,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "バランスブーツ",
+        "name": "Balance Boots",
         "note": "",
         "params": [
             0,
@@ -696,7 +696,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--防具Lv4--",
+        "name": "--Armor Lv4--",
         "note": "",
         "params": [
             0,
@@ -713,7 +713,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "【服/防+26】\n裏地に金属板が仕込まれている服。",
+        "description": "[Clothes/Def+26] Clothing with metal plates sewn into the lining.",
         "etypeId": 4,
         "traits": [
             {
@@ -723,7 +723,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ブリガンダイン",
+        "name": "Brigandine",
         "note": "",
         "params": [
             0,
@@ -740,7 +740,7 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "【服/防+21/回避+10％】\n動きやすい生地で作られた服。",
+        "description": "[Clothes/Def+21/Evasion+10%] Clothing made from fabric that's easy to move\nin.",
         "etypeId": 4,
         "traits": [
             {
@@ -750,7 +750,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "みかわしの服",
+        "name": "Dodging Clothes",
         "note": "",
         "params": [
             0,
@@ -767,7 +767,7 @@
     {
         "id": 28,
         "atypeId": 2,
-        "description": "青い毛並みの熊皮の外套。",
+        "description": "Outerwear made from the fur of a blue-furred bear.",
         "etypeId": 4,
         "traits": [
             {
@@ -777,7 +777,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "青熊の毛皮",
+        "name": "Blue Bear Fur",
         "note": "",
         "params": [
             0,
@@ -794,7 +794,7 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "神々しいワンピース",
+        "description": "A divine-looking dress.",
         "etypeId": 4,
         "traits": [
             {
@@ -809,7 +809,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "神のワンピース",
+        "name": "Divine Dress",
         "note": "",
         "params": [
             0,
@@ -826,7 +826,7 @@
     {
         "id": 30,
         "atypeId": 3,
-        "description": "丈夫で軽い、技を極めし者の鎧。",
+        "description": "Armor that is both sturdy and light, perfected by a master of the craft.",
         "etypeId": 4,
         "traits": [
             {
@@ -836,7 +836,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "マスターアーマー",
+        "name": "Master Armor",
         "note": "",
         "params": [
             0,
@@ -853,7 +853,7 @@
     {
         "id": 31,
         "atypeId": 3,
-        "description": "【鎧/防+28/魔防+10/被魔法ダメージ軽減】\n魔法攻撃を和らげてくれる、丈夫で軽い鎧。",
+        "description": "[Armor/Def+28/M.Def+10/Magic Damage Reduction] Sturdy and light armor that\nmitigates magic attacks.",
         "etypeId": 4,
         "traits": [
             {
@@ -868,7 +868,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "魔法の鎧",
+        "name": "Magic Armor",
         "note": "",
         "params": [
             0,
@@ -885,7 +885,7 @@
     {
         "id": 32,
         "atypeId": 4,
-        "description": "【腕輪/魔防+10】\n銀で作られた腕輪。",
+        "description": "[Bracelet/M.Def+10] A bracelet made of silver.",
         "etypeId": 2,
         "traits": [
             {
@@ -895,7 +895,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "白銀の腕輪",
+        "name": "Silver Bracelet",
         "note": "",
         "params": [
             0,
@@ -912,7 +912,7 @@
     {
         "id": 33,
         "atypeId": 5,
-        "description": "【靴/敏+12】\n羽飾りのついた軽いブーツ。",
+        "description": "[Shoes/Agility+12] Light boots adorned with feathers.",
         "etypeId": 3,
         "traits": [
             {
@@ -922,7 +922,7 @@
             }
         ],
         "iconIndex": 140,
-        "name": "ウィングブーツ",
+        "name": "Wing Boots",
         "note": "",
         "params": [
             0,
@@ -949,7 +949,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--装飾品--",
+        "name": "--Accessories--",
         "note": "",
         "params": [
             0,
@@ -966,7 +966,7 @@
     {
         "id": 35,
         "atypeId": 6,
-        "description": "【装飾品/毒半減】\n毒になる確率を半減してくれる指輪。",
+        "description": "[Accessory/Poison Resistance] A ring that halves the chance of being\npoisoned.",
         "etypeId": 5,
         "traits": [
             {
@@ -981,7 +981,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "防毒の指輪",
+        "name": "Poison-Proof Ring",
         "note": "",
         "params": [
             0,
@@ -998,7 +998,7 @@
     {
         "id": 36,
         "atypeId": 6,
-        "description": "【装飾品/暗闇半減】\n暗闇になる確率を半減してくれる指輪。",
+        "description": "[Accessory/Darkness Resistance] A ring that halves the chance of being\nblinded.",
         "etypeId": 5,
         "traits": [
             {
@@ -1013,7 +1013,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "暗視の指輪",
+        "name": "Night Vision Ring",
         "note": "",
         "params": [
             0,
@@ -1030,7 +1030,7 @@
     {
         "id": 37,
         "atypeId": 6,
-        "description": "【装飾品/沈黙半減】\n沈黙になる確率を半減してくれる指輪。",
+        "description": "[Accessory/Silence Resistance] A ring that halves the chance of being\nsilenced.",
         "etypeId": 5,
         "traits": [
             {
@@ -1045,7 +1045,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "山彦の指輪",
+        "name": "Mountain Echo Ring",
         "note": "",
         "params": [
             0,
@@ -1062,7 +1062,7 @@
     {
         "id": 38,
         "atypeId": 6,
-        "description": "【装飾品/睡眠半減】\n睡眠になる確率を半減してくれる指輪。",
+        "description": "[Accessory/Sleep Resistance] A ring that halves the chance of falling\nasleep.",
         "etypeId": 5,
         "traits": [
             {
@@ -1077,7 +1077,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "目覚めの指輪",
+        "name": "Awakening Ring",
         "note": "",
         "params": [
             0,
@@ -1094,7 +1094,7 @@
     {
         "id": 39,
         "atypeId": 6,
-        "description": "【装飾品/即死半減/会心回避+100%】\n持ち主を危機から守ってくれる護符。",
+        "description": "[Accessory/Instant Death Resistance/Critical Evasion+100%] An amulet that\nprotects its wearer from peril.",
         "etypeId": 5,
         "traits": [
             {
@@ -1114,7 +1114,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "アミュレット",
+        "name": "Amulet",
         "note": "",
         "params": [
             0,
@@ -1131,7 +1131,7 @@
     {
         "id": 40,
         "atypeId": 6,
-        "description": "【装飾品/炎属性半減】\n炎の攻撃から守ってくれる指輪。",
+        "description": "[Accessory/Fire Resistance] A ring that protects against fire attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -1146,7 +1146,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "炎の指輪",
+        "name": "Ring of Flames",
         "note": "",
         "params": [
             0,
@@ -1163,7 +1163,7 @@
     {
         "id": 41,
         "atypeId": 6,
-        "description": "【装飾品/氷属性半減】\n氷の攻撃から守ってくれる指輪。",
+        "description": "[Accessory/Ice Resistance Halved] A ring that protects from ice attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -1178,7 +1178,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "氷の指輪",
+        "name": "Ice Ring",
         "note": "",
         "params": [
             0,
@@ -1195,7 +1195,7 @@
     {
         "id": 42,
         "atypeId": 6,
-        "description": "【装飾品/雷属性半減】\n雷の攻撃から守ってくれる指輪。",
+        "description": "[Accessory/Lightning Resistance Halved] A ring that protects from lightning\nattacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -1210,7 +1210,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "雷の指輪",
+        "name": "Thunder Ring",
         "note": "",
         "params": [
             0,

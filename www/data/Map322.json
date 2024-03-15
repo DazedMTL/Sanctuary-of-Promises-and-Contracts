@@ -22051,14 +22051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。今日も粥しか食べれんのか…」"
+                                "Villager: \"Ahh... Is it just porridge again today...\""
                             ]
                         },
                         {
@@ -22489,14 +22482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「死ぬまでに、昔みたいな平和な村が帰ってくるかのぅ」"
+                                "Villager: \"I wonder if the village will ever return to the peaceful place\nit was before I die.\""
                             ]
                         },
                         {
@@ -22928,14 +22914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごほごほっ…。あぁ…最近体調がすぐれんのじゃ…」"
+                                "Villager: *cough cough*... Ah... I haven't been feeling well lately..."
                             ]
                         },
                         {
@@ -23012,14 +22991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人子供"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「兵隊さんに殴られたんだ…」"
+                                "Villager Child: \"I was hit by a soldier...\""
                             ]
                         },
                         {
@@ -23096,14 +23068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…いつまでこの地獄が続くんだろう…」"
+                                "Villager: \"Ahh... How long will this hell continue...\""
                             ]
                         },
                         {

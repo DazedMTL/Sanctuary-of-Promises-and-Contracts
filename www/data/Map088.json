@@ -2990,21 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほう。そなたがワシらの集落に流れ着いた若者か…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　滝から落ちて無事じゃったそうじゃのう？」"
+                                "Chieftain: \"Ho. So you're the young man who washed up in our village... You\nfell from the waterfall and survived, I hear?\""
                             ]
                         },
                         {
@@ -3021,14 +3007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、お世話になってます。ウミとミーアのお陰で一命を取り留めました」"
+                                "Kru: \"Yes, I'm in your debt. Thanks to Umi and Mia, I was able to cling to\nlife.\""
                             ]
                         },
                         {
@@ -3045,14 +3024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうかそうか。もう一か月も寝ていたから身体がなまってしょうがないじゃろ」"
+                                "Chieftain: \"Is that so, is that so. You've been asleep for a whole month,\nso your body must be quite stiff, I suppose.\""
                             ]
                         },
                         {
@@ -3086,14 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「一か月！？」"
+                                "Kru: \"A month!?\""
                             ]
                         },
                         {
@@ -3110,14 +3075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんじゃ大きい声出して」"
+                                "Chieftain: \"What's with the loud voice?\""
                             ]
                         },
                         {
@@ -3168,14 +3126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエうるさい」"
+                                "Umi: \"You're being noisy.\""
                             ]
                         },
                         {
@@ -3192,14 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すみません、取り乱しまして。オレはそんなに眠っていたのですか？」"
+                                "Kru: \"I apologize, I was startled. Have I really been asleep for that\nlong?\""
                             ]
                         },
                         {
@@ -3216,21 +3160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃ滝から落ちたんじゃからそれくらいは回復するのにかかるじゃろうて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あと一週間眠り続けていたら焼いて食ってしまうところじゃったのぅ」"
+                                "Chieftain: \"Well, you did fall from a waterfall, so it's only natural it\ntook that long to recover. Had you continued to sleep for another week, we\nmight have ended up roasting and eating you.\""
                             ]
                         },
                         {
@@ -3263,14 +3193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ザンネン」"
+                                "Umi: \"Too bad.\""
                             ]
                         },
                         {
@@ -3304,14 +3227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ！！！」"
+                                "Kru: \"What!!!\""
                             ]
                         },
                         {
@@ -3328,14 +3244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほ。族長ギャグじゃよ。ワシらも人は食わんよ」"
+                                "Chieftain: \"Hohoho. Just a chieftain's joke, lad. We don't eat people\nhere.\""
                             ]
                         },
                         {
@@ -3368,14 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バカ」"
+                                "Umi: \"Idiot.\""
                             ]
                         },
                         {
@@ -3392,14 +3294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅー良かった。まさか、そうですよね…」"
+                                "Kru: \"Phew- that's a relief. I mean, of course...\""
                             ]
                         },
                         {
@@ -3416,14 +3311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて本題じゃ。お主、ここがどこかわかっておるのか？」"
+                                "Chieftain: \"Now, onto the main issue. Do you know where you are?\""
                             ]
                         },
                         {
@@ -3440,21 +3328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、まったく。聖子の森の民を探していたのですが、ここが聖子の森の中なのかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  わかりません」"
+                                "Kru: \"No, not at all. I was searching for the people of the Holy Child's\nForest, but I don't even know if this place is within the Holy Child's\nForest.\""
                             ]
                         },
                         {
@@ -3471,14 +3345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここは聖子の森の中じゃよ。そしてお前さんが探しとる民というのはワシらのことじゃ」"
+                                "Chieftain: \"This is indeed within the Holy Child's Forest. And the people\nyou're looking for are us.\""
                             ]
                         },
                         {
@@ -3495,14 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんと！そんな偶然！」"
+                                "Kru: \"What a coincidence!\""
                             ]
                         },
                         {
@@ -3519,28 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっ偶然などないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お主が我らが神、クセシレイ様に導かれたという事じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そうじゃなければワシらの集落にはたどり着けん」"
+                                "Chieftain: \"Hohoho. There's no such thing as coincidence. You were guided\nhere by our god, Kusechirei-sama. Otherwise, you would never have found our\nvillage.\""
                             ]
                         },
                         {
@@ -3557,14 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど。やはり結界かなにかがこの森に張られているのですね」"
+                                "Kru: \"I see. So there must be some sort of barrier or something over this\nforest.\""
                             ]
                         },
                         {
@@ -3581,21 +3413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっ。クセシレイ様は偉大じゃからの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " それでお主はなぜワシらを探しておったのじゃ？事情を話してはくれんか？」"
+                                "Chieftain: \"Hohoho. Kusechirei-sama is indeed great. Now, why were you\nlooking for us? Would you mind sharing your circumstances?\""
                             ]
                         },
                         {
@@ -3612,14 +3430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい…」"
+                                "Kru: \"...Yes...\""
                             ]
                         },
                         {
@@ -3758,21 +3569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「というわけで、王にこの森に祀られている神の祭壇を探してこいという命令を受けまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それでこの森を探索しておりました」"
+                                "Kru: \"So, I was ordered by the king to find the altar of the god enshrined\nin this forest. That's why I've been exploring this forest.\""
                             ]
                         },
                         {
@@ -3789,28 +3586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどの。それはワシらとしては歓迎しかねることじゃのぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかしその動機を持ってしてこの地までたどり着けたという事は、これもクセシレイ様の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  お導きじゃろう」"
+                                "Chieftain: \"I see. That's something we can't exactly welcome. However, the\nfact that you've made it this far with that motive suggests that it might\nbe the guidance of the god Kuseshirei.\""
                             ]
                         },
                         {
@@ -3861,14 +3637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃまするぜい！」"
+                                "Banka: \"I'm gonna interrupt!\""
                             ]
                         },
                         {
@@ -4304,14 +4073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おうじじい！コイツが例の侵入者か！」"
+                                "Banka: \"Hey, old man! Is this the intruder you were talking about?\""
                             ]
                         },
                         {
@@ -4328,14 +4090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「騒がしいのう。ちいと静かにせい」"
+                                "Chieftain: \"You're being noisy. Be a bit quieter.\""
                             ]
                         },
                         {
@@ -4368,14 +4123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるせい。オレはこの集落の為に不届き者をぶっ殺しに来ただけだぜ」"
+                                "Banka: \"Shut up. I'm just here to kill the miscreant for the sake of our\nvillage.\""
                             ]
                         },
                         {
@@ -4392,14 +4140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「殺す？」"
+                                "Kru: \"Kill?\""
                             ]
                         },
                         {
@@ -4416,21 +4157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ならん。この者はクセシレイ様に導かれた者じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どのような導きがあってここに現れたか見極める必要がある」"
+                                "Chieftain: \"That's not acceptable. This person has been led by Kuseshirei-\nsama. We need to ascertain what kind of guidance brought him here.\""
                             ]
                         },
                         {
@@ -4481,14 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ。うるさい」"
+                                "Umi: \"You. You're loud.\""
                             ]
                         },
                         {
@@ -4521,28 +4241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！未来の旦那様に向かってデカい口叩くんじゃねぇよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おいじじい！そんなの許せねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  オレはこの集落の長になる者として皆に示しをつけなきゃいけねぇ！」"
+                                "Banka: \"Umi! Don't you talk back to your future husband! Hey, old man! I\ncan't allow that! As the one who will become the leader of this village, I\nhave to set an example for everyone!\""
                             ]
                         },
                         {
@@ -4559,21 +4258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだお前が次期族長に決まっているわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　言葉を慎め！それに心配せずともこの者には呼種の洞窟に行ってもらう」"
+                                "Chieftain: \"It's not yet decided that you will be the next chieftain. Watch\nyour words! And don't worry, we will have this person go to the Yobugane\nCave.\""
                             ]
                         },
                         {
@@ -4606,14 +4291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長！それは！」"
+                                "Umi: \"Chieftain! That is...!\""
                             ]
                         },
                         {
@@ -4646,14 +4324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「呼種の洞窟！そりゃぁいい！せいぜい死なないように頑張れよ！がっはっはっはっ！」"
+                                "Banka: \"The Yobugane Cave! That's great! Do your best not to die!\nGahahaha!\""
                             ]
                         },
                         {
@@ -5088,14 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…」"
+                                "Umi: \"Sigh...\""
                             ]
                         },
                         {
@@ -5112,14 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは失礼した。ワシの息子なのじゃが、品がなくてのぅ。手を焼いておる」"
+                                "Chieftain: \"My apologies. He is my son, but he lacks manners. He's quite a\nhandful.\""
                             ]
                         },
                         {
@@ -5136,14 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ。それより呼種の洞窟？とはいったい？」"
+                                "Kru: \"No, what is this Yobugane Cave you speak of?\""
                             ]
                         },
                         {
@@ -5160,21 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃった。さてこの集落に着いて一か月。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そこでウミや集落の者達にさんざん世話になったわけじゃ」"
+                                "Chieftain: \"Ah, that's right. Now, you've been in this village for a month.\nDuring that time, you've been well taken care of by Umi and the villagers.\""
                             ]
                         },
                         {
@@ -5191,14 +4827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、それはもう」"
+                                "Kru: \"Yes, indeed.\""
                             ]
                         },
                         {
@@ -5215,14 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこでじゃ！その恩に報いるために一つ頼まれ事をしてくれんか？」"
+                                "Chieftain: \"So then! To repay that kindness, would you do us a favor?\""
                             ]
                         },
                         {
@@ -5239,14 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ。オレにできることでしたら何でも」"
+                                "Kru: \"Yes. If it's something I can do, anything.\""
                             ]
                         },
                         {
@@ -5263,21 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よう言うた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ではその呼種の洞窟という場所に行って、奥にある祭事用の宝玉を取ってきてほしいのじゃ」"
+                                "Chieftain: \"Well said. Then I would like you to go to that place called\nYobugane Cave and retrieve the ceremonial jewel from deep within.\""
                             ]
                         },
                         {
@@ -5294,14 +4895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど、わかりました。そしてその洞窟が危険な場所であると…」"
+                                "Kru: \"I see, understood. And this cave is a dangerous place...\""
                             ]
                         },
                         {
@@ -5318,14 +4912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう事じゃ。そこでウミ、お前も一緒に行ってやれ」"
+                                "Chieftain: \"That's right. So Umi, you go with him.\""
                             ]
                         },
                         {
@@ -5358,14 +4945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミが！」"
+                                "Umi: \"Umi will go!\""
                             ]
                         },
                         {
@@ -5382,14 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ。これも何かの縁じゃ。お前が一緒に行って、助けてやれ」"
+                                "Chieftain: \"Yes. This must be some kind of fate. You go together and help\nhim out.\""
                             ]
                         },
                         {
@@ -5406,14 +4979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、そんな危ない場所ならオレ一人で…」"
+                                "Kru: \"No, if it's such a dangerous place, I should go alone...\""
                             ]
                         },
                         {
@@ -5430,14 +4996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ならん！これは族長命令じゃ。二人で困難を乗り越えてこい」"
+                                "Chieftain: \"No! This is an order from the chieftain. Overcome the\ndifficulties together.\""
                             ]
                         },
                         {
@@ -5470,14 +5029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長…嫌い。バンカの父」"
+                                "Umi: \"Chieftain... I hate you. Banka's father.\""
                             ]
                         },
                         {
@@ -5494,21 +5046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅぅ。そんな事言わないでウミちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　族長だって辛いけど村の為にしょうがないんじゃ！」"
+                                "Chieftain: \"Uuuu. Don't say such things, Umi-chan! It's hard for the\nchieftain too, but it's necessary for the sake of the village!\""
                             ]
                         },
                         {
@@ -5541,14 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいオマエ…。帰るぞ」"
+                                "Umi: \"Hey you... Let's go home.\""
                             ]
                         },
                         {
@@ -5565,14 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっおう…」"
+                                "Kru: \"Oh... okay...\""
                             ]
                         },
                         {
@@ -5766,14 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっよろしく頼むぞ。洞窟は村を出て西じゃ」"
+                                "Chieftain: \"Hohoho, I'm counting on you. The cave is to the west when you\nleave the village.\""
                             ]
                         },
                         {
@@ -5841,14 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっ首尾よく行ったようじゃのう…」"
+                                "Chieftain: \"Hohoho, it seems to have gone quite well...\""
                             ]
                         },
                         {
@@ -5899,14 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ……なんでお前死んでねぇんだ…」"
+                                "Banka: \"Wha... why aren't you dead...?\""
                             ]
                         },
                         {
@@ -5923,14 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇっと…生きてるから？」"
+                                "Kru: \"Uh... because I'm alive?\""
                             ]
                         },
                         {
@@ -5963,21 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだそりゃ！馬鹿にしてんのか⁉"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの呼種の洞窟の魔物はとんでもなく強いんだぞ！どうやって帰って来たんだ‼」"
+                                "Banka: \"What kind of answer is that?! Are you mocking me⁉ The monsters in\nthat cave are incredibly strong! How did you manage to come back‼\""
                             ]
                         },
                         {
@@ -5994,21 +5476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これバンカよさんか！こうして宝玉を持ち帰った事が何よりの証。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この者が強者である証明じゃ」"
+                                "Chieftain: \"Take note, Banka! Bringing back this gem is proof enough. It's\nevidence that this person is a mighty warrior.\""
                             ]
                         },
                         {
@@ -6041,14 +5509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！」"
+                                "Banka: \"Tch!\""
                             ]
                         },
                         {
@@ -6065,14 +5526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえいえ、ウミのお陰でこうして無事に帰ってこれました」"
+                                "Kru: \"No, no, it's all thanks to Umi that I was able to return safely.\""
                             ]
                         },
                         {
@@ -6123,14 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ頑張った…」"
+                                "Umi: \"Umi did her best...\""
                             ]
                         },
                         {
@@ -6163,14 +5610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ！オレだって本気出せばあんな洞窟ぐらい！」"
+                                "Banka: \"Damn it! If I were serious, I could handle a cave like that too!\""
                             ]
                         },
                         {
@@ -6187,21 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほっ！それは見てみたいのぉ…。入口の石を拾ってくるだけでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　褒めてやるぞ」"
+                                "Chieftain: \"Hohoho! I'd like to see that... I'll even praise you for just\npicking up a stone at the entrance.\""
                             ]
                         },
                         {
@@ -6234,14 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ！馬鹿にしやがって！」"
+                                "Banka: \"Tch! You're making fun of me!\""
                             ]
                         },
                         {
@@ -6677,14 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…困ったやつじゃ…。すまんのぅ不快な思いをさせて」"
+                                "Chieftain: \"Sigh... what a troublesome fellow... I apologize for any\ndiscomfort he's caused.\""
                             ]
                         },
                         {
@@ -6701,14 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ…。お気になさらずに…」"
+                                "Kru: \"No... please don't worry about it...\""
                             ]
                         },
                         {
@@ -6725,14 +6130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「して…守り人はおったか？」"
+                                "Chieftain: \"So... was the guardian there?\""
                             ]
                         },
                         {
@@ -6749,14 +6147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…怒り狂ってました」"
+                                "Kru: \"Yes... he was furious.\""
                             ]
                         },
                         {
@@ -6773,14 +6164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどの…」"
+                                "Chieftain: \"I see...\""
                             ]
                         },
                         {
@@ -6797,14 +6181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すみません、よそ者のオレなんかが行ったせいで、むやみに怒らせてしまって」"
+                                "Kru: \"I'm sorry, it's my fault as an outsider for angering him\nunnecessarily.\""
                             ]
                         },
                         {
@@ -6821,14 +6198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よいよい。それより今夜は宴を催す予定じゃ」"
+                                "Chieftain: \"No worries. More importantly, we're planning a feast tonight.\""
                             ]
                         },
                         {
@@ -6861,14 +6231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宴！肉！」"
+                                "Umi: \"A feast! Meat!\""
                             ]
                         },
                         {
@@ -6885,14 +6248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ。でその宴に使う肉を狩りに行ってもらえるか？」"
+                                "Chieftain: \"Yes. Could you go hunting for the meat we'll use for the\nfeast?\""
                             ]
                         },
                         {
@@ -6925,14 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長…ひょっとしてこれから準備するのか…」"
+                                "Umi: \"Chieftain... are you saying we have to start preparing now...?\""
                             ]
                         },
                         {
@@ -6949,14 +6298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぐっ…だって思っておったより早く帰ってきたんじゃもん」"
+                                "Chieftain: \"Guh... because you returned sooner than I expected.\""
                             ]
                         },
                         {
@@ -6989,14 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長…ウミ達にまだ働かせる？」"
+                                "Umi: \"Chieftain... are you going to make us work more?\""
                             ]
                         },
                         {
@@ -7013,14 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だってだってウミちゃん！バンカのやつがおらなんだから狩りに出れる若い衆がおらんのだ」"
+                                "Chieftain: \"But, but Umi-chan! Since Banka isn't here, we have no young\npeople to go hunting.\""
                             ]
                         },
                         {
@@ -7037,14 +6365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあまあ。オレ行きますよ」"
+                                "Kru: \"Well, well. I'll go.\""
                             ]
                         },
                         {
@@ -7077,14 +6398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ…族長嫌い…」"
+                                "Umi: \"Muu... Umi dislikes the chieftain...\""
                             ]
                         },
                         {
@@ -7101,21 +6415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃん！でもこの者から良い狩人の匂いがするからきっと立派な獲物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　手に入るはずじゃ！」"
+                                "Chieftain: \"Umi-chan! But this person smells like a good hunter, so I'm\nsure he'll bring back a fine catch!\""
                             ]
                         },
                         {
@@ -7148,14 +6448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエ…狩り得意？」"
+                                "Umi: \"You... are you good at hunting?\""
                             ]
                         },
                         {
@@ -7172,14 +6465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅん…まあ…得意かな…」"
+                                "Kru: \"Yeah... well... I guess I'm good at it...\""
                             ]
                         },
                         {
@@ -7196,14 +6482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（本当はしたことないけど…）"
+                                "Kru (I've actually never done it before...)"
                             ]
                         },
                         {
@@ -7236,14 +6515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ならいい。早く肉捕りに行く」"
+                                "Umi: \"Then it's settled. Let's go catch some meat quickly.\""
                             ]
                         },
                         {
@@ -7260,14 +6532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼んだぞぉー」"
+                                "Chieftain: \"I'm counting on you-\""
                             ]
                         },
                         {
@@ -7422,14 +6687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「良い獲物を期待しておるぞ。狩りの森は村を出てすぐ東じゃ」"
+                                "Chieftain: \"I'm expecting good game. The hunting forest is just east of the\nvillage.\""
                             ]
                         },
                         {
@@ -7497,14 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう、戻ったか。えらい量の豚を取ってきたんじゃのぉ」"
+                                "Chieftain: \"Oh, you're back. You've brought back quite a haul of pigs,\nhaven't you?\""
                             ]
                         },
                         {
@@ -7521,14 +6772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、ウミがものすごく張り切って…」"
+                                "Kru: \"Yes, Umi was really enthusiastic...\""
                             ]
                         },
                         {
@@ -7545,21 +6789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか…。あの子が張り切るなんてなぁ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　シクシク…」"
+                                "Chieftain: \"Is that so... It's not like her to be so eager... *sniffle*...\""
                             ]
                         },
                         {
@@ -7576,14 +6806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長！どうしたんですか⁉急に泣き出して！」"
+                                "Kru: \"Chieftain! What's wrong? Why are you suddenly crying?!\""
                             ]
                         },
                         {
@@ -7600,21 +6823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやじゃのぉ。年を取ると涙もろくなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの子には色々と辛い過去があったんじゃ」"
+                                "Chieftain: \"It's nothing... As one gets older, they become more prone to\ntears. That girl has had a difficult past.\""
                             ]
                         },
                         {
@@ -7631,14 +6840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「両親がいないですもんね」"
+                                "Kru: \"She doesn't have her parents, after all.\""
                             ]
                         },
                         {
@@ -7655,14 +6857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ…。じゃが、お主のお陰かのぉ。あんなに表情が豊かになって」"
+                                "Chieftain: \"That's right... But perhaps it's thanks to you. She's become so\nmuch more expressive.\""
                             ]
                         },
                         {
@@ -7679,14 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、オレは何もしてませんよ」"
+                                "Kru: \"No, I haven't done anything special.\""
                             ]
                         },
                         {
@@ -7703,21 +6891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、ワシにはわかる！あの子にとって物事が良い方向に向いておる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　改めて礼を言う…ありがとう」"
+                                "Chieftain: \"No, I can tell! Things are moving in a good direction for her.\nLet me thank you again... Thank you.\""
                             ]
                         },
                         {
@@ -7734,14 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、やめて下さい。オレの方こそ、こんなにお世話になって…」"
+                                "Kru: \"No, please don't. I should be the one thanking you for all the care\nI've received...\""
                             ]
                         },
                         {
@@ -7758,14 +6925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし、傷が癒えたら王国に帰るんじゃろう？」"
+                                "Chieftain: \"However, once your wounds are healed, you'll return to the\nkingdom, won't you?\""
                             ]
                         },
                         {
@@ -7782,14 +6942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…はい。それは…そうだと思います」"
+                                "Kru: \"Ah... Yes. I suppose that's true.\""
                             ]
                         },
                         {
@@ -7806,14 +6959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっとウミは寂しがるじゃろうて」"
+                                "Chieftain: \"Umi will surely miss you.\""
                             ]
                         },
                         {
@@ -7830,14 +6976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、そんな」"
+                                "Kru: \"No, I don't think...\""
                             ]
                         },
                         {
@@ -7854,21 +6993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！いい匂いがしてきたのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　メシができたんじゃ！ほれ食うて来い」"
+                                "Chieftain: \"Oh! What's this delightful smell? The meal must be ready! Come\non, let's eat.\""
                             ]
                         },
                         {
@@ -7885,14 +7010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、いってきます」"
+                                "Kru: \"Yes, I'll go now.\""
                             ]
                         },
                         {
@@ -8091,14 +7209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よろしく頼む。玉河山は村を出て、ずっと西の方角じゃ」"
+                                "Chieftain: \"I'm counting on you. Tamagawa Mountain is west of the village,\nkeep going that way.\""
                             ]
                         },
                         {
@@ -8166,14 +7277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅクルよ…。よく来てくれた」"
+                                "Chieftain: \"Ah, Kru... I'm glad you came.\""
                             ]
                         },
                         {
@@ -8190,14 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ、薬効いたみたいですね」"
+                                "Kru: \"No problem, it seems the medicine worked.\""
                             ]
                         },
                         {
@@ -8214,14 +7311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅそうじゃのう。皆ケロッと元気になったわい」"
+                                "Chieftain: \"Yes, indeed. Everyone's back to their usual selves, hale and\nhearty.\""
                             ]
                         },
                         {
@@ -8238,14 +7328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よかったです、本当に」"
+                                "Kru: \"I'm really glad to hear that.\""
                             ]
                         },
                         {
@@ -8262,14 +7345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルよ。改めて礼を言わせてくれ…。この村を救ってくれて本当にありがとう」"
+                                "Chieftain: \"Kru, let me thank you once again... Thank you for saving our\nvillage.\""
                             ]
                         },
                         {
@@ -8286,14 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな…。族長頭をあげて下さい。そんな大したことじゃないですよ」"
+                                "Kru: \"Please, Chieftain, raise your head. It was nothing that significant.\""
                             ]
                         },
                         {
@@ -8310,21 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにを言う。お主がおらなんだらこの村は全滅するところじゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　頼みになるはずのワシの息子であるバンカは、肝心な時に遊び惚けておらんし」"
+                                "Chieftain: \"What are you saying? If it weren't for you, our village would\nhave been wiped out. And my son Banka, who should have been reliable, was\noff playing when we needed him most.\""
                             ]
                         },
                         {
@@ -8341,14 +7396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはタイミングが悪かっただけですよ」"
+                                "Kru: \"It was just bad timing, that's all.\""
                             ]
                         },
                         {
@@ -8365,21 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…この村は神の加護のある土地にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その時その場所におるというのが何よりも大事なのじゃ。それが導きというものじゃ」"
+                                "Chieftain: \"No... This village is on land blessed by the gods. Being in the\nright place at the right time is what matters most. That's what guidance is\nall about.\""
                             ]
                         },
                         {
@@ -8396,14 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか…。おっしゃってる事なんとなく分かる気がします」"
+                                "Kru: \"Is that so... I think I kind of understand what you're saying.\""
                             ]
                         },
                         {
@@ -8420,14 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ…。さてこの度は大儀であった。ゆっくりと身体を休めてくれ…」"
+                                "Chieftain: \"Hmm... Well, you've done a great service this time. Rest up and\ntake it easy...\""
                             ]
                         },
                         {
@@ -8444,14 +7464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。族長も大変でしたね。ご自愛下さい」"
+                                "Kru: \"Yes. You've been through a lot too, Chieftain. Please take care of\nyourself.\""
                             ]
                         },
                         {
@@ -8468,14 +7481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほ…。お主は本当に心の根の優しい男よの」"
+                                "Chieftain: \"Ho ho ho... You truly are a man with a kind heart.\""
                             ]
                         },
                         {
@@ -8492,14 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Kru: \"Eh?\""
                             ]
                         },
                         {
@@ -8516,21 +7515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わしは族長になってから、他者に労われるような事はなかったからの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そなたの様に他者への気遣いができる者は少ない」"
+                                "Chieftain: \"Since I became chieftain, I haven't had many occasions to be\ncared for by others. There are few who can show concern for others like you\ndo.\""
                             ]
                         },
                         {
@@ -8547,14 +7532,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか？普通だと思いますが」"
+                                "Kru: \"Is that so? I thought it was normal.\""
                             ]
                         },
                         {
@@ -8571,21 +7549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはお主が優しくて強い男じゃからじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その分お主に苦難が降り注ぐじゃろうが、どうかその心を失わんようにしてくれ」"
+                                "Chieftain: \"That's because you are a kind and strong man. You may face many\nhardships because of it, but please never lose that heart of yours.\""
                             ]
                         },
                         {
@@ -8609,14 +7573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Kru: \"Yes!\""
                             ]
                         },
                         {
@@ -8633,14 +7590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では、老体の説教はここまでじゃ。ゆっくり休め」"
+                                "Chieftain: \"Well then, enough preaching from this old body. Rest well.\""
                             ]
                         },
                         {
@@ -8657,7 +7607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -8674,7 +7624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -8691,7 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {
@@ -8836,14 +7786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから村は徐々に日常を取り戻していった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆の安堵を現わしているかのように、以前よりも笑顔が多くなったように思える。"
+                                "Gradually, the village began to return to its daily routine. It seemed as\nif there were more smiles than before, as if to express everyone's relief."
                             ]
                         },
                         {
@@ -8860,14 +7803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミとの関係は相変わらずの距離を維持していたが、二人の間に流れる空気がより和らいだように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思える。"
+                                "The relationship with Umi remained at the same distance as always, but the\nair between them seemed to have softened."
                             ]
                         },
                         {
@@ -8884,14 +7820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一つ一つの日常の一コマがハーピーエンドに向かっているような漠然とした幸福感で胸をいっぱい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "にした。"
+                                "Each moment of daily life felt like it was moving towards a happy ending,\nfilling my heart with a vague sense of happiness."
                             ]
                         },
                         {
@@ -8908,7 +7837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕は今堪らなく幸せだった…。"
+                                "I was incredibly happy right now..."
                             ]
                         },
                         {
@@ -8925,7 +7854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　　て…"
+                                "...te..."
                             ]
                         },
                         {
@@ -8942,7 +7871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -8959,7 +7888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　けて…"
+                                "...wake up..."
                             ]
                         },
                         {
@@ -8976,7 +7905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また…あの声だ…。一体なんなんだ…"
+                                "That voice again... What in the world is it..."
                             ]
                         },
                         {
@@ -8993,7 +7922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　気を付けて…"
+                                "Be careful..."
                             ]
                         },
                         {
@@ -9073,14 +8002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう来たか。折り入って頼みがあるのじゃ」"
+                                "Chieftain: \"Ah, you've arrived. I have an important request for you.\""
                             ]
                         },
                         {
@@ -9097,14 +8019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。どのような内容ですか？」"
+                                "Kru: \"Yes. What would you like to discuss?\""
                             ]
                         },
                         {
@@ -9121,21 +8036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあこれから皆参るから、話はそれからじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ちーと待ってくれ」"
+                                "Chieftain: \"Well, everyone will be gathering shortly, so we'll talk then.\nJust wait a little.\""
                             ]
                         },
                         {
@@ -9243,14 +8144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミにも話をせにゃならん。連れてきてくれるか？」"
+                                "Chief \"I need to have a talk with Umi. Can you bring her here?\""
                             ]
                         },
                         {
@@ -9318,14 +8212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「来たのぉ。ウミ、その顔はもう心は決まっておるという顔じゃの？」"
+                                "Chieftain: \"You've come. Umi, that look on your face... have you made up\nyour mind?\""
                             ]
                         },
                         {
@@ -9376,14 +8263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長。ウミに無理言い過ぎ」"
+                                "Umi: \"Chieftain. You're asking too much of Umi.\""
                             ]
                         },
                         {
@@ -9400,21 +8280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃん！これはしょうがないことなんじゃよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これもウミちゃんの事を思ってのことなんじゃ」"
+                                "Chieftain: \"Umi-chan! It can't be helped! This is all for your sake, Umi-\nchan!\""
                             ]
                         },
                         {
@@ -9447,14 +8313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「冗談。族長、今まで色々とありがとう。ウミは大丈夫」"
+                                "Umi: \"You're joking. Thank you for everything, Chieftain. Umi will be\nfine.\""
                             ]
                         },
                         {
@@ -9471,14 +8330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -9495,14 +8347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ…。あんなに憶病だったウミが…。成長したのぉ」"
+                                "Chieftain: \"Umi... to think the once timid Umi has grown so much.\""
                             ]
                         },
                         {
@@ -9535,14 +8380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長。行ってくる。」"
+                                "Umi: \"Chieftain. I'm going.\""
                             ]
                         },
                         {
@@ -9559,14 +8397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長。必ず良い返事が貰えるように頑張ってきます」"
+                                "Kru: \"Chieftain. I'll do my best to ensure we return with good news.\""
                             ]
                         },
                         {
@@ -9583,28 +8414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「二人とも…。頼んだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミはわかっておるじゃろうが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聖子の森から出るには村の南に石碑があるから、そこから転移して外界に出るのじゃ」"
+                                "Chieftain: \"Both of you... I'm counting on you. Umi, you probably know\nthis, but to leave the Sacred Forest, there's a stele to the south of the\nvillage. Use it to teleport to the outside world.\""
                             ]
                         },
                         {
@@ -9731,14 +8541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼んだぞ。聖子の森から出るには村の南に石碑があるから、そこから転移して外界に出るのじゃ」"
+                                "Chieftain: \"I'm counting on you. To leave the Forest of the Saintess,\nthere's a stone monument to the south of the village. Use it to teleport to\nthe outside world.\""
                             ]
                         },
                         {
@@ -9755,14 +8558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やり残したことがあるなら、今のうちにやっておくのじゃぞ」"
+                                "Chieftain: \"If there's anything left undone, make sure to take care of it\nnow.\""
                             ]
                         },
                         {
@@ -10280,14 +9076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「古くて長そうな本だなぁ」"
+                                "Kru: \"This looks like an old and lengthy book.\""
                             ]
                         },
                         {
@@ -10304,14 +9093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「神クセシレイの巫女」"
+                                "Title: \"The Shrine Maiden of the God Kuseshirei\""
                             ]
                         },
                         {
@@ -10328,7 +9110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "読みますか？"
+                                "Would you like to read it?"
                             ]
                         },
                         {
@@ -10336,8 +9118,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10367,7 +9149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "古来よりクセシレイ様に選ばれし巫女には、頬に赤い痣が刻まれるという。"
+                                "It is said that the shrine maidens chosen by Lord Kuseshirei since ancient\ntimes are marked with a red birthmark on their cheeks."
                             ]
                         },
                         {
@@ -10384,7 +9166,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それはクセシの民にのみ現れる不思議な聖痕であり、それは数百年に一人現れた。"
+                                "This mysterious stigmata appears only among the people of Kuseshi and\nmanifests once every few centuries."
                             ]
                         },
                         {
@@ -10401,7 +9183,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神クセシレイの巫女は祭事を通して、神と繋がるとされている…。"
+                                "The shrine maiden of God Kuseshirei is believed to connect with the deity\nthrough the rituals..."
                             ]
                         },
                         {
@@ -10418,7 +9200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "祭事は…間にわたり…れ……交……液……壇…現……"
+                                "The ritual is... over time... it... inter... fluid... altar... present..."
                             ]
                         },
                         {
@@ -10435,7 +9217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "かすれていて読めない…。"
+                                "It's faded and unreadable..."
                             ]
                         },
                         {

@@ -10312,14 +10312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆、どうかな⁉」"
+                                "Kru: \"Everyone, how's it going⁉\""
                             ]
                         },
                         {
@@ -10336,14 +10329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！指示通りに設営できました！」"
+                                "Villager A: \"Yes! We've set up everything as instructed!\""
                             ]
                         },
                         {
@@ -10360,14 +10346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし！これで準備万端だ！」"
+                                "Villager B: \"Alright! Now we're fully prepared!\""
                             ]
                         },
                         {
@@ -10384,14 +10363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁ皆ちょっと集まってくれ」"
+                                "Kru: \"Then everyone, please gather around for a bit.\""
                             ]
                         },
                         {
@@ -10507,14 +10479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁ、すごい量の兵だな…」"
+                                "Kru: \"Wow, that's a huge number of soldiers...\""
                             ]
                         },
                         {
@@ -10531,14 +10496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！本当に大丈夫ですか！」"
+                                "Villager A: \"Kru-san! Are you really okay?\""
                             ]
                         },
                         {
@@ -10555,14 +10513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！大丈夫！問題ない！」"
+                                "Kru: \"Yeah! I'm fine! No problem!\""
                             ]
                         },
                         {
@@ -10579,14 +10530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁあの数の兵士を見れば不安にもなるよな…）"
+                                "Kru: (Well, seeing that number of soldiers would make anyone anxious...)"
                             ]
                         },
                         {
@@ -10603,14 +10547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁてやりますか…」"
+                                "Kru: \"Alright, let's do this...\""
                             ]
                         },
                         {
@@ -10636,14 +10573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「東方不敗！」"
+                                "Kru: \"Invincible East!\""
                             ]
                         },
                         {
@@ -10669,14 +10599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「明鏡止水！」"
+                                "Kru: \"Clear and Serene!\""
                             ]
                         },
                         {
@@ -10702,14 +10625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「超加速」"
+                                "Kru: \"Super Acceleration\""
                             ]
                         },
                         {
@@ -10735,14 +10651,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「見切り」"
+                                "Kru: \"Anticipation\""
                             ]
                         },
                         {
@@ -10768,14 +10677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「流星胡蝶！」"
+                                "Kru: \"Meteor Butterfly!\""
                             ]
                         },
                         {
@@ -10801,14 +10703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「風雲再起！」"
+                                "Kru: \"Rising Wind, Scudding Clouds!\""
                             ]
                         },
                         {
@@ -10834,14 +10729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「覇王電影！」"
+                                "Kru: \"Supreme King Shadow!\""
                             ]
                         },
                         {
@@ -10867,14 +10755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よし…こんなもんか」"
+                                "Kru: \"Alright... that should do it.\""
                             ]
                         },
                         {
@@ -10891,14 +10772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｂ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すげぇ…。クルさんの圧がここまで伝わってくる…」"
+                                "Villager B: \"Incredible... I can feel Kru-san's pressure from here...\""
                             ]
                         },
                         {
@@ -10915,14 +10789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…すごい人だとは思っていたけど、ここまでの人だったとは…」"
+                                "Villager C: \"Ah... I knew he was amazing, but I didn't realize he was this\nincredible...\""
                             ]
                         },
                         {
@@ -10939,14 +10806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ…行くぞ…誰も死なせない！」"
+                                "Kru: \"Alright... let's go... I won't let anyone die!\""
                             ]
                         },
                         {
@@ -11171,7 +11031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザッザッザッザッ…"
+                                "Splish splash splish splash..."
                             ]
                         },
                         {
@@ -11188,14 +11048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ちっ精鋭部隊のお出ましか…。こりゃ…中々辛いな…」"
+                                "Kru \"The elite troops are making their move... This is... quite tough...\""
                             ]
                         },
                         {
@@ -11212,14 +11065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ａ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！頑張って！」"
+                                "Villager A \"Kru-san! Hang in there!\""
                             ]
                         },
                         {
@@ -11236,14 +11082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人Ｃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！負けないで！」"
+                                "Villager C \"Kru-san! Don't lose!\""
                             ]
                         },
                         {
@@ -11260,14 +11099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ！負けないよ！」"
+                                "Kru \"Yeah! I won't lose!\""
                             ]
                         },
                         {
@@ -11284,21 +11116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふーっ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁてもういっちょ頑張りますか！」"
+                                "Kru \"Phew... Alright, let's give it another go!\""
                             ]
                         },
                         {

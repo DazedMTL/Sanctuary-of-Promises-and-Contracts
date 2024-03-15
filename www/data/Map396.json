@@ -45073,21 +45073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　↑　ルクセンハイム城"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "←　倉庫区　　　　水の区・水の塔　→"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　 ↓　城下正門・王都街道"
+                                "↑ Luxenheim Castle ← Warehouse District, Water District. Water Tower → ↓\nMain Gate of the Castle, Royal Highway"
                             ]
                         },
                         {

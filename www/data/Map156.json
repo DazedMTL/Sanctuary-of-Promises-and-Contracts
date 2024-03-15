@@ -9734,14 +9734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！これはクル剣士長！」"
+                                "Soldier: \"Ah! It's Commander Kru!\""
                             ]
                         },
                         {
@@ -9758,14 +9751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ…元気いっぱいだなぁ」"
+                                "Kru: \"Hey... You're full of energy, aren't you?\""
                             ]
                         },
                         {
@@ -9782,14 +9768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自分も精進してクル剣士長のように強くなりたいと思ってます」"
+                                "Soldier: \"I'm working hard to become as strong as Commander Kru.\""
                             ]
                         },
                         {
@@ -9806,14 +9785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…。やめといたほうがいいかもよ」"
+                                "Kru: \"Well... you might want to reconsider that.\""
                             ]
                         },
                         {
@@ -9830,14 +9802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「？」"
+                                "Soldier: \"?\""
                             ]
                         },
                         {
@@ -9905,14 +9870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ！これはクル剣士長！」"
+                                "Soldier: \"Ah! This is Kru, the head swordsman!\""
                             ]
                         },
                         {
@@ -9929,14 +9887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ…元気いっぱいだなぁ」"
+                                "Kru: \"Hey... you're full of energy, aren't you?\""
                             ]
                         },
                         {
@@ -9953,14 +9904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「自分も精進してクル剣士長のように強くなりたいと思ってます」"
+                                "Soldier: \"I'm working hard to become as strong as you, Head Swordsman Kru.\""
                             ]
                         },
                         {
@@ -9977,14 +9921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…。やめといたほうがいいかもよ」"
+                                "Kru: \"Well... maybe you should give it up.\""
                             ]
                         },
                         {
@@ -10001,14 +9938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「？」"
+                                "Soldier: \"?\""
                             ]
                         },
                         {
@@ -10207,14 +10137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…」"
+                                "Soldier \"Haa haa haa...\""
                             ]
                         },
                         {
@@ -10291,14 +10214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ任務行きたくない」"
+                                "Soldier: \"Ahh, I don't want to go on a mission.\""
                             ]
                         },
                         {
@@ -10315,14 +10231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレもだよ」"
+                                "Kru: \"Me neither.\""
                             ]
                         },
                         {
@@ -11323,14 +11232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはこれは。相変わらずお忙しそうですな」"
+                                "Soldier: \"Well, well, as busy as ever, I see.\""
                             ]
                         },
                         {
@@ -11407,14 +11309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ疲れた」"
+                                "Soldier: \"Ahh, I'm tired.\""
                             ]
                         },
                         {
@@ -11491,14 +11386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁどうも」"
+                                "Soldier: \"Ah, thank you.\""
                             ]
                         },
                         {
@@ -11575,14 +11463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これはクル剣士長。宰相シフ様が謁見の間でお待ちですぞ」"
+                                "Soldier: \"This is Swordsman Leader Kru. Chancellor Shif-sama is waiting for\nyou in the audience chamber.\""
                             ]
                         },
                         {
@@ -11659,14 +11540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「謁見の間はここを出て二階です」"
+                                "Soldier: \"The audience chamber is out of here and on the second floor.\""
                             ]
                         },
                         {
@@ -11683,14 +11557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん…。教えてくれてありがとう」"
+                                "Kru: \"Yeah... Thanks for telling me.\""
                             ]
                         },
                         {
@@ -11801,14 +11668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「肉ってなんだ！」"
+                                "Kru: \"What is this flesh!\""
                             ]
                         },
                         {
@@ -11825,14 +11685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…夢…か…」"
+                                "Kru: \"Hah hah... was it... a dream...?\""
                             ]
                         },
                         {
@@ -11849,14 +11702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？なんの夢だったかな…赤い…」"
+                                "Kru: \"Hm? What was the dream about again... something red...\""
                             ]
                         },
                         {
@@ -11873,14 +11719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「赤い…肉？」"
+                                "Kru: \"Red... flesh?\""
                             ]
                         },
                         {
@@ -11956,14 +11795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お目覚めになられましたか？クル剣士長！」"
+                                "Soldier: \"Have you awakened, Captain Kru of the Swordsmen?\""
                             ]
                         },
                         {
@@ -11980,14 +11812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、おはよう」"
+                                "Kru: \"Ah, good morning.\""
                             ]
                         },
                         {
@@ -12004,14 +11829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずいぶんうなされていたようですが、大丈夫ですか？」"
+                                "Soldier: \"You seemed to be having quite a restless sleep, are you alright?\""
                             ]
                         },
                         {
@@ -12028,14 +11846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ、ありがとう。大丈夫だ」"
+                                "Kru: \"Ah, thank you. I'm fine.\""
                             ]
                         },
                         {
@@ -12052,14 +11863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「宰相シフ様が謁見の間でお待ちです」"
+                                "Soldier: \"Chancellor Shif is waiting for you in the audience chamber.\""
                             ]
                         },
                         {
@@ -12076,14 +11880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかったすぐに行く」"
+                                "Kru: \"Understood, I'll go right away.\""
                             ]
                         },
                         {

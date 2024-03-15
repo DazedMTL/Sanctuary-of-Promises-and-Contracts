@@ -2867,14 +2867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「王国剣士長クル。ただいま帰還致しました」"
+                                "Kru \"Royal Swordsman Kru, reporting back from duty.\""
                             ]
                         },
                         {
@@ -2925,21 +2918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うむ…。もう死んでおるものばかりと思っておったが、此度の長期間に渡る不在、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　納得のゆく理由を説明できるのか？」"
+                                "Chancellor Shif \"Hmm... I had almost thought you dead, but can you provide\na satisfactory explanation for your prolonged absence?\""
                             ]
                         },
                         {
@@ -2956,14 +2935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「帰還が遅れ、大変申し訳ございません。聖子の森の難解さに手を焼きまして」"
+                                "Kru \"My deepest apologies for the delayed return. The complexities of the\nSacred Forest proved challenging.\""
                             ]
                         },
                         {
@@ -2996,14 +2968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなものは理由にならん。祭壇の方はどうなった？」"
+                                "Chancellor Shif \"Such excuses are insufficient. What of the altar?\""
                             ]
                         },
                         {
@@ -3054,14 +3019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「祭壇か…」"
+                                "Umi \"The altar...?\""
                             ]
                         },
                         {
@@ -3094,14 +3052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？その小汚い娘は？」"
+                                "Chancellor Shif \"Hm? And who is this filthy girl?\""
                             ]
                         },
                         {
@@ -3134,14 +3085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ？小汚い？」"
+                                "Umi \"Huh? Filthy?\""
                             ]
                         },
                         {
@@ -3158,14 +3102,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ウミ、今は落ち着いてくれるか？）"
+                                "Kru (Umi, can you please calm down for now?)"
                             ]
                         },
                         {
@@ -3182,28 +3119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！この方はクセシの民の代表としてお連れ致しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　聖子の森の民は古くから神クセシレイの庇護の元密やかに暮らしておられましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この度国交を結びたいと族長様からお言葉を頂きました」"
+                                "Kru \"Yes! This person is a representative of the Kusechi people. The people\nof the Sacred Forest have lived quietly under the protection of the god\nKusechirei for ages, but now their chieftain wishes to establish diplomatic\nrelations.\""
                             ]
                         },
                         {
@@ -3236,21 +3152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどの…。してその族長とやらを連れてこずにそのような小娘を連れて来たのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どのような理由で？」"
+                                "Chancellor Shif \"I see... And for what reason did you bring this young girl\ninstead of the chieftain himself?\""
                             ]
                         },
                         {
@@ -3283,14 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！この方はクセシの民の巫女になられる方で、この度代表となられました」"
+                                "Kru \"Yes! This person is to become a priestess of the Kusechi people and\nhas been appointed as their representative.\""
                             ]
                         },
                         {
@@ -3323,14 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「巫女！おい平民！それは真か！」"
+                                "Chancellor Shif \"A priestess! Hey, commoner! Is this true?\""
                             ]
                         },
                         {
@@ -3347,14 +3235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい、間違いないかと」"
+                                "Kru \"Yes, there is no mistake.\""
                             ]
                         },
                         {
@@ -3387,14 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほほぅ…」"
+                                "Chancellor Shif \"Ho ho...\""
                             ]
                         },
                         {
@@ -3427,14 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（イライラ…）"
+                                "Umi (So irritated...)"
                             ]
                         },
                         {
@@ -3451,21 +3318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あぁ…。ウミがイラついている…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こんなので交渉がうまくいくのだろうか…）"
+                                "Kru (Ah... Umi is getting irritated... Can we really negotiate successfully\nlike this...)"
                             ]
                         },
                         {
@@ -3498,21 +3351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい平民。大儀であった。祭壇を見つけられなかったのは怠慢であるが…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　まあよしとしよう…」"
+                                "Chancellor Shif \"Hey, commoner. It was a significant effort. Failing to\nfind the altar is negligence... but let's leave it at that...\""
                             ]
                         },
                         {
@@ -3529,21 +3368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「有難きお言葉。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ではクセシの民との国交は前向きに検討して頂けるという事で…」"
+                                "Kru \"I am grateful for your words. So, may I take it that you will consider\nestablishing relations with the Kusechi people positively...?\""
                             ]
                         },
                         {
@@ -3560,14 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「国交？はっはっはっはっはっ！これだから平民は考えが浅くていかん」"
+                                "Chancellor Shif \"Diplomatic relations? Hahahaha! This is why commoners are\nso short-sighted.\""
                             ]
                         },
                         {
@@ -3600,14 +3418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフ様？」"
+                                "Kru \"Chancellor Shif?\""
                             ]
                         },
                         {
@@ -3624,21 +3435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのような蛮族と何を取り決める事があろうか。そちらに利益のある事でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　我が国には何の価値もないわ！」"
+                                "Chancellor Shif \"What dealings could there possibly be with such\nbarbarians? Whatever benefits them holds no value for our nation!\""
                             ]
                         },
                         {
@@ -3655,14 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんな！」"
+                                "Kru \"But that's...!\""
                             ]
                         },
                         {
@@ -3695,21 +3485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル、もういい。大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミ達の村にはこの人は必要ない」"
+                                "Umi \"Kru, it's okay. Don't worry. Our village doesn't need this person.\""
                             ]
                         },
                         {
@@ -3726,14 +3502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？何か言ったか？」"
+                                "Chancellor Shif \"Hm? Did you say something?\""
                             ]
                         },
                         {
@@ -3766,14 +3535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もういい。話すことない。ウミ帰る」"
+                                "Umi \"It's fine. There's nothing to talk about. Umi is going home.\""
                             ]
                         },
                         {
@@ -4079,14 +3841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ！」"
+                                "Kru \"Umi!\""
                             ]
                         },
                         {
@@ -4134,14 +3889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「失礼します」"
+                                "Kru \"Excuse us.\""
                             ]
                         },
                         {
@@ -4336,21 +4084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これだから下賤な生まれの者は…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おい！そこの者！」"
+                                "Chancellor Shif \"This is why those of low birth are... Hey! You there!\""
                             ]
                         },
                         {
@@ -4412,14 +4146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！」"
+                                "Soldier \"Sir!\""
                             ]
                         },
                         {
@@ -4452,14 +4179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宰相シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ある者に仕事を頼みたい。使者として早急に伝えよ」"
+                                "Chancellor Shif \"I have a task for someone. Send a messenger at once.\""
                             ]
                         },
                         {
@@ -4476,14 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっ！かしこまりました！」"
+                                "Soldier \"Sir! Understood!\""
                             ]
                         },
                         {

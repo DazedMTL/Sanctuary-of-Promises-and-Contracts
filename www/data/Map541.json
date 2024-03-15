@@ -4360,14 +4360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっくっ……いよいよこの時が来た…」"
+                                "Shif: \"Heh heh heh... The time has finally come...\""
                             ]
                         },
                         {
@@ -4384,14 +4377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ……もうやめてくれ…」"
+                                "Kru: \"Damn it... Just stop already...\""
                             ]
                         },
                         {
@@ -4424,14 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっくっそのような事が言える立場か？ほれ早く為すべき事を為せ」"
+                                "Shif: \"Heh heh heh... Do you think you're in a position to say such things?\nCome on, do what you must do quickly.\""
                             ]
                         },
                         {
@@ -4448,14 +4427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！」"
+                                "Kru: \"Gah!\""
                             ]
                         },
                         {
@@ -4640,14 +4612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ身体が！」"
+                                "Shif: \"What the... My body!\""
                             ]
                         },
                         {
@@ -4698,14 +4663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっくっくっ！」"
+                                "Banka: \"Heh heh heh heh heh!\""
                             ]
                         },
                         {
@@ -4738,14 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ？」"
+                                "Shif: \"Banka?\""
                             ]
                         },
                         {
@@ -4778,14 +4729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっはっはっ！やった！ついに……やった…」"
+                                "Banka: \"Hah hah hah hah hah! I did it! Finally... I did it...\""
                             ]
                         },
                         {
@@ -4818,14 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ！きっ貴様！」"
+                                "Shif: \"Banka! You bastard!\""
                             ]
                         },
                         {
@@ -4858,21 +4795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっくっくっ。よくもオレ様をこき使ってくれたな…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さぁて…どうしてくれようか…」"
+                                "Banka: \"Heh heh heh heh heh. You really worked me hard... Now then... what\nshall I do with you...\""
                             ]
                         },
                         {
@@ -4905,14 +4828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ！やめろ！こんな事してどうなるのか分かっているのか⁉」"
+                                "Shif: \"Banka! Stop it! Do you realize what will happen if you do this?!\""
                             ]
                         },
                         {
@@ -4945,21 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるせぇ！まったくクセシレイだかなんだか知らねぇが、そんなおとぎ話"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　興味ねぇよ」"
+                                "Banka: \"Shut up! I don't care about whatever curse or fairy tale you're\ntalking about, I'm not interested.\""
                             ]
                         },
                         {
@@ -4992,14 +4894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前…」"
+                                "Shif: \"You...\""
                             ]
                         },
                         {
@@ -5032,14 +4927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレが興味あるのはそこのウミとクルよ…」"
+                                "Banka: \"What I'm interested in are Umi and Kru over there...\""
                             ]
                         },
                         {
@@ -5056,14 +4944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ……バンカ…何をするつもりだ…」"
+                                "Kru: \"Gah... Banka... What are you planning to do...\""
                             ]
                         },
                         {
@@ -5096,14 +4977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあ見てろ…。お前を最高に楽しませてやるぜ…。おいウミこっちに来い！」"
+                                "Banka: \"Just watch... I'll give you the time of your life... Hey Umi, come\nhere!\""
                             ]
                         },
                         {
@@ -5254,14 +5128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…」"
+                                "Umi: \"Yes...\""
                             ]
                         },
                         {
@@ -5278,14 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ…何をするつもりだ……」"
+                                "Kru: \"Wh-what... What are you planning to do...\""
                             ]
                         },
                         {
@@ -5302,14 +5162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにって？そんなの決まってるじゃないか…」"
+                                "Banka: \"What am I planning? Isn't it obvious...\""
                             ]
                         },
                         {
@@ -5326,14 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「決まってるって…なっなんだ……」"
+                                "Kru: \"Obvious? Wh-what are you talking about...\""
                             ]
                         },
                         {
@@ -5350,14 +5196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「愛し合うってことだ！」"
+                                "Banka: \"To make love, of course!\""
                             ]
                         },
                         {
@@ -5374,7 +5213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズブッ！"
+                                "Thrust!"
                             ]
                         },
                         {
@@ -5403,14 +5242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはぁぁぁぁぁぁぁ！」"
+                                "Umi: \"Ahaaaaahhhhhhh!\""
                             ]
                         },
                         {
@@ -5460,14 +5292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おい……嘘だろ………なっなんでバンカと……ウミ…」"
+                                "Kru: \"Hey... You're kidding, right? Why with Banka... Umi...\""
                             ]
                         },
                         {
@@ -5484,14 +5309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでもなにも……見ての通り…」"
+                                "Banka: \"What do you mean 'why'? As you can see...\""
                             ]
                         },
                         {
@@ -5508,14 +5326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！あっあっあっ！凄い！バンカ凄い！」"
+                                "Umi: \"Ahhh! Ah! Ah! Amazing! Banka, you're amazing!\""
                             ]
                         },
                         {
@@ -5532,14 +5343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -5556,14 +5360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こういう関係だって事だよ！」"
+                                "Banka: \"This is the kind of relationship we have!\""
                             ]
                         },
                         {
@@ -5596,14 +5393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おほぅーーーーー！あぁぁ！あっあっあっ！あぁぁぁぁ！」"
+                                "Umi: \"Ohhh-----! Ahhh! Ah! Ah! Ahaaaahhhhh!\""
                             ]
                         },
                         {
@@ -5620,14 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんなウミ……そんな風に……」"
+                                "Kru: \"Umi... like that... in such a way...\""
                             ]
                         },
                         {
@@ -5644,14 +5427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだなんだ！顔を上げろ！ちゃんと見てやれ！お前の大事な人だろ！」"
+                                "Banka: \"What's the matter? Look up! Watch properly! She's your precious\nperson, isn't she?\""
                             ]
                         },
                         {
@@ -5684,14 +5460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっあっあっあっ！んぅ！激しい！あぁぁぁぁぁ！」"
+                                "Umi: \"Ah! Ah! Ah! Nngh! It's so intense! Ahaaaahhhhh!\""
                             ]
                         },
                         {
@@ -5708,14 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……いったい…いつから……そんな……」"
+                                "Kru: \"Ugh... Since when... have you been like this...\""
                             ]
                         },
                         {
@@ -5732,14 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだ分かってないようだな…。じゃぁ分かるように見せてやろう…」"
+                                "Banka: \"It seems you still don't understand... Let me show you so you'll\nget it...\""
                             ]
                         },
                         {
@@ -5782,7 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バシャッ！"
+                                "Splash!"
                             ]
                         },
                         {
@@ -5799,14 +5554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ……そっその姿は……」"
+                                "Kru: \"Eh... That form is...\""
                             ]
                         },
                         {
@@ -5844,21 +5592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっはっはっ！やっと分かったか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　お前の牢屋に一緒に行ってた娼婦はウミだったんだ！」"
+                                "Banka: \"Hah hah hah hah hah! Finally got it, huh? The prostitute who was\nwith you in your cell was Umi all along!\""
                             ]
                         },
                         {
@@ -5875,14 +5609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそんな…………そんなこと…」"
+                                "Kru: \"That can't be... That's impossible...\""
                             ]
                         },
                         {
@@ -5915,14 +5642,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あはぁぁぁぁぁ！気持ちいい……気持ちいいですぅ！あっあっあっあっ！」"
+                                "Umi: \"Ahaaaaahhhhh! It feels good... It feels so good! Ah! Ah! Ah! Ah!\""
                             ]
                         },
                         {
@@ -5939,14 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっおいバンカ……もしやお前……ウミを催眠魔法で？」"
+                                "Shif: \"Hey Banka... Don't tell me you used hypnotic magic on Umi?\""
                             ]
                         },
                         {
@@ -5963,14 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ！お前に教わった催眠魔法でここまでの淫乱女に仕上げたってわけだ！」"
+                                "Banka: \"That's right! I used the hypnotic magic you taught me to turn her\ninto such a lewd woman!\""
                             ]
                         },
                         {
@@ -5987,14 +5693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！お前！そんなことしたら自我が…。ウミの自我が崩壊するぞ！」"
+                                "Shif: \"Damn it! Banka! If you do that, her ego... Umi's ego will collapse!\""
                             ]
                         },
                         {
@@ -6011,14 +5710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん！そんな事言って！オレに催眠魔法を使わせないつもりだったんだろ？」"
+                                "Banka: \"Hmph! You say that, but you were planning to keep me from using\nhypnotic magic, weren't you?\""
                             ]
                         },
                         {
@@ -6035,14 +5727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「違う！それでは本当の意味で堕落した事にはならないからだ…」"
+                                "Shif: \"No! It's because that wouldn't truly be a fall into depravity...\""
                             ]
                         },
                         {
@@ -6059,14 +5744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのどっちだっていいんだよ！なぁ！ウミ！」"
+                                "Banka: \"Who cares about that! Right, Umi?!\""
                             ]
                         },
                         {
@@ -6099,14 +5777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁ！奥！もっと奥を責めて！」"
+                                "Umi: \"Aaaaahhh! Deeper! Punish me deeper!\""
                             ]
                         },
                         {
@@ -6123,14 +5794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁウミ…オレの肉棒が最高に気持ちいいよな！」"
+                                "Banka: \"Hey Umi... My cock feels the best, doesn't it?!\""
                             ]
                         },
                         {
@@ -6147,14 +5811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっあっあっあっあっ！あはぁぁぁぁぁ！もっと！もっと！」"
+                                "Umi: \"Ah! Ah! Ah! Ah! Ahaaaaahhhhh! More! More!\""
                             ]
                         },
                         {
@@ -6171,14 +5828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………哀れな男だ…」"
+                                "Shif: \"...Poor man...\""
                             ]
                         },
                         {
@@ -6195,14 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やめろバンカ……これ以上…これ以上ウミを汚すな！」"
+                                "Kru: \"Stop it, Banka... No more... Don't defile Umi any further!\""
                             ]
                         },
                         {
@@ -6219,14 +5862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うるさい！お前はそこでオレ達の性交を見て勃起させてればいいんだ！」"
+                                "Banka: \"Shut up! You just sit there and get hard watching us fuck!\""
                             ]
                         },
                         {
@@ -6259,14 +5895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ！あぁぁぁぁぁ！あぁぁ！」"
+                                "Umi: \"Haa haa haa! Aaaaahhhhh! Aaaahhh!\""
                             ]
                         },
                         {
@@ -6283,14 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぁ…ウミ？あの男の肉棒の大きさはどうだった？」"
+                                "Banka: \"Hey... Umi? How did that man's dick size compare?\""
                             ]
                         },
                         {
@@ -6307,14 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁあぁぁぁ！ちっ小さかった…」"
+                                "Umi: \"Haa haa aaaaahhh! It was... small...\""
                             ]
                         },
                         {
@@ -6331,14 +5946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだ……」"
+                                "Kru: \"What the...\""
                             ]
                         },
                         {
@@ -6355,14 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな…。オレ様のと比べてどうだ？」"
+                                "Banka: \"Right... How does it compare to mine?\""
                             ]
                         },
                         {
@@ -6395,14 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……みっ短いから奥に当たらなくて……」"
+                                "Umi: \"Haa haa... It's so short it doesn't hit the back...\""
                             ]
                         },
                         {
@@ -6419,14 +6013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……」"
+                                "Kru: \"Umi...\""
                             ]
                         },
                         {
@@ -6443,21 +6030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも………ウミが他の男と性交している所を想像して硬く…はぁはぁとても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　硬くしていた…」"
+                                "Umi: \"But... imagining Umi having sex with other men made you so hard...\nhaa haa very hard...\""
                             ]
                         },
                         {
@@ -6474,21 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！そうだな！よく言ったな！クル…お前は他の男に犯されている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ウミが好きなんだな…じゃぁやはりこの姿で犯されている所を見たいだろう？」"
+                                "Banka: \"Hah hah hah! Exactly! Well said! Kru... you like seeing Umi getting\nfucked by other men, don't you... So you do want to see her being defiled\nin this state, right?\""
                             ]
                         },
                         {
@@ -6545,7 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バシャッ！"
+                                "Splash!"
                             ]
                         },
                         {
@@ -6583,14 +6142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ……もう……やめて…」"
+                                "Kru: \"Damn it... Stop it already...\""
                             ]
                         },
                         {
@@ -6607,21 +6159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！そんな嫌そうな顔をしても無駄だぞ！お前が変態なのはもう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　バレているんだからな！」"
+                                "Banka: \"Hah hah hah! Making such a disgusted face is useless! It's already\nobvious that you're a pervert!\""
                             ]
                         },
                         {
@@ -6638,14 +6176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁ！はぁはぁはぁ！あっくぅ……あっあっあっあっ！」"
+                                "Umi: \"Aaaaahhhhh! Haa haa haa! Ahh... Ah! Ah! Ah!\""
                             ]
                         },
                         {
@@ -6662,14 +6193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ…もう逝きそうだ！ウミ逝くぞ！」"
+                                "Banka: \"Aaaaah... I'm about to cum! Umi, I'm cumming!\""
                             ]
                         },
                         {
@@ -6686,14 +6210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁ！逝っちゃう逝っちゃう！あぁぁぁぁ！」"
+                                "Umi: \"Aaaaahhhhh! I'm cumming, I'm cumming! Aaaaahhhhh!\""
                             ]
                         },
                         {
@@ -6710,14 +6227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ…」"
+                                "Kru: \"Aaaaah...\""
                             ]
                         },
                         {
@@ -6783,7 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビュッビュッビュッビュッ！"
+                                "Splurt splurt splurt splurt!"
                             ]
                         },
                         {
@@ -6800,14 +6310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁ！」"
+                                "Banka: \"Aaaaahhhhh!\""
                             ]
                         },
                         {
@@ -6824,14 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁぁぁぁぁぁぁぁ‼‼」"
+                                "Umi: \"Aaaaaaaahhhhhhhh‼‼\""
                             ]
                         },
                         {
@@ -6848,14 +6344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ……」"
+                                "Banka: \"Haa haa haa...\""
                             ]
                         },
                         {
@@ -6888,14 +6377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ……はぁはぁ……あうぅ……あっあっあっ……はぁはぁ……あぅぅ…」"
+                                "Umi: \"Aaaaah... haa haa... auuuh... ah! ah! ah... haa haa... auuuh...\""
                             ]
                         },
                         {
@@ -6912,21 +6394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……さぁこれでわかったな…。オレがお前達よりも優れた男である事が…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これからはオレ様の事をバンカ様と言って付き従え…」"
+                                "Banka: \"Haa... Now you understand... that I am a superior man to you all...\nFrom now on, call me Lord Banka and follow me...\""
                             ]
                         },
                         {
@@ -6943,14 +6411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカ……なんて……なんて…」"
+                                "Kru: \"Banka... what have you... what have you done...\""
                             ]
                         },
                         {
@@ -6967,14 +6428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くぅ……なんて事だ…。この私が…こんなやつに出し抜かれるとは……」"
+                                "Shif: \"Damn it... What a disgrace... for me to be outwitted by someone like\nhim...\""
                             ]
                         },
                         {

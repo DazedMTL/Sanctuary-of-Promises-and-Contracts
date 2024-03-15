@@ -46240,14 +46240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ……今日も可愛かったなぁ……」"
+                                "Townsman: \"Ah... she was so cute again today...\""
                             ]
                         },
                         {
@@ -46264,14 +46257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……僕はあの笑顔を見れるだけで幸せだ…」"
+                                "Townsman: \"Ah... just seeing her smile makes me happy...\""
                             ]
                         },
                         {
@@ -46288,14 +46274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれで独り身なんだもんなぁ…。オレの嫁さんになってくれねぇかなぁ…」"
+                                "Townsman: \"And to think she's still single... I wonder if she'd marry\nme...\""
                             ]
                         },
                         {
@@ -46312,21 +46291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃぁ無理だお前。この町の女神みたいな存在だ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの噂聞いたかい？」"
+                                "Townsman: \"That's impossible for you, mate. She's like a goddess to this\ntown... Did you hear that rumor?\""
                             ]
                         },
                         {
@@ -46343,14 +46308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ噂って…」"
+                                "Townsman: \"What rumor...?\""
                             ]
                         },
                         {
@@ -46367,14 +46325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでも貴族のお坊ちゃんの結婚の申し出を断ったそうだぜ…」"
+                                "Townsman: \"Apparently, she turned down a marriage proposal from a noble's\nson...\""
                             ]
                         },
                         {
@@ -46391,14 +46342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ！またかい⁉これで何人目だ！」"
+                                "Townsman: \"What?! Again?! How many does that make now?\""
                             ]
                         },
                         {
@@ -46415,14 +46359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もうわからねぇ…。なんだって独り身を貫くんだろうねぇ…」"
+                                "Townsman: \"I've lost count... Why does she insist on staying single, I\nwonder...\""
                             ]
                         },
                         {
@@ -46815,14 +46752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっやめてよぉ」"
+                                "??? \"Stop it, please!\""
                             ]
                         },
                         {
@@ -46839,14 +46769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！この赤毛！」"
+                                "Kid A \"Weirdo! With the red hair!\""
                             ]
                         },
                         {
@@ -46863,14 +46786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「親なし！」"
+                                "Kid B \"Parentless freak!\""
                             ]
                         },
                         {
@@ -46887,14 +46803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっちいけ！」"
+                                "Kid C \"Go away!\""
                             ]
                         },
                         {
@@ -47022,14 +46931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「痛い‼‼…うぅ……うぁぁぁぁぁぁ」"
+                                "??? \"Ouch!! ...uh... uwaahhhhhhh\""
                             ]
                         },
                         {
@@ -47046,14 +46948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ギャハハハハハハ‼」"
+                                "Kid A \"Gyahahahahaha!!\""
                             ]
                         },
                         {
@@ -47070,14 +46965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へん！ざまぁみろ！」"
+                                "Kid B \"Weirdo! Serves you right!\""
                             ]
                         },
                         {
@@ -47094,14 +46982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっちいけ！」"
+                                "Kid C \"Go away!\""
                             ]
                         },
                         {
@@ -47118,14 +46999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひどい……ひどりよぉ……うぅぅ」"
+                                "??? \"That's cruel... so cruel... uhhhh\""
                             ]
                         },
                         {
@@ -47257,14 +47131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいガキ…」"
+                                "??? \"Hey, brat...\""
                             ]
                         },
                         {
@@ -47281,14 +47148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ？」"
+                                "Kid A \"Huh?\""
                             ]
                         },
                         {
@@ -47398,14 +47258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ？じゃねぇ…。なにやってんだ？」"
+                                "??? \"Huh? Don't 'huh' me... What do you think you're doing?\""
                             ]
                         },
                         {
@@ -47422,14 +47275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…いやぁ……」"
+                                "Kid A \"Ah... no, I mean...\""
                             ]
                         },
                         {
@@ -47446,14 +47292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やっやばいよ…」"
+                                "Kid B \"This is bad...\""
                             ]
                         },
                         {
@@ -47470,14 +47309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこの人……こわい…」"
+                                "Kid C \"This person... is scary...\""
                             ]
                         },
                         {
@@ -47494,14 +47326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今度いじめている姿を見つけたら…殺すぞ」"
+                                "??? \"If I catch you bullying again... I'll kill you.\""
                             ]
                         },
                         {
@@ -47518,14 +47343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ひぃぃぃ！」"
+                                "Kid A \"Eeeek!\""
                             ]
                         },
                         {
@@ -47559,14 +47377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供達"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すいませんでしたーーーー！」"
+                                "Kids \"We're so sorry----!\""
                             ]
                         },
                         {
@@ -47677,14 +47488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グスン……」"
+                                "??? \"Sob...\""
                             ]
                         },
                         {
@@ -47701,14 +47505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……大丈夫か？」"
+                                "??? \"...Are you okay?\""
                             ]
                         },
                         {
@@ -48490,14 +48287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうもありがとうございました！」"
+                                "Clerk: \"Thank you very much!\""
                             ]
                         },
                         {
@@ -48514,14 +48304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またお願いします」"
+                                "Umi: \"I'll come again.\""
                             ]
                         },
                         {
@@ -48538,14 +48321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…さて帰ろう…。ミーアも待ってる」"
+                                "Umi: \"Phew... Well, time to go home... Mii-A is waiting.\""
                             ]
                         },
                         {
@@ -48792,14 +48568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(今の……ひょっとして……)"
+                                "Umi: (Just now... Could it possibly be...)"
                             ]
                         },
                         {
@@ -48816,14 +48585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(まさかね……)"
+                                "Umi: (No way...)"
                             ]
                         },
                         {
@@ -48840,7 +48602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなわけない……"
+                                "That's impossible..."
                             ]
                         },
                         {
@@ -48857,7 +48619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなわけ…"
+                                "There's no way..."
                             ]
                         },
                         {

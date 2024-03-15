@@ -4067,14 +4067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにしてもそんなのが本当に王国で流行ってるの？」"
+                                "Kru: \"Even so, is that really a trend in the kingdom?\""
                             ]
                         },
                         {
@@ -4125,14 +4118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そっそう…らしい」"
+                                "Umi: \"Y-Yes... it seems so.\""
                             ]
                         },
                         {
@@ -4149,14 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんですよ！もう大流行！女は皆猫の恰好してます！」"
+                                "Banka: \"That's right! It's a huge craze! All the women are dressing up like\ncats!\""
                             ]
                         },
                         {
@@ -4173,14 +4152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんだ。まあ確かに可愛いけど…」"
+                                "Kru: \"I see. Well, it is certainly cute...\""
                             ]
                         },
                         {
@@ -4197,14 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……う……ん、確かに……ミーアになったみたいで可愛い」"
+                                "Umi: \"Hah hah... uhm, indeed... It's like I've become a kitty, so cute.\""
                             ]
                         },
                         {
@@ -4221,14 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうでしょう！絶対似合うと思ってましたよ！」"
+                                "Banka: \"Right?! I knew it would suit you perfectly!\""
                             ]
                         },
                         {
@@ -4245,14 +4203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもこの尻尾ってどうやってくっついてるんだ？」"
+                                "Kru: \"But how is this tail attached?\""
                             ]
                         },
                         {
@@ -4269,7 +4220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひょいっ！"
+                                "Flick!"
                             ]
                         },
                         {
@@ -4302,14 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぅ！」"
+                                "Umi: \"Ah!\""
                             ]
                         },
                         {
@@ -4326,14 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁごめんごめん。…どしたの？」"
+                                "Kru: \"Ah, sorry sorry... What's wrong?\""
                             ]
                         },
                         {
@@ -4366,14 +4303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……んぅ……なっなんでも…ない」"
+                                "Umi: \"Hah hah... mmm... it's nothing... nothing at all.\""
                             ]
                         },
                         {
@@ -4390,21 +4320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁこの尻尾は魔法で皮膚に直接取り付けているらしいです。だから触ると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　こそばゆいらしいです」"
+                                "Banka: \"Ah, this tail is apparently attached directly to the skin with\nmagic. That's why it tickles when you touch it.\""
                             ]
                         },
                         {
@@ -4421,7 +4337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひょい！"
+                                "Flick!"
                             ]
                         },
                         {
@@ -4438,14 +4354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！やっ……やめろ！」"
+                                "Umi: \"Ahh! Stop... stop it!\""
                             ]
                         },
                         {
@@ -4462,14 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっすみません！ついつい」"
+                                "Banka: \"Hah hah hah, sorry! I just couldn't help myself.\""
                             ]
                         },
                         {
@@ -4502,14 +4404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……あぁ……あまり触ら……ない…で…」"
+                                "Umi: \"Hah hah... ah... don't touch it... too much...\""
                             ]
                         },
                         {
@@ -4526,14 +4421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ？そんなにこそばゆかったの？」"
+                                "Kru: \"Umi? Was it that ticklish?\""
                             ]
                         },
                         {
@@ -4550,14 +4438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ…大丈夫……。早く進む」"
+                                "Umi: \"I'm... I'm fine... Let's move on quickly.\""
                             ]
                         },
                         {
@@ -4574,14 +4455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。早く行こう」"
+                                "Kru: \"Right. Let's get going.\""
                             ]
                         },
                         {

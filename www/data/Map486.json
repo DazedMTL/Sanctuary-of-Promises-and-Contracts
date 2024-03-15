@@ -3614,14 +3614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんじゃお前達…」"
+                                "Miko \"What do you all want...\""
                             ]
                         },
                         {
@@ -3638,14 +3631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「巫女様…。この度の急な訪問をお許しください」"
+                                "Kru \"Miko-sama... please forgive our sudden visit.\""
                             ]
                         },
                         {
@@ -3662,14 +3648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん…。許してほしいのは、そのことではないじゃろう？」"
+                                "Miko \"Hmph... I don't think it's the visit you want forgiveness for, is\nit?\""
                             ]
                         },
                         {
@@ -3686,14 +3665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。実は折り入ってお願いがあり参上いたしました」"
+                                "Kru \"Yes... Actually, we have come with an earnest request.\""
                             ]
                         },
                         {
@@ -3710,14 +3682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…。そんな事じゃと思った。お主、中々に因果な存在と見える」"
+                                "Spirit of the Miko \"Ahh... I thought it was something like that. You seem\nto be a person of significant karma.\""
                             ]
                         },
                         {
@@ -3734,14 +3699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「因果な存在？」"
+                                "Kru \"A person of significant karma?\""
                             ]
                         },
                         {
@@ -3758,21 +3716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「分かっておらんか…。まあ精神体である我らにしか分からんのも無理はないが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　で、そのお願いとはなんじゃ？」"
+                                "Spirit of the Miko \"Don't you understand... Well, it's not surprising that\nonly we spiritual beings can comprehend. So, what is this request of\nyours?\""
                             ]
                         },
                         {
@@ -3789,14 +3733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。巫女様達の呪力を、このウミに授けてやっては貰えないでしょうか？」"
+                                "Kru \"Yes... We wish to bestow the Miko's magical power upon this Umi.\""
                             ]
                         },
                         {
@@ -3813,14 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なに？この娘に？」"
+                                "Spirit of the Miko \"What? Upon this girl?\""
                             ]
                         },
                         {
@@ -3837,14 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。現在のクセシの巫女です」"
+                                "Kru \"Yes... She is the current Miko of Kuseshi.\""
                             ]
                         },
                         {
@@ -3861,14 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「巫女なのは一目でわかる。ふぅむ…その呪力で何をする？」"
+                                "Spirit of the Miko \"It's clear she's a Miko at first glance. Hmm... And\nwhat will she do with this magical power?\""
                             ]
                         },
                         {
@@ -3885,14 +3801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイを倒します！」"
+                                "Kru \"We will defeat Kuseshirei!\""
                             ]
                         },
                         {
@@ -3909,21 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふっ！はははははは！若造！また大きく出たな！神であるクセシレイを倒すなどと…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　寝言は寝て言え」"
+                                "Spirit of the Miko \"Hah! Hahahaha! Young man! What grand statements you\nmake! To defeat Kuseshirei, a god... such talk is for sleep.\""
                             ]
                         },
                         {
@@ -3940,14 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いえ…。オレは本気です。オレは未来から来ました」"
+                                "Kru \"No... I am serious. I have come from the future.\""
                             ]
                         },
                         {
@@ -3964,14 +3852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「未来から？」"
+                                "Spirit of the Miko \"From the future?\""
                             ]
                         },
                         {
@@ -3988,14 +3869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。そこでクセシレイに世界が滅ぼされていく姿を目にしました」"
+                                "Kru \"Yes... There, I witnessed the world being destroyed by Kuseshirei.\""
                             ]
                         },
                         {
@@ -4012,14 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは私が保証するわ」"
+                                "??? \"I can vouch for that.\""
                             ]
                         },
                         {
@@ -4036,14 +3903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この…声は……」"
+                                "Spirit of the Miko \"This voice is...\""
                             ]
                         },
                         {
@@ -4078,14 +3938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなたは…ルイテシア様…」"
+                                "Spirit of the Miko \"You are... Lady Luitesia...\""
                             ]
                         },
                         {
@@ -4136,14 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ…。久しぶりね…」"
+                                "Luitesia \"Yes... It's been a long time...\""
                             ]
                         },
                         {
@@ -4160,14 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あなた様がここにおられるという事は…。クセシレイの封印は？」"
+                                "Spirit of the Miko \"If you are here, Lady Luitesia... what about the seal\non Kuseshirei?\""
                             ]
                         },
                         {
@@ -4200,21 +4039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう…。今抑え付ける物がないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だからこのウミの儀式で、必ずクセシレイは復活するの…」"
+                                "Luitesia \"That's right... There's nothing holding it back now. That's why\nKuseshirei will definitely be resurrected through Umi's ritual...\""
                             ]
                         },
                         {
@@ -4231,21 +4056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その時に倒すか封印しないと、手が付けられなくなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私達が身を挺して封印してきた意味がなくなる…という事ですか？」"
+                                "Spirit of the Miko \"So we must defeat or reseal it before it becomes\nuntouchable. Otherwise, all our efforts in sealing it will have been for\nnaught... Is that what you're saying?\""
                             ]
                         },
                         {
@@ -4278,14 +4089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そういう事。お願い！力を貸して！」"
+                                "Luitesia \"Exactly. Please! Lend us your strength!\""
                             ]
                         },
                         {
@@ -4302,14 +4106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Spirit of the Miko \"...\""
                             ]
                         },
                         {
@@ -4342,14 +4139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お願い」"
+                                "Luitesia \"Please.\""
                             ]
                         },
                         {
@@ -4366,14 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかりました…。でも我々の呪力じゃクセシレイには対抗できませんよ」"
+                                "Spirit of the Miko \"Understood... But our magical power alone won't be\nenough to oppose Kuseshirei.\""
                             ]
                         },
                         {
@@ -4406,14 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはいい。あなた達の呪力で、私のご神体が眠る遺跡の封印を解くから」"
+                                "Luitesia \"That's fine. With your magical power, we'll break the seal on the\nruins where my divine body rests.\""
                             ]
                         },
                         {
@@ -4430,14 +4206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「遺跡の封印？」"
+                                "Kru \"The seal on the ruins?\""
                             ]
                         },
                         {
@@ -4470,14 +4239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう…。恐らく、昔シフによって封印されてしまったの」"
+                                "Luitesia \"Yes... It was probably sealed by Shif long ago.\""
                             ]
                         },
                         {
@@ -4494,14 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そのせいで、クセシレイの力を抑えていたルイテシア様の力がなくなった」"
+                                "Spirit of the Miko \"Because of that, Lady Luitesia's power that was\nsuppressing Kuseshirei's has been lost.\""
                             ]
                         },
                         {
@@ -4534,14 +4289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう。だから私は力を取り戻して、この子達と共にクセシレイを倒すの」"
+                                "Luitesia \"Right. So I will regain my power and together with these\nchildren, we will defeat Kuseshirei.\""
                             ]
                         },
                         {
@@ -4558,14 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……」"
+                                "Spirit of the Miko \"...\""
                             ]
                         },
                         {
@@ -4598,14 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…お願い」"
+                                "Luitesia \"...Please.\""
                             ]
                         },
                         {
@@ -4622,14 +4356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…わかりました」"
+                                "Spirit of the Miko \"...Understood.\""
                             ]
                         },
                         {
@@ -4646,14 +4373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「本当ですか⁉」"
+                                "Kru \"Really⁉\""
                             ]
                         },
                         {
@@ -4670,14 +4390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しかし我々の力を得るには、試練を超えなければなりません」"
+                                "Spirit of the Miko \"However, to receive our power, you must overcome a\ntrial.\""
                             ]
                         },
                         {
@@ -4886,14 +4599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「我々の力…集え！」"
+                                "Spirit of the Miko \"Our powers... gather!\""
                             ]
                         },
                         {
@@ -5116,14 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁぁ………」"
+                                "Spirit of the Miko \"Haaa...\""
                             ]
                         },
                         {
@@ -5207,14 +4906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ…力が欲しくば、我々を倒せ！」"
+                                "Spirit of the Miko \"Now... if you desire our power, defeat us!\""
                             ]
                         },
                         {
@@ -5231,14 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ行けるか？」"
+                                "Kru \"Umi, can you do it?\""
                             ]
                         },
                         {
@@ -5289,14 +4974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫！」"
+                                "Umi \"I'm fine!\""
                             ]
                         },
                         {
@@ -5329,14 +5007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行くよ！」"
+                                "Luitesia \"Let's go!\""
                             ]
                         },
                         {
@@ -5516,14 +5187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ……強いな…」"
+                                "Shrine Maiden's Ghost: \"Phew... You're strong...\""
                             ]
                         },
                         {
@@ -5540,14 +5204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これで…力が頂けるんですね…」"
+                                "Kru: \"With this... I can receive power...\""
                             ]
                         },
                         {
@@ -5564,14 +5221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……そこの娘…。我々の力、無駄にするではないぞ…」"
+                                "Shrine Maiden's Ghost: \"Ah... That girl over there... Do not waste our\npower...\""
                             ]
                         },
                         {
@@ -5622,14 +5272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………はい」"
+                                "Umi: \"...Yes.\""
                             ]
                         },
                         {
@@ -5711,14 +5354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふぅ…。久しぶりに暴れたせいで、少し疲れた…」"
+                                "Shrine Maiden's Ghost: \"Phew... I'm a bit tired from going wild after so\nlong...\""
                             ]
                         },
                         {
@@ -5769,14 +5405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゆっくり休んで…。後は私達に任せて」"
+                                "Luitesia: \"Rest easy... Leave the rest to us.\""
                             ]
                         },
                         {
@@ -5793,14 +5422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頼みます。私達の思い、力、願い。託します」"
+                                "Shrine Maiden's Ghost: \"I'm counting on you. Our thoughts, our power, our\nwishes. I entrust them to you.\""
                             ]
                         },
                         {
@@ -5833,14 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった」"
+                                "Luitesia: \"Understood.\""
                             ]
                         },
                         {
@@ -5857,14 +5472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルとやら…」"
+                                "Shrine Maiden's Ghost: \"Kru, was it...?\""
                             ]
                         },
                         {
@@ -5881,14 +5489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Kru: \"Yes!\""
                             ]
                         },
                         {
@@ -5905,14 +5506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "巫女の亡霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこの娘を…幸せにしてやれ」"
+                                "Shrine Maiden's Ghost: \"Make that girl over there... happy.\""
                             ]
                         },
                         {
@@ -5929,14 +5523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……はい」"
+                                "Kru: \"...Yes.\""
                             ]
                         },
                         {
@@ -5999,14 +5586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「安らかにお眠りください…」"
+                                "Umi: \"Please rest in peace...\""
                             ]
                         },
                         {
@@ -6023,14 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ！じゃぁミーアの遺跡に行こう！」"
+                                "Kru: \"Alright! Let's go to the Mee-A ruins then!\""
                             ]
                         },
                         {
@@ -6063,14 +5636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルイテシア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ、急ぎましょう！」"
+                                "Luitesia: \"Yes, let's hurry!\""
                             ]
                         },
                         {

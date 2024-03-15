@@ -13987,14 +13987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"Beyond here lies the kingdom's pleasure district. It's no place\nfor an innocent girl like you.\""
                             ]
                         },
                         {
@@ -14062,14 +14055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"This area beyond here is the kingdom's pleasure district. It's\nnot a place for an innocent girl like you to come.\""
                             ]
                         },
                         {
@@ -14120,14 +14106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもウミ……お金が必要で……」"
+                                "Umi: \"But Umi... needs money...\""
                             ]
                         },
                         {
@@ -14144,14 +14123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいアンタ、こっちに来な！」"
+                                "Receptionist: \"Hey you, come over here!\""
                             ]
                         },
                         {
@@ -14184,14 +14156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミの事？」"
+                                "Umi: \"Are you talking about Umi?\""
                             ]
                         },
                         {
@@ -14208,14 +14173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそうだよ！さっさと来な！」"
+                                "Receptionist: \"Yeah, that's right! Hurry up and come over!\""
                             ]
                         },
                         {
@@ -14379,14 +14337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"Beyond here lies the kingdom's pleasure district. It's no place\nfor an innocent girl like you.\""
                             ]
                         },
                         {
@@ -14454,14 +14405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここから先は王国の歓楽街だ。君のような無垢な少女が来るような場所じゃない」"
+                                "Soldier: \"Beyond here lies the kingdom's pleasure district. It's not a\nplace for an innocent girl like you to come.\""
                             ]
                         },
                         {
@@ -14512,14 +14456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもウミ……お金が必要で……」"
+                                "Umi: \"But Umi... needs money...\""
                             ]
                         },
                         {
@@ -14536,14 +14473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいアンタ、こっちに来な！」"
+                                "Receptionist: \"Hey you, come over here!\""
                             ]
                         },
                         {
@@ -14576,14 +14506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミの事？」"
+                                "Umi: \"Are you talking about Umi?\""
                             ]
                         },
                         {
@@ -14600,14 +14523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁそうだよ！さっさと来な！」"
+                                "Receptionist: \"Yeah, that's right! Hurry up and come here!\""
                             ]
                         },
                         {
@@ -14771,21 +14687,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「頑張ってくださいね。名声ポイントを上げると色々なお店で働けるように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なります」"
+                                "Receptionist: \"Please do your best. Raising your fame points will allow you\nto work at various shops.\""
                             ]
                         },
                         {
@@ -15128,14 +15030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……そわそわしてきた…」"
+                                "Townsfolk: \"Ahh... I'm getting restless...\""
                             ]
                         },
                         {
@@ -15212,14 +15107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ……息が上がってきた」"
+                                "Townsfolk: \"Haa haa haa... I'm getting out of breath.\""
                             ]
                         },
                         {
@@ -15296,14 +15184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「同僚に見られてないな…」"
+                                "Townsman: \"I hope my colleagues didn't see me...\""
                             ]
                         },
                         {
@@ -15380,14 +15261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今日はどの子と遊ぼうかな」"
+                                "Townsman: \"I wonder which girl I should play with today.\""
                             ]
                         },
                         {
@@ -15464,14 +15338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町民"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んほぅ！若返るように楽しみじゃ！」"
+                                "Townsman: \"Ohhh! It's so delightful, it's like being young again!\""
                             ]
                         },
                         {

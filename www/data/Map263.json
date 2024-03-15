@@ -7388,7 +7388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この日、バンカが帰ってきた日。"
+                                "On this day, Banka returned."
                             ]
                         },
                         {
@@ -7405,7 +7405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして私の運命が大きく捻じ曲がったこの日…。"
+                                "And on this day, my fate took a drastic turn..."
                             ]
                         },
                         {
@@ -7675,14 +7675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでこんな場所まで連れて来た？」"
+                                "Umi: \"Why have you brought me to such a place?\""
                             ]
                         },
                         {
@@ -7733,14 +7726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁ見ればわかるぜ」"
+                                "Banka: \"Well, you'll understand once you see.\""
                             ]
                         },
                         {
@@ -7773,14 +7759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？村の皆⁉なんでこんなに大勢⁉」"
+                                "Umi: \"Huh? Everyone from the village⁉ Why are there so many⁉\""
                             ]
                         },
                         {
@@ -7813,14 +7792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁな…。だが自分達から来たのは確かだ…」"
+                                "Banka: \"Who knows... but it's certain they came here on their own...\""
                             ]
                         },
                         {
@@ -7853,14 +7825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？どういう意味だ…」"
+                                "Umi: \"Huh? What do you mean...\""
                             ]
                         },
                         {
@@ -7877,14 +7842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは私が教えてやろう…」"
+                                "???: \"I shall explain that to you...\""
                             ]
                         },
                         {
@@ -7917,14 +7875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だっ誰⁉」"
+                                "Umi: \"Who's there⁉\""
                             ]
                         },
                         {
@@ -8026,14 +7977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ‼おっオマエは⁉」"
+                                "Umi: \"What‼ You're⁉\""
                             ]
                         },
                         {
@@ -8084,21 +8028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは‼‼久しいなぁ…。クセシレイの巫女よ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の事がわかるとはお前のような野蛮人でも記憶力という物は備わっているらしいな」"
+                                "Shif: \"Hahahaha‼ Long time no see... Priestess of Kuseshirei... Even a\nbarbarian like you seems to have a memory.\""
                             ]
                         },
                         {
@@ -8131,14 +8061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなぜ生きている⁉」"
+                                "Umi: \"Why are you alive⁉\""
                             ]
                         },
                         {
@@ -8171,21 +8094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは‼そう言うと思っておったわ！なぜ？などどうでもいいのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは…お前にとって重要になるのはこれから起こる事なんだからな！」"
+                                "Shif: \"Hahahaha‼ I knew you'd say that! Why? That's irrelevant! What's\nimportant is what's going to happen from now on!\""
                             ]
                         },
                         {
@@ -8218,14 +8127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どういう意味だ…？」"
+                                "Umi: \"What do you mean...?\""
                             ]
                         },
                         {
@@ -8258,14 +8160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まぁこういう事だ…」"
+                                "Shif: \"Well, it's like this...\""
                             ]
                         },
                         {
@@ -8298,14 +8193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人たち"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お…ぅ…あぁ……」"
+                                "Villagers: \"Oh... uh... ah...\""
                             ]
                         },
                         {
@@ -8338,14 +8226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうした……皆…」"
+                                "Umi: \"What's wrong... everyone...\""
                             ]
                         },
                         {
@@ -8485,7 +8366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シャキンッ！"
+                                "*Clash!*"
                             ]
                         },
                         {
@@ -8502,14 +8383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「皆‼‼やめろ‼‼なにしてる⁉」"
+                                "Umi: \"Everyone‼ Stop‼ What are you doing⁉\""
                             ]
                         },
                         {
@@ -8526,14 +8400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははは‼‼止めてやるな！皆望んで死のうとしているのだから‼‼」"
+                                "Shif: \"Hahahaha‼ Don't stop them! They all wish to die‼\""
                             ]
                         },
                         {
@@ -8550,14 +8417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなわけない‼‼オマエが‼‼オマエが皆を‼‼」"
+                                "Umi: \"That can't be true‼ You‼ You're the one controlling them‼\""
                             ]
                         },
                         {
@@ -8574,21 +8434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おぅ！よくわかったな。全て私の催眠魔法によるものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　褒めて遣わすぞ」"
+                                "Shif: \"Oh! You figured it out. It's all due to my hypnotic magic. I commend\nyou.\""
                             ]
                         },
                         {
@@ -8605,14 +8451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よくも！」"
+                                "Umi: \"How dare you!\""
                             ]
                         },
                         {
@@ -8629,28 +8468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっと言葉には気をつけろ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この野蛮人どもは私の気持ち一つで自殺もするし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村に火を放つこともする。勿論今ここでお前を襲わせる事もできる」"
+                                "Shif: \"Careful with your words... These barbarians will commit suicide or\nset the village ablaze with just one whim of mine. Of course, I could also\nhave them attack you right here and now.\""
                             ]
                         },
                         {
@@ -8667,14 +8485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もちろん、今家で寝てるバカなお前の夫もな…」"
+                                "Shif: \"And of course, that includes your foolish husband sleeping at\nhome...\""
                             ]
                         },
                         {
@@ -8691,14 +8502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ⁉クルには手を出すな‼‼」"
+                                "Umi: \"What⁉ Don't lay a finger on Kru‼\""
                             ]
                         },
                         {
@@ -8715,21 +8519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはお前の心ひとつで決まる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私の言う事が聞けなかったら、どうなるのかお前にもよくわかっただろう？」"
+                                "Shif: \"That depends on your decision. If you can't listen to me, you know\nvery well what will happen, don't you?\""
                             ]
                         },
                         {
@@ -8746,14 +8536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅうううぅ…」"
+                                "Umi: \"Uuuuuuu...\""
                             ]
                         },
                         {
@@ -8770,14 +8553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか…わからないのか？」"
+                                "Shif: \"Could it be... you don't understand?\""
                             ]
                         },
                         {
@@ -8806,7 +8582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シャキンッ……"
+                                "*Clash!*"
                             ]
                         },
                         {
@@ -8823,14 +8599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぅぅ…。わっわかった」"
+                                "Umi: \"Uu... I understand.\""
                             ]
                         },
                         {
@@ -8906,14 +8675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なにがわかったんだ？」"
+                                "Shif: \"What do you understand?\""
                             ]
                         },
                         {
@@ -8964,14 +8726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエの言う事を聞く…。だから…」"
+                                "Umi: \"I'll listen to what you say... so please...\""
                             ]
                         },
                         {
@@ -9004,14 +8759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…だから？」"
+                                "Shif: \"...So please?\""
                             ]
                         },
                         {
@@ -9044,14 +8792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから……村の皆に危害を加えないでほしい」"
+                                "Umi: \"So please... don't harm the villagers.\""
                             ]
                         },
                         {
@@ -9084,14 +8825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほしい？それはお前の気持ちの話だな。ただの願望だ。私にどうしてほしい？」"
+                                "Shif: \"Don't harm? That's how you feel. A mere wish. What do you want me to\ndo?\""
                             ]
                         },
                         {
@@ -9124,14 +8858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……危害を加えないでくれ」"
+                                "Umi: \"...Please don't harm them.\""
                             ]
                         },
                         {
@@ -9164,14 +8891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くれ？ほぅ…お前…人に物を頼む方法がよくわかってないのか？」"
+                                "Shif: \"Please? Hmm... You really don't know how to ask for something, do\nyou?\""
                             ]
                         },
                         {
@@ -9204,14 +8924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！………危害を加えないで……下さい……」"
+                                "Umi: \"Grr!... Please don't harm them...\""
                             ]
                         },
                         {
@@ -9244,14 +8957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっくっくっくっくっ…。その代わりに…ウミは…？」"
+                                "Shif: \"Kukukuku... In exchange for that... Umi will...?\""
                             ]
                         },
                         {
@@ -9284,14 +8990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その代わりに………ウミは……」"
+                                "Umi: \"In exchange for that... Umi will...\""
                             ]
                         },
                         {
@@ -9324,14 +9023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでも……いう事を…？」"
+                                "Shif: \"Do anything... I say...?\""
                             ]
                         },
                         {
@@ -9364,14 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ……なんでも……いう事を……」"
+                                "Umi: \"A-Anything... I say...\""
                             ]
                         },
                         {
@@ -9388,7 +9073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………クル…。"
+                                "...Kru..."
                             ]
                         },
                         {
@@ -9421,14 +9106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………どうした？」"
+                                "Shif: \"...What's wrong?\""
                             ]
                         },
                         {
@@ -9445,7 +9123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……………クル…。"
+                                "...Kru..."
                             ]
                         },
                         {
@@ -9478,14 +9156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ぅぅ…。………なっなんでも言う事を聞く！」"
+                                "Umi: \"Uu... I'll do anything you say!\""
                             ]
                         },
                         {
@@ -9518,21 +9189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はははははは‼‼交渉成立だ‼そうだのぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そう頼まれれば、お前のお願いを聞いてやらん事もないのぅ！ははははは！」"
+                                "Shif: \"Hahahahaha!! It's a deal!! That's right! If you ask like that, I\nmight just listen to your request! Hahahahaha!\""
                             ]
                         },
                         {
@@ -9565,14 +9222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ……くそ……」"
+                                "Umi: \"Damn it... damn...\""
                             ]
                         },
                         {
@@ -9623,14 +9273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やりましたね、シフ様…。一年も潜伏していた甲斐がありましたね！」"
+                                "Banka: \"We did it, Lord Shif... It was worth hiding for a whole year!\""
                             ]
                         },
                         {
@@ -9663,14 +9306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだのぅ…。催眠深度を深くするのに随分時間が掛かったからのぅ」"
+                                "Shif: \"Indeed... It took quite some time to deepen the hypnosis.\""
                             ]
                         },
                         {
@@ -9703,14 +9339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ…バンカ…。裏切ったな…」"
+                                "Umi: \"Damn it... Banka... you betrayed us...\""
                             ]
                         },
                         {
@@ -9743,14 +9372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「裏切ったのはこの村の連中だ…。オレ様よりもあのよそ者を慕いやがって」"
+                                "Banka: \"The ones who betrayed were the villagers... preferring that\noutsider over me.\""
                             ]
                         },
                         {
@@ -9783,14 +9405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあバンカ。良いではないか。もうお前の村人たちだ。お前の好きにするがよい」"
+                                "Shif: \"Well, Banka. That's fine. They are your villagers now. Do with them\nas you please.\""
                             ]
                         },
                         {
@@ -9823,14 +9438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。ありがとうございます」"
+                                "Banka: \"Yes... Thank you very much.\""
                             ]
                         },
                         {
@@ -9902,14 +9510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さて、契約の時が来た…。おい女その台に上がれ…」"
+                                "Shif: \"Now, the time for the contract has come... Woman, get up on that\nplatform...\""
                             ]
                         },
                         {
@@ -9942,14 +9543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ・・・、なんで……」"
+                                "Umi: \"Uuu... why...\""
                             ]
                         },
                         {
@@ -9982,14 +9576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なぜ…などどうでもよい…。早く上がれ」"
+                                "Shif: \"Why... such things don't matter... Hurry up and get on.\""
                             ]
                         },
                         {
@@ -10022,14 +9609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ…」"
+                                "Umi: \"Damn...\""
                             ]
                         },
                         {
@@ -10128,14 +9708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これでいいか？」"
+                                "Umi: \"Is this okay?\""
                             ]
                         },
                         {
@@ -10168,14 +9741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よいよい…。さて、始めるとしよう」"
+                                "Shif: \"Good, good... Now, let's begin.\""
                             ]
                         },
                         {
@@ -10563,14 +10129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「神クセシレイよ！ここに契約者と宝玉と巫女が揃った…！」"
+                                "Shif: \"Oh great Kusechirei! Here we have the contractor, the jewel, and the\nshrine maiden gathered...!\""
                             ]
                         },
                         {
@@ -10587,7 +10146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…契約者…いったい何のこと？"
+                                "...Contractor... what is he talking about?"
                             ]
                         },
                         {
@@ -10656,21 +10215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今この時をもって契約が成立する！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　長きに渡る暗黒の眠りから覚め、肉の悦びに血湧きましょうぞ！」"
+                                "Shif: \"With this moment, the contract is established! Awaken from your long\ndark slumber and let your blood rush with the joy of flesh!\""
                             ]
                         },
                         {
@@ -10687,7 +10232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "契約が成立……いったい何をされるの……"
+                                "The contract is established... what is going to happen to me..."
                             ]
                         },
                         {
@@ -10756,14 +10301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これより受胎転生の儀を開始する！」"
+                                "Shif: \"We shall now commence the rite of reincarnation through conception!\""
                             ]
                         },
                         {
@@ -11026,14 +10564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きゃぁぁぁぁぁぁぁぁ‼‼」"
+                                "Umi: \"Kyaaaahhhhhhh!!\""
                             ]
                         },
                         {
@@ -11066,14 +10597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ……。なっなんだったの……」"
+                                "Umi: \"Haa haa... what was that...\""
                             ]
                         },
                         {
@@ -11155,21 +10679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ…、女…。お前の身体はクセシレイ様の物となった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　これからはクセシレイ様の為にその身を捧げるのだ」"
+                                "Shif: \"Now... woman... your body belongs to Lord Kusechirei. From now on,\nyou shall dedicate yourself to him.\""
                             ]
                         },
                         {
@@ -11202,14 +10712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クセシレイ様の？いったいどういうこと…」"
+                                "Umi: \"Lord Kusechirei's? What do you mean...\""
                             ]
                         },
                         {
@@ -11242,21 +10745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前の膣はクセシレイ様がこれから受肉して再臨される為の精子袋になったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてその受肉させる精子はこの私のものだ」"
+                                "Shif: \"Your pussy has become the sperm sac for Lord Kusechirei to incarnate\nand return. And the sperm that will impregnate you is mine.\""
                             ]
                         },
                         {
@@ -11289,14 +10778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？えっ？どういうこと…いったい…」"
+                                "Umi: \"Eh? Eh? What do you mean... what in the world...\""
                             ]
                         },
                         {
@@ -11329,21 +10811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふふふ…。まあ混乱するのも仕方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　だが受胎転生までにはその身体、骨の髄まで調教してやらねばな……」"
+                                "Shif: \"Fufufu... It's natural to be confused. But before the reincarnation\nthrough conception, I must train your body to the marrow of your bones...\""
                             ]
                         },
                         {
@@ -11385,14 +10853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ！あっ……くっ………」"
+                                "Umi: \"Ugh! Ahh... damn...\""
                             ]
                         },
                         {
@@ -11409,14 +10870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おかしい……身体の芯が………熱い…それになんだかムズムズする…)"
+                                "Umi (This is strange... my core is hot... and it's tingling somehow...)"
                             ]
                         },
                         {
@@ -11449,14 +10903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅ……もう効力が出てきておるのか…。さては…お前元々淫乱だったな…」"
+                                "Shif: \"Hooh... The effects are already showing, are they? It seems... you\nwere quite the lewd one from the start...\""
                             ]
                         },
                         {
@@ -11473,14 +10920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなにを言って！」"
+                                "Umi: \"What are you saying!\""
                             ]
                         },
                         {
@@ -11522,14 +10962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！はぁはぁ………うぅ……」"
+                                "Umi: \"Aaah! Haa haa... uuu...\""
                             ]
                         },
                         {
@@ -11546,14 +10979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おかしい…おかしい……どうしよう…。ウミの身体…どうなって…)"
+                                "Umi (This is strange... so strange... what should I do... what's happening\nto Umi's body...)"
                             ]
                         },
                         {
@@ -11586,14 +11012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははははははははは！これからが楽しみだのぅ！」"
+                                "Shif: \"Hahahahahaha! I'm looking forward to what comes next!\""
                             ]
                         },
                         {
@@ -11699,7 +11118,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "突然の事で私の頭はひどく混乱していた…。"
+                                "The sudden turn of events had my mind in utter chaos..."
                             ]
                         },
                         {
@@ -11716,7 +11135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村の皆が人質にされ、シフが現れ、なんだかわけの分からない事されて…"
+                                "The villagers taken hostage, Shif's appearance, and then something\nincomprehensible being done to me..."
                             ]
                         },
                         {
@@ -11733,14 +11152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして精子袋……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その言葉は私の今後が絶望的という事を予感させるには、うってつけの言葉だった。"
+                                "And the term \"sperm sac\"... those words were perfectly suited to foreshadow\na hopeless future for me."
                             ]
                         },
                         {
@@ -11757,7 +11169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう……あの温かく愛おしい日々には戻れないのだろう…。"
+                                "I can probably never return to those warm, beloved days..."
                             ]
                         },
                         {
@@ -11774,7 +11186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかってはいたが…私はまだ覚悟なんてできていなかった……。"
+                                "I understood that much... but I wasn't ready to accept it yet..."
                             ]
                         },
                         {

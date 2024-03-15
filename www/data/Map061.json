@@ -8497,7 +8497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンの脂を手に入れた！"
+                                "Gained Goblin Fat!"
                             ]
                         },
                         {
@@ -8676,7 +8676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこに向かいますか？"
+                                "Where are we heading?"
                             ]
                         },
                         {
@@ -8684,11 +8684,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "王国",
-                                    "呼種の洞窟",
-                                    "クセシの村",
-                                    "玉河山",
-                                    "行かない"
+                                    "Kingdom",
+                                    "Beastkin's Cave",
+                                    "Kuseshi Village",
+                                    "Tamagawa Mountain",
+                                    "Don't go"
                                 ],
                                 1,
                                 0,

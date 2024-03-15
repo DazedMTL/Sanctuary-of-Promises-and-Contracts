@@ -5288,14 +5288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレは家に帰るわ。シフ様おっかねぇから」"
+                                "Banka: \"I'm going home. Chancellor Shif is too scary.\""
                             ]
                         },
                         {
@@ -5405,14 +5398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントが進むとバンカエンドに進みます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別ファイルにセーブしておく事を推奨します。"
+                                "Progressing through the event will lead to Banka's ending. It is\nrecommended to save in a separate file."
                             ]
                         },
                         {
@@ -5429,7 +5415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -5437,8 +5423,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5496,7 +5482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカエンドに進みますか？"
+                                "Would you like to proceed to Banka's ending?"
                             ]
                         },
                         {
@@ -5504,8 +5490,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5672,14 +5658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オレは家に帰るわ。シフ様おっかねぇから」"
+                                "Banka: \"I'm going home. Chancellor Shif is too scary.\""
                             ]
                         },
                         {

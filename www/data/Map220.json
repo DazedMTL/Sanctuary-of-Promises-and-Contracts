@@ -1919,14 +1919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う…そ…」"
+                                "Umi: \"Uh... no...\""
                             ]
                         },
                         {
@@ -1943,14 +1936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ……」"
+                                "Goblin: \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -1983,14 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんでジャイアントフロッグのお腹の中に…ゴブリンが…」"
+                                "Umi: \"Why is there a goblin... inside the stomach of a giant frog...\""
                             ]
                         },
                         {
@@ -2007,14 +1986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グフグフ…シヌマエに…エモノ…ミツケタ…」"
+                                "Goblin: \"Guf guf... before I die... found... prey...\""
                             ]
                         },
                         {
@@ -2047,14 +2019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ獲物！」"
+                                "Umi: \"Eh, prey?!\""
                             ]
                         },
                         {
@@ -2071,14 +2036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オ…オ…オデガ…サキ二イタダク！」"
+                                "Goblin: \"I... I... I will take my turn first!\""
                             ]
                         },
                         {
@@ -2128,14 +2086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いっいや…こないで…」"
+                                "Umi: \"No, no... don't come...\""
                             ]
                         },
                         {
@@ -2183,14 +2134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ…」"
+                                "Goblin: \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -2534,14 +2478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ…」"
+                                "Umi: \"Ugh...\""
                             ]
                         },
                         {
@@ -2558,14 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ…」"
+                                "Goblin A: \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -2598,14 +2528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「やだ…やだ…やめてよ…」"
+                                "Umi: \"No... no... stop it...\""
                             ]
                         },
                         {
@@ -2622,14 +2545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤダ…ヤダ…ヤメテヨ…」"
+                                "Goblin A: \"No... no... stop it...\""
                             ]
                         },
                         {
@@ -2646,14 +2562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤダ…ヤダ…ヤメテヨ…」"
+                                "Goblin B: \"No... no... stop it...\""
                             ]
                         },
                         {
@@ -2670,14 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＣ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤダ…ヤダ…ヤメテヨ」"
+                                "Goblin C: \"No... no... stop it\""
                             ]
                         },
                         {
@@ -2710,14 +2612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなに？」"
+                                "Umi: \"What? What's happening?\""
                             ]
                         },
                         {
@@ -2734,14 +2629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ…」"
+                                "Goblin A: \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -2758,14 +2646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒ…ヤダ…ヤダ…」"
+                                "Goblin B: \"Gehi gehi... no... no...\""
                             ]
                         },
                         {
@@ -2782,14 +2663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＣ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤメテヨ…イタイヨ…モウヤメテ…イヤ…ハナシテ…」"
+                                "Goblin C: \"Stop it... it hurts... stop it already... no... let me go...\""
                             ]
                         },
                         {
@@ -2806,14 +2680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ…」"
+                                "Goblin A: \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -2830,7 +2697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グググ…"
+                                "Groan..."
                             ]
                         },
                         {
@@ -2863,14 +2730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウソ…やだ…やめて…」"
+                                "Umi: \"No way... no... stop it...\""
                             ]
                         },
                         {
@@ -2887,14 +2747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ヤメテ…イタイ…イタイ…」"
+                                "Goblin B: \"Stop it... it hurts... it hurts...\""
                             ]
                         },
                         {
@@ -2911,14 +2764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＣ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「アッアッアッアッ！」"
+                                "Goblin C: \"Ah! Ah! Ah! Ah!\""
                             ]
                         },
                         {
@@ -2951,14 +2797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…それはいや…お願いやめてください…」"
+                                "Umi: \"No... not that... please stop...\""
                             ]
                         },
                         {
@@ -3013,7 +2852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブチッ！"
+                                "Snap!"
                             ]
                         },
                         {
@@ -3046,14 +2885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁぁぁぁぁぁぁ‼‼‼‼‼」"
+                                "Umi: \"Noooooo‼‼‼‼‼\""
                             ]
                         },
                         {
@@ -3070,14 +2902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ！」"
+                                "Goblin A: \"Gehi gehi gehi!\""
                             ]
                         },
                         {
@@ -3106,7 +2931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン！"
+                                "Thump thump thump thump!"
                             ]
                         },
                         {
@@ -3158,14 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「痛い！痛い！お願い、痛いの！」"
+                                "Umi: \"It hurts! It hurts! Please, the pain!\""
                             ]
                         },
                         {
@@ -3182,14 +3000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは私が感じた事のない痛みだった。身体を足側から真っ二つに裂かれるような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな痛みだった。"
+                                "It was a pain I had never felt before. It was as if my body was being split\nin half from the legs up."
                             ]
                         },
                         {
@@ -3222,14 +3033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…痛い…やめて…」"
+                                "Umi: \"No... it hurts... stop it...\""
                             ]
                         },
                         {
@@ -3246,14 +3050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも私の身体はそれとは別の感覚を得ていた。おそらくジャイアントフロッグに舐められて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いたせいだろう。身体はすでに強い飢餓感で満たされていた…"
+                                "But my body was experiencing a different sensation. Probably because of\nbeing licked by the giant frog. My body was already filled with a strong\nsense of hunger..."
                             ]
                         },
                         {
@@ -3286,14 +3083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あっ熱い…。身体の奥から…奥を突かれるたびに…痛みと熱が込み上げてくる)"
+                                "Umi (Ah, it's hot... from deep inside my body... with every thrust inside\nme... pain and heat rise up)"
                             ]
                         },
                         {
@@ -3310,7 +3100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン！"
+                                "Thump thump thump thump!"
                             ]
                         },
                         {
@@ -3343,14 +3133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…帰りたい…村に帰りたいよ…」"
+                                "Umi: \"No... I want to go home... I want to go back to the village...\""
                             ]
                         },
                         {
@@ -3367,14 +3150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうこのまま帰れないという事を悟ってから、初めて私は村の事を思った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今わの際になって私はまだこの世に未練があることを知った。"
+                                "It was only after realizing that I could never return that I thought of the\nvillage for the first time. On the brink of death, I knew I still had\nunfinished business in this world."
                             ]
                         },
                         {
@@ -3391,14 +3167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒ！キ…キモチ…イイカ？」"
+                                "Goblin A: \"Gehi gehi! Does it... feel good?\""
                             ]
                         },
                         {
@@ -3431,14 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「な…なに…言ってるの！そんなわけ！」"
+                                "Umi: \"Wha... what are you saying! There's no way!\""
                             ]
                         },
                         {
@@ -3455,7 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン！"
+                                "Thump thump thump thump!"
                             ]
                         },
                         {
@@ -3500,14 +3262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！強く突かないで！あぁ！」"
+                                "Umi: \"Aaah! Don't thrust so hard! Ahh!\""
                             ]
                         },
                         {
@@ -3540,14 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いや！このゴブリン…きっと慣れている。なんて楽しそうな顔をしているの！)"
+                                "Umi (No! This goblin... must be experienced. What a happy face he's\nmaking!)"
                             ]
                         },
                         {
@@ -3564,14 +3312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒ…イタイ…ヤメテ…キモチイイ…」"
+                                "Goblin A \"Gehi gehi... it hurts... stop... feels good...\""
                             ]
                         },
                         {
@@ -3604,14 +3345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Umi \"Huh?\""
                             ]
                         },
                         {
@@ -3628,14 +3362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「カワル…イツモ…カワル…」"
+                                "Goblin B \"Next... always... next...\""
                             ]
                         },
                         {
@@ -3652,14 +3379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＣ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「イタイ…ヤメテ…キモチイイ…モット…」"
+                                "Goblin C \"It hurts... stop... feels good... more...\""
                             ]
                         },
                         {
@@ -3676,14 +3396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ…」"
+                                "Goblin A \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -3700,7 +3413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン！"
+                                "Thump thump thump thump!"
                             ]
                         },
                         {
@@ -3803,14 +3516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅ…。激しい…あぁ！あぁ！お願い…やめて！」"
+                                "Umi \"Ugh... so intense... ah! Ah! Please... stop!\""
                             ]
                         },
                         {
@@ -3843,14 +3549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(いったい何人の人間を犯してきたの！)"
+                                "Umi (How many people have they violated!)"
                             ]
                         },
                         {
@@ -3867,14 +3566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はこのゴブリン達の言葉を聞いてぞっとした。きっと今まで犯されてきた人たちが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言っていた言葉なんだろう。"
+                                "I shuddered upon hearing the words of these goblins. They must be the words\nspoken by those who have been violated before."
                             ]
                         },
                         {
@@ -3891,14 +3583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンは決して頭の良いモンスターではない。物覚えも悪いし、作戦みたいな事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遂行している所を見たことはない。"
+                                "Goblins are not particularly intelligent monsters. They have poor memory\nand I've never seen them execute any sort of strategy."
                             ]
                         },
                         {
@@ -3915,28 +3600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからこのゴブリン達にはゾッとする。きっと言葉を覚えるくらいたくさんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悲痛な声を繰り返し聞いたのだろう。犯すのに争いが起こらなかったのも、何"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "度も犯しているから自然と順番を守るというルールを身に付けていったのだろ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う。"
+                                "That's why these goblins are horrifying. They must have heard so many\nagonized cries that they've learned to speak. The fact that there was no\nfight over violating me probably means they've done it so many times that\nthey've naturally learned to follow a turn-taking rule."
                             ]
                         },
                         {
@@ -3953,7 +3617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン！"
+                                "Thump thump thump thump!"
                             ]
                         },
                         {
@@ -3986,14 +3650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁぁ…いやぁ…」"
+                                "Umi \"No, no, no... please, not inside!\""
                             ]
                         },
                         {
@@ -4010,14 +3667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キモチイイ…キモチイイカ…？」"
+                                "Goblin A \"Feels good... does it feel good...?\""
                             ]
                         },
                         {
@@ -4050,14 +3700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっ気持ちよく…なんか…」"
+                                "Umi \"You're saying it feels good... somehow...\""
                             ]
                         },
                         {
@@ -4074,7 +3717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ズパン！"
+                                "Zupan!"
                             ]
                         },
                         {
@@ -4107,14 +3750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁぁ！」"
+                                "Umi \"Aaah!\""
                             ]
                         },
                         {
@@ -4131,14 +3767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何今の！激しく腰を打ち付けられたの！まるで頭の先まで電気が走ったような…）"
+                                "Umi (What was that just now! He slammed his hips so hard! It's like\nelectricity shot up to the top of my head...)"
                             ]
                         },
                         {
@@ -4155,14 +3784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ…」"
+                                "Goblin A \"Gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -4191,7 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパンパンパンパンパン！！"
+                                "Thump thump thump thump thump thump thump thump!!"
                             ]
                         },
                         {
@@ -4224,14 +3846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「激しい…さっきより…あぁ！もっと速い…」"
+                                "Umi \"So intense... faster than before... ah! Even faster...\""
                             ]
                         },
                         {
@@ -4264,14 +3879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(きっともう射精する気なんだ)"
+                                "Umi (He must be about to ejaculate by now)"
                             ]
                         },
                         {
@@ -4304,14 +3912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（どこに…？）"
+                                "Umi (Where...?)"
                             ]
                         },
                         {
@@ -4344,14 +3945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ！やめてやめて！お願い中に出さないで！」"
+                                "Umi \"No! Stop, stop! Please don't come inside!\""
                             ]
                         },
                         {
@@ -4368,21 +3962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はこの期に及んで慌てふためいた。きっと本能が反射的に防衛の指令を出したのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体の中にゴブリンの精液を出されるという現実を前に、私の身体を嫌悪感と恐怖が支配"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "した。"
+                                "In this critical moment, I panicked. Instinct must have reflexively issued\na defensive command. The reality of having a goblin's semen released inside\nme filled my body with disgust and fear."
                             ]
                         },
                         {
@@ -4399,7 +3979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう帰れない。もう生きられないと知りながら、私はそれでも嫌だった。"
+                                "I knew I could never go back. I knew I could no longer live, yet I still\ndetested it."
                             ]
                         },
                         {
@@ -4432,14 +4012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや！いや！いや！お願い中はやめて！」"
+                                "Umi \"No! No! No! Please, not inside!\""
                             ]
                         },
                         {
@@ -4456,14 +4029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒ」"
+                                "Goblin A \"Gehi gehi gehi\""
                             ]
                         },
                         {
@@ -4480,7 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパンパンパン！"
+                                "Thump thump thump thump thump thump!"
                             ]
                         },
                         {
@@ -4497,14 +4063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「グゥゥゥ！」"
+                                "Goblin A \"Grrrrr!\""
                             ]
                         },
                         {
@@ -4607,14 +4166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁぁぁぁぁ！」"
+                                "Umi \"Noooooo!\""
                             ]
                         },
                         {
@@ -4732,7 +4284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビュッビュッビュッ！"
+                                "Splurt splurt splurt!"
                             ]
                         },
                         {
@@ -4777,14 +4329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ああぁぁぁ！」"
+                                "Umi \"Aaaahhh!\""
                             ]
                         },
                         {
@@ -4817,14 +4362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（嫌…ウミの中にゴブリンの精子が…）"
+                                "Umi (No... the goblin's sperm is inside Umi...)"
                             ]
                         },
                         {
@@ -4857,14 +4395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（……クル…）"
+                                "Umi (...Kru...)"
                             ]
                         },
                         {
@@ -4897,14 +4428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅぅう…」"
+                                "Umi \"Uuuu...\""
                             ]
                         },
                         {
@@ -4921,14 +4445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＢ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ツギ…オデ…」"
+                                "Goblin B \"Next... my turn...\""
                             ]
                         },
                         {
@@ -4973,14 +4490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ？」"
+                                "Umi \"Huh?\""
                             ]
                         },
                         {
@@ -5013,14 +4523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（もう終わりじゃないの…お願い終わって…）"
+                                "Umi (It's not over yet... please let it be over...)"
                             ]
                         },
                         {
@@ -5037,14 +4540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はそんなわけないことは薄々わかっていた…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで終わるわけがないことくらい。"
+                                "I had a faint idea that it couldn't end like this..."
                             ]
                         },
                         {
@@ -5061,14 +4557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも私は恐怖や悔恨の念や色々な感情がごちゃ混ぜになった頭で、もうまともに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考える事ができなくなっていた。"
+                                "But my head was a mess of fear, regret, and various other emotions, and I\ncouldn't think straight anymore."
                             ]
                         },
                         {
@@ -5085,7 +4574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただただ早く終わらせてほしい…。それだけを思って時の流れに身を任せた…。"
+                                "All I wanted was for it to end quickly... I just surrendered to the passage\nof time..."
                             ]
                         },
                         {
@@ -5231,7 +4720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一通り私を犯し終えたゴブリン達は、二度目の強姦を開始し始めた。"
+                                "The goblins, having had their way with me, began to start their second\nround of rape."
                             ]
                         },
                         {
@@ -5264,14 +4753,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン達は自分たちがジャイアントフロッグの腹から逃れられないという事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知ってか、執拗に私を犯した。"
+                                "Knowing they couldn't escape the belly of the giant frog, the goblins\nviolated me persistently."
                             ]
                         },
                         {
@@ -5304,14 +4786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁ…やっ…やめ…」"
+                                "Umi \"Haa haa... stop... please...\""
                             ]
                         },
                         {
@@ -5328,14 +4803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「キモチイイ…イワナイ…イワス」"
+                                "Goblin A \"Feels good... don't want to stop...\""
                             ]
                         },
                         {
@@ -5352,7 +4820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンパンパンパン！"
+                                "Thrust thrust thrust thrust!"
                             ]
                         },
                         {
@@ -5385,14 +4853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はもう感覚がマヒしてきたのか、痛いのか気持ちいいのか恐いのか嫌なのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わからなくなっていた。"
+                                "I couldn't tell anymore if I was numb, if it hurt, if it felt good, if it\nwas scary, or if it was disgusting."
                             ]
                         },
                         {
@@ -5409,14 +4870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンＡ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒゲヒゲヒ…」"
+                                "Goblin A \"Gehi gehi gehi gehi...\""
                             ]
                         },
                         {
@@ -5449,14 +4903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…あ…」"
+                                "Umi \"Ahh... ah...\""
                             ]
                         },
                         {
@@ -5489,7 +4936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はもう私という感覚も消えていた。"
+                                "I had lost all sense of myself."
                             ]
                         },
                         {
@@ -5522,14 +4969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…あ…」"
+                                "Umi \"Ahh... ah...\""
                             ]
                         },
                         {
@@ -5640,21 +5080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれからどれだけ時間が経っただろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の身体を覆うゴブリンの精液がきっと物語っているのだろうけど、私はもう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が精液で何が胃液で何が私の皮膚なのか分からなくなっていた。"
+                                "How much time has passed since then? The goblin semen covering my body must\ntell the story, but I could no longer tell what was semen, what was gastric\njuice, and what was my own skin."
                             ]
                         },
                         {
@@ -5671,14 +5097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒ…」"
+                                "Goblin \"Gehi gehi...\""
                             ]
                         },
                         {
@@ -5695,14 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゲヒゲヒ…」"
+                                "Goblin \"Gehi gehi...\""
                             ]
                         },
                         {
@@ -5735,14 +5147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ…あっ…あぁ…あ…」"
+                                "Umi \"Haa... ah... ahh... ah...\""
                             ]
                         },
                         {
@@ -5789,14 +5194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…ミーア…族長…村の皆…」"
+                                "Umi \"...Mia... village chief... everyone in the village...\""
                             ]
                         },
                         {
@@ -5813,7 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル…。と私は思った。"
+                                "I thought of Kru..."
                             ]
                         },
                         {
@@ -5830,7 +5228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薄れゆく意識の中で…。私は最後にその名前を口にした。"
+                                "In my fading consciousness... I uttered that name last."
                             ]
                         },
                         {
@@ -5847,14 +5245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………クル」"
+                                "Umi \"...Kru\""
                             ]
                         },
                         {

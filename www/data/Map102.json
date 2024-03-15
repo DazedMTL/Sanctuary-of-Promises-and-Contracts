@@ -17990,14 +17990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どう？聖子の森を出た感想は？」"
+                                "Kru: \"So, how do you feel now that we've left the Forest of Saints?\""
                             ]
                         },
                         {
@@ -18048,14 +18041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。考えないようにしてたけど、もう外の世界にいる？」"
+                                "Umi: \"Yeah. I tried not to think about it, but are we really in the outside\nworld now?\""
                             ]
                         },
                         {
@@ -18072,14 +18058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよ。海も砂漠も山も谷も町もある、外の世界だよ」"
+                                "Kru: \"That's right. The sea, the desert, the mountains, the valleys, and\nthe towns—it's all part of the outside world.\""
                             ]
                         },
                         {
@@ -18096,14 +18075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すごい…。ウミ外の世界に出られた」"
+                                "Umi: \"Amazing... Umi has made it to the outside world.\""
                             ]
                         },
                         {
@@ -18127,14 +18099,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「出られたね。途中震えてたね」"
+                                "Kru: \"You did. You were shaking along the way, weren't you?\""
                             ]
                         },
                         {
@@ -18151,14 +18116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。恐かった。でもオマエが手を引いてくれたから大丈夫だった」"
+                                "Umi: \"Yes. I was scared. But it was okay because you took my hand.\""
                             ]
                         },
                         {
@@ -18175,14 +18133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「よかった。泣き出さないか心配だったんだ」"
+                                "Kru: \"I'm glad. I was worried you might start crying.\""
                             ]
                         },
                         {
@@ -18199,14 +18150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「むぅ…。ウミ泣かない。ウミ強い。」"
+                                "Umi: \"Mmm... Umi won't cry. Umi is strong.\""
                             ]
                         },
                         {
@@ -18223,14 +18167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。ウミはたしかに強い。ちゃんと皆の為に乗り越えたんだから」"
+                                "Kru: \"That's right. Umi is definitely strong. You've overcome this for\neveryone's sake.\""
                             ]
                         },
                         {
@@ -18247,14 +18184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもまだまだ先は長い？」"
+                                "Umi: \"But the journey ahead is still long, isn't it?\""
                             ]
                         },
                         {
@@ -18271,21 +18201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。もう何日も移動しているけど、まだまだかかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　早く薬草を持ち帰りたいところだけど。」"
+                                "Kru: \"Yeah. We've been traveling for many days now, but it's still going to\ntake a while. I wish we could bring back the medicinal herbs quickly.\""
                             ]
                         },
                         {
@@ -18302,14 +18218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「焦るね」"
+                                "Umi: \"It's frustrating.\""
                             ]
                         },
                         {
@@ -18326,14 +18235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。でも焦ってはことを仕損じると思うから、平常心でいこう」"
+                                "Kru: \"Yeah. But I think rushing will only lead to mistakes, so let's stay\ncalm.\""
                             ]
                         },
                         {
@@ -18350,14 +18252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「仕損じたことある？」"
+                                "Umi: \"Have you ever made a mistake?\""
                             ]
                         },
                         {
@@ -18374,14 +18269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃあるよ。たとえば崖の上から落ちて川に流されるとか」"
+                                "Kru: \"Of course. Like falling off a cliff and getting swept away by a\nriver.\""
                             ]
                         },
                         {
@@ -18398,14 +18286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは！そうだな、仕損じたな。あの時は焦った？」"
+                                "Umi: \"Hahaha! That's true, that was a blunder. Were you in a panic then?\""
                             ]
                         },
                         {
@@ -18422,14 +18303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。あとちょっとでミーアが喰われてたからな。あの時とっさに身体が動いて本当によかった」"
+                                "Kru: \"Yeah. And just a little more and Mi-A would have been eaten. It was\nreally good that my body moved instinctively at that moment.\""
                             ]
                         },
                         {
@@ -18446,14 +18320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ありがとう。お陰で大怪我したけど」"
+                                "Umi: \"Thank you. I got seriously injured because of it, though.\""
                             ]
                         },
                         {
@@ -18470,14 +18337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ。でもお陰でいい思い出がたくさんできた」"
+                                "Kru: \"Yeah. But thanks to that, we made a lot of good memories.\""
                             ]
                         },
                         {
@@ -18494,14 +18354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「思い出か…」"
+                                "Umi: \"Memories, huh...\""
                             ]
                         },
                         {
@@ -18518,14 +18371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう」"
+                                "Kru: \"That's right.\""
                             ]
                         },
                         {
@@ -18542,14 +18388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「オマエの身体はもう治った。王国に帰るのか？」"
+                                "Umi: \"Your body has healed now. Are you going back to the kingdom?\""
                             ]
                         },
                         {
@@ -18566,14 +18405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。任務の報告もしなきゃいけないし。帰らなきゃな」"
+                                "Kru: \"I suppose so. I have to report back on my mission. I have to return.\""
                             ]
                         },
                         {
@@ -18590,14 +18422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか…」"
+                                "Umi: \"I see...\""
                             ]
                         },
                         {
@@ -18614,14 +18439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…ウミ？」"
+                                "Kru: \"...Umi?\""
                             ]
                         },
                         {
@@ -18638,14 +18456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅん。ウミ眠くなってきた。寝る」"
+                                "Umi: \"Mmm. Umi is getting sleepy. Going to sleep.\""
                             ]
                         },
                         {
@@ -18662,14 +18473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん。おやすみ」"
+                                "Kru: \"Okay. Goodnight.\""
                             ]
                         },
                         {
@@ -18686,14 +18490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミの帰るのかという質問で、僕ははっと現実に引き戻されたような感覚に襲われた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ。僕はこの村の住人じゃない。僕は王国の兵士だ。"
+                                "Umi's question about whether I was going home made me suddenly feel as if I\nwas snapped back to reality. That's right. I'm not a villager here. I'm a\nsoldier of the kingdom."
                             ]
                         },
                         {
@@ -18710,14 +18507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも質問をしてきたウミの顔は少し寂しげで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その陰りを払拭する為の勇気が僕には少し足りなくて。"
+                                "But Umi's face when she asked the question looked a bit lonely, and I found\nmyself lacking the courage to dispel that shadow."
                             ]
                         },
                         {
@@ -18734,7 +18524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのまま焚火の揺らめきを眺めながら僕はいつの間にか眠りについた。"
+                                "I ended up falling asleep before I knew it, while watching the flickering\nof the campfire."
                             ]
                         },
                         {

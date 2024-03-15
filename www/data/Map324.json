@@ -1727,14 +1727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ」"
+                                "Iburu: \"...Umi.\""
                             ]
                         },
                         {
@@ -1785,14 +1778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -1825,14 +1811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「辛い事があったら酒持って来い…。一緒に飲もう…」"
+                                "Iburu: \"If something's troubling you, bring some liquor... Let's drink\ntogether...\""
                             ]
                         },
                         {
@@ -1998,14 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……いい酒持ってるじゃないか…。一緒に飲むか？」"
+                                "Iburu: \"Umi... you've got some good booze there... care to drink together?\""
                             ]
                         },
                         {
@@ -2022,7 +1994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブルとお酒を飲みますか？"
+                                "Will you drink with Iburu?"
                             ]
                         },
                         {
@@ -2030,8 +2002,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2237,14 +2209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ」"
+                                "Iburu: \"...Umi.\""
                             ]
                         },
                         {
@@ -2295,14 +2260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -2335,14 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また一緒に飲もう…」"
+                                "Iburu: \"Let's drink together again...\""
                             ]
                         },
                         {
@@ -2508,14 +2459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……いい酒持ってるじゃないか…。一緒に飲むか？」"
+                                "Iburu: \"Umi... you've got some good booze there... care to join me for a\ndrink?\""
                             ]
                         },
                         {
@@ -2532,7 +2476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブルとお酒を飲みますか？"
+                                "Will you drink with Iburu?"
                             ]
                         },
                         {
@@ -2540,8 +2484,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2747,14 +2691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ」"
+                                "Iburu: \"...Umi.\""
                             ]
                         },
                         {
@@ -2805,14 +2742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -2845,14 +2775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大丈夫か？また…一緒に飲もう…」"
+                                "Iburu: \"Are you okay? Let's... have another drink together...\""
                             ]
                         },
                         {
@@ -2984,14 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントが進むとイーブルエンドに進みます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別ファイルにセーブしておく事を推奨します。"
+                                "As the event progresses, you will move towards the Iburu ending. It is\nrecommended to save in a separate file."
                             ]
                         },
                         {
@@ -3008,7 +2924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -3016,8 +2932,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3109,14 +3025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミ……いい酒持ってるじゃないか…。一緒に飲むか？」"
+                                "Iburu: \"Umi... you've got some good booze there... care to drink together?\""
                             ]
                         },
                         {
@@ -3133,7 +3042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブルとお酒を飲みますか？"
+                                "Will you drink alcohol with Iburu?"
                             ]
                         },
                         {
@@ -3141,8 +3050,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3348,14 +3257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……ウミ」"
+                                "Iburu: \"...Umi.\""
                             ]
                         },
                         {
@@ -3406,14 +3308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「………」"
+                                "Umi: \"...\""
                             ]
                         },
                         {
@@ -3446,14 +3341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「辛い事があったら酒持って来い…。一緒に飲もう…」"
+                                "Iburu: \"If you're going through a tough time, bring some liquor... Let's\ndrink together...\""
                             ]
                         },
                         {

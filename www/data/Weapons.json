@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--武器Lv1--",
+        "name": "--Weapon Lv1--",
         "note": "",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 6,
-        "description": "【剣/攻+10】\n青銅で作られた剣。",
+        "description": "[Sword/Attack+10] A sword made of bronze.",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "青銅の剣",
+        "name": "Bronze Sword",
         "note": "",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 11,
-        "description": "【槍/攻+10】\n先端が青銅で作られた槍。",
+        "description": "[Spear/Attack+10] A spear with a bronze tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "青銅の槍",
+        "name": "Bronze Spear",
         "note": "",
         "params": [
             0,
@@ -102,7 +102,7 @@
     {
         "id": 4,
         "animationId": 1,
-        "description": "【杖/攻+8/魔力+2】\n樫の木で作られた杖。",
+        "description": "[Staff/Attack+8/M. Power+2] A staff made of oak.",
         "etypeId": 1,
         "traits": [
             {
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "樫の杖",
+        "name": "Oak Staff",
         "note": "",
         "params": [
             0,
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 6,
-        "description": "【弓/攻+10】\n丈夫な木で作られた弓。",
+        "description": "[Bow/Attack+10] A bow made of sturdy wood.",
         "etypeId": 1,
         "traits": [
             {
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "木の弓",
+        "name": "Wooden Bow",
         "note": "",
         "params": [
             0,
@@ -183,7 +183,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--武器Lv2--",
+        "name": "--Weapon Lv2--",
         "note": "",
         "params": [
             0,
@@ -201,7 +201,7 @@
     {
         "id": 7,
         "animationId": 6,
-        "description": "【剣/攻+17/+睡眠】\n斬りつけた者を眠らせる力を秘めた剣。",
+        "description": "[Sword/Attack+17/+Sleep] A sword with the power to put those it slashes to\nsleep.",
         "etypeId": 1,
         "traits": [
             {
@@ -221,7 +221,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "眠りの剣",
+        "name": "Sword of Sleep",
         "note": "",
         "params": [
             0,
@@ -239,7 +239,7 @@
     {
         "id": 8,
         "animationId": 6,
-        "description": "【剣/攻+23】\n鉄で作られた無骨な剣。",
+        "description": "[Sword/Attack+23] A crude sword made of iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -254,7 +254,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鉄の剣",
+        "name": "Iron Sword",
         "note": "",
         "params": [
             0,
@@ -272,7 +272,7 @@
     {
         "id": 9,
         "animationId": 6,
-        "description": "【槍/攻+18/+毒】\n先端に毒が塗られている槍。",
+        "description": "[Spear/Attack+18/+Poison] A spear with a poisoned tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -292,7 +292,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "毒の槍",
+        "name": "Poison Spear",
         "note": "",
         "params": [
             0,
@@ -310,7 +310,7 @@
     {
         "id": 10,
         "animationId": 6,
-        "description": "【槍/攻+23】\n鉄で作られた、一般的な形の槍。",
+        "description": "[Spear/Attack+23] A spear of a common shape, made of iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -325,7 +325,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "鉄の槍",
+        "name": "Iron Spear",
         "note": "",
         "params": [
             0,
@@ -343,7 +343,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "【杖/攻+14/魔力+4/+スタン】\n殴った相手を転倒させる程の衝撃力を秘めた杖。",
+        "description": "[Staff/Attack+14/M. Power+4/+Stun] A staff with enough impact to knock down\nthe opponent.",
         "etypeId": 1,
         "traits": [
             {
@@ -363,7 +363,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "転倒の杖",
+        "name": "Staff of Tripping",
         "note": "",
         "params": [
             0,
@@ -381,7 +381,7 @@
     {
         "id": 12,
         "animationId": 1,
-        "description": "【杖/攻+19/魔力+5】\n鉄で作られた無骨な杖。",
+        "description": "[Staff/Attack+19/M. Power+5] A crude staff made of iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -396,7 +396,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "鉄の杖",
+        "name": "Iron Staff",
         "note": "",
         "params": [
             0,
@@ -414,7 +414,7 @@
     {
         "id": 13,
         "animationId": 11,
-        "description": "【弓/攻+16/+沈黙】\n魔法を封じる矢を、放つことができる弓。",
+        "description": "[Bow/Attack+16/+Silence] A bow capable of shooting arrows that seal magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -434,7 +434,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "魔封じの弓",
+        "name": "Bow of Magic Seal",
         "note": "",
         "params": [
             0,
@@ -452,7 +452,7 @@
     {
         "id": 14,
         "animationId": 11,
-        "description": "【弓/攻+21】\n狩猟者に愛用されている大きめの弓。",
+        "description": "[Bow/Attack+21] A large bow favored by hunters.",
         "etypeId": 1,
         "traits": [
             {
@@ -467,7 +467,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "狩人の弓",
+        "name": "Hunter's Bow",
         "note": "",
         "params": [
             0,
@@ -500,7 +500,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--武器Lv3--",
+        "name": "--Weapon Lv3--",
         "note": "",
         "params": [
             0,
@@ -518,7 +518,7 @@
     {
         "id": 16,
         "animationId": 6,
-        "description": "【剣/攻+27/防+5】\n相手の攻撃を受け止められるほどの大きさがある剣。",
+        "description": "[Sword/Attack+27/Defense+5] A sword large enough to block an opponent's\nattack.",
         "etypeId": 1,
         "traits": [
             {
@@ -533,7 +533,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "守りの大剣",
+        "name": "Greatsword of Protection",
         "note": "",
         "params": [
             0,
@@ -551,7 +551,7 @@
     {
         "id": 17,
         "animationId": 6,
-        "description": "【剣/攻+33】\n鉄をさらに鍛え、強度と切れ味を強化した剣",
+        "description": "[Sword/Attack+33] A sword with enhanced strength and sharpness, forged from\nfurther refined iron.",
         "etypeId": 1,
         "traits": [
             {
@@ -566,7 +566,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鋼鉄の剣",
+        "name": "Steel Sword",
         "note": "",
         "params": [
             0,
@@ -584,7 +584,7 @@
     {
         "id": 18,
         "animationId": 11,
-        "description": "【槍/攻+28/敏+8】\n使用者の動きが素早くなる力を秘めた槍。",
+        "description": "[Spear/Attack+28/Agility+8] A spear with the power to quicken the user's\nmovements.",
         "etypeId": 1,
         "traits": [
             {
@@ -599,7 +599,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "韋駄天の槍",
+        "name": "Spear of Swiftness",
         "note": "",
         "params": [
             0,
@@ -617,7 +617,7 @@
     {
         "id": 19,
         "animationId": 11,
-        "description": "【槍/攻+35】\n先端が三つに分かれている槍。",
+        "description": "[Spear/Attack+35] A spear with a tripartite tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -632,7 +632,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "三叉の槍",
+        "name": "Trident Spear",
         "note": "",
         "params": [
             0,
@@ -650,7 +650,7 @@
     {
         "id": 20,
         "animationId": 1,
-        "description": "【杖/攻+24/魔力+7】\n術者の魔法力を引き上げてくれる、魔法使い御用達の杖。",
+        "description": "[Staff/Attack+24/M. Power+7] A staff favored by magicians, it boosts the\nwielder's magical power.",
         "etypeId": 1,
         "traits": [
             {
@@ -665,7 +665,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "魔道士の杖",
+        "name": "Sorcerer's Staff",
         "note": "",
         "params": [
             0,
@@ -683,7 +683,7 @@
     {
         "id": 21,
         "animationId": 1,
-        "description": "【杖/攻+37/魔力-37】\n魔法力を打撃力へと変換する杖。",
+        "description": "[Staff/Attack+37/M. Power-37] A staff that converts magical power into\nstriking force.",
         "etypeId": 1,
         "traits": [
             {
@@ -698,7 +698,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "力の杖",
+        "name": "Staff of Power",
         "note": "",
         "params": [
             0,
@@ -716,7 +716,7 @@
     {
         "id": 22,
         "animationId": 11,
-        "description": "【弓/攻+26】\n動物の部位や金属等で補強された弓。",
+        "description": "[Bow/Attack+26] A bow reinforced with animal parts or metal.",
         "etypeId": 1,
         "traits": [
             {
@@ -731,7 +731,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "合成弓",
+        "name": "Composite Bow",
         "note": "",
         "params": [
             0,
@@ -749,7 +749,7 @@
     {
         "id": 23,
         "animationId": 11,
-        "description": "【弓/攻+32/魔防+5】\n妖精の森の木で作られた、魔法攻撃に強くなる弓。",
+        "description": "[Bow/Attack+32/M. Defense+5] A bow made from the trees of the fairy forest,\nstrong against magical attacks.",
         "etypeId": 1,
         "traits": [
             {
@@ -764,7 +764,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "妖精の弓",
+        "name": "Fairy's Bow",
         "note": "",
         "params": [
             0,
@@ -797,7 +797,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "--武器Lv4--",
+        "name": "--Weapon Lv4--",
         "note": "",
         "params": [
             0,
@@ -815,7 +815,7 @@
     {
         "id": 25,
         "animationId": 7,
-        "description": "銀色に輝く、美しくも鋭い切れ味を誇る剣。",
+        "description": "A sword that shines silver, boasting a beautiful yet sharp edge.",
         "etypeId": 1,
         "traits": [
             {
@@ -830,7 +830,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "神指の剣",
+        "name": "Sword of Divine Guidance",
         "note": "",
         "params": [
             0,
@@ -848,7 +848,7 @@
     {
         "id": 26,
         "animationId": 8,
-        "description": "【剣/攻+47/炎属性】\n炎の力を秘めた剣。",
+        "description": "[Sword/Attack+47/Fire Attribute] A sword imbued with the power of fire.",
         "etypeId": 1,
         "traits": [
             {
@@ -863,7 +863,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "炎の剣",
+        "name": "Sword of Flames",
         "note": "",
         "params": [
             0,
@@ -881,7 +881,7 @@
     {
         "id": 27,
         "animationId": 12,
-        "description": "銀色に輝く、貫通力を増した槍。",
+        "description": "A spear that shines silver, with increased piercing power.",
         "etypeId": 1,
         "traits": [
             {
@@ -896,7 +896,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "獣王の槍",
+        "name": "Spear of the Beast King",
         "note": "",
         "params": [
             0,
@@ -914,7 +914,7 @@
     {
         "id": 28,
         "animationId": 14,
-        "description": "【槍/攻+49/氷属性】\n氷の力を秘めた槍。",
+        "description": "[Spear/Attack+49/Ice Attribute] A spear imbued with the power of ice.",
         "etypeId": 1,
         "traits": [
             {
@@ -929,7 +929,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "氷の槍",
+        "name": "Icicle Spear",
         "note": "",
         "params": [
             0,
@@ -947,7 +947,7 @@
     {
         "id": 29,
         "animationId": 1,
-        "description": "神の杖",
+        "description": "The Staff of Gods",
         "etypeId": 1,
         "traits": [
             {
@@ -962,7 +962,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ルイテシアの杖",
+        "name": "Luitesia's Staff",
         "note": "",
         "params": [
             0,
@@ -980,7 +980,7 @@
     {
         "id": 30,
         "animationId": 5,
-        "description": "【杖/攻+41/魔力+12/雷属性】\n雷の力を秘めた杖。",
+        "description": "[Staff/Attack+41/M. Power+12/Lightning Attribute] A staff imbued with the\npower of lightning.",
         "etypeId": 1,
         "traits": [
             {
@@ -995,7 +995,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "雷鳴の杖",
+        "name": "Staff of Thunderclap",
         "note": "",
         "params": [
             0,
@@ -1013,7 +1013,7 @@
     {
         "id": 31,
         "animationId": 11,
-        "description": "【弓/攻+39】\n白銀に輝く、強度と射出性が強化された弓。",
+        "description": "[Bow/Attack+39] A silver-shining bow with enhanced strength and shooting\ncapability.",
         "etypeId": 1,
         "traits": [
             {
@@ -1028,7 +1028,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "白銀の弓",
+        "name": "Silver Bow",
         "note": "",
         "params": [
             0,
@@ -1046,7 +1046,7 @@
     {
         "id": 32,
         "animationId": 15,
-        "description": "【弓/攻+46/雷属性】\n放った矢に雷の力を与える弓。",
+        "description": "[Bow/Attack+46/Lightning Attribute] A bow that bestows the power of\nlightning to its arrows.",
         "etypeId": 1,
         "traits": [
             {
@@ -1061,7 +1061,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "雷閃の弓",
+        "name": "Bow of Lightning Flash",
         "note": "",
         "params": [
             0,
@@ -1079,7 +1079,7 @@
     {
         "id": 33,
         "animationId": 15,
-        "description": "銀色に輝く、貫通力を増した槍。",
+        "description": "A spear that shines silver, with increased piercing power.",
         "etypeId": 1,
         "traits": [
             {
@@ -1094,7 +1094,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ライトニングランス",
+        "name": "Lightning Lance",
         "note": "",
         "params": [
             0,
@@ -1112,7 +1112,7 @@
     {
         "id": 34,
         "animationId": 26,
-        "description": "銀色に輝く、貫通力を増した槍。",
+        "description": "A spear that shines silver, with increased piercing power.",
         "etypeId": 1,
         "traits": [
             {
@@ -1127,7 +1127,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ホーリーランス",
+        "name": "Holy Lance",
         "note": "",
         "params": [
             0,
@@ -1145,7 +1145,7 @@
     {
         "id": 35,
         "animationId": 27,
-        "description": "銀色に輝く、貫通力を増した槍。",
+        "description": "A spear that shines silver, with increased piercing power.",
         "etypeId": 1,
         "traits": [
             {
@@ -1160,7 +1160,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "アルティメットランス",
+        "name": "Ultimate Lance",
         "note": "",
         "params": [
             0,

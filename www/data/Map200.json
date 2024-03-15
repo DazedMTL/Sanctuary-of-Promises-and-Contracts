@@ -3267,14 +3267,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほっほっほ！ようやく重い腰を上げてくれるようになったか」"
+                                "Chieftain \"Hohoho! You've finally decided to get off your heavy backside,\neh?\""
                             ]
                         },
                         {
@@ -3291,14 +3284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい…。そろそろきちんと向き合おうと思いまして」"
+                                "Kru \"Yes... I thought it was about time to face it properly.\""
                             ]
                         },
                         {
@@ -3315,14 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ずっと待っておったぞ。では説明をするぞい」」"
+                                "Chieftain \"I've been waiting for this moment. Now, let me explain.\""
                             ]
                         },
                         {
@@ -3339,14 +3318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長！」"
+                                "Villager \"Chieftain!\""
                             ]
                         },
                         {
@@ -3493,14 +3465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんじゃ慌てて！」"
+                                "Chieftain \"What's the rush?\""
                             ]
                         },
                         {
@@ -3517,14 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いいから！村の入り口まで来てください！」"
+                                "Villager \"Just come! Please come to the village entrance!\""
                             ]
                         },
                         {
@@ -3541,14 +3499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほう分かったから落ち着くのじゃ」"
+                                "Chieftain \"Hmm, alright, calm down.\""
                             ]
                         },
                         {
@@ -3565,14 +3516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いったいなんでしょう」"
+                                "Kru \"What on earth could it be?\""
                             ]
                         },
                         {
@@ -3677,14 +3621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルよ、昨日はすまなんだ。わざわざ来てくれたのに…」"
+                                "Chief: \"Kru, I apologize for yesterday. You went out of your way to\ncome...\""
                             ]
                         },
                         {
@@ -3701,14 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それは問題ないです。気になさらないで下さい。バンカとはどういった話に？」"
+                                "Kru: \"It's no problem. Please don't worry about it. What did you discuss\nwith Banka?\""
                             ]
                         },
                         {
@@ -3725,21 +3655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それなんじゃが、どうやら本人は反省しておるようじゃし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　村に置いてやろうという事になっての」"
+                                "Chief: \"Well, it seems he is reflecting on his actions, and we've decided\nto let him stay in the village.\""
                             ]
                         },
                         {
@@ -3756,21 +3672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村の連中はバンカに不信感を持っておるようじゃからゆっくり信用を回復して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　いこうとそういう話になったのじゃ」"
+                                "Chief: \"The villagers are still distrustful of Banka, so we've agreed that\nhe should take his time to regain their trust.\""
                             ]
                         },
                         {
@@ -3787,14 +3689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうですか。まあ皆無事だったわけだし、過去の事は水に流しましょう」"
+                                "Kru: \"I see. Well, everyone is safe, so let's let bygones be bygones.\""
                             ]
                         },
                         {
@@ -3845,14 +3740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん…ありがとう」"
+                                "Banka: \"Kru-san... thank you.\""
                             ]
                         },
                         {
@@ -3869,14 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、オレに礼なんて…。なんか調子狂うな」"
+                                "Kru: \"No, you don't need to thank me... it feels weird.\""
                             ]
                         },
                         {
@@ -3909,21 +3790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや、親父から聞いた。クルさんが村の為にどれだけの事をしてくれたか…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　感謝してもしきれねぇ…」"
+                                "Banka: \"No, I heard from my father. About everything you've done for the\nvillage... I can't thank you enough...\""
                             ]
                         },
                         {
@@ -3940,14 +3807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まあそういうことならそれで…。これからはこの村の為にお互い尽力しよう」"
+                                "Kru: \"Well, if that's the case... From now on, let's both do our best for\nthe village.\""
                             ]
                         },
                         {
@@ -3980,14 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Banka: \"Yes!\""
                             ]
                         },
                         {
@@ -4004,28 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこでじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　この村の族長になる為には三つの試練をくぐり抜けて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クセシレイ様に認めてもらわねばならんのじゃ」"
+                                "Chief: \"So then. To become the chief of this village, one must pass through\nthree trials and be acknowledged by Lord Kuseshirei.\""
                             ]
                         },
                         {
@@ -4042,14 +3874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「三つの試練ですか？」"
+                                "Kru: \"Three trials?\""
                             ]
                         },
                         {
@@ -4066,21 +3891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ三つのクセシレイ様にまつわるダンジョンに行き、宝玉を持ち帰ってほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そして契約を果たして晴れて族長になれるというわけじゃ」"
+                                "Chief: \"That's right. You must go to the three dungeons associated with\nLord Kuseshirei, bring back the jewels, and fulfill the contract to\nofficially become the chief.\""
                             ]
                         },
                         {
@@ -4097,14 +3908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど…。わかりました、行きましょう」"
+                                "Kru: \"I see... Understood, let's go.\""
                             ]
                         },
                         {
@@ -4121,14 +3925,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そこでこのバンカを従者として連れて行ってほしいのじゃ」"
+                                "Chief: \"And I want you to take Banka with you as your attendant.\""
                             ]
                         },
                         {
@@ -4145,14 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バンカをですか？」"
+                                "Kru: \"Take Banka with me?\""
                             ]
                         },
                         {
@@ -4169,14 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ。こやつの贖罪の為と修行の為に旅に同行させて欲しいのじゃ」"
+                                "Chief: \"Yes. For his atonement and training, I want him to accompany you on\nyour journey.\""
                             ]
                         },
                         {
@@ -4209,21 +3992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！お願いします！オレ心を入れ替えて一からやり直したいんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　クルさんの元で働かせてくれ！足手まといにはならねぇ！」"
+                                "Banka: \"Kru-san! Please! I want to start over with a new heart! Let me work\nunder you! I won't be a burden!\""
                             ]
                         },
                         {
@@ -4240,14 +4009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも…そんな必要があるかなぁ…」"
+                                "Kru: \"But... is that really necessary...?\""
                             ]
                         },
                         {
@@ -4280,14 +4042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「荷物持ちでもなんでもいい！頼む！」"
+                                "Banka: \"I'll carry your luggage or anything! Please!\""
                             ]
                         },
                         {
@@ -4304,14 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ワシからも頼む。役に立たなんだら置いて行って構わんから」"
+                                "Chief: \"I'm asking you as well. If he's not useful, feel free to leave him\nbehind.\""
                             ]
                         },
                         {
@@ -4328,14 +4076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「…はい、わかりました。他ならぬ族長の頼みですから」"
+                                "Kru: \"...Yes, I understand. It's a request from the chief himself, after\nall.\""
                             ]
                         },
                         {
@@ -4368,14 +4109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルさん！ありがとう！」"
+                                "Banka: \"Kru-san! Thank you!\""
                             ]
                         },
                         {
@@ -4392,14 +4126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルよ。恩に着る。ではすぐにでも出発するのじゃ！」"
+                                "Chief: \"Kru, I am indebted to you. Now, depart at once!\""
                             ]
                         },
                         {
@@ -4416,14 +4143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい！」"
+                                "Kru: \"Yes!\""
                             ]
                         },
                         {
@@ -4571,14 +4291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「長旅ご苦労。終わったようじゃの」"
+                                "Chieftain: \"You've had a long journey. It seems it's finally over.\""
                             ]
                         },
                         {
@@ -4595,14 +4308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。無事に宝玉を取ってきました」"
+                                "Kru: \"Yes. I've safely retrieved the jewel.\""
                             ]
                         },
                         {
@@ -4619,14 +4325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わかった。ではまた次の試練に行く前にしばし休養を取るといい」"
+                                "Chieftain: \"Understood. Then you should take a short rest before you go on\nthe next trial.\""
                             ]
                         },
                         {
@@ -4643,14 +4342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうさせてもらいます」"
+                                "Kru: \"I will do just that.\""
                             ]
                         },
                         {
@@ -4773,14 +4465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さてそろそろ次の試練の洞窟に行ってもらおうか」"
+                                "Chieftain: \"Well then, it's about time to head to the cave for the next\ntrial.\""
                             ]
                         },
                         {
@@ -4797,14 +4482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。わかりました」"
+                                "Kru: \"Yes, understood.\""
                             ]
                         },
                         {
@@ -4821,14 +4499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前の旅ではうちのバンカは良い働きをしていたじゃろうか？」"
+                                "Chieftain: \"During the previous journey, our Banka did a good job, didn't\nhe?\""
                             ]
                         },
                         {
@@ -4845,14 +4516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。ウミが体調悪くなってしまったのですごく助かりました」"
+                                "Kru: \"Yes. It was a great help when Umi fell ill.\""
                             ]
                         },
                         {
@@ -4869,14 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうか。では今回の旅にも連れて行ってやってくれるか」"
+                                "Chieftain: \"Is that so? Then, would you take him along on this journey as\nwell?\""
                             ]
                         },
                         {
@@ -4893,14 +4550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こちらこそ頼みます」"
+                                "Kru: \"I'll be counting on him.\""
                             ]
                         },
                         {
@@ -5005,14 +4655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「今回もうまくいったようじゃの」"
+                                "Chieftain: \"It seems everything went well this time too.\""
                             ]
                         },
                         {
@@ -5029,14 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はい。ウミの体調がまた悪くなった事以外は大丈夫でした」"
+                                "Kru: \"Yes. Everything was fine except for Umi's health deteriorating\nagain.\""
                             ]
                         },
                         {
@@ -5053,14 +4689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クル…」"
+                                "Chieftain: \"Kru...\""
                             ]
                         },
                         {
@@ -5077,14 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長？」"
+                                "Kru: \"Chieftain?\""
                             ]
                         },
                         {
@@ -5101,14 +4723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…なんでもない…」"
+                                "Chieftain: \"No... it's nothing...\""
                             ]
                         },
                         {
@@ -5125,14 +4740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃぁオレは家で休みます」"
+                                "Kru: \"Then I'll go home and rest.\""
                             ]
                         },
                         {

@@ -3063,21 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「シフが村の入口に移動用の魔法陣を作りおった…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　使えば一瞬で王国や呼種の洞窟に行けるようじゃ……」"
+                                "Chieftain: \"Shif has created a teleportation magic circle at the entrance\nof the village... If you use it, you can instantly travel to the kingdom or\nthe Call Species' cave...\""
                             ]
                         },
                         {

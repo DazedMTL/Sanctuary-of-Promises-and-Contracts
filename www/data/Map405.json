@@ -3063,14 +3063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「冬が越せるかのぅ…」"
+                                "Chieftain: \"I wonder if we can survive the winter...\""
                             ]
                         },
                         {
@@ -3427,14 +3420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「古くて長そうな本だなぁ」"
+                                "Kru: \"This looks like an old and lengthy book.\""
                             ]
                         },
                         {
@@ -3451,14 +3437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タイトル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「神クセシレイの巫女」"
+                                "Title: \"The Shrine Maiden of the God Kuseshirei\""
                             ]
                         },
                         {
@@ -3475,7 +3454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "読みますか？"
+                                "Would you like to read it?"
                             ]
                         },
                         {
@@ -3483,8 +3462,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3514,7 +3493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "古来よりクセシレイ様に選ばれし巫女には、頬に赤い痣が刻まれるという。"
+                                "It is said that the shrine maidens chosen by Lord Kuseshirei since ancient\ntimes bear a red birthmark on their cheeks."
                             ]
                         },
                         {
@@ -3531,7 +3510,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それはクセシの民にのみ現れる不思議な聖痕であり、それは数百年に一人現れた。"
+                                "This mysterious stigmata appears only among the people of Kuseshi and\nmanifests once every few centuries."
                             ]
                         },
                         {
@@ -3548,7 +3527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神クセシレイの巫女は祭事を通して、神と繋がるとされている…。"
+                                "The shrine maiden of God Kuseshirei is believed to connect with the deity\nthrough the rituals..."
                             ]
                         },
                         {
@@ -3565,7 +3544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "祭事は…間にわたり…れ……交……液……壇…現……"
+                                "The ritual is... spanning... unable to read... inter... fluid... altar...\nappear..."
                             ]
                         },
                         {
@@ -3582,7 +3561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "かすれていて読めない…。"
+                                "The text is too faded to read..."
                             ]
                         },
                         {

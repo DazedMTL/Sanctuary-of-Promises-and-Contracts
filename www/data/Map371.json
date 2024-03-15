@@ -2938,14 +2938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イーブル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「急いで探したほうがいい…。そう遠くへは行っていないはずだ…」"
+                                "Iburu: \"We better hurry up and search... She can't have gone too far...\""
                             ]
                         },
                         {
@@ -3056,14 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まったく……あれほど調教したというのにまだまだ堕ちておらんようだのぉ」"
+                                "Chancellor Shif: \"Good grief... Despite all the training, it seems she\nstill hasn't fallen completely.\""
                             ]
                         },
                         {
@@ -3096,14 +3082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これでは儀式が始められんではないか」"
+                                "Chancellor Shif: \"At this rate, we can't begin the ritual.\""
                             ]
                         },
                         {
@@ -3244,21 +3223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅほぅ…。良い感じに仕上がっているようだのぉ…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どれ儀式を始めるとするか…」"
+                                "Chancellor Shif \"Ho-ho... It seems to be shaping up nicely... Now, shall we\nbegin the ritual...\""
                             ]
                         },
                         {
@@ -3275,7 +3240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第一の儀式を始めますか？"
+                                "Would you like to start the first ritual?"
                             ]
                         },
                         {
@@ -3283,8 +3248,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3493,14 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まだ足りんのぉ…。お前、村の皆を救いたくはないのか？」"
+                                "Shif \"Still not enough... Don't you want to save everyone in the village?\""
                             ]
                         },
                         {
@@ -3551,14 +3509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「救いたいです…」"
+                                "Umi \"I do want to save them...\""
                             ]
                         },
                         {
@@ -3591,14 +3542,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「では精進する事だ…」"
+                                "Shif \"Then you must devote yourself more...\""
                             ]
                         },
                         {
@@ -3764,14 +3708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほぅほぅ…。良いのぉ。どれ儀式を始めるとするか…」"
+                                "Shif \"Hmm, very well... Let us begin the ritual...\""
                             ]
                         },
                         {
@@ -3788,7 +3725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第二の儀式を始めますか？"
+                                "Would you like to start the second ritual?"
                             ]
                         },
                         {
@@ -3796,8 +3733,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3999,14 +3936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もう少しだのぅ…。しかし…あの初心だった女がのぅ…」"
+                                "Shif \"Just a little more... However... that once innocent girl...\""
                             ]
                         },
                         {
@@ -4039,14 +3969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「また来い…」"
+                                "Shif \"Come again...\""
                             ]
                         },
                         {
@@ -4153,14 +4076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントが進むとシフエンドに進みます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別ファイルにセーブしておく事を推奨します。"
+                                "Progressing through the event will lead to Shif's ending. It is recommended\nto save in a separate file."
                             ]
                         },
                         {
@@ -4177,7 +4093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -4185,8 +4101,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4278,14 +4194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はっはっはっ！時は来た！どれ儀式を始めるぞ！」"
+                                "Chancellor Shif: \"Hahahaha! The time has come! Let us begin the ceremony!\""
                             ]
                         },
                         {
@@ -4302,7 +4211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後の儀式を始めますか？"
+                                "Would you like to start the final ceremony?"
                             ]
                         },
                         {
@@ -4310,8 +4219,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4531,14 +4440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シフ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く呪力を溜めてこい」"
+                                "Shif: \"Hurry up and gather your cursed energy.\""
                             ]
                         },
                         {

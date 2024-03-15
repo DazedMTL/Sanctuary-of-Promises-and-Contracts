@@ -4240,14 +4240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "職人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「さぁ！バリバリ働くぞ！」"
+                                "Artisan: \"Alright! Time to work hard!\""
                             ]
                         },
                         {

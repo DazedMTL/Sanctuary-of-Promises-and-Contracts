@@ -2264,14 +2264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あれ…ウミ…？」"
+                                "Kru: \"Huh... Umi...?\""
                             ]
                         },
                         {
@@ -2288,14 +2281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どこいったんだ……」"
+                                "Kru: \"Where did she go...\""
                             ]
                         },
                         {
@@ -2312,7 +2298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミがいない。村のどこかにいるかもしれません。探しに行きましょう。"
+                                "Umi is not here. She might be somewhere in the village. Let's go look for\nher."
                             ]
                         },
                         {

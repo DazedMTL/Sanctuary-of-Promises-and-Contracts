@@ -1969,14 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia \"Meow~\""
                             ]
                         },
                         {
@@ -2122,7 +2115,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブしますか？"
+                                "Would you like to save?"
                             ]
                         },
                         {
@@ -2130,8 +2123,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2189,7 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしてこんな事になったのだろうか？"
+                                "I wonder how things ended up like this?"
                             ]
                         },
                         {
@@ -2206,14 +2199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルが心配だ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クルのところへ行こうか……"
+                                "I'm worried about Kru... Should I go to him?"
                             ]
                         },
                         {
@@ -2230,7 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クルのところへ行きますか？"
+                                "Shall we go to Kru's place?"
                             ]
                         },
                         {
@@ -2238,8 +2224,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい(純愛ルートへ)",
-                                    "いいえ"
+                                    "Yes (Pure Love Route)",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2278,7 +2264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しん………じて…"
+                                "Believe..."
                             ]
                         },
                         {
@@ -2295,14 +2281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ん？……誰の声…」"
+                                "Umi: \"Hm?... Whose voice...?\""
                             ]
                         },
                         {
@@ -2319,7 +2298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "し………しん……じて………"
+                                "Bel... believe..."
                             ]
                         },
                         {
@@ -2336,14 +2315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「………なんだ……気のせいか…」"
+                                "Umi: \"...What was that... Just my imagination...?\""
                             ]
                         },
                         {
@@ -2360,7 +2332,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "信じてか………。"
+                                "Believe, huh..."
                             ]
                         },
                         {
@@ -2377,7 +2349,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行ってみよう……クルに会いに行こう…"
+                                "Let's go... Let's go see Kru..."
                             ]
                         },
                         {
@@ -2459,7 +2431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダメだ……勇気が出ない……"
+                                "No good... I can't muster the courage..."
                             ]
                         },
                         {
@@ -2621,14 +2593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「クルはおかゆ食べてくれたかな……」"
+                                "Umi: \"I wonder if Kru ate the porridge...\""
                             ]
                         },
                         {
@@ -2645,14 +2610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニヤァァ…」"
+                                "Mia: \"Nyaah...\""
                             ]
                         },
                         {
@@ -2685,14 +2643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだね……。怖がっててもしょうがない。クルにごはんを届けよう」"
+                                "Umi: \"That's right... There's no use being scared. I'll deliver the meal to\nKru.\""
                             ]
                         },
                         {

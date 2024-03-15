@@ -1693,14 +1693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿泊客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁはぁはぁ…。ドキドキする」"
+                                "Lodger \"Haa haa haa... My heart is pounding.\""
                             ]
                         },
                         {
@@ -1777,14 +1770,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿泊客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ふん…ドキドキしちゃう」"
+                                "Lodger: \"Hmph... This is making my heart race.\""
                             ]
                         },
                         {

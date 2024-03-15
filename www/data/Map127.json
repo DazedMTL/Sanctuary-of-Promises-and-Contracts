@@ -4018,14 +4018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうやって聖子の森を出るんだ？」"
+                                "Kru: \"How do we get out of the Sacred Forest?\""
                             ]
                         },
                         {
@@ -4076,14 +4069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それはこの石碑に術をかけると転移することができる」"
+                                "Umi: \"By casting a spell on this stone monument, we can teleport out.\""
                             ]
                         },
                         {
@@ -4100,14 +4086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんな仕組みになっていたんだ…」"
+                                "Kru: \"So that's how it works...\""
                             ]
                         },
                         {
@@ -4140,14 +4119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そう。この森に来る時も同じ。だから誰も来られない」"
+                                "Umi: \"Yes. It's the same when coming to this forest. That's why no one can\nget here.\""
                             ]
                         },
                         {
@@ -4164,21 +4136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほど…。じゃああの時ミーアを助けに行かなかったら、オレは今頃"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　森の中でミイラになってたかもしれないな」"
+                                "Kru: \"I see... If I hadn't gone to save Mia that time, I might have ended\nup a mummy in the forest by now.\""
                             ]
                         },
                         {
@@ -4211,14 +4169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「間違いなくそうなる。そして肉体と魂はクセシレイ様の贄になると言われてる」"
+                                "Umi: \"Without a doubt. And it is said that both the body and soul would\nbecome offerings to Lord Kseshirei.\""
                             ]
                         },
                         {
@@ -4235,14 +4186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「恐い…」"
+                                "Kru: \"Scary...\""
                             ]
                         },
                         {
@@ -4275,14 +4219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「じゃあ行く」"
+                                "Umi: \"Then let's go.\""
                             ]
                         },
                         {
@@ -4460,14 +4397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おう…」"
+                                "Kru: \"Yeah...\""
                             ]
                         },
                         {
@@ -4716,21 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バンカ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はん！あの野郎ども…。この俺様をコケにしやがって…。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　思い知らせてやる…」"
+                                "Banka: \"Hmph! Those bastards... mocking me... I'll make them realize their\nmistake...\""
                             ]
                         },
                         {
@@ -4943,14 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大変！」"
+                                "Umi: \"This is terrible!\""
                             ]
                         },
                         {
@@ -4967,14 +4876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くっ！なんてことだ…。皆！」"
+                                "Kru: \"Damn! What the hell... everyone!\""
                             ]
                         },
                         {
@@ -4991,14 +4893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「早く村に行こう！」"
+                                "Umi: \"Let's hurry to the village!\""
                             ]
                         },
                         {

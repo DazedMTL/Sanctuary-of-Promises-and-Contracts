@@ -2983,14 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまんのぅ…こんな時間に皆に集まってもらって…」"
+                                "Chieftain: \"My apologies... for gathering everyone at such a late hour...\""
                             ]
                         },
                         {
@@ -3007,14 +3000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんですか…こんな時間に」"
+                                "Villager A: \"What's going on... at this time of night?\""
                             ]
                         },
                         {
@@ -3031,14 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな風に集まっているのがバレたら大変な事になるんじゃないですか？」"
+                                "Villager B: \"Isn't it dangerous to gather like this? What if we're found\nout?\""
                             ]
                         },
                         {
@@ -3055,14 +3034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも何かあればバンカ様が何とかしてくれるわ」"
+                                "Villager C: \"But if something happens, Lord Banka will take care of it.\""
                             ]
                         },
                         {
@@ -3079,14 +3051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……バンカのぅ…。どれ」"
+                                "Chieftain: \"Sigh... Banka, huh... well then.\""
                             ]
                         },
                         {
@@ -3157,14 +3122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Villager A: \"Ugh...\""
                             ]
                         },
                         {
@@ -3181,14 +3139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人D"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ頭が……」"
+                                "Villager D: \"Ah, my head...\""
                             ]
                         },
                         {
@@ -3205,14 +3156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人E"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「んぅ……こっこれは…」"
+                                "Villager E: \"Nngh... what is this...?\""
                             ]
                         },
                         {
@@ -3229,14 +3173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なるほどのぉ…さすがイーブルといった所か…」"
+                                "Chieftain: \"I see... As expected of Iburu...\""
                             ]
                         },
                         {
@@ -3253,14 +3190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長…これは…」"
+                                "Villager A: \"Chieftain... what is this...?\""
                             ]
                         },
                         {
@@ -3277,14 +3207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「俺達はいったい…」"
+                                "Villager B: \"What in the world have we...\""
                             ]
                         },
                         {
@@ -3301,14 +3224,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「随分長い夢を見ていたようじゃが…。お主らは催眠に掛かっておったのじゃ…」"
+                                "Chieftain: \"It seems you've all been under a long spell of hypnosis... you\nwere hypnotized...\""
                             ]
                         },
                         {
@@ -3325,14 +3241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「催眠…？」"
+                                "Villager C: \"Hypnosis...?\""
                             ]
                         },
                         {
@@ -3349,14 +3258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人D"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだ……なにかとんでもない勘違いをしていたような…」"
+                                "Villager D: \"What the... it seems like we've made some terrible mistake...\""
                             ]
                         },
                         {
@@ -3373,28 +3275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうじゃ…。村は王国の宰相シフに占領され、村を救った英雄クルの功績を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　全てバンカがやった事のようにすり替えられ…。そしてウミを手籠めにされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　てしもうた…」"
+                                "Chieftain: \"That's right... The village was occupied by Chancellor Shif of\nthe kingdom, and all the heroic deeds of Kru, who saved the village, were\ncredited to Banka... And then Umi was taken as his concubine...\""
                             ]
                         },
                         {
@@ -3411,14 +3292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人E"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ！」"
+                                "Villager E: \"What?!\""
                             ]
                         },
                         {
@@ -3435,14 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人F"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウミちゃんが！」"
+                                "Villager F: \"Umi-chan has?!\""
                             ]
                         },
                         {
@@ -3459,21 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。きっと地獄のような日々じゃったろう。ワシらを人質に取られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　好き勝手されたようじゃから…」"
+                                "Chieftain: \"Yes... she must have been through hellish days. Being held\nhostage and at their mercy...\""
                             ]
                         },
                         {
@@ -3490,14 +3343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人A"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそぉ！なんてこった…」"
+                                "Villager A: \"Damn it! What a disaster...\""
                             ]
                         },
                         {
@@ -3514,14 +3360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人B"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「すまねぇ…ウミちゃん…」"
+                                "Villager B: \"I'm sorry... Umi-chan...\""
                             ]
                         },
                         {
@@ -3538,14 +3377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…。じゃが、ワシは我慢の限界じゃ…。何とか現状を打破したいと考えておる…」"
+                                "Chieftain: \"Yes... but I've reached my limit of patience... I'm thinking of\nhow to break this current situation...\""
                             ]
                         },
                         {
@@ -3562,14 +3394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人C"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でも…どうやって…」"
+                                "Villager C: \"But... how do we...\""
                             ]
                         },
                         {
@@ -3586,14 +3411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "族長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「……滅びの呪術を使おうと思っておる…」"
+                                "Chieftain: \"...I'm considering using the curse of destruction...\""
                             ]
                         },
                         {
@@ -3610,14 +3428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人一同"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっ⁉」"
+                                "All Villagers: \"What?!\""
                             ]
                         },
                         {
@@ -3634,7 +3445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "………。"
+                                "..."
                             ]
                         },
                         {
@@ -3651,7 +3462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……。"
+                                "..."
                             ]
                         },
                         {
@@ -3668,7 +3479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…。"
+                                "..."
                             ]
                         },
                         {

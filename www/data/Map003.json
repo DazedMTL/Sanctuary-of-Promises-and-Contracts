@@ -9679,7 +9679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ここは族長の家じゃ」"
+                                "\"This is the chieftain's house.\""
                             ]
                         },
                         {
@@ -10246,14 +10246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「狩りに行く前にミーアに会いたい…」"
+                                "Umi: \"I want to see Mii-A before we go hunting...\""
                             ]
                         },
                         {
@@ -10270,14 +10263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだな。心配してるだろうし、ウミの家に寄ろう」"
+                                "Kru: \"That's right. She must be worried, let's stop by Umi's house.\""
                             ]
                         },
                         {

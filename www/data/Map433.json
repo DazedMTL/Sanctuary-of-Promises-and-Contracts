@@ -2809,14 +2809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ最新号かい？」"
+                                "Soldier 1: \"Oh, is that the latest issue?\""
                             ]
                         },
                         {
@@ -2833,14 +2826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっへっへっ今度の休みに行こうと思ってな……」"
+                                "Soldier 2: \"Heh heh heh, I'm thinking of going there on my next day off...\""
                             ]
                         },
                         {
@@ -2857,14 +2843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前も好きだねぇ……おっこの新人の子可愛いなぁ…」"
+                                "Soldier 1: \"You sure love this stuff... Oh, this new girl is cute...\""
                             ]
                         },
                         {
@@ -2881,21 +2860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…この子最近入ってきた新人なんだけど。今人気急上昇でな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレもこの前行ってきたんだけど…これがもう可愛くて可愛くて…」"
+                                "Soldier 2: \"No... This girl, she's a newbie who recently joined. She's\nrapidly gaining popularity... I went there the other day and... she was\njust so cute...\""
                             ]
                         },
                         {
@@ -2912,14 +2877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！たしかに…こりゃぁ指名しなきゃな…」"
+                                "Soldier 2: \"Oh! Definitely... I've got to request her...\""
                             ]
                         },
                         {
@@ -2936,14 +2894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ呼ばれてる…」"
+                                "Soldier 1: \"Oh, I'm being called over...\""
                             ]
                         },
                         {
@@ -2965,7 +2916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -3092,21 +3043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこれは……王国の歓楽街のガイドか……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　結局一度も行かなかったな…」"
+                                "Kru: \"This is... a guide to the kingdom's pleasure district... I never\nended up going...\""
                             ]
                         },
                         {
@@ -3153,7 +3090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -3170,14 +3107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？……この子は…」"
+                                "Kru: \"Hm?... This girl is...\""
                             ]
                         },
                         {
@@ -3194,14 +3124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どことなく……ウミに似ているような……」"
+                                "Kru: \"She somewhat... resembles Umi...\""
                             ]
                         },
                         {
@@ -3218,14 +3141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもこの赤い髪は……」"
+                                "Kru: \"But this red hair...\""
                             ]
                         },
                         {
@@ -3242,14 +3158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかな……ウミがここで働く理由があるわけじゃないしな………」"
+                                "Kru: \"It can't be... There's no reason for Umi to be working here...\""
                             ]
                         },
                         {
@@ -3266,7 +3175,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかな………。"
+                                "It can't be..."
                             ]
                         },
                         {
@@ -3388,14 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっまた最新号出たのか…」"
+                                "Soldier 1: \"Oh, the latest issue is out...\""
                             ]
                         },
                         {
@@ -3412,14 +3314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またあの子出てるんだ…。最近人気が高くて中々予約できないんだ…」"
+                                "Soldier 2: \"That girl is featured again... She's been so popular lately,\nit's hard to reserve a copy...\""
                             ]
                         },
                         {
@@ -3436,14 +3331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嘘だろ…オレ今度行こうと思ってたのに…」"
+                                "Soldier 1: \"You're kidding... I was planning to go get it next time...\""
                             ]
                         },
                         {
@@ -3460,14 +3348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…もうオレ達の給料じゃ遊べなくなるぞ…」"
+                                "Soldier 2: \"Yeah... At this rate, we won't be able to afford to play with\nour salaries...\""
                             ]
                         },
                         {
@@ -3484,14 +3365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなのかぁ……でもこの子どこかで見た事…」"
+                                "Soldier 1: \"Is that so... But I feel like I've seen this girl somewhere\nbefore...\""
                             ]
                         },
                         {
@@ -3508,14 +3382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ呼ばれてる…」"
+                                "Soldier 2: \"Oh, we're being called...\""
                             ]
                         },
                         {
@@ -3537,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -3664,14 +3531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またあいつら歓楽街の話してやがる……これは……」"
+                                "Kru: \"Those guys are talking about the pleasure district again... This\nis...\""
                             ]
                         },
                         {
@@ -3688,14 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんて卑猥な格好してるんだ……汚らわしい…ん？」"
+                                "Kru: \"What a lewd outfit... Disgusting... Huh?\""
                             ]
                         },
                         {
@@ -3712,14 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この子はこの間の雑誌に載ってた子か……」"
+                                "Kru: \"Is this the girl from the magazine the other day...?\""
                             ]
                         },
                         {
@@ -3736,14 +3582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うぅ…やはりウミに似ているような……まさか…まさかそんな……)"
+                                "Kru: \"(Ugh... She does look a bit like Umi... No way... It can't be...)\""
                             ]
                         },
                         {
@@ -3760,7 +3599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンドクン……"
+                                "Thump thump..."
                             ]
                         },
                         {
@@ -3777,14 +3616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ページをめくるか…」"
+                                "Kru: \"Should I turn the page...\""
                             ]
                         },
                         {
@@ -3831,7 +3663,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -3848,7 +3680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクン……"
+                                "Thump..."
                             ]
                         },
                         {
@@ -3865,14 +3697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだこれは⁉」"
+                                "Kru: \"What the hell is this⁉\""
                             ]
                         },
                         {
@@ -3889,14 +3714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おいおい…今の王国歓楽街はこんな事までするのか…)"
+                                "Kru: \"(Come on... The kingdom's pleasure district is doing stuff like this\nnow...)\""
                             ]
                         },
                         {
@@ -3913,14 +3731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな、はしたない事を……。人参を使うなんて……」"
+                                "Kru: \"Such indecent acts... Using a carrot like that...\""
                             ]
                         },
                         {
@@ -3937,14 +3748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(本当にウミじゃないよな……)"
+                                "Kru: \"(It really isn't Umi, right...)\""
                             ]
                         },
                         {
@@ -3961,14 +3765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……ダメだ…気が狂いそうになる………」"
+                                "Kru: \"Ah... No good... I feel like I'm going insane...\""
                             ]
                         },
                         {
@@ -3985,7 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違うよな……そうだよな………"
+                                "It's not her, right... It must be..."
                             ]
                         },
                         {
@@ -4107,14 +3904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだよ」"
+                                "Soldier 2: \"What's up?\""
                             ]
                         },
                         {
@@ -4131,14 +3921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この前歓楽街に行ったら…あの雑誌の子…犬の散歩させられてたんだ…」"
+                                "Soldier 1: \"When I went to the pleasure district the other day... I saw\nthat girl from the magazine... being made to walk a dog...\""
                             ]
                         },
                         {
@@ -4155,14 +3938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉ついにあの店にまで入店してたのか…」"
+                                "Soldier 2: \"What?! She's finally working at that place...?\""
                             ]
                         },
                         {
@@ -4179,14 +3955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…これを見てみろ」"
+                                "Soldier 1: \"Yeah... take a look at this.\""
                             ]
                         },
                         {
@@ -4203,14 +3972,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよお前も買ったのか…」"
+                                "Soldier 2: \"What, you bought it too...?\""
                             ]
                         },
                         {
@@ -4227,14 +3989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのはどうでもいいんだ…ほらこれ」"
+                                "Soldier 1: \"That's not important... look at this.\""
                             ]
                         },
                         {
@@ -4251,14 +4006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！本当だ！…こんなスケベな顔して……」"
+                                "Soldier 2: \"Wow! It's true!... Making such a lewd face...\""
                             ]
                         },
                         {
@@ -4275,14 +4023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だろ？……あぁもうオレ達ぜったいこの子と遊べないわぁ…」"
+                                "Soldier 1: \"Right?... Ah, we'll never get to play with her...\""
                             ]
                         },
                         {
@@ -4299,14 +4040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ交代の時間か…」"
+                                "Soldier 2: \"Ah, it's time to switch shifts...\""
                             ]
                         },
                         {
@@ -4328,7 +4062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -4455,14 +4189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴクリ……」"
+                                "Kru: \"Gulp...\""
                             ]
                         },
                         {
@@ -4509,7 +4236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ……"
+                                "Flip..."
                             ]
                         },
                         {
@@ -4526,14 +4253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこれは………」"
+                                "Kru: \"This is...\""
                             ]
                         },
                         {
@@ -4550,14 +4270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこんな……こんな店があったのか………)"
+                                "Kru (There's such a place like this...)"
                             ]
                         },
                         {
@@ -4574,14 +4287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにこれは…こんな恰好で吊るされて……」"
+                                "Kru: \"And this is... being hung up in such an outfit...\""
                             ]
                         },
                         {
@@ -4598,7 +4304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクン…ドクン……"
+                                "Thump... Thump..."
                             ]
                         },
                         {
@@ -4615,14 +4321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうそだろ……」"
+                                "Kru: \"No way...\""
                             ]
                         },
                         {
@@ -4639,14 +4338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな公衆の面前でおしっこをして…その後性交するなんて……)"
+                                "Kru (To do something like peeing in front of the public... and then having\nsex...)"
                             ]
                         },
                         {
@@ -4663,14 +4355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「信じられない…こんなこんな子がウミなはずが！」"
+                                "Kru: \"I can't believe it... there's no way this girl could be Umi!\""
                             ]
                         },
                         {
@@ -4687,7 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムクムクムク……"
+                                "Throb Throb Throb..."
                             ]
                         },
                         {
@@ -4704,14 +4389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……なんで勃起するんだ………」"
+                                "Kru: \"Ugh... why am I getting an erection...\""
                             ]
                         },
                         {
@@ -4728,14 +4406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嘘だろ…ウミ……嘘だと言ってくれ……。違うよな…)"
+                                "Kru (It can't be true... Umi... please tell me it's a lie... it's not true,\nright...)"
                             ]
                         },
                         {
@@ -4752,7 +4423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嘘だと……"
+                                "It can't be..."
                             ]
                         },
                         {
@@ -4867,14 +4538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ……」"
+                                "Soldier 1: \"Haa...\""
                             ]
                         },
                         {
@@ -4891,14 +4555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだ…そんな痩せて…」"
+                                "Soldier 2: \"What's wrong... You look so thin...\""
                             ]
                         },
                         {
@@ -4915,14 +4572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……いやぁ…このところまともに食べてなくて…」"
+                                "Soldier 1: \"Ah... No... I haven't been eating properly lately...\""
                             ]
                         },
                         {
@@ -4939,14 +4589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよ…どうした体調でも悪いのか？」"
+                                "Soldier 2: \"What's that... Are you feeling ill or something?\""
                             ]
                         },
                         {
@@ -4963,14 +4606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ体調じゃなくて、金がなくてな……」"
+                                "Soldier 1: \"No, it's not my health, I just don't have any money...\""
                             ]
                         },
                         {
@@ -4987,14 +4623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「金？……そんな金使うような事……さてはお前…」"
+                                "Soldier 2: \"Money?... What kind of thing did you spend it on... Don't tell\nme you...\""
                             ]
                         },
                         {
@@ -5011,14 +4640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは…バレたか…」"
+                                "Soldier 1: \"Hahaha... Busted, huh...\""
                             ]
                         },
                         {
@@ -5035,14 +4657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前！まさか……あの子のところに行ったのか？」"
+                                "Soldier 2: \"You! Don't say you went to that girl's place?\""
                             ]
                         },
                         {
@@ -5059,14 +4674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……とうとうな…母乳サロンでな…偶然予約に空きが出たんだ…」"
+                                "Soldier 1: \"Yeah... finally... to the breast milk salon... There happened\nto be a cancellation...\""
                             ]
                         },
                         {
@@ -5083,14 +4691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おいおい…あの店はオレ達の給料じゃ絶対行けないだろ⁉」"
+                                "Soldier 2: \"Hey, hey... That place is way out of our league with our\nsalaries, right?!\""
                             ]
                         },
                         {
@@ -5107,14 +4708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ははは…だから借金して行ったんだ…。お陰で金欠なんだ…」"
+                                "Soldier 1: \"Hahaha... That's why I borrowed money to go... Now I'm broke\nbecause of it...\""
                             ]
                         },
                         {
@@ -5131,14 +4725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「バカだなぁお前…。でどうだったんだ⁉」"
+                                "Soldier 2: \"You're such an idiot... So how was it?!\""
                             ]
                         },
                         {
@@ -5155,14 +4742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっ？」"
+                                "Soldier 1: \"Huh?\""
                             ]
                         },
                         {
@@ -5179,14 +4759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「行ったんだろ？」"
+                                "Soldier 2: \"You went there, right?\""
                             ]
                         },
                         {
@@ -5203,14 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……へへへ……あはははは………はははははは………」"
+                                "Soldier 1: \"Ah... hehehe... ahahahaha... hahahahaha...\""
                             ]
                         },
                         {
@@ -5227,14 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよ……どうしちまった？」"
+                                "Soldier 2: \"What's with you... What happened?\""
                             ]
                         },
                         {
@@ -5251,14 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……へへ…。天国とだけしか言えねぇな」"
+                                "Soldier 1: \"Ah... hehe... I can only say it was like heaven\""
                             ]
                         },
                         {
@@ -5275,14 +4827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよお前‼ちゃんと言えよ！」"
+                                "Soldier 2: \"What the hell, man?! Speak up!\""
                             ]
                         },
                         {
@@ -5299,14 +4844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもよ…。もう引退しちまったんだ…」"
+                                "Soldier 1: \"But you know... I've already retired from it...\""
                             ]
                         },
                         {
@@ -5323,14 +4861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉嘘だろ⁉」"
+                                "Soldier 2: \"What?! No way, you're lying?!\""
                             ]
                         },
                         {
@@ -5347,14 +4878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……オレはもう…悲しくて悲しくて…」"
+                                "Soldier 1: \"Yeah... I'm just so sad... so very sad...\""
                             ]
                         },
                         {
@@ -5371,14 +4895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうだよな…」"
+                                "Soldier 2: \"I get it, man...\""
                             ]
                         },
                         {
@@ -5395,14 +4912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ呼ばれてる！」"
+                                "Soldier 1: \"Ah, I'm being called!\""
                             ]
                         },
                         {
@@ -5424,7 +4934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -5551,7 +5061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンドクン……"
+                                "Thump thump..."
                             ]
                         },
                         {
@@ -5568,14 +5078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの兵士……行ったのか…」"
+                                "Kru: \"That soldier... he went there...\""
                             ]
                         },
                         {
@@ -5622,7 +5125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ"
+                                "Flip..."
                             ]
                         },
                         {
@@ -5639,14 +5142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……うぁ………」"
+                                "Kru: \"Ah... ugh...\""
                             ]
                         },
                         {
@@ -5663,14 +5159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ウッウミ……。こんな…こんな雑誌の表紙に…)"
+                                "Kru (Umi... to be on the cover of such a magazine...)"
                             ]
                         },
                         {
@@ -5687,14 +5176,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……」"
+                                "Kru: \"Ugh...\""
                             ]
                         },
                         {
@@ -5711,14 +5193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そうだよな…。薄々そうなんじゃないかって分かってたけど…)"
+                                "Kru (That's right... I had a feeling it was something like this...)"
                             ]
                         },
                         {
@@ -5735,14 +5210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな事になってたのか…。こんなに有名に…」"
+                                "Kru: \"So this is what happened... she became so famous...\""
                             ]
                         },
                         {
@@ -5805,7 +5273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -5822,14 +5290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(もう…顔を隠す事もないのか…)"
+                                "Kru (No need to hide her face anymore, huh...)"
                             ]
                         },
                         {
@@ -5892,7 +5353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -5909,14 +5370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな…こんな事をウミが…)"
+                                "Kru (Umi doing such things...)"
                             ]
                         },
                         {
@@ -5979,7 +5433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ！"
+                                "Flip!"
                             ]
                         },
                         {
@@ -5996,7 +5450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！"
+                                "Thump!"
                             ]
                         },
                         {
@@ -6013,14 +5467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！なんだこれは⁉モンスター⁉」"
+                                "Kru: \"Whoa! What is this?! A monster?!\""
                             ]
                         },
                         {
@@ -6037,14 +5484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(どうしたんだ…まるで人間じゃないみたいだ…)"
+                                "Kru (What happened here... It's like it's not even human...)"
                             ]
                         },
                         {
@@ -6061,14 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「卵まで産んで……魔法で変えられているのか……」"
+                                "Kru: \"Laying eggs... Has she been transformed by magic...?\""
                             ]
                         },
                         {
@@ -6085,14 +5518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな……こんな変態どもの相手をしているのか……)"
+                                "Kru (To think she's dealing with such... such perverts...)"
                             ]
                         },
                         {
@@ -6109,14 +5535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(それに……こんな母乳を………こんなに噴き出して…)"
+                                "Kru (And... to be spraying so much breast milk like this...)"
                             ]
                         },
                         {
@@ -6133,14 +5552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(母乳を撒き散らして悦んでいるって事になるのか……)"
+                                "Kru (Does this mean she's taking pleasure in spraying breast milk\neverywhere...)"
                             ]
                         },
                         {
@@ -6157,7 +5569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ………僕のだったウミ……"
+                                "Umi... The Umi who was once mine..."
                             ]
                         },
                         {
@@ -6369,14 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ最新号かい？」"
+                                "Soldier 1: \"Oh, got the latest issue?\""
                             ]
                         },
                         {
@@ -6393,14 +5798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へっへっへっ今度の休みに行こうと思ってな……」"
+                                "Soldier 2: \"Heh heh heh, I'm thinking of going there on my next day off...\""
                             ]
                         },
                         {
@@ -6417,14 +5815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「お前も好きだねぇ……おっこの新人の子可愛いなぁ…」"
+                                "Soldier 1: \"You sure love this stuff... Oh, this new girl is cute...\""
                             ]
                         },
                         {
@@ -6441,21 +5832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いや…この子今人気急上昇でな……。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オレもこの前行ってきたんだけど…これがもう可愛くて可愛くて…」"
+                                "Soldier 2: \"No kidding... She's been rapidly gaining popularity... I went\nthere recently and... she was just so adorable...\""
                             ]
                         },
                         {
@@ -6472,14 +5849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ！たしかに…こりゃぁ指名しなきゃな…」"
+                                "Soldier 2: \"Oh! Definitely... I've got to request her...\""
                             ]
                         },
                         {
@@ -6496,14 +5866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ呼ばれてる…」"
+                                "Soldier 1: \"Oh, looks like I'm being called...\""
                             ]
                         },
                         {
@@ -6525,7 +5888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -6652,14 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは王国の歓楽街のガイドか……。結局一度も行かなかったな…」"
+                                "Kru: \"This is a guide to the kingdom's pleasure district... I never ended\nup going there...\""
                             ]
                         },
                         {
@@ -6706,7 +6062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -6723,14 +6079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ん？……この子は…」"
+                                "Kru: \"Hm?... This girl is...\""
                             ]
                         },
                         {
@@ -6747,14 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どことなく……ウミに似ているような……」"
+                                "Kru: \"She somewhat resembles... Umi...\""
                             ]
                         },
                         {
@@ -6771,14 +6113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「でもこの髪型は……」"
+                                "Kru: \"But this hairstyle is...\""
                             ]
                         },
                         {
@@ -6795,14 +6130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさかな……ウミがここで働く理由があるわけじゃないしな………」"
+                                "Kru: \"No way... It's not like Umi has a reason to work here...\""
                             ]
                         },
                         {
@@ -6819,7 +6147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかな………。"
+                                "No way..."
                             ]
                         },
                         {
@@ -7071,14 +6399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっまた最新号出たのか…」"
+                                "Soldier 1: \"Oh, the latest issue is out...\""
                             ]
                         },
                         {
@@ -7095,14 +6416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの子出てるんだ…。最近人気が高くて中々予約できないんだ…」"
+                                "Soldier 2: \"That girl is featured in it... She's been so popular lately,\nit's hard to get a reservation...\""
                             ]
                         },
                         {
@@ -7119,14 +6433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「嘘だろ…オレ今度行こうと思ってたのに…」"
+                                "Soldier 1: \"You're kidding... I was planning to go there next time...\""
                             ]
                         },
                         {
@@ -7143,14 +6450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ…もうオレ達の給料じゃ遊べなくなるぞ…」"
+                                "Soldier 2: \"Yeah... At this rate, we won't be able to afford it with our\nsalaries...\""
                             ]
                         },
                         {
@@ -7167,14 +6467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなのかぁ……でもこの子どこかで見た事…」"
+                                "Soldier 1: \"Is that so... But I feel like I've seen this girl somewhere\nbefore...\""
                             ]
                         },
                         {
@@ -7191,14 +6484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「おっ呼ばれてる…」"
+                                "Soldier 2: \"Oh, we're being called...\""
                             ]
                         },
                         {
@@ -7220,7 +6506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -7347,14 +6633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「またあいつら歓楽街の話してやがる……これは……」"
+                                "Kru: \"Those guys are talking about the pleasure district again... This\nis...\""
                             ]
                         },
                         {
@@ -7371,14 +6650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんて卑猥な格好してるんだ……汚らわしい…ん？」"
+                                "Kru: \"What a lewd outfit... Disgusting... Huh?\""
                             ]
                         },
                         {
@@ -7395,14 +6667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この子は……うぅ！」"
+                                "Kru: \"This girl is... Ugh!\""
                             ]
                         },
                         {
@@ -7419,14 +6684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(うぅ…ウミに似ているような……まさか…まさかそんな……)"
+                                "Kru: (Ugh... She looks like Umi... No way... It can't be...)"
                             ]
                         },
                         {
@@ -7443,7 +6701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンドクン……"
+                                "Thump thump..."
                             ]
                         },
                         {
@@ -7460,14 +6718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ページをめくるか…」"
+                                "Kru: \"Should I turn the page...\""
                             ]
                         },
                         {
@@ -7514,7 +6765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ…"
+                                "Flip..."
                             ]
                         },
                         {
@@ -7531,7 +6782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクン……"
+                                "Thump..."
                             ]
                         },
                         {
@@ -7548,14 +6799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なっなんだこれは⁉」"
+                                "Kru: \"What the hell is this⁉\""
                             ]
                         },
                         {
@@ -7572,14 +6816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(おいおい…今の王国歓楽街はこんな事までするのか…)"
+                                "Kru: (Come on... Does the kingdom's pleasure district really do stuff like\nthis now...)"
                             ]
                         },
                         {
@@ -7596,14 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな、はしたない事を……。人参を使うなんて……」"
+                                "Kru: \"Such indecent acts... Using a carrot of all things...\""
                             ]
                         },
                         {
@@ -7620,14 +6850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(本当にウミじゃないよな……)"
+                                "Kru: (It really isn't Umi, right...)"
                             ]
                         },
                         {
@@ -7644,14 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ……ダメだ…気が狂いそうになる………」"
+                                "Kru: \"Ah... No good... I feel like I'm going insane...\""
                             ]
                         },
                         {
@@ -7668,7 +6884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違うよな……そうだよな………"
+                                "It's not true, right... Yeah, that's right..."
                             ]
                         },
                         {
@@ -7920,14 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「どうしたんだよ」"
+                                "Soldier 2: \"What's the matter?\""
                             ]
                         },
                         {
@@ -7944,14 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この前歓楽街に行ったら…あの子…犬の散歩させられてたんだ…」"
+                                "Soldier 1: \"When I went to the pleasure district the other day... that\ngirl... she was being made to walk a dog...\""
                             ]
                         },
                         {
@@ -7968,14 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えっ⁉ついにあの店にまで入店してたのか…」"
+                                "Soldier 2: \"Eh?! She's finally working at that place...?\""
                             ]
                         },
                         {
@@ -7992,14 +7187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あぁ…これを見てみろ」"
+                                "Soldier 1: \"Yeah... take a look at this.\""
                             ]
                         },
                         {
@@ -8016,14 +7204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだよお前も買ったのか…」"
+                                "Soldier 2: \"What, you bought it too...?\""
                             ]
                         },
                         {
@@ -8040,14 +7221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そんなのはどうでもいいんだ…ほらこれ」"
+                                "Soldier 1: \"That's not important... look at this.\""
                             ]
                         },
                         {
@@ -8064,14 +7238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「わぁ！本当だ！…こんなスケベな顔して……」"
+                                "Soldier 2: \"Wow! It's true! ...She's making such a lewd face...\""
                             ]
                         },
                         {
@@ -8088,14 +7255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士1"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だろ？……あぁもうオレ達ぜったいこの子と遊べないわぁ…」"
+                                "Soldier 1: \"Right? ...Ah, we'll never get to play with her...\""
                             ]
                         },
                         {
@@ -8112,14 +7272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "兵士2"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あっ交代の時間か…」"
+                                "Soldier 2: \"Ah, it's time to switch shifts...\""
                             ]
                         },
                         {
@@ -8141,7 +7294,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バサッ…"
+                                "Rustle..."
                             ]
                         },
                         {
@@ -8268,14 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゴクリ……」"
+                                "Kru: \"Gulp...\""
                             ]
                         },
                         {
@@ -8322,7 +7468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ペラッ……"
+                                "Flip..."
                             ]
                         },
                         {
@@ -8339,14 +7485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こっこれは………」"
+                                "Kru: \"This is...\""
                             ]
                         },
                         {
@@ -8363,14 +7502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こっこんな……こんな店があったのか………)"
+                                "Kru (Thinking): \"There's such a place... such a shop exists...\""
                             ]
                         },
                         {
@@ -8387,14 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それにこれは…こんな恰好で吊るされて……」"
+                                "Kru: \"And this is... being hung up in such an outfit...\""
                             ]
                         },
                         {
@@ -8411,7 +7536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクン…ドクン……"
+                                "Thump... Thump..."
                             ]
                         },
                         {
@@ -8428,14 +7553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっうそだろ……」"
+                                "Kru: \"No way...\""
                             ]
                         },
                         {
@@ -8452,14 +7570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな公衆の面前でおしっこをして…その後性交するなんて……)"
+                                "Kru (Thinking): \"To pee in front of the public like this... and then to\nhave sex afterwards...\""
                             ]
                         },
                         {
@@ -8476,14 +7587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(しかし……ウミに似ているような…)"
+                                "Kru (Thinking): \"But... she looks like Umi...\""
                             ]
                         },
                         {
@@ -8500,14 +7604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まさか！…こんなこんな子がウミなはずが！」"
+                                "Kru: \"Impossible! ...There's no way this girl could be Umi!\""
                             ]
                         },
                         {
@@ -8524,7 +7621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムクムクムク……"
+                                "Throb Throb Throb..."
                             ]
                         },
                         {
@@ -8541,14 +7638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うぅ……なんで勃起するんだ………」"
+                                "Kru: \"Ugh... why am I getting an erection...\""
                             ]
                         },
                         {
@@ -8565,14 +7655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(嘘だろ…ウミ……嘘だと言ってくれ……。違うよな…)"
+                                "Kru (Thinking): \"It can't be true... Umi... please tell me it's a lie...\nit's not you, right...?\""
                             ]
                         },
                         {
@@ -8589,7 +7672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嘘だと……"
+                                "It can't be..."
                             ]
                         },
                         {

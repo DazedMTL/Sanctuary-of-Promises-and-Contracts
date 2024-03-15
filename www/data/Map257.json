@@ -5179,7 +5179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中を…覗きますか………？"
+                                "Shall we... peek inside...?"
                             ]
                         },
                         {
@@ -5187,8 +5187,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "はい"
+                                    "Yes",
+                                    "Yes"
                                 ],
                                 1,
                                 0,
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！"
+                                "Throb!"
                             ]
                         },
                         {
@@ -5571,7 +5571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！"
+                                "Throb!"
                             ]
                         },
                         {
@@ -5699,14 +5699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「なんだここは……」"
+                                "Kru: \"What is this place...\""
                             ]
                         },
                         {
@@ -5723,14 +5716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「こんな場所が祭壇の地下にあったのか……」"
+                                "Kru: \"So there was a place like this beneath the altar...\""
                             ]
                         },
                         {
@@ -5747,14 +5733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「探してみるか……」"
+                                "Kru: \"Should I look around...\""
                             ]
                         },
                         {
@@ -5960,7 +5939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！"
+                                "Throb!"
                             ]
                         },
                         {
@@ -6121,7 +6100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！"
+                                "Throb!"
                             ]
                         },
                         {
@@ -6282,7 +6261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドクンッ！"
+                                "Throb!"
                             ]
                         },
                         {
@@ -6738,14 +6717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う……うそ………だよな……」"
+                                "Kru: \"N...no way... This can't be...\""
                             ]
                         },
                         {
@@ -7026,14 +6998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッ……ウミ………」"
+                                "Kru: \"Ugh... Umi...\""
                             ]
                         },
                         {
@@ -8353,14 +8318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う……うそ………だよな……」"
+                                "Kru: \"N...no way... This can't be...\""
                             ]
                         },
                         {
@@ -8528,14 +8486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う……うそ………だよな……」"
+                                "Kru: \"N...no way... This can't be...\""
                             ]
                         },
                         {
@@ -8703,14 +8654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う……うそ………だよな……」"
+                                "Kru: \"N...no way... This can't be...\""
                             ]
                         },
                         {
@@ -8878,14 +8822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「う……うそ………だよな……」"
+                                "Kru: \"N...no way... This can't be...\""
                             ]
                         },
                         {
@@ -9562,14 +9499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッ……ウミ………」"
+                                "Kru: \"Ugh... Umi...\""
                             ]
                         },
                         {
@@ -9718,14 +9648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッ……ウミ………」"
+                                "Kru: \"Ugh... Umi...\""
                             ]
                         },
                         {
@@ -9874,14 +9797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッ……ウミ………」"
+                                "Kru: \"Ugh... Umi...\""
                             ]
                         },
                         {
@@ -10030,14 +9946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ウッ……ウミ………」"
+                                "Kru: \"Ugh... Umi...\""
                             ]
                         },
                         {
@@ -10165,14 +10074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クル"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ここまで来たら帰れない」"
+                                "Kru: \"We can't turn back now that we've come this far.\""
                             ]
                         },
                         {

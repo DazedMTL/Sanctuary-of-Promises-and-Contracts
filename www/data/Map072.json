@@ -1969,14 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia: \"Meow~\""
                             ]
                         },
                         {
@@ -2044,14 +2037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ…」"
+                                "Mia \"Nya...\""
                             ]
                         },
                         {
@@ -2119,14 +2105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミーア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ニャ～」"
+                                "Mia: \"Nyaa~\""
                             ]
                         },
                         {
@@ -2237,14 +2216,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「これは！……中々良い脂が乗っている…」"
+                                "Umi: \"This is!... Quite well-marbled...\""
                             ]
                         },
                         {
@@ -2533,14 +2505,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村の皆の様子を見てきて」"
+                                "Umi: \"Go and check on everyone in the village.\""
                             ]
                         },
                         {
@@ -2667,14 +2632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウミ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「族長が呼んでる」"
+                                "Umi: \"The chieftain is calling for you.\""
                             ]
                         },
                         {
@@ -2907,7 +2865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩しますか？"
+                                "Shall we take a break?"
                             ]
                         },
                         {
@@ -2915,8 +2873,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
