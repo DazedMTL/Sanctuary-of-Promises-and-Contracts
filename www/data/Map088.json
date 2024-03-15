@@ -6619,7 +6619,7 @@
                                 34,
                                 0,
                                 4,
-                                "\"狩りの森に行き狩りをする。狩りの森は村を出て東の方角\""
+                                "\"Go to the Hunting Forest and hunt. The Hunting Forest is located to the\\neast of the village.\""
                             ]
                         },
                         {
@@ -7141,7 +7141,7 @@
                                 34,
                                 0,
                                 4,
-                                "\"ウミと話をする\""
+                                "\"Talk to Umi\""
                             ]
                         },
                         {
@@ -8071,7 +8071,7 @@
                                 34,
                                 0,
                                 4,
-                                "\"ウミと話をする\""
+                                "\"Talk to Umi\""
                             ]
                         },
                         {
@@ -8473,7 +8473,7 @@
                                 34,
                                 0,
                                 4,
-                                "\"王国に向かう。村を出て南にある石碑から転移する\""
+                                "\"Head to the kingdom. Leave the village and teleport from the stone monument\\nto the south.\""
                             ]
                         },
                         {
