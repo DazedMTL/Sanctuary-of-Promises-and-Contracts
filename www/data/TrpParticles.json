@@ -1,0 +1,115 @@
+{
+    "fog_w2": {
+        "alpha": {
+            "list": [
+                {
+                    "time": 0,
+                    "value": 0
+                },
+                {
+                    "time": 0.05,
+                    "value": 0.1
+                },
+                {
+                    "time": 0.9,
+                    "value": 0.1
+                },
+                {
+                    "time": 1,
+                    "value": 0
+                }
+            ]
+        },
+        "scale": {
+            "list": [
+                {
+                    "time": 0,
+                    "value": 4
+                },
+                {
+                    "time": 0.5,
+                    "value": 4
+                },
+                {
+                    "time": 1,
+                    "value": 4
+                }
+            ],
+            "minimumScaleMultiplier": 0.3
+        },
+        "speed": {
+            "list": [
+                {
+                    "time": 0,
+                    "value": 1
+                },
+                {
+                    "time": 1,
+                    "value": 50
+                }
+            ],
+            "minimumSpeedMultiplier": 0.3
+        },
+        "color": {
+            "list": [
+                {
+                    "time": 0,
+                    "value": "#ffffff"
+                },
+                {
+                    "time": 1,
+                    "value": "#ffffff"
+                }
+            ]
+        },
+        "colorMode": 1,
+        "acceleration": {
+            "x": 0,
+            "y": 0
+        },
+        "maxSpeed": null,
+        "startRotation": {
+            "min": 0,
+            "max": 0
+        },
+        "noRotation": false,
+        "rotationSpeed": {
+            "min": 0,
+            "max": 0
+        },
+        "angle": 0,
+        "mirrorType": 0,
+        "lifetime": {
+            "min": 30,
+            "max": 30
+        },
+        "blendMode": "ADD",
+        "frequency": 0.3,
+        "spawnChance": 1,
+        "particlesPerWave": 0,
+        "emitterLifetime": -1,
+        "maxParticles": 10000,
+        "fluctuation": {
+            "max": 0,
+            "sensitivity": 0
+        },
+        "spawnType": "rect",
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "spawnRect": {
+            "x": -616,
+            "y": -312,
+            "w": 0,
+            "h": 624
+        },
+        "spawnCircle": null,
+        "particleSpacing": 0,
+        "angleStart": 0,
+        "addAtBack": false,
+        "image": "cloud3,cloud2,cloud1",
+        "targetType": 5,
+        "comment": "210612"
+    }
+}

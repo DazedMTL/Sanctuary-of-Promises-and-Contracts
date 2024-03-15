@@ -1,0 +1,1227 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "--防具Lv1--",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 2,
+        "atypeId": 1,
+        "description": "【服/防+3】\n布で作られた、通気性の良い服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "布の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 80
+    },
+    {
+        "id": 3,
+        "atypeId": 2,
+        "description": "【ローブ/防+2/魔防+4】\n木綿で織られた魔法使い用のローブ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "木綿のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            2,
+            0,
+            4,
+            0,
+            0
+        ],
+        "price": 90
+    },
+    {
+        "id": 4,
+        "atypeId": 3,
+        "description": "【鎧/防+4】\nなめし革で作られた簡素な鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 137,
+        "name": "革の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 100
+    },
+    {
+        "id": 5,
+        "atypeId": 4,
+        "description": "【腕輪/魔防+2】\n木で作られた簡素な腕輪。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "木の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            2,
+            0,
+            0
+        ],
+        "price": 90
+    },
+    {
+        "id": 6,
+        "atypeId": 5,
+        "description": "【靴/敏+4】\n革のバンドで止める木製の履物。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "サンダル",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "price": 60
+    },
+    {
+        "id": 7,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "--防具Lv2--",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 8,
+        "atypeId": 1,
+        "description": "【服/防+7】\n過酷な冒険にも耐えられるよう、丈夫な布で作られた服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "冒険者の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            7,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 160
+    },
+    {
+        "id": 9,
+        "atypeId": 1,
+        "description": "【服/防+10/氷属性軽減】\n氷の攻撃を和らげてくれるコート。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 135,
+        "name": "毛皮のコート",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 220
+    },
+    {
+        "id": 10,
+        "atypeId": 2,
+        "description": "【ローブ/防+5/魔防+8】\n絹で作られたしなやかなローブ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "絹のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            8,
+            0,
+            0
+        ],
+        "price": 180
+    },
+    {
+        "id": 11,
+        "atypeId": 2,
+        "description": "【ローブ/防+8/魔防+10/炎属性軽減】\n炎の攻撃を和らげてくれるローブ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 139,
+        "name": "クリムゾンローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 240
+    },
+    {
+        "id": 12,
+        "atypeId": 3,
+        "description": "【鎧/防+8/回避-2%】\n青銅の板を加工して作られた鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            }
+        ],
+        "iconIndex": 137,
+        "name": "青銅の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 13,
+        "atypeId": 3,
+        "description": "【鎧/防+11/回避-2%/雷属性軽減】\n雷の攻撃を和らげてくれる鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "大地の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 260
+    },
+    {
+        "id": 14,
+        "atypeId": 4,
+        "description": "【腕輪/魔防+4】\n青銅で作られた腕輪。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "青銅の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0,
+            0
+        ],
+        "price": 150
+    },
+    {
+        "id": 15,
+        "atypeId": 5,
+        "description": "【靴/敏+8】\nなめし革で作られたブーツ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "レザーブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            8,
+            0
+        ],
+        "price": 120
+    },
+    {
+        "id": 16,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "--防具Lv3--",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 17,
+        "atypeId": 1,
+        "description": "【服/防+13/炎属性軽減】\n炎の攻撃を和らげてくれる服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 135,
+        "name": "耐火服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 18,
+        "atypeId": 1,
+        "description": "【服/防+17】\n堅い布で作られた、戦闘用のジャケット。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "バトルジャケット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            17,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 650
+    },
+    {
+        "id": 19,
+        "atypeId": 2,
+        "description": "【ローブ/防+11/魔防+15/雷属性軽減】\n雷の攻撃を和らげてくれるローブ。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 139,
+        "name": "アースローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            11,
+            0,
+            15,
+            0,
+            0
+        ],
+        "price": 560
+    },
+    {
+        "id": 20,
+        "atypeId": 2,
+        "description": "【ローブ/防+15/魔防+19】\n丈夫な布で作られたローブ",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "フェルトローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            19,
+            0,
+            0
+        ],
+        "price": 710
+    },
+    {
+        "id": 21,
+        "atypeId": 3,
+        "description": "【鎧/防+15/敏-3/回避-4%】\n頑丈な鉄板を組み合わせて作られた鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.04
+            }
+        ],
+        "iconIndex": 137,
+        "name": "鉄の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            15,
+            0,
+            0,
+            -3,
+            0
+        ],
+        "price": 620
+    },
+    {
+        "id": 22,
+        "atypeId": 3,
+        "description": "【鎧/防+19/敏-5/回避-5%/氷属性軽減】\n氷の攻撃を和らげてくれる分厚い鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.05
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "厚手の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            19,
+            0,
+            0,
+            -5,
+            0
+        ],
+        "price": 770
+    },
+    {
+        "id": 23,
+        "atypeId": 4,
+        "description": "【腕輪/魔防+7】\n鉄で作られた腕輪。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "鉄の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            7,
+            0,
+            0
+        ],
+        "price": 450
+    },
+    {
+        "id": 24,
+        "atypeId": 5,
+        "description": "【靴/敏+2/スタン半減】\n転倒しづらいように重心を調整してくれるブーツ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 140,
+        "name": "バランスブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "price": 360
+    },
+    {
+        "id": 25,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "--防具Lv4--",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 26,
+        "atypeId": 1,
+        "description": "【服/防+26】\n裏地に金属板が仕込まれている服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "ブリガンダイン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            26,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 950
+    },
+    {
+        "id": 27,
+        "atypeId": 1,
+        "description": "【服/防+21/回避+10％】\n動きやすい生地で作られた服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 135,
+        "name": "みかわしの服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            21,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1200
+    },
+    {
+        "id": 28,
+        "atypeId": 2,
+        "description": "青い毛並みの熊皮の外套。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "青熊の毛皮",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            19,
+            0,
+            23,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 29,
+        "atypeId": 1,
+        "description": "神々しいワンピース",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.04
+            }
+        ],
+        "iconIndex": 139,
+        "name": "神のワンピース",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            24,
+            0,
+            28,
+            0,
+            0
+        ],
+        "price": 1250
+    },
+    {
+        "id": 30,
+        "atypeId": 3,
+        "description": "丈夫で軽い、技を極めし者の鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.02
+            }
+        ],
+        "iconIndex": 137,
+        "name": "マスターアーマー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            23,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1100
+    },
+    {
+        "id": 31,
+        "atypeId": 3,
+        "description": "【鎧/防+28/魔防+10/被魔法ダメージ軽減】\n魔法攻撃を和らげてくれる、丈夫で軽い鎧。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 137,
+        "name": "魔法の鎧",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            28,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 1350
+    },
+    {
+        "id": 32,
+        "atypeId": 4,
+        "description": "【腕輪/魔防+10】\n銀で作られた腕輪。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 144,
+        "name": "白銀の腕輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 33,
+        "atypeId": 5,
+        "description": "【靴/敏+12】\n羽飾りのついた軽いブーツ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 140,
+        "name": "ウィングブーツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            12,
+            0
+        ],
+        "price": 700
+    },
+    {
+        "id": 34,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 1,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "--装飾品--",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 35,
+        "atypeId": 6,
+        "description": "【装飾品/毒半減】\n毒になる確率を半減してくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 2,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "防毒の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 36,
+        "atypeId": 6,
+        "description": "【装飾品/暗闇半減】\n暗闇になる確率を半減してくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 3,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "暗視の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 37,
+        "atypeId": 6,
+        "description": "【装飾品/沈黙半減】\n沈黙になる確率を半減してくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "山彦の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 38,
+        "atypeId": 6,
+        "description": "【装飾品/睡眠半減】\n睡眠になる確率を半減してくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "目覚めの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 39,
+        "atypeId": 6,
+        "description": "【装飾品/即死半減/会心回避+100%】\n持ち主を危機から守ってくれる護符。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0.5
+            },
+            {
+                "code": 22,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "iconIndex": 147,
+        "name": "アミュレット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 250
+    },
+    {
+        "id": 40,
+        "atypeId": 6,
+        "description": "【装飾品/炎属性半減】\n炎の攻撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "炎の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 400
+    },
+    {
+        "id": 41,
+        "atypeId": 6,
+        "description": "【装飾品/氷属性半減】\n氷の攻撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "氷の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 400
+    },
+    {
+        "id": 42,
+        "atypeId": 6,
+        "description": "【装飾品/雷属性半減】\n雷の攻撃から守ってくれる指輪。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 145,
+        "name": "雷の指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 400
+    }
+]
