@@ -19691,7 +19691,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]名声度110　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Fame_level_110_required 180 0 60 0"
                             ]
                         },
                         {
@@ -20616,7 +20616,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]名声度130　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Requires_130_Fame 180 0 60 0"
                             ]
                         },
                         {
@@ -21399,7 +21399,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]名声度80　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Fame_level_80_required 180 0 60 0"
                             ]
                         },
                         {
@@ -22076,7 +22076,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]名声度60　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Requires_60_Fame_Points 180 0 60 0"
                             ]
                         },
                         {
@@ -22884,7 +22884,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]名声度20　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Fame_level_20_required 180 0 60 0"
                             ]
                         },
                         {
@@ -23611,7 +23611,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]名声度40　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Fame_level_40_required 180 0 60 0"
                             ]
                         },
                         {

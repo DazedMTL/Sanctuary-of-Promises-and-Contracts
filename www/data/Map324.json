@@ -1875,7 +1875,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力50　普通の酒　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]You_need_50_magical_power_and_regular_alcohol. 180 300 60 0"
                             ]
                         },
                         {
@@ -2357,7 +2357,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力150　第一の儀式終了　高級な酒　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]150_magical_power._The_first_ritual_is_complete._High-quality_alcohol_is_needed. 180 300 60 0"
                             ]
                         },
                         {
@@ -2839,7 +2839,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力200　第二の儀式終了　神殺しの酒　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]200_magical_power,_the_second_ritual_completed._The_Godslayer's_Liquor_is_needed. 180 300 60 0"
                             ]
                         },
                         {

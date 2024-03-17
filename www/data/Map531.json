@@ -10187,7 +10187,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[1]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[1]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10254,7 +10254,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10321,7 +10321,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[3]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[3]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10388,7 +10388,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[4]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[4]Curse_Power_100_Ordinary_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10455,7 +10455,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[5]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[5]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10522,7 +10522,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[6]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[6]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10589,7 +10589,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[7]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[7]Cursed_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10656,7 +10656,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[8]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[8]Mana_Power_100_Ordinary_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10723,7 +10723,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[9]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[9]Mana_Power_100_Ordinary_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10790,7 +10790,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[10]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[10]100_magical_power_required_for_ordinary_massage_oil. 180 0 60 0"
                             ]
                         },
                         {
@@ -10857,7 +10857,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[11]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[11]Mana_Power_100_Ordinary_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10924,7 +10924,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -10991,7 +10991,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]100_magical_power._Ordinary_massage_oil_is_needed. 180 0 60 0"
                             ]
                         },
                         {
@@ -11058,7 +11058,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_100_Ordinary_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -11125,7 +11125,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_100_Normal_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {
@@ -11192,7 +11192,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]100_Magical_Power_Ordinary_Massage_Oil_Required 180 0 60 0"
                             ]
                         },
                         {

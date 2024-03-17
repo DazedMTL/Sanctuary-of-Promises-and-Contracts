@@ -1692,7 +1692,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　バンカ侵蝕度100　バンカを連れていく　日焼け薬　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_100_Banka_Corruption_Level_100_Need_to_bring_Banka_Sunburn_Medicine 180 300 60 0"
                             ]
                         },
                         {
@@ -1923,7 +1923,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力200　バンカ侵蝕度200　バンカを連れていく　日焼け薬　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_200_Banka_Corruption_Level_200_Need_to_bring_Banka_Sunburn_Medicine 180 300 60 0"
                             ]
                         },
                         {
@@ -2149,7 +2149,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力300　バンカ侵蝕度300　バンカを連れていく　日焼け薬　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_300_Banka_Corruption_Level_300_Need_to_take_Banka_Sunburn_Medicine 180 300 60 0"
                             ]
                         },
                         {

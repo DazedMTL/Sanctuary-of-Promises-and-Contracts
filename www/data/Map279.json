@@ -11810,7 +11810,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力200以上で次のイベント 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]With_over_200_magical_power_for_the_next_event 180 0 60 0"
                             ]
                         },
                         {
@@ -14963,7 +14963,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力300以上で次のイベント 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]The_next_event_requires_over_300_magical_power. 180 0 60 0"
                             ]
                         },
                         {

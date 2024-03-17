@@ -2501,7 +2501,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　普通のマッサージオイルが必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Curse_Power_100_Normal_Massage_Oil_Required 180 300 60 0"
                             ]
                         },
                         {
@@ -2901,7 +2901,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力150　高級なマッサージオイル　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]150_magical_power_required_for_high-quality_massage_oil 180 300 60 0"
                             ]
                         },
                         {
@@ -3301,7 +3301,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力200　魅惑のマッサージオイル　が必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]200_magical_power_required_for_Enchanting_Massage_Oil 180 300 60 0"
                             ]
                         },
                         {

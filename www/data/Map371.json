@@ -3121,7 +3121,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]100_Magic_Power_required 180 0 60 0"
                             ]
                         },
                         {
@@ -3606,7 +3606,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力200　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]200_Magic_Power_required 180 0 60 0"
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力300 ウミの記憶9　が必要 180 0 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]Cursed_Power_300 ウミの記憶9　が必要 180 0 60 0"
                             ]
                         },
                         {

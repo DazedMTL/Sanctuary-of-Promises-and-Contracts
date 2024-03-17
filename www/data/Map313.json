@@ -3808,7 +3808,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力100以上で次のイベント 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]With_over_100_magical_power_for_the_next_event 180 300 60 0"
                             ]
                         },
                         {
@@ -5713,7 +5713,7 @@
                             "code": 356,
                             "indent": 1,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力200　すべりのいいローションが必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]You_need_a_slippery_lotion_with_200_magical_power. 180 300 60 0"
                             ]
                         },
                         {
@@ -7348,7 +7348,7 @@
                             "code": 356,
                             "indent": 0,
                             "parameters": [
-                                "LL_InfoPopupWIndowMV showWindow \\C[2]呪力300　ペペペローションが必要 180 300 60 0"
+                                "LL_InfoPopupWIndowMV showWindow \\C[2]300_magical_power_required_for_Pepeperotion. 180 300 60 0"
                             ]
                         },
                         {

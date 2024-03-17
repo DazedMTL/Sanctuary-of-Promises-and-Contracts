@@ -56,7 +56,7 @@
         if (command === pluginName) {
             switch (args[0]) {
 				case "showWindow":
-                    exInfoWindowText = String(args[1] || "");
+                    exInfoWindowText = String(args[1].replace(/_/g, ' ') || "");
                     exInfoWindowShowCount = Number(args[2] || 180);
                     exInfoWindowPosition = {
                         "x": Number(args[3] || 0),
